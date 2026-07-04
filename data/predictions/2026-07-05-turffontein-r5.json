@@ -1,0 +1,545 @@
+{
+  "id": "2026-07-05-turffontein-r5",
+  "date": "2026-07-05",
+  "track": "Turffontein",
+  "race": 5,
+  "distance": 1600,
+  "going": "Good",
+  "generated": "2026-07-04T17:32:57.896Z",
+  "settled": false,
+  "ranked": [
+    {
+      "name": "El Barb",
+      "key": "EL BARB",
+      "draw": 3,
+      "rating": 96,
+      "jockey": "M Yeni",
+      "trainer": "S Tarry",
+      "weight": 60,
+      "score": 75.5,
+      "factors": {
+        "form": 0.566,
+        "rating": 1,
+        "distance": 0.783,
+        "going": 0.928,
+        "draw": 0.8,
+        "jockey": 0.7,
+        "trainer": 0.7,
+        "weight": 0,
+        "headToHead": 0.826,
+        "recencyMargin": 0.909
+      },
+      "contrib": {
+        "form": 10.18,
+        "rating": 16,
+        "distance": 7.83,
+        "going": 7.42,
+        "draw": 4.8,
+        "jockey": 4.2,
+        "trainer": 4.2,
+        "weight": 0,
+        "headToHead": 9.92,
+        "recencyMargin": 10.91
+      },
+      "knownRuns": 4,
+      "h2h": {
+        "record": "7-4",
+        "wins": 7,
+        "losses": 4,
+        "beats": [
+          "Silver Host",
+          "Night Watch",
+          "Night Watch",
+          "Cape Venture",
+          "Cape Venture",
+          "Golden Reef",
+          "Golden Reef"
+        ],
+        "losesTo": [
+          "Silver Host",
+          "Silver Host",
+          "Cape Venture",
+          "Golden Reef"
+        ]
+      },
+      "reasoning": [
+        "Strengths: class/rating, recent winning margins, head-to-head vs this field.",
+        "Concerns: weight.",
+        "Has beaten Silver Host, Night Watch, Cape Venture, Golden Reef before.",
+        "Beaten by Silver Host, Cape Venture, Golden Reef in the past."
+      ],
+      "rank": 1
+    },
+    {
+      "name": "Silver Host",
+      "key": "SILVER HOST",
+      "draw": 7,
+      "rating": 90,
+      "jockey": "R Danielson",
+      "trainer": "J Snaith",
+      "weight": 58.5,
+      "score": 71.9,
+      "factors": {
+        "form": 0.676,
+        "rating": 0.571,
+        "distance": 0.783,
+        "going": 0.675,
+        "draw": 0.4,
+        "jockey": 0.8,
+        "trainer": 0.8,
+        "weight": 0.3,
+        "headToHead": 1,
+        "recencyMargin": 0.965
+      },
+      "contrib": {
+        "form": 12.16,
+        "rating": 9.14,
+        "distance": 7.83,
+        "going": 5.4,
+        "draw": 2.4,
+        "jockey": 4.8,
+        "trainer": 4.8,
+        "weight": 1.8,
+        "headToHead": 12,
+        "recencyMargin": 11.58
+      },
+      "knownRuns": 3,
+      "h2h": {
+        "record": "6-2",
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "El Barb",
+          "El Barb",
+          "Cape Venture",
+          "Cape Venture",
+          "Golden Reef",
+          "Golden Reef"
+        ],
+        "losesTo": [
+          "El Barb",
+          "Night Watch"
+        ]
+      },
+      "reasoning": [
+        "Strengths: recent form, head-to-head vs this field, recent winning margins.",
+        "Concerns: weight.",
+        "Has beaten El Barb, Cape Venture, Golden Reef before.",
+        "Beaten by El Barb, Night Watch in the past."
+      ],
+      "rank": 2
+    },
+    {
+      "name": "Night Watch",
+      "key": "NIGHT WATCH",
+      "draw": 1,
+      "rating": 88,
+      "jockey": "C Zackey",
+      "trainer": "M Azzie",
+      "weight": 57,
+      "score": 55.9,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.429,
+        "distance": 0.621,
+        "going": 0.621,
+        "draw": 1,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 0.6,
+        "headToHead": 0.443,
+        "recencyMargin": 0.868
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 6.86,
+        "distance": 6.21,
+        "going": 4.97,
+        "draw": 6,
+        "jockey": 2.4,
+        "trainer": 2.4,
+        "weight": 3.6,
+        "headToHead": 5.31,
+        "recencyMargin": 10.42
+      },
+      "knownRuns": 2,
+      "h2h": {
+        "record": "2-3",
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "Silver Host",
+          "Cape Venture"
+        ],
+        "losesTo": [
+          "El Barb",
+          "El Barb",
+          "Golden Reef"
+        ]
+      },
+      "reasoning": [
+        "Strengths: recent winning margins, distance suitability, the draw.",
+        "Has beaten Silver Host, Cape Venture before.",
+        "Beaten by El Barb, Golden Reef in the past."
+      ],
+      "rank": 3
+    },
+    {
+      "name": "Golden Reef",
+      "key": "GOLDEN REEF",
+      "draw": 9,
+      "rating": 82,
+      "jockey": "L Mxothwa",
+      "trainer": "G Woodruff",
+      "weight": 55,
+      "score": 46.5,
+      "factors": {
+        "form": 0.45,
+        "rating": 0,
+        "distance": 0.639,
+        "going": 0.567,
+        "draw": 0.2,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 1,
+        "headToHead": 0.448,
+        "recencyMargin": 0.839
+      },
+      "contrib": {
+        "form": 8.11,
+        "rating": 0,
+        "distance": 6.39,
+        "going": 4.53,
+        "draw": 1.2,
+        "jockey": 2.4,
+        "trainer": 2.4,
+        "weight": 6,
+        "headToHead": 5.38,
+        "recencyMargin": 10.07
+      },
+      "knownRuns": 3,
+      "h2h": {
+        "record": "4-5",
+        "wins": 4,
+        "losses": 5,
+        "beats": [
+          "El Barb",
+          "Night Watch",
+          "Cape Venture",
+          "Cape Venture"
+        ],
+        "losesTo": [
+          "El Barb",
+          "El Barb",
+          "Silver Host",
+          "Silver Host",
+          "Cape Venture"
+        ]
+      },
+      "reasoning": [
+        "Strengths: recent winning margins, distance suitability, weight.",
+        "Concerns: the draw, class/rating.",
+        "Has beaten El Barb, Night Watch, Cape Venture before.",
+        "Beaten by El Barb, Silver Host, Cape Venture in the past."
+      ],
+      "rank": 4
+    },
+    {
+      "name": "Cape Venture",
+      "key": "CAPE VENTURE",
+      "draw": 5,
+      "rating": 85,
+      "jockey": "S Khumalo",
+      "trainer": "A Nel",
+      "weight": 56,
+      "score": 38.8,
+      "factors": {
+        "form": 0.252,
+        "rating": 0.214,
+        "distance": 0.494,
+        "going": 0.458,
+        "draw": 0.6,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 0.8,
+        "headToHead": 0,
+        "recencyMargin": 0.749
+      },
+      "contrib": {
+        "form": 4.54,
+        "rating": 3.43,
+        "distance": 4.94,
+        "going": 3.67,
+        "draw": 3.6,
+        "jockey": 2.4,
+        "trainer": 2.4,
+        "weight": 4.8,
+        "headToHead": 0,
+        "recencyMargin": 8.99
+      },
+      "knownRuns": 3,
+      "h2h": {
+        "record": "2-7",
+        "wins": 2,
+        "losses": 7,
+        "beats": [
+          "El Barb",
+          "Golden Reef"
+        ],
+        "losesTo": [
+          "El Barb",
+          "El Barb",
+          "Silver Host",
+          "Silver Host",
+          "Night Watch",
+          "Golden Reef",
+          "Golden Reef"
+        ]
+      },
+      "reasoning": [
+        "Strengths: recent winning margins, weight, the draw.",
+        "Concerns: recent form, class/rating.",
+        "Has beaten El Barb, Golden Reef before.",
+        "Beaten by El Barb, Silver Host, Night Watch, Golden Reef in the past."
+      ],
+      "rank": 5
+    }
+  ],
+  "comparison": [
+    {
+      "no": 1,
+      "name": "El Barb",
+      "rank": 1,
+      "score": 75.5,
+      "rating": 96,
+      "draw": 3,
+      "weight": 60,
+      "jockey": "M Yeni",
+      "trainer": "S Tarry",
+      "lastFive": "4121",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.566,
+        "rating": 1,
+        "distance": 0.783,
+        "going": 0.928,
+        "draw": 0.8,
+        "jockey": 0.7,
+        "trainer": 0.7,
+        "weight": 0,
+        "headToHead": 0.826,
+        "recencyMargin": 0.909
+      }
+    },
+    {
+      "no": 2,
+      "name": "Silver Host",
+      "rank": 2,
+      "score": 71.9,
+      "rating": 90,
+      "draw": 7,
+      "weight": 58.5,
+      "jockey": "R Danielson",
+      "trainer": "J Snaith",
+      "lastFive": "131",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.676,
+        "rating": 0.571,
+        "distance": 0.783,
+        "going": 0.675,
+        "draw": 0.4,
+        "jockey": 0.8,
+        "trainer": 0.8,
+        "weight": 0.3,
+        "headToHead": 1,
+        "recencyMargin": 0.965
+      }
+    },
+    {
+      "no": 3,
+      "name": "Night Watch",
+      "rank": 3,
+      "score": 55.9,
+      "rating": 88,
+      "draw": 1,
+      "weight": 57,
+      "jockey": "C Zackey",
+      "trainer": "M Azzie",
+      "lastFive": "23",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.429,
+        "distance": 0.621,
+        "going": 0.621,
+        "draw": 1,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 0.6,
+        "headToHead": 0.443,
+        "recencyMargin": 0.868
+      }
+    },
+    {
+      "no": 5,
+      "name": "Golden Reef",
+      "rank": 4,
+      "score": 46.5,
+      "rating": 82,
+      "draw": 9,
+      "weight": 55,
+      "jockey": "L Mxothwa",
+      "trainer": "G Woodruff",
+      "lastFive": "242",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.45,
+        "rating": 0,
+        "distance": 0.639,
+        "going": 0.567,
+        "draw": 0.2,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 1,
+        "headToHead": 0.448,
+        "recencyMargin": 0.839
+      }
+    },
+    {
+      "no": 4,
+      "name": "Cape Venture",
+      "rank": 5,
+      "score": 38.8,
+      "rating": 85,
+      "draw": 5,
+      "weight": 56,
+      "jockey": "S Khumalo",
+      "trainer": "A Nel",
+      "lastFive": "334",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.252,
+        "rating": 0.214,
+        "distance": 0.494,
+        "going": 0.458,
+        "draw": 0.6,
+        "jockey": 0.4,
+        "trainer": 0.4,
+        "weight": 0.8,
+        "headToHead": 0,
+        "recencyMargin": 0.749
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "Silver Host",
+      "key": "SILVER HOST",
+      "points": 4.857,
+      "wins": 6,
+      "losses": 2,
+      "meetings": 8,
+      "beats": [
+        "El Barb",
+        "El Barb",
+        "Cape Venture",
+        "Cape Venture",
+        "Golden Reef",
+        "Golden Reef"
+      ],
+      "losesTo": [
+        "El Barb",
+        "Night Watch"
+      ],
+      "record": "6-2"
+    },
+    {
+      "name": "El Barb",
+      "key": "EL BARB",
+      "points": 3.009,
+      "wins": 7,
+      "losses": 4,
+      "meetings": 11,
+      "beats": [
+        "Silver Host",
+        "Night Watch",
+        "Night Watch",
+        "Cape Venture",
+        "Cape Venture",
+        "Golden Reef",
+        "Golden Reef"
+      ],
+      "losesTo": [
+        "Silver Host",
+        "Silver Host",
+        "Cape Venture",
+        "Golden Reef"
+      ],
+      "record": "7-4"
+    },
+    {
+      "name": "Golden Reef",
+      "key": "GOLDEN REEF",
+      "points": -1.015,
+      "wins": 4,
+      "losses": 5,
+      "meetings": 9,
+      "beats": [
+        "El Barb",
+        "Night Watch",
+        "Cape Venture",
+        "Cape Venture"
+      ],
+      "losesTo": [
+        "El Barb",
+        "El Barb",
+        "Silver Host",
+        "Silver Host",
+        "Cape Venture"
+      ],
+      "record": "4-5"
+    },
+    {
+      "name": "Night Watch",
+      "key": "NIGHT WATCH",
+      "points": -1.071,
+      "wins": 2,
+      "losses": 3,
+      "meetings": 5,
+      "beats": [
+        "Silver Host",
+        "Cape Venture"
+      ],
+      "losesTo": [
+        "El Barb",
+        "El Barb",
+        "Golden Reef"
+      ],
+      "record": "2-3"
+    },
+    {
+      "name": "Cape Venture",
+      "key": "CAPE VENTURE",
+      "points": -5.78,
+      "wins": 2,
+      "losses": 7,
+      "meetings": 9,
+      "beats": [
+        "El Barb",
+        "Golden Reef"
+      ],
+      "losesTo": [
+        "El Barb",
+        "El Barb",
+        "Silver Host",
+        "Silver Host",
+        "Night Watch",
+        "Golden Reef",
+        "Golden Reef"
+      ],
+      "record": "2-7"
+    }
+  ],
+  "strongest": "Silver Host"
+}

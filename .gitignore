@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+data/review/*.html
+data/results-inbox/processed/
+# Keep example + real racecard PDFs out of git if they're large/private:
+# data/racecards/*.pdf
+docs/preview.png

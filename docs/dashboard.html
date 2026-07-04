@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0d0d0f">
+<title>Formbook — SA Racing</title>
+<style>
+  :root{
+    --bg:#0c0c0e; --panel:#141418; --panel2:#1b1b21; --line:#2a2a33;
+    --ink:#ece7d8; --muted:#9a927f; --gold:#d4af37; --gold2:#f0d888;
+    --green:#5fbf76; --red:#d16a6a; --blue:#6fa8d4;
+    --shadow:0 8px 30px rgba(0,0,0,.45);
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:radial-gradient(1200px 600px at 50% -10%, #17140c 0%, var(--bg) 55%) fixed;
+    color:var(--ink); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased; min-height:100vh;
+  }
+  a{color:var(--gold2)}
+  .wrap{max-width:960px;margin:0 auto;padding:16px 14px 60px}
+
+  /* ---- Gate ---- */
+  #gate{
+    position:fixed;inset:0;z-index:50;display:flex;align-items:center;justify-content:center;
+    background:radial-gradient(900px 500px at 50% 20%, #1a1609, #08080a 70%);padding:20px;
+  }
+  .lock{width:100%;max-width:360px;text-align:center}
+  .lock .crest{font-size:44px;filter:drop-shadow(0 2px 10px rgba(212,175,55,.35))}
+  .lock h1{font-size:20px;letter-spacing:.14em;text-transform:uppercase;margin:.5em 0 .1em;color:var(--gold)}
+  .lock p{color:var(--muted);margin:.2em 0 1.4em;font-size:13px}
+  .lock input{
+    width:100%;padding:14px 16px;border-radius:12px;border:1px solid var(--line);
+    background:#0f0f12;color:var(--ink);font-size:16px;text-align:center;letter-spacing:.05em;
+  }
+  .lock input:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(212,175,55,.15)}
+  .lock button{
+    margin-top:12px;width:100%;padding:13px;border:none;border-radius:12px;cursor:pointer;
+    background:linear-gradient(180deg,var(--gold2),var(--gold));color:#241d04;font-weight:700;
+    font-size:15px;letter-spacing:.05em;
+  }
+  .lock button:active{transform:translateY(1px)}
+  .lock .err{color:var(--red);font-size:13px;min-height:18px;margin-top:10px}
+
+  /* ---- Header ---- */
+  header.top{display:flex;align-items:center;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+  header.top .brand{display:flex;align-items:center;gap:10px}
+  header.top .crest{font-size:26px}
+  header.top h1{font-size:18px;margin:0;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
+  .chips{display:flex;gap:8px;margin-left:auto;flex-wrap:wrap}
+  .chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--muted)}
+  .chip b{color:var(--gold2);font-size:13px}
+
+  /* ---- Race picker ---- */
+  .picker{display:flex;gap:8px;overflow-x:auto;padding:4px 2px 10px;-webkit-overflow-scrolling:touch}
+  .picker::-webkit-scrollbar{height:0}
+  .rc{flex:0 0 auto;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 14px;cursor:pointer;min-width:130px}
+  .rc.active{border-color:var(--gold);background:linear-gradient(180deg,#1d1a10,#141418)}
+  .rc .t{font-weight:700;color:var(--ink);font-size:14px}
+  .rc .s{color:var(--muted);font-size:12px;margin-top:2px}
+  .rc .pk{color:var(--gold2);font-size:12px;margin-top:4px}
+
+  section.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:14px 0;box-shadow:var(--shadow)}
+  section.card h2{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  .meta{display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--muted);font-size:13px;margin-bottom:2px}
+  .meta b{color:var(--ink)}
+
+  /* ---- Educated guess ---- */
+  .pick{border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:10px;background:var(--panel2)}
+  .pick.top{border-color:var(--gold);background:linear-gradient(180deg,#1e1a0f,#17140d)}
+  .pick .row1{display:flex;align-items:center;gap:10px}
+  .rank{width:26px;height:26px;border-radius:8px;display:grid;place-items:center;font-weight:800;font-size:13px;background:#26262e;color:var(--muted);flex:0 0 auto}
+  .pick.top .rank{background:linear-gradient(180deg,var(--gold2),var(--gold));color:#241d04}
+  .pick .nm{font-weight:700;font-size:15px}
+  .pick .sc{margin-left:auto;text-align:right}
+  .pick .sc b{font-size:18px;color:var(--gold2)}
+  .pick .sc span{display:block;font-size:11px;color:var(--muted)}
+  .bar{height:6px;border-radius:4px;background:#26262e;margin:9px 0 4px;overflow:hidden}
+  .bar>i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2))}
+  .why{list-style:none;padding:0;margin:8px 0 0}
+  .why li{font-size:13px;color:var(--muted);padding:2px 0 2px 16px;position:relative}
+  .why li:before{content:"›";position:absolute;left:2px;color:var(--gold)}
+  .h2hpill{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:1px 8px}
+
+  /* ---- tables ---- */
+  .scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -4px}
+  table{border-collapse:collapse;width:100%;font-size:13px;min-width:520px}
+  th,td{padding:9px 8px;text-align:center;border-bottom:1px solid var(--line);white-space:nowrap}
+  th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.06em;position:sticky;top:0;background:var(--panel)}
+  td.name,th.name{text-align:left;position:sticky;left:0;background:var(--panel);z-index:1}
+  tr.lead td{background:rgba(212,175,55,.07)}
+  tr.lead td.name{background:#1c190f}
+  .mini{display:inline-block;width:46px;height:6px;border-radius:3px;background:#26262e;vertical-align:middle;overflow:hidden}
+  .mini>i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2))}
+  .form5{font-variant-numeric:tabular-nums;letter-spacing:2px;color:var(--gold2)}
+
+  /* ---- H2H ---- */
+  .strong{display:flex;align-items:center;gap:10px;background:linear-gradient(180deg,#1e1a0f,#161610);border:1px solid var(--gold);border-radius:12px;padding:12px 14px;margin-bottom:12px}
+  .strong .medal{font-size:24px}
+  .strong .nm{font-weight:800;font-size:16px;color:var(--gold2)}
+  .strong .sub{color:var(--muted);font-size:12px}
+  .h2hgrid{width:100%;font-size:12px;min-width:420px;border-collapse:collapse}
+  .h2hgrid th,.h2hgrid td{border:1px solid var(--line);padding:6px;text-align:center}
+  .h2hgrid td.win{background:rgba(95,191,118,.16);color:var(--green);font-weight:700}
+  .h2hgrid td.loss{background:rgba(209,106,106,.14);color:var(--red)}
+  .h2hgrid td.self{background:#0f0f12;color:#3a3a44}
+  .h2hgrid th.name,.h2hgrid td.rowname{text-align:left;font-weight:600;color:var(--ink)}
+  .standRow{display:flex;align-items:center;gap:8px;padding:6px 0;border-bottom:1px solid var(--line);font-size:13px}
+  .standRow .rk{color:var(--muted);width:18px}
+  .standRow .nm{font-weight:600}
+  .standRow .rec{margin-left:auto;color:var(--muted)}
+  .standRow .beat{flex-basis:100%;font-size:12px;color:var(--muted);padding-left:26px}
+
+  /* ---- strike history ---- */
+  .sr{display:flex;gap:5px;flex-wrap:wrap;margin-top:6px}
+  .sr .dot{width:16px;height:16px;border-radius:5px;background:#26262e;display:grid;place-items:center;font-size:9px;color:#0c0c0e;font-weight:800}
+  .sr .dot.win{background:var(--green)}
+  .sr .dot.place{background:var(--gold)}
+  .sr .dot.miss{background:#3a3a44;color:#0c0c0e}
+  .foot{color:var(--muted);font-size:12px;text-align:center;margin-top:26px}
+  .empty{color:var(--muted);text-align:center;padding:30px 10px}
+  .lock-btn{margin-left:8px;background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer}
+</style>
+</head>
+<body>
+
+<!-- ===================== PASSWORD GATE ===================== -->
+<div id="gate">
+  <div class="lock">
+    <div class="crest">🐎</div>
+    <h1>Formbook</h1>
+    <p>Private racing dashboard — enter passphrase</p>
+    <form id="gateForm">
+      <input id="pw" type="password" autocomplete="current-password" placeholder="Passphrase" autofocus>
+      <button type="submit">Unlock</button>
+      <div class="err" id="err"></div>
+    </form>
+  </div>
+</div>
+
+<!-- ===================== APP ===================== -->
+<div class="wrap" id="app" style="display:none">
+  <header class="top">
+    <div class="brand"><span class="crest">🐎</span><h1>Formbook</h1></div>
+    <div class="chips" id="srChips"></div>
+    <button class="lock-btn" onclick="lockNow()">Lock</button>
+  </header>
+
+  <div class="picker" id="picker"></div>
+  <div id="race"></div>
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+// ---- Gate: compare SHA-256 of entry to the stored hash (passphrase never in source) ----
+const PASS_HASH = "e3b678bc0e15c331f500700725a4dcbf8d2f4fe8874a6e19f2ba830f1f9ee965";
+const KEY = "formbook_unlocked_v1";
+
+async function sha256(str){
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(str));
+  return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
+}
+function lockNow(){ sessionStorage.removeItem(KEY); location.reload(); }
+function unlock(){ document.getElementById("gate").style.display="none"; document.getElementById("app").style.display="block"; boot(); }
+
+document.getElementById("gateForm").addEventListener("submit", async (e)=>{
+  e.preventDefault();
+  const v = document.getElementById("pw").value;
+  const h = await sha256(v);
+  if(h===PASS_HASH){ sessionStorage.setItem(KEY,"1"); unlock(); }
+  else { document.getElementById("err").textContent = "Incorrect passphrase."; document.getElementById("pw").select(); }
+});
+if(sessionStorage.getItem(KEY)==="1"){ unlock(); }
+
+// ---- Data loading ----
+let MANIFEST=null, CURRENT=null;
+async function boot(){
+  try{
+    const [m, sr] = await Promise.all([
+      fetch("data/manifest.json").then(r=>r.json()),
+      fetch("data/strike-rate.json").then(r=>r.ok?r.json():null).catch(()=>null)
+    ]);
+    MANIFEST=m; renderStrike(sr); renderPicker(m.predictions||[]);
+    if((m.predictions||[]).length) selectRace(m.predictions[0].file);
+    else document.getElementById("race").innerHTML='<div class="empty">No predictions yet. Run <code>predict &lt;racecard&gt;</code> to generate one.</div>';
+    document.getElementById("foot").textContent = "Updated "+new Date(m.generated).toLocaleString();
+  }catch(err){
+    document.getElementById("race").innerHTML='<div class="empty">Could not load data.<br><small>'+err.message+'</small></div>';
+  }
+}
+
+function renderStrike(sr){
+  const el=document.getElementById("srChips"); if(!sr){el.innerHTML="";return;}
+  el.innerHTML =
+    `<span class="chip">Win <b>${sr.winPct}%</b></span>`+
+    `<span class="chip">Place <b>${sr.placePct}%</b></span>`+
+    `<span class="chip">Settled <b>${sr.settled}</b></span>`;
+  el._sr = sr;
+}
+
+function renderPicker(list){
+  const el=document.getElementById("picker");
+  el.innerHTML = list.map(p=>`
+    <div class="rc" data-file="${p.file}" onclick="selectRace('${p.file}')">
+      <div class="t">${p.track||"—"} · R${p.race}</div>
+      <div class="s">${p.date} · ${p.distance||"?"}m · ${p.going||""}</div>
+      <div class="pk">★ ${p.topPick||"—"}</div>
+    </div>`).join("");
+}
+
+async function selectRace(file){
+  document.querySelectorAll(".rc").forEach(x=>x.classList.toggle("active",x.dataset.file===file));
+  const p = await fetch(file).then(r=>r.json());
+  CURRENT=p; renderRace(p);
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+const esc = s => String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pct = x => Math.round((x||0)*100);
+
+function renderRace(p){
+  const strongest = (p.headToHead&&p.headToHead[0])||null;
+  const sr = document.getElementById("srChips")._sr;
+  document.getElementById("race").innerHTML =
+    metaCard(p) + guessCard(p) + comparisonCard(p) + h2hCard(p, strongest) + strikeCard(sr);
+}
+
+function metaCard(p){
+  return `<section class="card">
+    <div class="meta">
+      <span><b>${esc(p.track)||"—"}</b></span><span>Race <b>${p.race}</b></span>
+      <span><b>${p.distance||"?"}</b> m</span><span>Going <b>${esc(p.going)||"n/a"}</b></span>
+      <span><b>${p.date}</b></span><span>${(p.ranked||[]).length} runners</span>
+    </div></section>`;
+}
+
+// 2. EDUCATED GUESS — prediction with visible reasoning
+function guessCard(p){
+  const rows = (p.ranked||[]).map(r=>{
+    const h2h = r.h2h&&(r.h2h.wins||r.h2h.losses)?`<span class="h2hpill">H2H ${esc(r.h2h.record)}</span>`:"";
+    const why = (r.reasoning||[]).map(w=>`<li>${esc(w)}</li>`).join("");
+    return `<div class="pick ${r.rank===1?"top":""}">
+      <div class="row1">
+        <div class="rank">${r.rank===1?"★":r.rank}</div>
+        <div><div class="nm">${esc(r.name)}</div></div>
+        <div class="sc"><b>${r.score}</b><span>score ${h2h?" · "+r.h2h.record+" H2H":""}</span></div>
+      </div>
+      <div class="bar"><i style="width:${r.score}%"></i></div>
+      <ul class="why">${why}</ul>
+    </div>`;
+  }).join("");
+  return `<section class="card"><h2>🎯 Educated Guess — reasoning per horse</h2>${rows}</section>`;
+}
+
+// 1. COMPARISON — side by side form / ratings
+function comparisonCard(p){
+  const fk = ["form","rating","distance","going","recencyMargin"];
+  const flabel = {form:"Form",rating:"Rating",distance:"Dist",going:"Going",recencyMargin:"Margins"};
+  const head = `<tr><th class="name">Runner</th><th>Rank</th><th>Score</th><th>Last 5</th><th>MR</th><th>Draw</th><th>Wt</th>`+
+    fk.map(k=>`<th>${flabel[k]}</th>`).join("")+`<th>Jockey</th></tr>`;
+  const body = (p.comparison||[]).map((c,i)=>{
+    const r=(p.ranked||[]).find(x=>x.name===c.name)||{factors:{}};
+    const cells = fk.map(k=>{
+      const v=pct(r.factors?.[k]); return `<td><span class="mini"><i style="width:${v}%"></i></span></td>`;
+    }).join("");
+    return `<tr class="${c.rank===1?"lead":""}">
+      <td class="name">${esc(c.name)}</td><td>${c.rank}</td><td><b>${c.score}</b></td>
+      <td class="form5">${esc(c.lastFive)}</td><td>${c.rating??"—"}</td><td>${c.draw??"—"}</td><td>${c.weight??"—"}</td>
+      ${cells}<td>${esc(c.jockey)||"—"}</td></tr>`;
+  }).join("");
+  return `<section class="card"><h2>📊 Comparison — form, ratings, factor strength</h2>
+    <div class="scroll"><table>${head}${body}</table></div>
+    <div class="foot" style="text-align:left;margin-top:8px">Bars show each runner's strength on that factor (0–100%). Swipe table sideways on mobile.</div>
+  </section>`;
+}
+
+// 3. WHO BEAT WHO / STRONGEST
+function h2hCard(p, strongest){
+  const table = p.headToHead||[];
+  if(!table.length) return "";
+  const strongBanner = strongest ? `<div class="strong">
+      <div class="medal">🥇</div>
+      <div><div class="nm">${esc(strongest.name)}</div>
+      <div class="sub">Strongest on head-to-head · record ${esc(strongest.record)} vs this field · ${strongest.beats&&strongest.beats.length?"has beaten "+esc([...new Set(strongest.beats)].join(", ")):"no losses to today's rivals"}</div></div>
+    </div>` : "";
+
+  // matrix
+  const names = table.map(t=>t.name);
+  const rec = {}; // rec[a][b] = "W"/"L"/"-" and count
+  (p.ranked||[]); // ensure order
+  function cellFor(a,b){
+    if(a===b) return {cls:"self",txt:"—"};
+    const ra=table.find(t=>t.name===a);
+    const beats=(ra&&ra.beats)||[], loses=(ra&&ra.losesTo)||[];
+    const w=beats.filter(x=>x===b).length, l=loses.filter(x=>x===b).length;
+    if(!w&&!l) return {cls:"",txt:"·"};
+    if(w>=l) return {cls:"win",txt:w+"–"+l};
+    return {cls:"loss",txt:w+"–"+l};
+  }
+  const head = `<tr><th class="name">beat →</th>`+names.map(n=>`<th>${esc(n.split(" ").map(w=>w[0]).join(""))}</th>`).join("")+`</tr>`;
+  const rows = names.map(a=>{
+    return `<tr><td class="rowname">${esc(a)}</td>`+names.map(b=>{
+      const c=cellFor(a,b); return `<td class="${c.cls}">${c.txt}</td>`;
+    }).join("")+`</tr>`;
+  }).join("");
+
+  const standings = table.map((t,i)=>`
+    <div class="standRow">
+      <span class="rk">${i+1}</span><span class="nm">${esc(t.name)}</span>
+      <span class="rec">${esc(t.record)} · ${t.points} pts</span>
+      ${t.beats&&t.beats.length?`<span class="beat">beat ${esc([...new Set(t.beats)].join(", "))}</span>`:""}
+    </div>`).join("");
+
+  return `<section class="card"><h2>⚔️ Who Beat Who — head-to-head</h2>
+    ${strongBanner}
+    ${standings}
+    <div class="scroll" style="margin-top:12px"><table class="h2hgrid">${head}${rows}</table></div>
+    <div class="foot" style="text-align:left;margin-top:8px">Grid cells = wins–losses of the row horse over the column horse (initials). Green = row leads.</div>
+  </section>`;
+}
+
+// strike rate history
+function strikeCard(sr){
+  sr = sr || {winPct:0,placePct:0,settled:0,history:[]};
+  const hist = sr.history||[];
+  const dots = hist.map(h=>{
+    const cls=h.won?"win":(h.placed?"place":"miss"); const t=h.won?"W":(h.placed?"P":"·");
+    return `<span class="dot ${cls}" title="${h.track} R${h.race} ${h.date}">${t}</span>`;
+  }).join("");
+  const body = hist.length
+    ? `<div class="sr">${dots}</div>
+       <div class="foot" style="text-align:left;margin-top:8px">Each square = one settled race (newest right). <span style="color:var(--green)">W</span> win · <span style="color:var(--gold)">P</span> placed · miss.</div>`
+    : `<div class="foot" style="text-align:left">No settled races yet — the history builds automatically as <code>pull-results</code> logs outcomes.</div>`;
+  return `<section class="card"><h2>📈 Strike Rate — top-pick history</h2>
+    <div class="meta"><span>Win <b>${sr.winPct}%</b></span><span>Place <b>${sr.placePct}%</b></span><span>over <b>${sr.settled}</b> settled races</span></div>
+    ${body}
+  </section>`;
+}
+</script>
+</body>
+</html>

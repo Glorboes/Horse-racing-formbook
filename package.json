@@ -1,0 +1,22 @@
+{
+  "name": "horse-racing-formbook",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SA horse-racing formbook: 8-factor + head-to-head predictions, auto-updating database, and a password-gated mobile dashboard.",
+  "bin": {
+    "predict": "scripts/predict.js"
+  },
+  "scripts": {
+    "predict": "node scripts/predict.js",
+    "pull-results": "node scripts/pull-results.js",
+    "log-result": "node scripts/log-result.js",
+    "sync": "node scripts/lib/sync-dashboard.js",
+    "test": "node scripts/lib/selftest.js"
+  },
+  "optionalDependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

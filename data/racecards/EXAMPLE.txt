@@ -1,0 +1,13 @@
+# Plain-text racecard fallback (when a PDF won't parse cleanly).
+# Header lines: key: value.  Then one runner per line:
+#   no | name | draw | weight | rating | jockey | trainer
+date: 2026-07-05
+track: Turffontein
+race: 5
+distance: 1600
+going: Good
+1 | El Barb | 3 | 60 | 96 | M Yeni | S Tarry
+2 | Silver Host | 7 | 58.5 | 90 | R Danielson | J Snaith
+3 | Night Watch | 1 | 57 | 88 | C Zackey | M Azzie
+4 | Cape Venture | 5 | 56 | 85 | S Khumalo | A Nel
+5 | Golden Reef | 9 | 55 | 82 | L Mxothwa | G Woodruff

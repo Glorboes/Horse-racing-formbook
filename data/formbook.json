@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "version": 2,
+    "updated": "2026-07-04T17:32:57.897Z",
+    "tracks": [
+      "Turffontein",
+      "Vaal",
+      "Fairview",
+      "Scottsville",
+      "Greyville"
+    ],
+    "note": "Head-to-head is auto-maintained. Do not hand-edit headToHead keys; log results via scripts/log-result.js or scripts/pull-results.js."
+  },
+  "horses": {
+    "EL BARB": {
+      "name": "El Barb",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-12",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1450,
+          "going": "Good",
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Golden Reef",
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": 59,
+          "jockey": "M Yeni",
+          "trainer": "S Tarry",
+          "draw": 2
+        },
+        {
+          "date": "2026-05-03",
+          "track": "Vaal",
+          "race": 6,
+          "distance": 1600,
+          "going": "Good to Firm",
+          "finish": 2,
+          "field": 4,
+          "marginBehindWinner": 0.5,
+          "beaten": [
+            "Cape Venture",
+            "Golden Reef"
+          ],
+          "weight": 60,
+          "jockey": "M Yeni",
+          "trainer": "S Tarry",
+          "draw": 3
+        },
+        {
+          "date": "2026-05-24",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1600,
+          "going": "Good",
+          "finish": 1,
+          "field": 3,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Night Watch",
+            "Silver Host"
+          ],
+          "weight": 60,
+          "jockey": "M Yeni",
+          "trainer": "S Tarry",
+          "draw": 4
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Greyville",
+          "race": 5,
+          "distance": 1600,
+          "going": "Soft",
+          "finish": 4,
+          "field": 4,
+          "marginBehindWinner": 3.5,
+          "beaten": [],
+          "weight": 61,
+          "jockey": "M Yeni",
+          "trainer": "S Tarry",
+          "draw": 1
+        }
+      ]
+    },
+    "GOLDEN REEF": {
+      "name": "Golden Reef",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-12",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1450,
+          "going": "Good",
+          "finish": 2,
+          "field": 4,
+          "marginBehindWinner": 0.75,
+          "beaten": [
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": 57,
+          "jockey": "L Mxothwa",
+          "trainer": "G Woodruff",
+          "draw": 6
+        },
+        {
+          "date": "2026-05-03",
+          "track": "Vaal",
+          "race": 6,
+          "distance": 1600,
+          "going": "Good to Firm",
+          "finish": 4,
+          "field": 4,
+          "marginBehindWinner": 3.25,
+          "beaten": [],
+          "weight": 56,
+          "jockey": null,
+          "trainer": null,
+          "draw": 1
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Greyville",
+          "race": 5,
+          "distance": 1600,
+          "going": "Soft",
+          "finish": 2,
+          "field": 4,
+          "marginBehindWinner": 1.75,
+          "beaten": [
+            "Cape Venture",
+            "El Barb"
+          ],
+          "weight": 56,
+          "jockey": "L Mxothwa",
+          "trainer": "G Woodruff",
+          "draw": 5
+        }
+      ]
+    },
+    "NIGHT WATCH": {
+      "name": "Night Watch",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-12",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1450,
+          "going": "Good",
+          "finish": 3,
+          "field": 4,
+          "marginBehindWinner": 2.25,
+          "beaten": [
+            "Cape Venture"
+          ],
+          "weight": 56,
+          "jockey": "C Zackey",
+          "trainer": "M Azzie",
+          "draw": 4
+        },
+        {
+          "date": "2026-05-24",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1600,
+          "going": "Good",
+          "finish": 2,
+          "field": 3,
+          "marginBehindWinner": 1,
+          "beaten": [
+            "Silver Host"
+          ],
+          "weight": 57,
+          "jockey": "C Zackey",
+          "trainer": "M Azzie",
+          "draw": 2
+        }
+      ]
+    },
+    "CAPE VENTURE": {
+      "name": "Cape Venture",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-12",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1450,
+          "going": "Good",
+          "finish": 4,
+          "field": 4,
+          "marginBehindWinner": 4.25,
+          "beaten": [],
+          "weight": 55,
+          "jockey": null,
+          "trainer": null,
+          "draw": 8
+        },
+        {
+          "date": "2026-05-03",
+          "track": "Vaal",
+          "race": 6,
+          "distance": 1600,
+          "going": "Good to Firm",
+          "finish": 3,
+          "field": 4,
+          "marginBehindWinner": 2.75,
+          "beaten": [
+            "Golden Reef"
+          ],
+          "weight": 55,
+          "jockey": null,
+          "trainer": null,
+          "draw": 7
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Greyville",
+          "race": 5,
+          "distance": 1600,
+          "going": "Soft",
+          "finish": 3,
+          "field": 4,
+          "marginBehindWinner": 2.25,
+          "beaten": [
+            "El Barb"
+          ],
+          "weight": 55,
+          "jockey": null,
+          "trainer": null,
+          "draw": 8
+        }
+      ]
+    },
+    "SILVER HOST": {
+      "name": "Silver Host",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-05-03",
+          "track": "Vaal",
+          "race": 6,
+          "distance": 1600,
+          "going": "Good to Firm",
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "El Barb",
+            "Cape Venture",
+            "Golden Reef"
+          ],
+          "weight": 58,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 5
+        },
+        {
+          "date": "2026-05-24",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1600,
+          "going": "Good",
+          "finish": 3,
+          "field": 3,
+          "marginBehindWinner": 1.25,
+          "beaten": [],
+          "weight": 58,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 6
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Greyville",
+          "race": 5,
+          "distance": 1600,
+          "going": "Soft",
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Golden Reef",
+            "Cape Venture",
+            "El Barb"
+          ],
+          "weight": 59,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 3
+        }
+      ]
+    }
+  },
+  "headToHead": {
+    "EL BARB|GOLDEN REEF": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 0.75,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 2.75,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 1.75,
+        "winner": "Golden Reef"
+      }
+    ],
+    "EL BARB|NIGHT WATCH": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 2.25,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-05-24",
+        "track": "Turffontein",
+        "race": 7,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 1,
+        "winner": "El Barb"
+      }
+    ],
+    "CAPE VENTURE|EL BARB": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 4.25,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 2.25,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 1.25,
+        "winner": "Cape Venture"
+      }
+    ],
+    "GOLDEN REEF|NIGHT WATCH": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 1.5,
+        "winner": "Golden Reef"
+      }
+    ],
+    "CAPE VENTURE|GOLDEN REEF": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 3.5,
+        "winner": "Golden Reef"
+      },
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 0.5,
+        "winner": "Cape Venture"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 0.5,
+        "winner": "Golden Reef"
+      }
+    ],
+    "CAPE VENTURE|NIGHT WATCH": [
+      {
+        "date": "2026-04-12",
+        "track": "Turffontein",
+        "race": 4,
+        "distance": 1450,
+        "going": "Good",
+        "marginLengths": 2,
+        "winner": "Night Watch"
+      }
+    ],
+    "EL BARB|SILVER HOST": [
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 0.5,
+        "winner": "Silver Host"
+      },
+      {
+        "date": "2026-05-24",
+        "track": "Turffontein",
+        "race": 7,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 1.25,
+        "winner": "El Barb"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 3.5,
+        "winner": "Silver Host"
+      }
+    ],
+    "CAPE VENTURE|SILVER HOST": [
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 2.75,
+        "winner": "Silver Host"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 2.25,
+        "winner": "Silver Host"
+      }
+    ],
+    "GOLDEN REEF|SILVER HOST": [
+      {
+        "date": "2026-05-03",
+        "track": "Vaal",
+        "race": 6,
+        "distance": 1600,
+        "going": "Good to Firm",
+        "marginLengths": 3.25,
+        "winner": "Silver Host"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Greyville",
+        "race": 5,
+        "distance": 1600,
+        "going": "Soft",
+        "marginLengths": 1.75,
+        "winner": "Silver Host"
+      }
+    ],
+    "NIGHT WATCH|SILVER HOST": [
+      {
+        "date": "2026-05-24",
+        "track": "Turffontein",
+        "race": 7,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 0.25,
+        "winner": "Night Watch"
+      }
+    ]
+  },
+  "predictionsLog": [
+    {
+      "id": "2026-07-05-turffontein-r5",
+      "date": "2026-07-05",
+      "track": "Turffontein",
+      "race": 5,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "El Barb",
+          "score": 75.5
+        },
+        {
+          "name": "Silver Host",
+          "score": 71.9
+        },
+        {
+          "name": "Night Watch",
+          "score": 55.9
+        },
+        {
+          "name": "Golden Reef",
+          "score": 46.5
+        }
+      ]
+    }
+  ]
+}

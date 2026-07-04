@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# `predict <racecard.pdf>` CLI entrypoint.
+# Symlink or add bin/ to PATH:  export PATH="$PWD/bin:$PATH"
+# then:  predict data/racecards/turffontein-r5.pdf
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+exec node "$DIR/scripts/predict.js" "$@"
