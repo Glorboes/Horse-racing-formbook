@@ -1,10 +1,76 @@
 {
-  "settled": 0,
-  "topPickWins": 0,
-  "topPickPlaces": 0,
-  "winPct": 0,
-  "placePct": 0,
-  "history": [],
+  "settled": 8,
+  "scratched": 2,
+  "topPickWins": 5,
+  "topPickPlaces": 6,
+  "winPct": 62.5,
+  "placePct": 75,
+  "history": [
+    {
+      "id": "2026-07-05-turffontein-r5",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 5,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-05-turffontein-r1",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 1,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-05-turffontein-r2",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 2,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-05-turffontein-r3",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 3,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-05-turffontein-r4",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 4,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-05-turffontein-r6",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 6,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-05-turffontein-r7",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 7,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-05-turffontein-r8",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 8,
+      "won": true,
+      "placed": true
+    }
+  ],
   "calibration": [
     {
       "tier": "70+",
@@ -16,19 +82,19 @@
     },
     {
       "tier": "55–70",
-      "n": 0,
-      "wins": 0,
-      "places": 0,
-      "winPct": null,
-      "placePct": null
+      "n": 5,
+      "wins": 4,
+      "places": 4,
+      "winPct": 80,
+      "placePct": 80
     },
     {
       "tier": "below 55",
-      "n": 0,
-      "wins": 0,
-      "places": 0,
-      "winPct": null,
-      "placePct": null
+      "n": 3,
+      "wins": 1,
+      "places": 2,
+      "winPct": 33,
+      "placePct": 67
     }
   ]
 }

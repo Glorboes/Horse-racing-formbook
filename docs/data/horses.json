@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T06:41:29.840Z",
-  "count": 5,
+  "generated": "2026-07-05T19:37:24.982Z",
+  "count": 73,
   "horses": [
     {
       "key": "EL BARB",
@@ -412,6 +412,3542 @@
         "losesTo": [
           "El Barb",
           "Golden Reef"
+        ]
+      }
+    },
+    {
+      "key": "AFRICAN PRIDE",
+      "name": "African Pride",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 1,
+          "beaten": [
+            "The Last Duke",
+            "Zalatoris",
+            "Slinky Mapimpi",
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 54,
+          "jockey": "R A Venniker",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 2,
+        "beats": [
+          "The Last Duke",
+          "Zalatoris",
+          "Slinky Mapimpi",
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook"
+        ]
+      }
+    },
+    {
+      "key": "AFTER HOURS",
+      "name": "After Hours",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 1.15,
+          "beaten": [
+            "Sunset Warrior",
+            "Utsaah",
+            "Top Shelf Teddy"
+          ],
+          "weight": 58.5,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 2,
+        "beats": [
+          "Sunset Warrior",
+          "Utsaah",
+          "Top Shelf Teddy"
+        ],
+        "losesTo": [
+          "Sky Pilot",
+          "Harun Al Rashid"
+        ]
+      }
+    },
+    {
+      "key": "ANGLE OF ATTACK",
+      "name": "Angle Of Attack",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 4.15,
+          "beaten": [
+            "Hartree",
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "J R Syster",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade"
+        ]
+      }
+    },
+    {
+      "key": "BELLFLOWER",
+      "name": "Bellflower",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 9.1,
+          "beaten": [
+            "Unvarnished Gold"
+          ],
+          "weight": 55,
+          "jockey": "B Marx-Jacobson",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 4,
+        "beats": [
+          "Unvarnished Gold"
+        ],
+        "losesTo": [
+          "Within Reach",
+          "Queen Leila",
+          "Impressive",
+          "Secret Fate"
+        ]
+      }
+    },
+    {
+      "key": "BLUE STORM RUNNER",
+      "name": "Blue Storm Runner",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 6.15,
+          "beaten": [],
+          "weight": 57,
+          "jockey": "T Matsoele",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 6,
+        "beats": [],
+        "losesTo": [
+          "Star Magnolia",
+          "Regal Queen",
+          "Pennys Choice",
+          "Winika",
+          "What Now My Love",
+          "Erik's Girl"
+        ]
+      }
+    },
+    {
+      "key": "CAMPO FORMIO",
+      "name": "Campo Formio",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 7,
+          "field": 10,
+          "marginBehindWinner": 8.25,
+          "beaten": [
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57,
+          "jockey": "T Mayhew",
+          "trainer": null,
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 6,
+        "beats": [
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum"
+        ]
+      }
+    },
+    {
+      "key": "CHAPBOOK",
+      "name": "Chapbook",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 0.3,
+          "beaten": [
+            "African Pride",
+            "The Last Duke",
+            "Zalatoris",
+            "Slinky Mapimpi",
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 52,
+          "jockey": "B Marx-Jacobson",
+          "trainer": null,
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 1,
+        "beats": [
+          "African Pride",
+          "The Last Duke",
+          "Zalatoris",
+          "Slinky Mapimpi",
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon"
+        ]
+      }
+    },
+    {
+      "key": "CHARMING CHEETAH",
+      "name": "Charming Cheetah",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 6.45,
+          "beaten": [
+            "Quantum Theory"
+          ],
+          "weight": 54,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 6,
+        "beats": [
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook",
+          "African Pride",
+          "The Last Duke",
+          "Zalatoris",
+          "Slinky Mapimpi"
+        ]
+      }
+    },
+    {
+      "key": "CHESTNUT BOMBER",
+      "name": "Chestnut Bomber",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 2.4,
+          "beaten": [
+            "Dantonfromsandton",
+            "Paul Revere",
+            "Silver Tudor"
+          ],
+          "weight": 57.5,
+          "jockey": "K de Melo",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 2,
+        "beats": [
+          "Dantonfromsandton",
+          "Paul Revere",
+          "Silver Tudor"
+        ],
+        "losesTo": [
+          "Kensal Green",
+          "Master Christmas"
+        ]
+      }
+    },
+    {
+      "key": "CHRONICLE KING",
+      "name": "Chronicle King",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 1.75,
+          "beaten": [
+            "Got The Feeling",
+            "Copper Eagle",
+            "World Of Royalty",
+            "Scarlett Heart",
+            "Surprise Party"
+          ],
+          "weight": 60,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 1,
+        "beats": [
+          "Got The Feeling",
+          "Copper Eagle",
+          "World Of Royalty",
+          "Scarlett Heart",
+          "Surprise Party"
+        ],
+        "losesTo": [
+          "Errol Flynn"
+        ]
+      }
+    },
+    {
+      "key": "COPPER EAGLE",
+      "name": "Copper Eagle",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 4.75,
+          "beaten": [
+            "World Of Royalty",
+            "Scarlett Heart",
+            "Surprise Party"
+          ],
+          "weight": 58,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 3,
+        "beats": [
+          "World Of Royalty",
+          "Scarlett Heart",
+          "Surprise Party"
+        ],
+        "losesTo": [
+          "Errol Flynn",
+          "Chronicle King",
+          "Got The Feeling"
+        ]
+      }
+    },
+    {
+      "key": "DANTONFROMSANDTON",
+      "name": "Dantonfromsandton",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 2.9,
+          "beaten": [
+            "Paul Revere",
+            "Silver Tudor"
+          ],
+          "weight": 59,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "Paul Revere",
+          "Silver Tudor"
+        ],
+        "losesTo": [
+          "Kensal Green",
+          "Master Christmas",
+          "Chestnut Bomber"
+        ]
+      }
+    },
+    {
+      "key": "DEAR DOC",
+      "name": "Dear Doc",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 3.3,
+          "beaten": [
+            "Snowblade",
+            "Angle Of Attack",
+            "Hartree",
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 60,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz"
+        ]
+      }
+    },
+    {
+      "key": "DONT CRY FOR ME",
+      "name": "Don't Cry For Me",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 7.7,
+          "beaten": [],
+          "weight": 54,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 5,
+        "beats": [],
+        "losesTo": [
+          "The Equator",
+          "Hawkbill",
+          "King's Express",
+          "Fire 'N Flames",
+          "Wild Intent"
+        ]
+      }
+    },
+    {
+      "key": "EHHFIFTEENKJOE",
+      "name": "Ehhfifteenkjoe",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 10.35,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "C Ngcobo",
+          "trainer": null,
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness"
+        ]
+      }
+    },
+    {
+      "key": "ENFLAME",
+      "name": "Enflame",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 2,
+          "distance": 2400,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 1,
+          "field": 3,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Mo Ment",
+            "Euphrates"
+          ],
+          "weight": 60,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 0,
+        "beats": [
+          "Mo Ment",
+          "Euphrates"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "ERIKS GIRL",
+      "name": "Erik's Girl",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 6,
+          "field": 7,
+          "marginBehindWinner": 5.95,
+          "beaten": [
+            "Blue Storm Runner"
+          ],
+          "weight": 60,
+          "jockey": "N Ngqwangi",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 5,
+        "beats": [
+          "Blue Storm Runner"
+        ],
+        "losesTo": [
+          "Star Magnolia",
+          "Regal Queen",
+          "Pennys Choice",
+          "Winika",
+          "What Now My Love"
+        ]
+      }
+    },
+    {
+      "key": "ERROL FLYNN",
+      "name": "Errol Flynn",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Chronicle King",
+            "Got The Feeling",
+            "Copper Eagle",
+            "World Of Royalty",
+            "Scarlett Heart",
+            "Surprise Party"
+          ],
+          "weight": 58,
+          "jockey": "K de Melo",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 0,
+        "beats": [
+          "Chronicle King",
+          "Got The Feeling",
+          "Copper Eagle",
+          "World Of Royalty",
+          "Scarlett Heart",
+          "Surprise Party"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "EUPHRATES",
+      "name": "Euphrates",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 2,
+          "distance": 2400,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 3,
+          "field": 3,
+          "marginBehindWinner": 4,
+          "beaten": [],
+          "weight": 54,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 2,
+        "beats": [],
+        "losesTo": [
+          "Enflame",
+          "Mo Ment"
+        ]
+      }
+    },
+    {
+      "key": "EXPERT WITNESS",
+      "name": "Expert Witness",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 9.85,
+          "beaten": [
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle"
+        ]
+      }
+    },
+    {
+      "key": "FIELD OF DREAMS",
+      "name": "Field Of Dreams",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "0",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 10,
+          "field": 10,
+          "marginBehindWinner": 15.25,
+          "beaten": [],
+          "weight": 57,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 9,
+        "beats": [],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta"
+        ]
+      }
+    },
+    {
+      "key": "FIRE N FLAMES",
+      "name": "Fire 'N Flames",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 2.1,
+          "beaten": [
+            "Wild Intent",
+            "Don't Cry For Me"
+          ],
+          "weight": 54,
+          "jockey": "R A Venniker",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "Wild Intent",
+          "Don't Cry For Me"
+        ],
+        "losesTo": [
+          "The Equator",
+          "Hawkbill",
+          "King's Express"
+        ]
+      }
+    },
+    {
+      "key": "GLASTONBURY FIRE",
+      "name": "Glastonbury Fire",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 5,
+          "field": 10,
+          "marginBehindWinner": 6.25,
+          "beaten": [
+            "Spicy Plum",
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 60,
+          "jockey": "N Klink",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 4,
+        "beats": [
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here"
+        ]
+      }
+    },
+    {
+      "key": "GOT THE FEELING",
+      "name": "Got The Feeling",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 4.55,
+          "beaten": [
+            "Copper Eagle",
+            "World Of Royalty",
+            "Scarlett Heart",
+            "Surprise Party"
+          ],
+          "weight": 58,
+          "jockey": "K Strydom",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 2,
+        "beats": [
+          "Copper Eagle",
+          "World Of Royalty",
+          "Scarlett Heart",
+          "Surprise Party"
+        ],
+        "losesTo": [
+          "Errol Flynn",
+          "Chronicle King"
+        ]
+      }
+    },
+    {
+      "key": "GOTTHETIGER",
+      "name": "Gotthetiger",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Spirit Of Gabz",
+            "Dear Doc",
+            "Snowblade",
+            "Angle Of Attack",
+            "Hartree",
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "K de Melo",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "HARTREE",
+      "name": "Hartree",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 5.05,
+          "beaten": [
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack"
+        ]
+      }
+    },
+    {
+      "key": "HARUN AL RASHID",
+      "name": "Harun Al Rashid",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 0.9,
+          "beaten": [
+            "After Hours",
+            "Sunset Warrior",
+            "Utsaah",
+            "Top Shelf Teddy"
+          ],
+          "weight": 60,
+          "jockey": "K J Lihaba",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 1,
+        "beats": [
+          "After Hours",
+          "Sunset Warrior",
+          "Utsaah",
+          "Top Shelf Teddy"
+        ],
+        "losesTo": [
+          "Sky Pilot"
+        ]
+      }
+    },
+    {
+      "key": "HAWKBILL",
+      "name": "Hawkbill",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 0.8,
+          "beaten": [
+            "King's Express",
+            "Fire 'N Flames",
+            "Wild Intent",
+            "Don't Cry For Me"
+          ],
+          "weight": 52,
+          "jockey": "M K Katjedi",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 1,
+        "beats": [
+          "King's Express",
+          "Fire 'N Flames",
+          "Wild Intent",
+          "Don't Cry For Me"
+        ],
+        "losesTo": [
+          "The Equator"
+        ]
+      }
+    },
+    {
+      "key": "IMPRESSIVE",
+      "name": "Impressive",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 2.9,
+          "beaten": [
+            "Secret Fate",
+            "Bellflower",
+            "Unvarnished Gold"
+          ],
+          "weight": 58,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 2,
+        "beats": [
+          "Secret Fate",
+          "Bellflower",
+          "Unvarnished Gold"
+        ],
+        "losesTo": [
+          "Within Reach",
+          "Queen Leila"
+        ]
+      }
+    },
+    {
+      "key": "KENSAL GREEN",
+      "name": "Kensal Green",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Master Christmas",
+            "Chestnut Bomber",
+            "Dantonfromsandton",
+            "Paul Revere",
+            "Silver Tudor"
+          ],
+          "weight": 57.5,
+          "jockey": "R A Venniker",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 0,
+        "beats": [
+          "Master Christmas",
+          "Chestnut Bomber",
+          "Dantonfromsandton",
+          "Paul Revere",
+          "Silver Tudor"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "KINGS EXPRESS",
+      "name": "King's Express",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 1.7,
+          "beaten": [
+            "Fire 'N Flames",
+            "Wild Intent",
+            "Don't Cry For Me"
+          ],
+          "weight": 54,
+          "jockey": "B Marx-Jacobson",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 2,
+        "beats": [
+          "Fire 'N Flames",
+          "Wild Intent",
+          "Don't Cry For Me"
+        ],
+        "losesTo": [
+          "The Equator",
+          "Hawkbill"
+        ]
+      }
+    },
+    {
+      "key": "LEANNES LOVE",
+      "name": "Leanne's Love",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 8,
+          "field": 10,
+          "marginBehindWinner": 12.35,
+          "beaten": [
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57.5,
+          "jockey": "J R Syster",
+          "trainer": null,
+          "draw": 10
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 7,
+        "beats": [
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio"
+        ]
+      }
+    },
+    {
+      "key": "MASTER CHRISTMAS",
+      "name": "Master Christmas",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 1.8,
+          "beaten": [
+            "Chestnut Bomber",
+            "Dantonfromsandton",
+            "Paul Revere",
+            "Silver Tudor"
+          ],
+          "weight": 59,
+          "jockey": "K J Lihaba",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 1,
+        "beats": [
+          "Chestnut Bomber",
+          "Dantonfromsandton",
+          "Paul Revere",
+          "Silver Tudor"
+        ],
+        "losesTo": [
+          "Kensal Green"
+        ]
+      }
+    },
+    {
+      "key": "MO MENT",
+      "name": "Mo Ment",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 2,
+          "distance": 2400,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 2,
+          "field": 3,
+          "marginBehindWinner": 3.25,
+          "beaten": [
+            "Euphrates"
+          ],
+          "weight": 54,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 1,
+        "beats": [
+          "Euphrates"
+        ],
+        "losesTo": [
+          "Enflame"
+        ]
+      }
+    },
+    {
+      "key": "PARISIENNE QUEEN",
+      "name": "Parisienne Queen",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 3,
+          "field": 10,
+          "marginBehindWinner": 3.45,
+          "beaten": [
+            "Wish You Were Here",
+            "Glastonbury Fire",
+            "Spicy Plum",
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57.5,
+          "jockey": "K J Lihaba",
+          "trainer": null,
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 2,
+        "beats": [
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position"
+        ]
+      }
+    },
+    {
+      "key": "PAUL REVERE",
+      "name": "Paul Revere",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 5,
+          "beaten": [
+            "Silver Tudor"
+          ],
+          "weight": 58,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 4,
+        "beats": [
+          "Silver Tudor"
+        ],
+        "losesTo": [
+          "Kensal Green",
+          "Master Christmas",
+          "Chestnut Bomber",
+          "Dantonfromsandton"
+        ]
+      }
+    },
+    {
+      "key": "PENNYS CHOICE",
+      "name": "Pennys Choice",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 3.55,
+          "beaten": [
+            "Winika",
+            "What Now My Love",
+            "Erik's Girl",
+            "Blue Storm Runner"
+          ],
+          "weight": 60,
+          "jockey": "C Mabaya",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 2,
+        "beats": [
+          "Winika",
+          "What Now My Love",
+          "Erik's Girl",
+          "Blue Storm Runner"
+        ],
+        "losesTo": [
+          "Star Magnolia",
+          "Regal Queen"
+        ]
+      }
+    },
+    {
+      "key": "POLE POSITION",
+      "name": "Pole Position",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 2,
+          "field": 10,
+          "marginBehindWinner": 1.75,
+          "beaten": [
+            "Parisienne Queen",
+            "Wish You Were Here",
+            "Glastonbury Fire",
+            "Spicy Plum",
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 1,
+        "beats": [
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu"
+        ]
+      }
+    },
+    {
+      "key": "QUANTUM THEORY",
+      "name": "Quantum Theory",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 11.05,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "K de Melo",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 7,
+        "beats": [],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook",
+          "African Pride",
+          "The Last Duke",
+          "Zalatoris",
+          "Slinky Mapimpi",
+          "Charming Cheetah"
+        ]
+      }
+    },
+    {
+      "key": "QUEEN LEILA",
+      "name": "Queen Leila",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 0.6,
+          "beaten": [
+            "Impressive",
+            "Secret Fate",
+            "Bellflower",
+            "Unvarnished Gold"
+          ],
+          "weight": 60,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 1,
+        "beats": [
+          "Impressive",
+          "Secret Fate",
+          "Bellflower",
+          "Unvarnished Gold"
+        ],
+        "losesTo": [
+          "Within Reach"
+        ]
+      }
+    },
+    {
+      "key": "RAFES ORACLE",
+      "name": "Rafe's Oracle",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 7.55,
+          "beaten": [
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree"
+        ]
+      }
+    },
+    {
+      "key": "REGAL QUEEN",
+      "name": "Regal Queen",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 3.5,
+          "beaten": [
+            "Pennys Choice",
+            "Winika",
+            "What Now My Love",
+            "Erik's Girl",
+            "Blue Storm Runner"
+          ],
+          "weight": 57,
+          "jockey": "T Mango",
+          "trainer": null,
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 1,
+        "beats": [
+          "Pennys Choice",
+          "Winika",
+          "What Now My Love",
+          "Erik's Girl",
+          "Blue Storm Runner"
+        ],
+        "losesTo": [
+          "Star Magnolia"
+        ]
+      }
+    },
+    {
+      "key": "RUMBA ERUPTA",
+      "name": "Rumba Erupta",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 9,
+          "field": 10,
+          "marginBehindWinner": 13.35,
+          "beaten": [
+            "Field Of Dreams"
+          ],
+          "weight": 57,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 8,
+        "beats": [
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love"
+        ]
+      }
+    },
+    {
+      "key": "SCARLETT HEART",
+      "name": "Scarlett Heart",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 6,
+          "field": 7,
+          "marginBehindWinner": 9.25,
+          "beaten": [
+            "Surprise Party"
+          ],
+          "weight": 55.5,
+          "jockey": "J Penny",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 5,
+        "beats": [
+          "Surprise Party"
+        ],
+        "losesTo": [
+          "Errol Flynn",
+          "Chronicle King",
+          "Got The Feeling",
+          "Copper Eagle",
+          "World Of Royalty"
+        ]
+      }
+    },
+    {
+      "key": "SECRET FATE",
+      "name": "Secret Fate",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 7.9,
+          "beaten": [
+            "Bellflower",
+            "Unvarnished Gold"
+          ],
+          "weight": 58,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "Bellflower",
+          "Unvarnished Gold"
+        ],
+        "losesTo": [
+          "Within Reach",
+          "Queen Leila",
+          "Impressive"
+        ]
+      }
+    },
+    {
+      "key": "SILVER TUDOR",
+      "name": "Silver Tudor",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "MR 96 Handicap",
+          "classType": "mr",
+          "classRank": 96,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 8.6,
+          "beaten": [],
+          "weight": 60.5,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 5,
+        "beats": [],
+        "losesTo": [
+          "Kensal Green",
+          "Master Christmas",
+          "Chestnut Bomber",
+          "Dantonfromsandton",
+          "Paul Revere"
+        ]
+      }
+    },
+    {
+      "key": "SKY PILOT",
+      "name": "Sky Pilot",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Harun Al Rashid",
+            "After Hours",
+            "Sunset Warrior",
+            "Utsaah",
+            "Top Shelf Teddy"
+          ],
+          "weight": 59.5,
+          "jockey": "G Lerena",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 0,
+        "beats": [
+          "Harun Al Rashid",
+          "After Hours",
+          "Sunset Warrior",
+          "Utsaah",
+          "Top Shelf Teddy"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "SLINKY MAPIMPI",
+      "name": "Slinky Mapimpi",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 4.15,
+          "beaten": [
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 50,
+          "jockey": "M K Katjedi",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 5,
+        "beats": [
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook",
+          "African Pride",
+          "The Last Duke",
+          "Zalatoris"
+        ]
+      }
+    },
+    {
+      "key": "SNOWBLADE",
+      "name": "Snowblade",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 3.9,
+          "beaten": [
+            "Angle Of Attack",
+            "Hartree",
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 57,
+          "jockey": "R A Venniker",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger",
+          "Spirit Of Gabz",
+          "Dear Doc"
+        ]
+      }
+    },
+    {
+      "key": "SPICY PLUM",
+      "name": "Spicy Plum",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 6,
+          "field": 10,
+          "marginBehindWinner": 8,
+          "beaten": [
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 5,
+        "beats": [
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire"
+        ]
+      }
+    },
+    {
+      "key": "SPIRIT OF GABZ",
+      "name": "Spirit Of Gabz",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 4,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 1.3,
+          "beaten": [
+            "Dear Doc",
+            "Snowblade",
+            "Angle Of Attack",
+            "Hartree",
+            "Rafe's Oracle",
+            "Expert Witness",
+            "Ehhfifteenkjoe"
+          ],
+          "weight": 60,
+          "jockey": "T Mayhew",
+          "trainer": null,
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "Dear Doc",
+          "Snowblade",
+          "Angle Of Attack",
+          "Hartree",
+          "Rafe's Oracle",
+          "Expert Witness",
+          "Ehhfifteenkjoe"
+        ],
+        "losesTo": [
+          "Gotthetiger"
+        ]
+      }
+    },
+    {
+      "key": "STAR MAGNOLIA",
+      "name": "Star Magnolia",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Regal Queen",
+            "Pennys Choice",
+            "Winika",
+            "What Now My Love",
+            "Erik's Girl",
+            "Blue Storm Runner"
+          ],
+          "weight": 57,
+          "jockey": "P Mongqawa",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 0,
+        "beats": [
+          "Regal Queen",
+          "Pennys Choice",
+          "Winika",
+          "What Now My Love",
+          "Erik's Girl",
+          "Blue Storm Runner"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "SUNSET WARRIOR",
+      "name": "Sunset Warrior",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 2.25,
+          "beaten": [
+            "Utsaah",
+            "Top Shelf Teddy"
+          ],
+          "weight": 56.5,
+          "jockey": "J R Syster",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "Utsaah",
+          "Top Shelf Teddy"
+        ],
+        "losesTo": [
+          "Sky Pilot",
+          "Harun Al Rashid",
+          "After Hours"
+        ]
+      }
+    },
+    {
+      "key": "SURPRISE PARTY",
+      "name": "Surprise Party",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 9.65,
+          "beaten": [],
+          "weight": 55.5,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 6,
+        "beats": [],
+        "losesTo": [
+          "Errol Flynn",
+          "Chronicle King",
+          "Got The Feeling",
+          "Copper Eagle",
+          "World Of Royalty",
+          "Scarlett Heart"
+        ]
+      }
+    },
+    {
+      "key": "TAXI TO THE MOON",
+      "name": "Taxi To The Moon",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Chapbook",
+            "African Pride",
+            "The Last Duke",
+            "Zalatoris",
+            "Slinky Mapimpi",
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 62,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 0,
+        "beats": [
+          "Chapbook",
+          "African Pride",
+          "The Last Duke",
+          "Zalatoris",
+          "Slinky Mapimpi",
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "THE EQUATOR",
+      "name": "The Equator",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Hawkbill",
+            "King's Express",
+            "Fire 'N Flames",
+            "Wild Intent",
+            "Don't Cry For Me"
+          ],
+          "weight": 60,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 0,
+        "beats": [
+          "Hawkbill",
+          "King's Express",
+          "Fire 'N Flames",
+          "Wild Intent",
+          "Don't Cry For Me"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "THE LAST DUKE",
+      "name": "The Last Duke",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 1.4,
+          "beaten": [
+            "Zalatoris",
+            "Slinky Mapimpi",
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 50,
+          "jockey": "P Mxoli",
+          "trainer": null,
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 3,
+        "beats": [
+          "Zalatoris",
+          "Slinky Mapimpi",
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook",
+          "African Pride"
+        ]
+      }
+    },
+    {
+      "key": "TOP SHELF TEDDY",
+      "name": "Top Shelf Teddy",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 2.9,
+          "beaten": [],
+          "weight": 60.5,
+          "jockey": "K Matsunyane",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 5,
+        "beats": [],
+        "losesTo": [
+          "Sky Pilot",
+          "Harun Al Rashid",
+          "After Hours",
+          "Sunset Warrior",
+          "Utsaah"
+        ]
+      }
+    },
+    {
+      "key": "UNVARNISHED GOLD",
+      "name": "Unvarnished Gold",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 34.1,
+          "beaten": [],
+          "weight": 55,
+          "jockey": "Wes Marwing",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 5,
+        "beats": [],
+        "losesTo": [
+          "Within Reach",
+          "Queen Leila",
+          "Impressive",
+          "Secret Fate",
+          "Bellflower"
+        ]
+      }
+    },
+    {
+      "key": "UTSAAH",
+      "name": "Utsaah",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 10,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "MR 80 Handicap",
+          "classType": "mr",
+          "classRank": 80,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 2.85,
+          "beaten": [
+            "Top Shelf Teddy"
+          ],
+          "weight": 57.5,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 4,
+        "beats": [
+          "Top Shelf Teddy"
+        ],
+        "losesTo": [
+          "Sky Pilot",
+          "Harun Al Rashid",
+          "After Hours",
+          "Sunset Warrior"
+        ]
+      }
+    },
+    {
+      "key": "WHAT NOW MY LOVE",
+      "name": "What Now My Love",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 5.7,
+          "beaten": [
+            "Erik's Girl",
+            "Blue Storm Runner"
+          ],
+          "weight": 57,
+          "jockey": "S Valjalo",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 4,
+        "beats": [
+          "Erik's Girl",
+          "Blue Storm Runner"
+        ],
+        "losesTo": [
+          "Star Magnolia",
+          "Regal Queen",
+          "Pennys Choice",
+          "Winika"
+        ]
+      }
+    },
+    {
+      "key": "WHATSDAMATTERWITHU",
+      "name": "Whatsdamatterwithu",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 1,
+          "field": 10,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Pole Position",
+            "Parisienne Queen",
+            "Wish You Were Here",
+            "Glastonbury Fire",
+            "Spicy Plum",
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 57,
+          "jockey": "C Habib",
+          "trainer": null,
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 9,
+        "losses": 0,
+        "beats": [
+          "Pole Position",
+          "Parisienne Queen",
+          "Wish You Were Here",
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "WILD INTENT",
+      "name": "Wild Intent",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 6,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 3.7,
+          "beaten": [
+            "Don't Cry For Me"
+          ],
+          "weight": 56,
+          "jockey": "C Zackey",
+          "trainer": null,
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 4,
+        "beats": [
+          "Don't Cry For Me"
+        ],
+        "losesTo": [
+          "The Equator",
+          "Hawkbill",
+          "King's Express",
+          "Fire 'N Flames"
+        ]
+      }
+    },
+    {
+      "key": "WINIKA",
+      "name": "Winika",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 1,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 3.8,
+          "beaten": [
+            "What Now My Love",
+            "Erik's Girl",
+            "Blue Storm Runner"
+          ],
+          "weight": 60,
+          "jockey": "G Dadamasi",
+          "trainer": null,
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 3,
+        "beats": [
+          "What Now My Love",
+          "Erik's Girl",
+          "Blue Storm Runner"
+        ],
+        "losesTo": [
+          "Star Magnolia",
+          "Regal Queen",
+          "Pennys Choice"
+        ]
+      }
+    },
+    {
+      "key": "WISH YOU WERE HERE",
+      "name": "Wish You Were Here",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": "named",
+          "classRank": 10,
+          "finish": 4,
+          "field": 10,
+          "marginBehindWinner": 5.15,
+          "beaten": [
+            "Glastonbury Fire",
+            "Spicy Plum",
+            "Campo Formio",
+            "Leanne's Love",
+            "Rumba Erupta",
+            "Field Of Dreams"
+          ],
+          "weight": 60,
+          "jockey": "M V'Rensburg",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 3,
+        "beats": [
+          "Glastonbury Fire",
+          "Spicy Plum",
+          "Campo Formio",
+          "Leanne's Love",
+          "Rumba Erupta",
+          "Field Of Dreams"
+        ],
+        "losesTo": [
+          "Whatsdamatterwithu",
+          "Pole Position",
+          "Parisienne Queen"
+        ]
+      }
+    },
+    {
+      "key": "WITHIN REACH",
+      "name": "Within Reach",
+      "rating": null,
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Juvenile Plate",
+          "classType": "named",
+          "classRank": 15,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Queen Leila",
+            "Impressive",
+            "Secret Fate",
+            "Bellflower",
+            "Unvarnished Gold"
+          ],
+          "weight": 58,
+          "jockey": "K de Melo",
+          "trainer": null,
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 0,
+        "beats": [
+          "Queen Leila",
+          "Impressive",
+          "Secret Fate",
+          "Bellflower",
+          "Unvarnished Gold"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "WORLD OF ROYALTY",
+      "name": "World Of Royalty",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": "named",
+          "classRank": 55,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 7.85,
+          "beaten": [
+            "Scarlett Heart",
+            "Surprise Party"
+          ],
+          "weight": 58,
+          "jockey": "R A Venniker",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 4,
+        "beats": [
+          "Scarlett Heart",
+          "Surprise Party"
+        ],
+        "losesTo": [
+          "Errol Flynn",
+          "Chronicle King",
+          "Got The Feeling",
+          "Copper Eagle"
+        ]
+      }
+    },
+    {
+      "key": "ZALATORIS",
+      "name": "Zalatoris",
+      "rating": null,
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Turffontein"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-05",
+          "track": "Turffontein",
+          "race": 8,
+          "distance": 1160,
+          "going": null,
+          "classLabel": "Pinnacle Stakes",
+          "classType": "named",
+          "classRank": 60,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 3.9,
+          "beaten": [
+            "Slinky Mapimpi",
+            "Charming Cheetah",
+            "Quantum Theory"
+          ],
+          "weight": 54,
+          "jockey": "K J Lihaba",
+          "trainer": null,
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 4,
+        "beats": [
+          "Slinky Mapimpi",
+          "Charming Cheetah",
+          "Quantum Theory"
+        ],
+        "losesTo": [
+          "Taxi To The Moon",
+          "Chapbook",
+          "African Pride",
+          "The Last Duke"
         ]
       }
     }

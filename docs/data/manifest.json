@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T06:41:29.839Z",
+  "generated": "2026-07-05T19:37:24.981Z",
   "count": 10,
   "days": [
     {
@@ -8,7 +8,7 @@
       "tracks": [
         "TURFFONTEIN"
       ],
-      "settled": 0
+      "settled": 10
     }
   ],
   "predictions": [
@@ -24,8 +24,14 @@
       "classLabel": "MR 80 Handicap",
       "runners": 9,
       "topPick": "WAR REPORTER",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Sky Pilot",
+        "topPick": "WAR REPORTER",
+        "topPickScratched": true,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r9.json",
@@ -39,8 +45,14 @@
       "classLabel": "MR 96 Handicap",
       "runners": 9,
       "topPick": "WARNING SOUND",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Kensal Green",
+        "topPick": "WARNING SOUND",
+        "topPickScratched": true,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r8.json",
@@ -54,8 +66,14 @@
       "classLabel": "Pinnacle Stakes",
       "runners": 10,
       "topPick": "TAXI TO THE MOON",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Taxi To The Moon",
+        "topPick": "TAXI TO THE MOON",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r7.json",
@@ -69,8 +87,14 @@
       "classLabel": "Grade 3",
       "runners": 8,
       "topPick": "ERROL FLYNN",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Errol Flynn",
+        "topPick": "ERROL FLYNN",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r6.json",
@@ -84,8 +108,14 @@
       "classLabel": "Pinnacle Stakes",
       "runners": 6,
       "topPick": "KING’S EXPRESS",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "The Equator",
+        "topPick": "KING’S EXPRESS",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r5.json",
@@ -99,8 +129,14 @@
       "classLabel": "Maiden Plate",
       "runners": 10,
       "topPick": "WHATSDAMATTERWITHU",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Whatsdamatterwithu",
+        "topPick": "WHATSDAMATTERWITHU",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r4.json",
@@ -114,8 +150,14 @@
       "classLabel": "Juvenile Plate",
       "runners": 9,
       "topPick": "EXPERT WITNESS",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Gotthetiger",
+        "topPick": "EXPERT WITNESS",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r3.json",
@@ -129,8 +171,14 @@
       "classLabel": "Juvenile Plate",
       "runners": 7,
       "topPick": "SECRET FATE",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Within Reach",
+        "topPick": "SECRET FATE",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r2.json",
@@ -144,8 +192,14 @@
       "classLabel": "Pinnacle Stakes",
       "runners": 7,
       "topPick": "ENFLAME",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Enflame",
+        "topPick": "ENFLAME",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r1.json",
@@ -159,8 +213,14 @@
       "classLabel": "Maiden Plate",
       "runners": 8,
       "topPick": "STAR MAGNOLIA",
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "Star Magnolia",
+        "topPick": "STAR MAGNOLIA",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     }
   ]
 }

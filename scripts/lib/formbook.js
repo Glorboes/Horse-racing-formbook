@@ -104,14 +104,18 @@ function logResult(fb, result) {
   const pred = fb.predictionsLog.find((p) => p.id === predId);
   if (pred && !pred.settled) {
     const winnerName = enriched.find((f) => f.finish === 1);
+    const finKeys = enriched.map((f) => normalizeName(f.name));
     const placed = enriched.filter((f) => f.finish <= 3).map((f) => normalizeName(f.name));
     const topPick = pred.ranked && pred.ranked[0];
+    const topKey = topPick ? normalizeName(topPick.name) : null;
+    const scratched = topKey ? !finKeys.includes(topKey) : false; // pick withdrawn after the card
     pred.settled = true;
     pred.result = {
       winner: winnerName ? winnerName.name.trim() : null,
       topPick: topPick ? topPick.name : null,
-      topPickWon: topPick ? normalizeName(topPick.name) === normalizeName(winnerName?.name) : false,
-      topPickPlaced: topPick ? placed.includes(normalizeName(topPick.name)) : false,
+      topPickScratched: scratched,
+      topPickWon: !scratched && topKey ? topKey === normalizeName(winnerName?.name) : false,
+      topPickPlaced: !scratched && topKey ? placed.includes(topKey) : false,
     };
   }
 
@@ -200,12 +204,15 @@ function strongestByHeadToHead(fb, field, opts = {}) {
 // Strike rate over settled predictions
 // ---------------------------------------------------------------------------
 function strikeRate(fb) {
-  const settled = fb.predictionsLog.filter((p) => p.settled && p.result);
+  const allSettled = fb.predictionsLog.filter((p) => p.settled && p.result);
+  const scratched = allSettled.filter((p) => p.result.topPickScratched).length;
+  const settled = allSettled.filter((p) => !p.result.topPickScratched); // top pick actually ran
   const n = settled.length;
   const wins = settled.filter((p) => p.result.topPickWon).length;
   const places = settled.filter((p) => p.result.topPickPlaced).length;
   return {
     settled: n,
+    scratched,
     topPickWins: wins,
     topPickPlaces: places,
     winPct: n ? +((wins / n) * 100).toFixed(1) : 0,
@@ -253,6 +260,7 @@ function calibration(fb) {
   ].map((t) => ({ ...t, n: 0, wins: 0, places: 0 }));
   for (const p of fb.predictionsLog) {
     if (!p.settled || !p.result || !p.ranked || !p.ranked[0]) continue;
+    if (p.result.topPickScratched) continue; // pick didn't run — void
     const score = p.ranked[0].score;
     const tier = tiers.find((t) => score >= t.min && score < t.max);
     if (!tier) continue;

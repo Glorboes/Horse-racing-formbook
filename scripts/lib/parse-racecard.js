@@ -181,4 +181,4 @@ function classify(title) {
 function num(v) { const n = Number(String(v ?? '').replace(/[^\d.\-]/g, '')); return Number.isFinite(n) && v != null && v !== '' ? n : null; }
 function coerce(k, v) { return (k === 'race' || k === 'distance') ? num(v) : v.trim(); }
 
-module.exports = { parseRacecard, normalizeRace, parseComputaform };
+module.exports = { parseRacecard, normalizeRace, parseComputaform, classify };
