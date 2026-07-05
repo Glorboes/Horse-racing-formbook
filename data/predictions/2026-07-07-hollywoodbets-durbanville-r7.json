@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": null,
-  "generated": "2026-07-05T19:47:43.170Z",
+  "generated": "2026-07-05T20:25:01.656Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "PRINCE OF TIBET",
       "draw": 3,
       "rating": 61,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "E Steyn",
       "weight": 58,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 56,
+      "score": 56.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.435,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.82,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 37,
+        "wins": 4,
+        "seconds": 4,
+        "thirds": 6
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -60,17 +66,94 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, the draw.",
+        "Career 37 starts, 4 wins, 14 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [],
       "marketRank": 3,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2469,
-      "pPlace": 0.6295,
+      "pWin": 0.2331,
+      "pPlace": 0.6158,
       "pMarket": 0.1668,
-      "edge": 0.1602
+      "edge": 0.1327
+    },
+    {
+      "name": "ONE MAGIC",
+      "key": "ONE MAGIC",
+      "draw": 6,
+      "rating": 55,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "weight": 59,
+      "odds": "2/1",
+      "oddsDecimal": 2,
+      "score": 52.9,
+      "factors": {
+        "form": 0.98,
+        "rating": 0.25,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.182,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 17.64,
+        "rating": 4,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 1.09,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: recent form.",
+        "Up against it on: class/rating, weight.",
+        "Career 1 start, 1 win, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "marketRank": 1,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.2198,
+      "pPlace": 0.5939,
+      "pMarket": 0.278,
+      "edge": -0.1164
     },
     {
       "name": "TYPICALLY FRENCH",
@@ -108,6 +191,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -120,17 +204,25 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight.",
-        "Model/market disagree: model rank 2 vs market rank 8 (33/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
+        "Model/market disagree: model rank 3 vs market rank 8 (33/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 8,
-      "rank": 2,
+      "rank": 3,
       "marketDisagree": true,
-      "pWin": 0.0755,
-      "pPlace": 0.2495,
+      "pWin": 0.0647,
+      "pPlace": 0.2197,
       "pMarket": 0.0245,
-      "edge": 0.1019
+      "edge": 0.0803
     },
     {
       "name": "LOVERS LANE",
@@ -168,6 +260,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -180,30 +273,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 5,
-      "rank": 3,
+      "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.0932,
-      "pPlace": 0.3013,
+      "pWin": 0.0827,
+      "pPlace": 0.275,
       "pMarket": 0.0641,
-      "edge": 0.0582
+      "edge": 0.0372
     },
     {
       "name": "RUN FOR COVER",
       "key": "RUN FOR COVER",
       "draw": 1,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Orffer",
+      "trainer": "P Botha",
       "weight": 57,
       "odds": "50/1",
       "oddsDecimal": 50,
-      "score": 49.2,
+      "score": 49.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.429,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -215,7 +316,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.72,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -227,6 +328,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 33,
+        "wins": 4,
+        "seconds": 3,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -239,31 +346,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 4 vs market rank 9 (50/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 5 vs market rank 9 (50/1).",
+        "Career 33 starts, 4 wins, 10 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 9,
-      "rank": 4,
+      "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.0608,
-      "pPlace": 0.2046,
+      "pWin": 0.0556,
+      "pPlace": 0.1909,
       "pMarket": 0.0164,
-      "edge": 0.0889
+      "edge": 0.0785
     },
     {
       "name": "AVIGNON",
       "key": "AVIGNON",
       "draw": 4,
       "rating": 58,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
       "weight": 59,
       "odds": "33/10",
       "oddsDecimal": 3.3,
-      "score": 49.1,
+      "score": 49.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.419,
         "rating": 0.625,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +389,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.54,
         "rating": 10,
         "distance": 5,
         "going": 4,
@@ -287,6 +401,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 38,
+        "wins": 4,
+        "seconds": 3,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -299,32 +419,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "Model/market disagree: model rank 5 vs market rank 2 (33/10).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
+        "Model/market disagree: model rank 6 vs market rank 2 (33/10).",
+        "Career 38 starts, 4 wins, 11 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 2,
-      "rank": 5,
+      "rank": 6,
       "marketDisagree": true,
-      "pWin": 0.1487,
-      "pPlace": 0.4448,
+      "pWin": 0.1421,
+      "pPlace": 0.4352,
       "pMarket": 0.1939,
-      "edge": -0.0904
+      "edge": -0.1037
     },
     {
       "name": "OZARK",
       "key": "OZARK",
       "draw": 7,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "P D Reeves",
       "weight": 55,
       "odds": "9/2",
       "oddsDecimal": 4.5,
       "score": 48.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.404,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -336,7 +462,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.26,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -348,6 +474,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 39,
+        "wins": 3,
+        "seconds": 3,
+        "thirds": 5
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -360,30 +492,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 7 vs market rank 4 (9/2).",
+        "Career 39 starts, 3 wins, 11 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 4,
-      "rank": 6,
-      "marketDisagree": false,
-      "pWin": 0.1211,
-      "pPlace": 0.377,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1134,
+      "pPlace": 0.3618,
       "pMarket": 0.1516,
-      "edge": -0.061
+      "edge": -0.0765
     },
     {
       "name": "COMMANDING",
       "key": "COMMANDING",
       "draw": 2,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "G S Kotzen",
       "weight": 60,
       "odds": "16/1",
       "oddsDecimal": 16,
-      "score": 47.2,
+      "score": 46.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.381,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -395,7 +535,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.85,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -407,6 +547,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 24,
+        "wins": 1,
+        "seconds": 3,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -419,92 +565,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: recent form, weight.",
+        "Career 24 starts, 1 win, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
       ],
       "marketRank": 7,
-      "rank": 7,
-      "marketDisagree": false,
-      "pWin": 0.0622,
-      "pPlace": 0.209,
-      "pMarket": 0.0491,
-      "edge": 0.0264
-    },
-    {
-      "name": "ONE MAGIC",
-      "key": "ONE MAGIC",
-      "draw": 6,
-      "rating": 55,
-      "jockey": null,
-      "trainer": null,
-      "weight": 59,
-      "odds": "2/1",
-      "oddsDecimal": 2,
-      "score": 42.4,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.25,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.722,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.182,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 4,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.33,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 1.09,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
-        "Model/market disagree: model rank 8 vs market rank 1 (2/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 1,
       "rank": 8,
-      "marketDisagree": true,
-      "pWin": 0.1559,
-      "pPlace": 0.4613,
-      "pMarket": 0.278,
-      "edge": -0.2441
+      "marketDisagree": false,
+      "pWin": 0.0543,
+      "pPlace": 0.1866,
+      "pMarket": 0.0491,
+      "edge": 0.0104
     },
     {
       "name": "OCTOBER FEST",
       "key": "OCTOBER FEST",
       "draw": 5,
       "rating": 53,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "C Bass",
       "weight": 61,
       "odds": "14/1",
       "oddsDecimal": 14,
-      "score": 37.7,
+      "score": 37.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.411,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -516,7 +608,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.4,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -528,6 +620,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 16,
+        "wins": 1,
+        "seconds": 2,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -540,18 +638,22 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
+        "Up against it on: class/rating, weight.",
         "Model/market disagree: model rank 9 vs market rank 6 (14/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 16 starts, 1 win, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 6,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.0355,
-      "pPlace": 0.1231,
+      "pWin": 0.0344,
+      "pPlace": 0.1211,
       "pMarket": 0.0556,
-      "edge": -0.0401
+      "edge": -0.0423
     }
   ],
   "comparison": [
@@ -559,19 +661,19 @@
       "no": 3,
       "name": "PRINCE OF TIBET",
       "rank": 1,
-      "score": 56,
+      "score": 56.6,
       "rating": 61,
       "draw": 3,
       "weight": 58,
       "odds": "4/1",
       "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "E Steyn",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.435,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -584,9 +686,37 @@
       }
     },
     {
+      "no": 6,
+      "name": "ONE MAGIC",
+      "rank": 2,
+      "score": 52.9,
+      "rating": 55,
+      "draw": 6,
+      "weight": 59,
+      "odds": "2/1",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.98,
+        "rating": 0.25,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.182,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 9,
       "name": "TYPICALLY FRENCH",
-      "rank": 2,
+      "rank": 3,
       "score": 50.3,
       "rating": null,
       "draw": 9,
@@ -614,7 +744,7 @@
     {
       "no": 8,
       "name": "LOVERS LANE",
-      "rank": 3,
+      "rank": 4,
       "score": 50.1,
       "rating": null,
       "draw": 8,
@@ -642,20 +772,20 @@
     {
       "no": 1,
       "name": "RUN FOR COVER",
-      "rank": 4,
-      "score": 49.2,
+      "rank": 5,
+      "score": 49.7,
       "rating": null,
       "draw": 1,
       "weight": 57,
       "odds": "50/1",
       "marketRank": 9,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Orffer",
+      "trainer": "P Botha",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.429,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -670,20 +800,20 @@
     {
       "no": 4,
       "name": "AVIGNON",
-      "rank": 5,
-      "score": 49.1,
+      "rank": 6,
+      "score": 49.4,
       "rating": 58,
       "draw": 4,
       "weight": 59,
       "odds": "33/10",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.419,
         "rating": 0.625,
         "distance": 0.5,
         "going": 0.5,
@@ -698,20 +828,20 @@
     {
       "no": 7,
       "name": "OZARK",
-      "rank": 6,
+      "rank": 7,
       "score": 48.3,
       "rating": null,
       "draw": 7,
       "weight": 55,
       "odds": "9/2",
       "marketRank": 4,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "marketDisagree": true,
+      "jockey": "R Fourie",
+      "trainer": "P D Reeves",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.404,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -726,20 +856,20 @@
     {
       "no": 2,
       "name": "COMMANDING",
-      "rank": 7,
-      "score": 47.2,
+      "rank": 8,
+      "score": 46.9,
       "rating": null,
       "draw": 2,
       "weight": 60,
       "odds": "16/1",
       "marketRank": 7,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "G S Kotzen",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.381,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -752,50 +882,22 @@
       }
     },
     {
-      "no": 6,
-      "name": "ONE MAGIC",
-      "rank": 8,
-      "score": 42.4,
-      "rating": 55,
-      "draw": 6,
-      "weight": 59,
-      "odds": "2/1",
-      "marketRank": 1,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.25,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.722,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.182,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 5,
       "name": "OCTOBER FEST",
       "rank": 9,
-      "score": 37.7,
+      "score": 37.9,
       "rating": 53,
       "draw": 5,
       "weight": 61,
       "odds": "14/1",
       "marketRank": 6,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "C Bass",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.411,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

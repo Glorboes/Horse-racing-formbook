@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": null,
-  "generated": "2026-07-05T19:47:43.169Z",
+  "generated": "2026-07-05T20:25:01.654Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "SUPERHERO",
       "draw": 4,
       "rating": 69,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "W A Nel",
       "weight": 60,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 54.7,
+      "score": 56.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.506,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.1,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 1,
+        "seconds": 3,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -60,90 +66,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating.",
+        "Up against it on: weight.",
+        "Career 7 starts, 1 win, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2385,
-      "pPlace": 0.6215,
+      "pWin": 0.2692,
+      "pPlace": 0.6711,
       "pMarket": 0.1666,
-      "edge": 0.1437
-    },
-    {
-      "name": "GOLD INDEX",
-      "key": "GOLD INDEX",
-      "draw": 5,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 54,
-      "odds": "4/1",
-      "oddsDecimal": 4,
-      "score": 51.5,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.75,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.5,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 2,
-      "rank": 2,
-      "marketDisagree": false,
-      "pWin": 0.1743,
-      "pPlace": 0.5052,
-      "pMarket": 0.1666,
-      "edge": 0.0155
+      "edge": 0.2051
     },
     {
       "name": "MIDWAY",
       "key": "MIDWAY",
       "draw": 7,
       "rating": 68,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "J Crawford",
       "weight": 57,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 50.8,
+      "score": 51.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -155,7 +109,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.04,
         "rating": 10.67,
         "distance": 5,
         "going": 4,
@@ -167,6 +121,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 27,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 5
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -179,30 +139,109 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, weight.",
+        "Model/market disagree: model rank 2 vs market rank 5 (6/1).",
+        "Career 27 starts, 3 wins, 12 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating",
+        "weight"
+      ],
+      "_concerns": [],
       "marketRank": 5,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.1416,
+      "pPlace": 0.4365,
+      "pMarket": 0.119,
+      "edge": 0.0452
+    },
+    {
+      "name": "GOLD INDEX",
+      "key": "GOLD INDEX",
+      "draw": 5,
+      "rating": null,
+      "jockey": "R Fourie",
+      "trainer": "R J Barrett",
+      "weight": 54,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 51.4,
+      "factors": {
+        "form": 0.393,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.08,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 40,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
+        "Career 40 starts, 3 wins, 9 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "marketRank": 2,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1405,
-      "pPlace": 0.4288,
-      "pMarket": 0.119,
-      "edge": 0.043
+      "pWin": 0.1614,
+      "pPlace": 0.4827,
+      "pMarket": 0.1666,
+      "edge": -0.0104
     },
     {
       "name": "SMART HORSE",
       "key": "SMART HORSE",
       "draw": 6,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M Michel",
+      "trainer": "J Crawford",
       "weight": 57,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 48.6,
+      "score": 48.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.385,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -214,7 +253,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.94,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -226,6 +265,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -238,30 +283,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
+        "Career 15 starts, 1 win, 3 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 3,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1256,
-      "pPlace": 0.3915,
+      "pWin": 0.116,
+      "pPlace": 0.3711,
       "pMarket": 0.1388,
-      "edge": -0.0266
+      "edge": -0.0456
     },
     {
       "name": "RED DAWN",
       "key": "RED DAWN",
       "draw": 3,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
       "weight": 61,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 46.3,
+      "score": 46.5,
       "factors": {
-        "form": 0.4,
+        "form": 0.415,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -273,7 +326,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.47,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -285,6 +338,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 19,
+        "wins": 2,
+        "seconds": 0,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,31 +356,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
+        "Career 19 starts, 2 wins, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 6,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0978,
-      "pPlace": 0.3166,
+      "pWin": 0.094,
+      "pPlace": 0.3098,
       "pMarket": 0.119,
-      "edge": -0.0425
+      "edge": -0.05
     },
     {
       "name": "DEVIL A SAINT",
       "key": "DEVIL A SAINT",
       "draw": 1,
       "rating": 67,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "D A McLachlan",
       "weight": 59,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 46,
+      "score": 46.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.412,
         "rating": 0.333,
         "distance": 0.5,
         "going": 0.5,
@@ -333,7 +399,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.42,
         "rating": 5.33,
         "distance": 5,
         "going": 4,
@@ -345,6 +411,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 37,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 5
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -357,31 +429,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating, recent form.",
+        "Career 37 starts, 3 wins, 12 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "form"
       ],
       "marketRank": 4,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.1058,
-      "pPlace": 0.339,
+      "pWin": 0.1028,
+      "pPlace": 0.3348,
       "pMarket": 0.1388,
-      "edge": -0.066
+      "edge": -0.0721
     },
     {
       "name": "DISTRICT MASTER",
       "key": "DISTRICT MASTER",
       "draw": 8,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Behr",
+      "trainer": "D A McLachlan",
       "weight": 61,
       "odds": "25/1",
       "oddsDecimal": 25,
-      "score": 44.4,
+      "score": 44.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.418,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -393,7 +472,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.52,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -405,6 +484,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 20,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -417,30 +502,35 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Career 20 starts, 2 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 8,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0439,
-      "pPlace": 0.1518,
+      "pWin": 0.0416,
+      "pPlace": 0.146,
       "pMarket": 0.032,
-      "edge": 0.0237
+      "edge": 0.0191
     },
     {
       "name": "BATON ROUGE",
       "key": "BATON ROUGE",
       "draw": 2,
       "rating": 66,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
       "weight": 59,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 40.3,
+      "score": 41,
       "factors": {
-        "form": 0.4,
+        "form": 0.434,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -452,7 +542,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.81,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -464,6 +554,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 33,
+        "wins": 4,
+        "seconds": 5,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -476,17 +572,23 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight, class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Career 33 starts, 4 wins, 11 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 7,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0736,
-      "pPlace": 0.2457,
+      "pWin": 0.0733,
+      "pPlace": 0.248,
       "pMarket": 0.119,
-      "edge": -0.0909
+      "edge": -0.0914
     }
   ],
   "comparison": [
@@ -494,19 +596,19 @@
       "no": 4,
       "name": "SUPERHERO",
       "rank": 1,
-      "score": 54.7,
+      "score": 56.6,
       "rating": 69,
       "draw": 4,
       "weight": 60,
       "odds": "4/1",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "W A Nel",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.506,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -519,50 +621,22 @@
       }
     },
     {
-      "no": 5,
-      "name": "GOLD INDEX",
-      "rank": 2,
-      "score": 51.5,
-      "rating": null,
-      "draw": 5,
-      "weight": 54,
-      "odds": "4/1",
-      "marketRank": 2,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.75,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 7,
       "name": "MIDWAY",
-      "rank": 3,
-      "score": 50.8,
+      "rank": 2,
+      "score": 51.7,
       "rating": 68,
       "draw": 7,
       "weight": 57,
       "odds": "6/1",
       "marketRank": 5,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "marketDisagree": true,
+      "jockey": "C Murray",
+      "trainer": "J Crawford",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -575,22 +649,50 @@
       }
     },
     {
+      "no": 5,
+      "name": "GOLD INDEX",
+      "rank": 3,
+      "score": 51.4,
+      "rating": null,
+      "draw": 5,
+      "weight": 54,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "R J Barrett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.393,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 6,
       "name": "SMART HORSE",
       "rank": 4,
-      "score": 48.6,
+      "score": 48.3,
       "rating": null,
       "draw": 6,
       "weight": 57,
       "odds": "5/1",
       "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M Michel",
+      "trainer": "J Crawford",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.385,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -606,19 +708,19 @@
       "no": 3,
       "name": "RED DAWN",
       "rank": 5,
-      "score": 46.3,
+      "score": 46.5,
       "rating": null,
       "draw": 3,
       "weight": 61,
       "odds": "6/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.415,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -634,19 +736,19 @@
       "no": 1,
       "name": "DEVIL A SAINT",
       "rank": 6,
-      "score": 46,
+      "score": 46.3,
       "rating": 67,
       "draw": 1,
       "weight": 59,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "D A McLachlan",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.412,
         "rating": 0.333,
         "distance": 0.5,
         "going": 0.5,
@@ -662,19 +764,19 @@
       "no": 8,
       "name": "DISTRICT MASTER",
       "rank": 7,
-      "score": 44.4,
+      "score": 44.7,
       "rating": null,
       "draw": 8,
       "weight": 61,
       "odds": "25/1",
       "marketRank": 8,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Behr",
+      "trainer": "D A McLachlan",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.418,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -690,19 +792,19 @@
       "no": 2,
       "name": "BATON ROUGE",
       "rank": 8,
-      "score": 40.3,
+      "score": 41,
       "rating": 66,
       "draw": 2,
       "weight": 59,
       "odds": "6/1",
       "marketRank": 7,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.434,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

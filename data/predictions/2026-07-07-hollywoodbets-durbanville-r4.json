@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T19:47:43.166Z",
+  "generated": "2026-07-05T20:25:01.651Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "LIEFLING",
       "draw": 8,
       "rating": 35,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "J Crawford",
       "weight": 56,
       "odds": "28/10",
       "oddsDecimal": 2.8,
-      "score": 55.9,
+      "score": 55.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.384,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.91,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -60,16 +66,20 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Career 5 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2699,
-      "pPlace": 0.6545,
+      "pWin": 0.277,
+      "pPlace": 0.6656,
       "pMarket": 0.2153,
-      "edge": 0.1091
+      "edge": 0.1233
     },
     {
       "name": "ARKANSAS STATE",
@@ -107,6 +117,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -119,77 +130,24 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
         "Model/market disagree: model rank 2 vs market rank 9 (50/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 9,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.0821,
-      "pPlace": 0.266,
+      "pWin": 0.0893,
+      "pPlace": 0.2879,
       "pMarket": 0.016,
-      "edge": 0.1322
-    },
-    {
-      "name": "ONSSILVERJET",
-      "key": "ONSSILVERJET",
-      "draw": 5,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 56,
-      "odds": "25/1",
-      "oddsDecimal": 25,
-      "score": 48.8,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.8,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.8,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 3,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 3 vs market rank 7 (25/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 7,
-      "rank": 3,
-      "marketDisagree": true,
-      "pWin": 0.0654,
-      "pPlace": 0.2163,
-      "pMarket": 0.0315,
-      "edge": 0.0679
+      "edge": 0.1466
     },
     {
       "name": "LADY AMBER",
@@ -227,6 +185,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -239,31 +198,105 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 4 vs market rank 10 (66/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 3 vs market rank 10 (66/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 10,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.0507,
+      "pPlace": 0.1714,
+      "pMarket": 0.0122,
+      "edge": 0.077
+    },
+    {
+      "name": "ONSSILVERJET",
+      "key": "ONSSILVERJET",
+      "draw": 5,
+      "rating": null,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "weight": 56,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 47.4,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 4 vs market rank 7 (25/1).",
+        "Career 5 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "marketRank": 7,
       "rank": 4,
       "marketDisagree": true,
-      "pWin": 0.0468,
-      "pPlace": 0.1581,
-      "pMarket": 0.0122,
-      "edge": 0.0691
+      "pWin": 0.0589,
+      "pPlace": 0.1971,
+      "pMarket": 0.0315,
+      "edge": 0.0549
     },
     {
       "name": "FREQUENT TRAVELLER",
       "key": "FREQUENT TRAVELLER",
       "draw": 3,
       "rating": 32,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "G W Ennion",
       "weight": 60,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 47.5,
+      "score": 46.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.347,
         "rating": 0.571,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +308,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.24,
         "rating": 9.14,
         "distance": 5,
         "going": 4,
@@ -287,6 +320,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 0,
+        "seconds": 2,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -299,31 +338,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, the draw.",
+        "Up against it on: weight.",
+        "Career 12 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 4,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.1082,
-      "pPlace": 0.3386,
+      "pWin": 0.106,
+      "pPlace": 0.3341,
       "pMarket": 0.1364,
-      "edge": -0.0563
+      "edge": -0.0608
     },
     {
       "name": "QUIET PLACE",
       "key": "QUIET PLACE",
       "draw": 2,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
       "weight": 60,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 46.7,
+      "score": 45.5,
       "factors": {
-        "form": 0.4,
+        "form": 0.335,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -335,7 +381,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.02,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -347,6 +393,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 11,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -359,31 +411,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
+        "Career 11 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 5,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0934,
-      "pPlace": 0.2983,
+      "pWin": 0.0899,
+      "pPlace": 0.2895,
       "pMarket": 0.1169,
-      "edge": -0.0469
+      "edge": -0.054
     },
     {
       "name": "WHATWILLBEWILLBE",
       "key": "WHATWILLBEWILLBE",
       "draw": 4,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "weight": 60,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 46.1,
+      "score": 45.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.347,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -395,7 +454,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.24,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -407,6 +466,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 6,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -419,31 +484,35 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Career 6 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 6,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0828,
-      "pPlace": 0.268,
+      "pWin": 0.0806,
+      "pPlace": 0.2626,
       "pMarket": 0.1023,
-      "edge": -0.0389
+      "edge": -0.0434
     },
     {
       "name": "UNDOUBTED THE BOY",
       "key": "UNDOUBTED THE BOY",
       "draw": 6,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Steyn",
+      "trainer": "G W Ennion",
       "weight": 60,
       "odds": "33/1",
       "oddsDecimal": 33,
-      "score": 45.5,
+      "score": 44.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -455,7 +524,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -467,6 +536,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -479,31 +554,35 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Career 5 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 8,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0407,
-      "pPlace": 0.1385,
+      "pWin": 0.0369,
+      "pPlace": 0.1268,
       "pMarket": 0.0241,
-      "edge": 0.0333
+      "edge": 0.0257
     },
     {
       "name": "SPARKLING SKY",
       "key": "SPARKLING SKY",
       "draw": 10,
       "rating": 30,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Orffer",
+      "trainer": "M Rix",
       "weight": 56,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 43.9,
+      "score": 43.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.384,
         "rating": 0.286,
         "distance": 0.5,
         "going": 0.5,
@@ -515,7 +594,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.91,
         "rating": 4.57,
         "distance": 5,
         "going": 4,
@@ -527,6 +606,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -539,31 +624,36 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: class/rating.",
+        "Up against it on: the draw, class/rating.",
         "Model/market disagree: model rank 9 vs market rank 3 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 5 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "rating"
       ],
       "marketRank": 3,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.1038,
-      "pPlace": 0.3267,
+      "pWin": 0.1047,
+      "pPlace": 0.3307,
       "pMarket": 0.1636,
-      "edge": -0.1197
+      "edge": -0.1178
     },
     {
       "name": "UP IN FLAMES",
       "key": "UP IN FLAMES",
       "draw": 1,
       "rating": 28,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "M Rix",
       "weight": 56,
       "odds": "7/2",
       "oddsDecimal": 3.5,
-      "score": 42,
+      "score": 41.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -575,7 +665,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.34,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -587,6 +677,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -599,18 +695,24 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating.",
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
         "Model/market disagree: model rank 10 vs market rank 2 (7/2).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 10 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 2,
       "rank": 10,
       "marketDisagree": true,
-      "pWin": 0.1069,
-      "pPlace": 0.3352,
+      "pWin": 0.106,
+      "pPlace": 0.3342,
       "pMarket": 0.1818,
-      "edge": -0.1498
+      "edge": -0.1516
     }
   ],
   "comparison": [
@@ -618,19 +720,19 @@
       "no": 8,
       "name": "LIEFLING",
       "rank": 1,
-      "score": 55.9,
+      "score": 55.6,
       "rating": 35,
       "draw": 8,
       "weight": 56,
       "odds": "28/10",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "J Crawford",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.384,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -671,37 +773,9 @@
       }
     },
     {
-      "no": 5,
-      "name": "ONSSILVERJET",
-      "rank": 3,
-      "score": 48.8,
-      "rating": null,
-      "draw": 5,
-      "weight": 56,
-      "odds": "25/1",
-      "marketRank": 7,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.8,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 9,
       "name": "LADY AMBER",
-      "rank": 4,
+      "rank": 3,
       "score": 47.6,
       "rating": null,
       "draw": 9,
@@ -727,22 +801,50 @@
       }
     },
     {
+      "no": 5,
+      "name": "ONSSILVERJET",
+      "rank": 4,
+      "score": 47.4,
+      "rating": null,
+      "draw": 5,
+      "weight": 56,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 3,
       "name": "FREQUENT TRAVELLER",
       "rank": 5,
-      "score": 47.5,
+      "score": 46.6,
       "rating": 32,
       "draw": 3,
       "weight": 60,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "G W Ennion",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.347,
         "rating": 0.571,
         "distance": 0.5,
         "going": 0.5,
@@ -758,19 +860,19 @@
       "no": 2,
       "name": "QUIET PLACE",
       "rank": 6,
-      "score": 46.7,
+      "score": 45.5,
       "rating": null,
       "draw": 2,
       "weight": 60,
       "odds": "6/1",
       "marketRank": 5,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.335,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -786,19 +888,19 @@
       "no": 4,
       "name": "WHATWILLBEWILLBE",
       "rank": 7,
-      "score": 46.1,
+      "score": 45.1,
       "rating": null,
       "draw": 4,
       "weight": 60,
       "odds": "7/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.347,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -814,19 +916,19 @@
       "no": 6,
       "name": "UNDOUBTED THE BOY",
       "rank": 8,
-      "score": 45.5,
+      "score": 44.1,
       "rating": null,
       "draw": 6,
       "weight": 60,
       "odds": "33/1",
       "marketRank": 8,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Steyn",
+      "trainer": "G W Ennion",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -842,19 +944,19 @@
       "no": 10,
       "name": "SPARKLING SKY",
       "rank": 9,
-      "score": 43.9,
+      "score": 43.6,
       "rating": 30,
       "draw": 10,
       "weight": 56,
       "odds": "4/1",
       "marketRank": 3,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Orffer",
+      "trainer": "M Rix",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.384,
         "rating": 0.286,
         "distance": 0.5,
         "going": 0.5,
@@ -870,19 +972,19 @@
       "no": 1,
       "name": "UP IN FLAMES",
       "rank": 10,
-      "score": 42,
+      "score": 41.1,
       "rating": 28,
       "draw": 1,
       "weight": 56,
       "odds": "7/2",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "M Rix",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

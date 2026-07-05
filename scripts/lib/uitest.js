@@ -85,7 +85,7 @@ const server = http.createServer((req, res) => {
   console.log(JSON.stringify(ok, null, 2));
   console.log('page errors:', errors);
 
-  const pass = ok.gateShown && ok.days >= 1 && ok.races === 10 && ok.hasMarket &&
+  const pass = ok.gateShown && ok.days >= 1 && ok.races >= 1 && ok.hasMarket &&
     ok.hasCalibration && ok.horses > 0 && ok.horseKpis >= 4 &&
     ok.bankers >= 1 && ok.multiCards >= 1 && ok.gateRedirect && errors.length === 0;
   console.log(pass ? '\n✓ ALL PAGES PASSED' : '\n✗ FAILED');

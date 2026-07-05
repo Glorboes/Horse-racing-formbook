@@ -25,9 +25,18 @@ const WEIGHTS = {
 const clamp01 = (x) => Math.max(0, Math.min(1, x));
 
 // recent form score from last N finishes (1st best). Recency weighted.
-function formScore(runs, limit = 6) {
+// Falls back to the card's career record (starts/wins/places) when we have no
+// logged runs, so a horse with real racing history isn't scored as "unknown".
+function formScore(runs, limit = 6, career = null) {
   const recent = runs.slice(-limit).reverse();
-  if (!recent.length) return 0.4; // unknown -> neutral-ish
+  if (!recent.length) {
+    if (career && career.starts > 0) {
+      const winRate = career.wins / career.starts;
+      const placeRate = (career.wins + (career.seconds || 0) + (career.thirds || 0)) / career.starts;
+      return clamp01(0.32 + 0.5 * winRate + 0.16 * placeRate);
+    }
+    return 0.4; // truly unknown / unraced -> neutral-ish
+  }
   let num = 0, den = 0;
   recent.forEach((r, i) => {
     const w = Math.pow(0.75, i); // most recent weighs most
@@ -134,7 +143,7 @@ function scoreRace(fb, race) {
 
   const scored = enriched.map((r) => {
     const f = {
-      form: formScore(r.runs),
+      form: formScore(r.runs, 6, r.careerStats),
       rating: ratingScore(r.rating, enriched),
       distance: distanceScore(r.runs, race.distance),
       going: goingScore(r.runs, race.going),
@@ -174,6 +183,7 @@ function scoreRace(fb, race) {
       factors: Object.fromEntries(Object.entries(f).map(([k, v]) => [k, +v.toFixed(3)])),
       contrib,
       knownRuns: r.knownRuns,
+      career: r.careerStats ?? null,
       h2h: h2hRec ? { record: h2hRec.record, wins: h2hRec.wins, losses: h2hRec.losses, meetings, smallSample: meetings > 0 && meetings < H2H_MIN_SAMPLE, beats: h2hRec.beats, losesTo: h2hRec.losesTo } : null,
       combo: comboRecord(fb, r.jockey, r.trainer),
       classMove: classMovement(fb, r.key, race),
@@ -182,6 +192,30 @@ function scoreRace(fb, race) {
   });
 
   scored.sort((a, b) => b.score - a.score);
+
+  // Relative strengths/concerns: a factor only counts as an advantage if the
+  // horse is genuinely better than the field on it (not just a decent absolute
+  // value). Fixes e.g. "good draw" showing for every runner.
+  const fkeys = Object.keys(WEIGHTS);
+  for (const k of fkeys) {
+    const vals = scored.map((s) => s.factors[k]);
+    const max = Math.max(...vals), min = Math.min(...vals);
+    const spread = max - min;
+    for (const s of scored) {
+      // fraction of rivals this horse beats on factor k
+      const better = vals.filter((x) => x < s.factors[k]).length;
+      const frac = scored.length > 1 ? better / (scored.length - 1) : 0.5;
+      (s._rel = s._rel || {})[k] = { frac, spread };
+    }
+  }
+  for (const s of scored) {
+    const rel = fkeys.map((k) => ({ k, ...s._rel[k], v: s.factors[k] }));
+    s._strengths = rel.filter((r) => r.spread >= 0.10 && r.frac >= 0.70 && r.v >= 0.5)
+      .sort((a, b) => b.frac - a.frac).slice(0, 3).map((r) => r.k);
+    s._concerns = rel.filter((r) => r.spread >= 0.10 && r.frac <= 0.30 && r.v <= 0.55)
+      .sort((a, b) => a.frac - b.frac).slice(0, 2).map((r) => r.k);
+    delete s._rel;
+  }
 
   // market rank (shortest odds = 1) vs model rank; flag big disagreements
   const priced = scored.filter((s) => s.oddsDecimal != null)
@@ -212,7 +246,6 @@ function classMovement(fb, key, race) {
 
 // Human-readable, glass-box reasoning: top contributing factors + caveats.
 function buildReasoning(s) {
-  const order = Object.entries(s.contrib).sort((a, b) => b[1] - a[1]);
   const label = {
     form: 'recent form', rating: 'class/rating', distance: 'distance suitability',
     going: 'going suitability', draw: 'the draw', jockey: 'jockey record',
@@ -220,10 +253,10 @@ function buildReasoning(s) {
     recencyMargin: 'recent winning margins',
   };
   const notes = [];
-  const strong = order.filter(([k]) => s.factors[k] >= 0.6).slice(0, 3);
-  const weak = order.filter(([k]) => s.factors[k] <= 0.35).slice(0, 2);
-  if (strong.length) notes.push('Strengths: ' + strong.map(([k]) => label[k]).join(', ') + '.');
-  if (weak.length) notes.push('Concerns: ' + weak.map(([k]) => label[k]).join(', ') + '.');
+  const strong = s._strengths || [];
+  const weak = s._concerns || [];
+  if (strong.length) notes.push('Advantages over this field: ' + strong.map((k) => label[k]).join(', ') + '.');
+  if (weak.length) notes.push('Up against it on: ' + weak.map((k) => label[k]).join(', ') + '.');
 
   if (s.classMove && s.classMove.from && s.classMove.to && s.classMove.from !== s.classMove.to) {
     const verb = s.classMove.direction === 'up' ? 'Rising' : s.classMove.direction === 'down' ? 'Dropping' : 'Moving';
@@ -240,7 +273,17 @@ function buildReasoning(s) {
   if (s.marketDisagree) {
     notes.push(`Model/market disagree: model rank ${s.rank} vs market rank ${s.marketRank}${s.odds ? ` (${s.odds})` : ''}.`);
   }
-  if (!s.knownRuns) notes.push('No prior runs in the formbook — scored on today\'s racecard data only.');
+  if (!s.knownRuns) {
+    if (s.career && s.career.starts > 0) {
+      const c = s.career;
+      const places = (c.wins || 0) + (c.seconds || 0) + (c.thirds || 0);
+      notes.push(`Career ${c.starts} start${c.starts === 1 ? '' : 's'}, ${c.wins} win${c.wins === 1 ? '' : 's'}${places ? `, ${places} placed` : ''} (from the card — no logged runs in our DB yet).`);
+    } else if (s.career && s.career.starts === 0) {
+      notes.push('Unraced — first career start.');
+    } else {
+      notes.push('No form data — scored on today\'s racecard only.');
+    }
+  }
   return notes;
 }
 

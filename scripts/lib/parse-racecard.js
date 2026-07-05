@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { normalizeName } = require('./names');
 
 // Parse a racecard into one or more normalized race objects:
 // { date, track, race, distance, going, surface, runners:[{no,name,draw,weight,rating,gear,jockey,trainer}] }
@@ -35,6 +36,7 @@ function normalizeRace(r) {
     oddsDecimal: x.oddsDecimal ?? null,
     jockey: x.jockey ?? null,
     trainer: x.trainer ?? null,
+    careerStats: x.careerStats ?? null,
   })).filter((x) => x.name);
   r.race = r.race ?? r.raceNo ?? 1;
   r.time = r.time ?? null;
@@ -111,7 +113,39 @@ function parseComputaform(text) {
     const rc = parseRaceBlock(block, starts[i].no);
     if (rc && rc.runners.length) races.push({ date, track: (track || '').trim() || null, time: starts[i].time, ...rc });
   }
+
+  // enrich runners with career record + trainer/jockey from the detailed pages
+  const detail = parseDetailedForm(text);
+  for (const r of races) {
+    for (const ru of r.runners) {
+      const d = detail[normalizeName(ru.name)];
+      if (d) {
+        ru.careerStats = { starts: d.starts, wins: d.wins, seconds: d.seconds, thirds: d.thirds };
+        if (!ru.jockey && d.jockey) ru.jockey = d.jockey;
+        if (!ru.trainer && d.trainer) ru.trainer = d.trainer;
+      }
+    }
+  }
   return { date, track: (track || '').trim() || null, races };
+}
+
+// Parse the detailed "form summary" lines: NAME S-W-2-3 %… Trainer NN% Jockey NN%
+// Returns { normalizedName: { starts, wins, seconds, thirds, trainer, jockey } }.
+function parseDetailedForm(text) {
+  const out = {};
+  const re = /([A-Z][A-Z0-9'’.\- ]{2,28}?)(\d+)-(\d+)-(\d+)-(\d+)\s*\d*%[\s\S]{0,70}?([A-Z][A-Za-z.'’ ]+?) \d+[�.]?\d*%([A-Z][A-Za-z.'’ ]+?) \d+[�.]?\d*%/g;
+  let m;
+  while ((m = re.exec(text))) {
+    const key = normalizeName(m[1]);
+    if (!key || out[key]) continue;
+    out[key] = {
+      starts: +m[2], wins: +m[3], seconds: +m[4],
+      thirds: +String(m[5])[0], // 4th group can absorb the trailing place-% digit
+      trainer: m[6].replace(/\s+/g, ' ').trim(),
+      jockey: m[7].replace(/\s+/g, ' ').trim(),
+    };
+  }
+  return out;
 }
 
 function parseRaceBlock(block, no) {

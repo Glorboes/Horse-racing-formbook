@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T19:47:43.188Z",
+  "generated": "2026-07-05T20:25:01.676Z",
   "days": {
     "2026-07-05": {
       "bankers": [
@@ -339,12 +339,12 @@
     "2026-07-07": {
       "bankers": [
         {
-          "race": 8,
+          "race": 1,
           "track": "HOLLYWOODBETS DURBANVILLE",
-          "time": "16:55",
-          "selection": "GOLD GIBOSKI",
-          "pWin": 30.4,
-          "pPlace": 72.2,
+          "time": "12:50",
+          "selection": "ONTHEWINGSOFADOVE",
+          "pWin": 31.9,
+          "pPlace": 72,
           "confidence": "strong"
         },
         {
@@ -352,17 +352,17 @@
           "track": "HOLLYWOODBETS DURBANVILLE",
           "time": "13:25",
           "selection": "MORDECHAI",
-          "pWin": 30.1,
-          "pPlace": 72,
+          "pWin": 29,
+          "pPlace": 70.8,
           "confidence": "strong"
         },
         {
-          "race": 1,
+          "race": 4,
           "track": "HOLLYWOODBETS DURBANVILLE",
-          "time": "12:50",
-          "selection": "ONTHEWINGSOFADOVE",
-          "pWin": 28.5,
-          "pPlace": 67.2,
+          "time": "14:35",
+          "selection": "LIEFLING",
+          "pWin": 27.7,
+          "pPlace": 66.6,
           "confidence": "strong"
         }
       ],
@@ -370,30 +370,30 @@
         {
           "kind": "win",
           "legs": 3,
-          "combined": 0.0261,
+          "combined": 0.0256,
           "combinedPct": 2.6,
           "confidence": "longshot",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 30.4
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 31.9
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 30.1
+              "prob": 29
             },
             {
-              "race": 1,
+              "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 28.5
+              "time": "14:35",
+              "selection": "LIEFLING",
+              "prob": 27.7
             }
           ]
         },
@@ -405,76 +405,76 @@
           "confidence": "longshot",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 30.4
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 31.9
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 30.1
-            },
-            {
-              "race": 1,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 28.5
+              "prob": 29
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 27
+              "prob": 27.7
+            },
+            {
+              "race": 8,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 27.7
             }
           ]
         },
         {
           "kind": "win",
           "legs": 5,
-          "combined": 0.0018,
+          "combined": 0.0019,
           "combinedPct": 0.2,
           "confidence": "longshot",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 30.4
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 31.9
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 30.1
-            },
-            {
-              "race": 1,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 28.5
+              "prob": 29
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 27
+              "prob": 27.7
             },
             {
-              "race": 5,
+              "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "15:10",
-              "selection": "PROTECTOR OF PEACE",
-              "prob": 25
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 27.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 26.9
             }
           ]
         }
@@ -483,132 +483,132 @@
         {
           "kind": "place",
           "legs": 4,
-          "combined": 0.2288,
-          "combinedPct": 22.9,
+          "combined": 0.2341,
+          "combinedPct": 23.4,
           "confidence": "fair",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 72.2
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 72
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 72
+              "prob": 70.8
             },
             {
-              "race": 1,
+              "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 67.2
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 68.4
             },
             {
-              "race": 4,
+              "race": 6,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "14:35",
-              "selection": "LIEFLING",
-              "prob": 65.5
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 67.1
             }
           ]
         },
         {
           "kind": "place",
           "legs": 5,
-          "combined": 0.1441,
-          "combinedPct": 14.4,
+          "combined": 0.1558,
+          "combinedPct": 15.6,
           "confidence": "fair",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 72.2
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 72
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 72
+              "prob": 70.8
             },
             {
-              "race": 1,
+              "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 67.2
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 68.4
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 67.1
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 65.5
-            },
-            {
-              "race": 7,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:20",
-              "selection": "PRINCE OF TIBET",
-              "prob": 62.9
+              "prob": 66.6
             }
           ]
         },
         {
           "kind": "place",
           "legs": 6,
-          "combined": 0.0899,
-          "combinedPct": 9,
+          "combined": 0.0997,
+          "combinedPct": 10,
           "confidence": "speculative",
           "selections": [
             {
-              "race": 8,
+              "race": 1,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 72.2
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 72
             },
             {
               "race": 2,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 72
+              "prob": 70.8
             },
             {
-              "race": 1,
+              "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 67.2
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 68.4
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 67.1
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 65.5
-            },
-            {
-              "race": 7,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:20",
-              "selection": "PRINCE OF TIBET",
-              "prob": 62.9
+              "prob": 66.6
             },
             {
               "race": 5,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "15:10",
               "selection": "PROTECTOR OF PEACE",
-              "prob": 62.4
+              "prob": 64
             }
           ]
         }
@@ -617,61 +617,67 @@
         {
           "race": 8,
           "selection": "GOLD GIBOSKI",
-          "edgePts": 26.9,
-          "pWin": 30.4
-        },
-        {
-          "race": 7,
-          "selection": "PRINCE OF TIBET",
-          "edgePts": 16,
-          "pWin": 24.7
+          "edgePts": 21.4,
+          "pWin": 27.7
         },
         {
           "race": 6,
           "selection": "SUPERHERO",
-          "edgePts": 14.4,
-          "pWin": 23.8
+          "edgePts": 20.5,
+          "pWin": 26.9
+        },
+        {
+          "race": 7,
+          "selection": "PRINCE OF TIBET",
+          "edgePts": 13.3,
+          "pWin": 23.3
         },
         {
           "race": 4,
           "selection": "LIEFLING",
-          "edgePts": 10.9,
-          "pWin": 27
+          "edgePts": 12.3,
+          "pWin": 27.7
         },
         {
           "race": 5,
           "selection": "PROTECTOR OF PEACE",
+          "edgePts": 9.7,
+          "pWin": 25.9
+        },
+        {
+          "race": 1,
+          "selection": "ONTHEWINGSOFADOVE",
           "edgePts": 7.9,
-          "pWin": 25
+          "pWin": 31.9
         }
       ],
       "best": {
         "kind": "win",
         "legs": 3,
-        "combined": 0.0261,
+        "combined": 0.0256,
         "combinedPct": 2.6,
         "confidence": "longshot",
         "selections": [
           {
-            "race": 8,
+            "race": 1,
             "track": "HOLLYWOODBETS DURBANVILLE",
-            "time": "16:55",
-            "selection": "GOLD GIBOSKI",
-            "prob": 30.4
+            "time": "12:50",
+            "selection": "ONTHEWINGSOFADOVE",
+            "prob": 31.9
           },
           {
             "race": 2,
             "track": "HOLLYWOODBETS DURBANVILLE",
             "time": "13:25",
             "selection": "MORDECHAI",
-            "prob": 30.1
+            "prob": 29
           },
           {
-            "race": 1,
+            "race": 4,
             "track": "HOLLYWOODBETS DURBANVILLE",
-            "time": "12:50",
-            "selection": "ONTHEWINGSOFADOVE",
-            "prob": 28.5
+            "time": "14:35",
+            "selection": "LIEFLING",
+            "prob": 27.7
           }
         ]
       },

@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden",
-  "generated": "2026-07-05T19:47:43.168Z",
+  "generated": "2026-07-05T20:25:01.652Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -48,6 +48,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -60,16 +61,20 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "No form data — scored on today's racecard only."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2501,
-      "pPlace": 0.6239,
+      "pWin": 0.2591,
+      "pPlace": 0.6397,
       "pMarket": 0.2104,
-      "edge": 0.0794
+      "edge": 0.0973
     },
     {
       "name": "MY SUNSHINE",
@@ -107,6 +112,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -119,16 +125,24 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: class/rating.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 4,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.148,
-      "pPlace": 0.4348,
+      "pWin": 0.1534,
+      "pPlace": 0.4497,
       "pMarket": 0.1202,
-      "edge": 0.0556
+      "edge": 0.0664
     },
     {
       "name": "LIFELONG DANCE",
@@ -166,6 +180,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -178,77 +193,25 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: class/rating.",
         "Model/market disagree: model rank 3 vs market rank 8 (20/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 8,
       "rank": 3,
       "marketDisagree": true,
-      "pWin": 0.081,
-      "pPlace": 0.2607,
+      "pWin": 0.0847,
+      "pPlace": 0.2733,
       "pMarket": 0.0401,
-      "edge": 0.0818
-    },
-    {
-      "name": "MISTER ED",
-      "key": "MISTER ED",
-      "draw": 7,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 53,
-      "odds": "33/1",
-      "oddsDecimal": 33,
-      "score": 49.6,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.7,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.727,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.2,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 4.36,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "Model/market disagree: model rank 4 vs market rank 10 (33/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 10,
-      "rank": 4,
-      "marketDisagree": true,
-      "pWin": 0.0623,
-      "pPlace": 0.2051,
-      "pMarket": 0.0248,
-      "edge": 0.075
+      "edge": 0.0893
     },
     {
       "name": "EPERNAY",
@@ -286,6 +249,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -298,31 +262,108 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 5 vs market rank 9 (25/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 4 vs market rank 9 (25/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 9,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0581,
+      "pPlace": 0.1937,
+      "pMarket": 0.0324,
+      "edge": 0.0515
+    },
+    {
+      "name": "MISTER ED",
+      "key": "MISTER ED",
+      "draw": 7,
+      "rating": null,
+      "jockey": "K Steyn",
+      "trainer": "A D Steyn",
+      "weight": 53,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 48.1,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.727,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.36,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 3,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 5 vs market rank 10 (33/1).",
+        "Career 3 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "marketRank": 10,
       "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.0557,
-      "pPlace": 0.1849,
-      "pMarket": 0.0324,
-      "edge": 0.0466
+      "pWin": 0.0536,
+      "pPlace": 0.1796,
+      "pMarket": 0.0248,
+      "edge": 0.0577
     },
     {
       "name": "THE BIG BANG",
       "key": "THE BIG BANG",
       "draw": 6,
       "rating": 29,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
       "weight": 60,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 47.9,
+      "score": 47,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0.615,
         "distance": 0.5,
         "going": 0.5,
@@ -334,7 +375,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.34,
         "rating": 9.85,
         "distance": 5,
         "going": 4,
@@ -346,6 +387,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -358,32 +405,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
         "Model/market disagree: model rank 6 vs market rank 3 (5/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 10 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 3,
       "rank": 6,
       "marketDisagree": true,
-      "pWin": 0.1077,
-      "pPlace": 0.335,
+      "pWin": 0.1045,
+      "pPlace": 0.3284,
       "pMarket": 0.1403,
-      "edge": -0.0651
+      "edge": -0.0716
     },
     {
       "name": "PURE AS SNOW",
       "key": "PURE AS SNOW",
       "draw": 2,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Wright",
+      "trainer": "W A Nel",
       "weight": 60,
       "odds": "12/1",
       "oddsDecimal": 12,
-      "score": 47.2,
+      "score": 45.8,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -395,7 +448,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -407,6 +460,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -419,31 +478,38 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
+        "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 7,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0658,
-      "pPlace": 0.2159,
+      "pWin": 0.0605,
+      "pPlace": 0.201,
       "pMarket": 0.0647,
-      "edge": 0.0021
+      "edge": -0.0085
     },
     {
       "name": "MONTESSORI",
       "key": "MONTESSORI",
       "draw": 9,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "W A Nel",
       "weight": 61,
       "odds": "8/1",
       "oddsDecimal": 8,
-      "score": 44.6,
+      "score": 43.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -455,7 +521,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.34,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -467,6 +533,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -479,31 +551,35 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Career 5 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 6,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0684,
-      "pPlace": 0.2238,
+      "pWin": 0.0666,
+      "pPlace": 0.2196,
       "pMarket": 0.0935,
-      "edge": -0.0502
+      "edge": -0.0539
     },
     {
       "name": "RACHETTU",
       "key": "RACHETTU",
       "draw": 10,
       "rating": 25,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "weight": 60,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 41.8,
+      "score": 41.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.38,
         "rating": 0.308,
         "distance": 0.5,
         "going": 0.5,
@@ -515,7 +591,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.84,
         "rating": 4.92,
         "distance": 5,
         "going": 4,
@@ -527,6 +603,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -539,31 +621,36 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: class/rating, weight.",
+        "Up against it on: the draw, class/rating.",
         "Model/market disagree: model rank 9 vs market rank 2 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 8 starts, 0 wins, 3 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "rating"
       ],
       "marketRank": 2,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.0978,
-      "pPlace": 0.3081,
+      "pWin": 0.0977,
+      "pPlace": 0.3098,
       "pMarket": 0.1683,
-      "edge": -0.1412
+      "edge": -0.1413
     },
     {
       "name": "ROYAL CLINTON",
       "key": "ROYAL CLINTON",
       "draw": 4,
       "rating": 21,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "P D Reeves",
       "weight": 57,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 40.3,
+      "score": 39.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.336,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -575,7 +662,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.05,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -587,6 +674,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -599,18 +692,21 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating.",
+        "Up against it on: class/rating.",
         "Model/market disagree: model rank 10 vs market rank 5 (7/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 10 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 5,
       "rank": 10,
       "marketDisagree": true,
-      "pWin": 0.0632,
-      "pPlace": 0.2079,
+      "pWin": 0.0618,
+      "pPlace": 0.2051,
       "pMarket": 0.1052,
-      "edge": -0.084
+      "edge": -0.0868
     }
   ],
   "comparison": [
@@ -699,37 +795,9 @@
       }
     },
     {
-      "no": 7,
-      "name": "MISTER ED",
-      "rank": 4,
-      "score": 49.6,
-      "rating": null,
-      "draw": 7,
-      "weight": 53,
-      "odds": "33/1",
-      "marketRank": 10,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.7,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.727,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 8,
       "name": "EPERNAY",
-      "rank": 5,
+      "rank": 4,
       "score": 48.2,
       "rating": null,
       "draw": 8,
@@ -755,22 +823,50 @@
       }
     },
     {
+      "no": 7,
+      "name": "MISTER ED",
+      "rank": 5,
+      "score": 48.1,
+      "rating": null,
+      "draw": 7,
+      "weight": 53,
+      "odds": "33/1",
+      "marketRank": 10,
+      "marketDisagree": true,
+      "jockey": "K Steyn",
+      "trainer": "A D Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.727,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 6,
       "name": "THE BIG BANG",
       "rank": 6,
-      "score": 47.9,
+      "score": 47,
       "rating": 29,
       "draw": 6,
       "weight": 60,
       "odds": "5/1",
       "marketRank": 3,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0.615,
         "distance": 0.5,
         "going": 0.5,
@@ -786,19 +882,19 @@
       "no": 2,
       "name": "PURE AS SNOW",
       "rank": 7,
-      "score": 47.2,
+      "score": 45.8,
       "rating": null,
       "draw": 2,
       "weight": 60,
       "odds": "12/1",
       "marketRank": 7,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Wright",
+      "trainer": "W A Nel",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -814,19 +910,19 @@
       "no": 9,
       "name": "MONTESSORI",
       "rank": 8,
-      "score": 44.6,
+      "score": 43.7,
       "rating": null,
       "draw": 9,
       "weight": 61,
       "odds": "8/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "W A Nel",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.352,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -842,19 +938,19 @@
       "no": 10,
       "name": "RACHETTU",
       "rank": 9,
-      "score": 41.8,
+      "score": 41.4,
       "rating": 25,
       "draw": 10,
       "weight": 60,
       "odds": "4/1",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.38,
         "rating": 0.308,
         "distance": 0.5,
         "going": 0.5,
@@ -870,19 +966,19 @@
       "no": 4,
       "name": "ROYAL CLINTON",
       "rank": 10,
-      "score": 40.3,
+      "score": 39.1,
       "rating": 21,
       "draw": 4,
       "weight": 57,
       "odds": "7/1",
       "marketRank": 5,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Murray",
+      "trainer": "P D Reeves",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.336,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

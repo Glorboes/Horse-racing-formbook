@@ -8,77 +8,17 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T19:47:43.165Z",
+  "generated": "2026-07-05T20:25:01.650Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
-    {
-      "name": "NTIBINDI",
-      "key": "NTIBINDI",
-      "draw": 5,
-      "rating": 33,
-      "jockey": null,
-      "trainer": null,
-      "weight": 60,
-      "odds": "7/2",
-      "oddsDecimal": 3.5,
-      "score": 53,
-      "factors": {
-        "form": 0.4,
-        "rating": 1,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.667,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 16,
-        "distance": 5,
-        "going": 4,
-        "draw": 4,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 0,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 3,
-      "rank": 1,
-      "marketDisagree": false,
-      "pWin": 0.2145,
-      "pPlace": 0.4212,
-      "pMarket": 0.1888,
-      "edge": 0.0514
-    },
     {
       "name": "SPANISH WORLD",
       "key": "SPANISH WORLD",
       "draw": 2,
       "rating": 27,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "weight": 56,
       "odds": "2/1",
       "oddsDecimal": 2,
@@ -108,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -120,53 +66,63 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Career 2 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
       "marketRank": 1,
-      "rank": 2,
+      "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2416,
-      "pPlace": 0.4634,
+      "pWin": 0.2529,
+      "pPlace": 0.481,
       "pMarket": 0.2832,
-      "edge": -0.0832
+      "edge": -0.0605
     },
     {
-      "name": "ODDS AND EVENS",
-      "key": "ODDS AND EVENS",
-      "draw": 6,
-      "rating": 29,
-      "jockey": null,
-      "trainer": null,
-      "weight": 56,
-      "odds": "28/10",
-      "oddsDecimal": 2.8,
-      "score": 51.9,
+      "name": "NTIBINDI",
+      "key": "NTIBINDI",
+      "draw": 5,
+      "rating": 33,
+      "jockey": "R Fourie",
+      "trainer": "E Steyn",
+      "weight": 60,
+      "odds": "7/2",
+      "oddsDecimal": 3.5,
+      "score": 51.6,
       "factors": {
-        "form": 0.4,
-        "rating": 0.75,
+        "form": 0.32,
+        "rating": 1,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.583,
+        "draw": 0.667,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.571,
+        "weight": 0,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
-        "rating": 12,
+        "form": 5.76,
+        "rating": 16,
         "distance": 5,
         "going": 4,
-        "draw": 3.5,
+        "draw": 4,
         "jockey": 3,
         "trainer": 3,
-        "weight": 3.43,
+        "weight": 0,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 4,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -179,16 +135,23 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
+        "Career 4 starts, 0 wins (from the card — no logged runs in our DB yet)."
       ],
-      "marketRank": 2,
-      "rank": 3,
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "marketRank": 3,
+      "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.2118,
-      "pPlace": 0.4167,
-      "pMarket": 0.2236,
-      "edge": -0.0236
+      "pWin": 0.2003,
+      "pPlace": 0.3986,
+      "pMarket": 0.1888,
+      "edge": 0.023
     },
     {
       "name": "HURRICANE PAIGE",
@@ -226,6 +189,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -238,30 +202,106 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 5,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.1572,
+      "pPlace": 0.3229,
+      "pMarket": 0.1062,
+      "edge": 0.1021
+    },
+    {
+      "name": "ODDS AND EVENS",
+      "key": "ODDS AND EVENS",
+      "draw": 6,
+      "rating": 29,
+      "jockey": "C Murray",
+      "trainer": "J S Snaith",
+      "weight": 56,
+      "odds": "28/10",
+      "oddsDecimal": 2.8,
+      "score": 51.4,
+      "factors": {
+        "form": 0.373,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.72,
+        "rating": 12,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 3,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: class/rating.",
+        "Career 3 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
+      "marketRank": 2,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1466,
-      "pPlace": 0.3027,
-      "pMarket": 0.1062,
-      "edge": 0.0809
+      "pWin": 0.2142,
+      "pPlace": 0.4215,
+      "pMarket": 0.2236,
+      "edge": -0.0187
     },
     {
       "name": "PINK BLOSSOM",
       "key": "PINK BLOSSOM",
       "draw": 3,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "C Bass",
       "weight": 56,
       "odds": "14/1",
       "oddsDecimal": 14,
-      "score": 49.4,
+      "score": 48,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -273,7 +313,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -285,6 +325,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,30 +343,34 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Career 2 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 6,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0942,
-      "pPlace": 0.2009,
+      "pWin": 0.0864,
+      "pPlace": 0.1855,
       "pMarket": 0.0566,
-      "edge": 0.0752
+      "edge": 0.0596
     },
     {
       "name": "MACRO GRAVITY",
       "key": "MACRO GRAVITY",
       "draw": 1,
       "rating": 17,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
       "weight": 56,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 42.4,
+      "score": 41,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -332,7 +382,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -344,6 +394,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -356,52 +412,30 @@
       "combo": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Career 2 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 4,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0913,
-      "pPlace": 0.1951,
+      "pWin": 0.0889,
+      "pPlace": 0.1905,
       "pMarket": 0.1416,
-      "edge": -0.1005
+      "edge": -0.1054
     }
   ],
   "comparison": [
     {
-      "no": 5,
-      "name": "NTIBINDI",
-      "rank": 1,
-      "score": 53,
-      "rating": 33,
-      "draw": 5,
-      "weight": 60,
-      "odds": "7/2",
-      "marketRank": 3,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 1,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.667,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 2,
       "name": "SPANISH WORLD",
-      "rank": 2,
+      "rank": 1,
       "score": 51.9,
       "rating": 27,
       "draw": 2,
@@ -409,8 +443,8 @@
       "odds": "2/1",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -427,29 +461,29 @@
       }
     },
     {
-      "no": 6,
-      "name": "ODDS AND EVENS",
-      "rank": 3,
-      "score": 51.9,
-      "rating": 29,
-      "draw": 6,
-      "weight": 56,
-      "odds": "28/10",
-      "marketRank": 2,
+      "no": 5,
+      "name": "NTIBINDI",
+      "rank": 2,
+      "score": 51.6,
+      "rating": 33,
+      "draw": 5,
+      "weight": 60,
+      "odds": "7/2",
+      "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R Fourie",
+      "trainer": "E Steyn",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
-        "rating": 0.75,
+        "form": 0.32,
+        "rating": 1,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.583,
+        "draw": 0.667,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.571,
+        "weight": 0,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
@@ -457,7 +491,7 @@
     {
       "no": 4,
       "name": "HURRICANE PAIGE",
-      "rank": 4,
+      "rank": 3,
       "score": 51.5,
       "rating": null,
       "draw": 4,
@@ -483,22 +517,50 @@
       }
     },
     {
+      "no": 6,
+      "name": "ODDS AND EVENS",
+      "rank": 4,
+      "score": 51.4,
+      "rating": 29,
+      "draw": 6,
+      "weight": 56,
+      "odds": "28/10",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.373,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 3,
       "name": "PINK BLOSSOM",
       "rank": 5,
-      "score": 49.4,
+      "score": 48,
       "rating": null,
       "draw": 3,
       "weight": 56,
       "odds": "14/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "C Bass",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -514,19 +576,19 @@
       "no": 1,
       "name": "MACRO GRAVITY",
       "rank": 6,
-      "score": 42.4,
+      "score": 41,
       "rating": 17,
       "draw": 1,
       "weight": 56,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
