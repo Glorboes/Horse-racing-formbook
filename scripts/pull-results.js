@@ -63,20 +63,53 @@ const ADAPTERS = {
   },
 };
 
-async function scrape(source, date, debug) {
+// Get page HTML either via plain fetch or a real headless browser.
+// Cloudflare usually blocks plain fetch from datacenters; the browser path
+// (Playwright) has a much better chance. Enable with --browser (needs the
+// optional "playwright" dep + a chromium install, which the GitHub Action sets up).
+let _browser = null;
+async function getHtml(url, useBrowser) {
+  if (!useBrowser) {
+    const res = await fetch(url, { headers: BROWSER_HEADERS });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.text();
+  }
+  let pw;
+  try { pw = require('playwright'); }
+  catch { throw new Error('playwright not installed (run: npm i playwright && npx playwright install chromium)'); }
+  if (!_browser) _browser = await pw.chromium.launch();
+  const ctx = await _browser.newContext({ userAgent: BROWSER_HEADERS['User-Agent'] });
+  const page = await ctx.newPage();
+  try {
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 45000 });
+    await page.waitForTimeout(2500); // let Cloudflare JS challenge settle
+    return await page.content();
+  } finally { await ctx.close(); }
+}
+
+async function scrape(source, date, debug, useBrowser) {
   const out = [];
   const adapter = ADAPTERS[source];
   const url = adapter.resultsUrl(date);
   try {
-    const res = await fetch(url, { headers: BROWSER_HEADERS });
-    if (!res.ok) { console.log(`• ${source}: HTTP ${res.status} for ${url} (Cloudflare block? use the inbox path)`); return out; }
-    const html = await res.text();
+    const html = await getHtml(url, useBrowser);
     if (debug) fs.writeFileSync(path.join(REVIEW, `${source}-${date}.html`), html);
     const parsed = adapter.parse(html, date, debug);
     out.push(...parsed);
-    console.log(`• ${source}: parsed ${parsed.length} race(s)`);
+    console.log(`• ${source} ${date}: parsed ${parsed.length} race(s)${useBrowser ? ' [browser]' : ''}`);
   } catch (e) {
-    console.log(`• ${source}: fetch failed (${e.message}) — falling back to inbox`);
+    console.log(`• ${source} ${date}: fetch failed (${e.message})${useBrowser ? '' : ' — try --browser, or use the inbox path'}`);
+  }
+  return out;
+}
+
+function dateRange(endDate, days) {
+  const out = [];
+  const end = new Date(endDate);
+  for (let i = 0; i < days; i++) {
+    const d = new Date(end);
+    d.setDate(end.getDate() - i);
+    out.push(d.toISOString().slice(0, 10));
   }
   return out;
 }
@@ -163,6 +196,8 @@ async function main() {
   const opt = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
   const date = opt('--date', new Date().toISOString().slice(0, 10));
   const source = opt('--source', 'all');
+  const days = Math.max(1, parseInt(opt('--days', '1'), 10) || 1); // --days 180 = ~6-month backfill
+  const useBrowser = args.includes('--browser');
   const debug = args.includes('--debug');
   const noPush = args.includes('--no-push');
 
@@ -172,8 +207,13 @@ async function main() {
   let results = [];
 
   if (source === 'live' || source === 'all') {
-    results.push(...await scrape('goldcircle', date, debug));
-    results.push(...await scrape('fourracing', date, debug));
+    const dates = dateRange(date, days);
+    if (days > 1) console.log(`Backfilling ${days} day(s): ${dates[dates.length - 1]} → ${dates[0]}`);
+    for (const d of dates) {
+      results.push(...await scrape('goldcircle', d, debug, useBrowser));
+      results.push(...await scrape('fourracing', d, debug, useBrowser));
+    }
+    if (_browser) await _browser.close();
   }
   let inboxFiles = [];
   if (source === 'inbox' || source === 'all') {

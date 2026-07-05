@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { load, strikeRate } = require('./formbook');
+const { normalizeName } = require('./names');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const PRED_SRC = path.join(ROOT, 'data', 'predictions');
@@ -41,12 +42,53 @@ function syncDashboard() {
 
   const fb = load();
   const sr = strikeRate(fb);
+  const horses = buildHorses(fb);
 
   fs.writeFileSync(path.join(DOCS_DATA, 'manifest.json'),
     JSON.stringify({ generated: new Date().toISOString(), count: entries.length, predictions: entries }, null, 2) + '\n');
   fs.writeFileSync(path.join(DOCS_DATA, 'strike-rate.json'), JSON.stringify(sr, null, 2) + '\n');
+  fs.writeFileSync(path.join(DOCS_DATA, 'horses.json'),
+    JSON.stringify({ generated: new Date().toISOString(), count: horses.length, horses }, null, 2) + '\n');
 
-  return { predictions: entries.length, strikeRate: sr };
+  return { predictions: entries.length, horses: horses.length, strikeRate: sr };
+}
+
+// Flatten the formbook into a browsable horse database + per-horse H2H summary.
+function buildHorses(fb) {
+  const nameByKey = Object.fromEntries(Object.entries(fb.horses).map(([k, h]) => [k, h.name]));
+
+  // aggregate head-to-head wins/losses per horse across all pairs
+  const h2hAgg = {}; // key -> { beats:Set, losesTo:Set, wins, losses }
+  const bump = (k) => (h2hAgg[k] = h2hAgg[k] || { beats: new Set(), losesTo: new Set(), wins: 0, losses: 0 });
+  for (const [pair, meetings] of Object.entries(fb.headToHead || {})) {
+    const [a, b] = pair.split('|');
+    for (const m of meetings) {
+      const wk = normalizeName(m.winner);
+      const lk = wk === a ? b : a;
+      bump(wk).wins++; bump(wk).beats.add(nameByKey[lk] || lk);
+      bump(lk).losses++; bump(lk).losesTo.add(nameByKey[wk] || wk);
+    }
+  }
+
+  return Object.entries(fb.horses).map(([key, h]) => {
+    const runs = h.runs || [];
+    const starts = runs.length;
+    const wins = runs.filter((r) => r.finish === 1).length;
+    const places = runs.filter((r) => r.finish <= 3).length;
+    const lastFive = [...runs].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+      .slice(0, 5).map((r) => (r.finish > 9 ? '0' : r.finish)).join('');
+    const agg = h2hAgg[key] || { beats: new Set(), losesTo: new Set(), wins: 0, losses: 0 };
+    return {
+      key, name: h.name, rating: h.rating ?? null,
+      starts, wins, places,
+      winPct: starts ? +((wins / starts) * 100).toFixed(0) : 0,
+      placePct: starts ? +((places / starts) * 100).toFixed(0) : 0,
+      lastFive: lastFive || '—',
+      tracks: [...new Set(runs.map((r) => r.track).filter(Boolean))],
+      runs,
+      h2h: { wins: agg.wins, losses: agg.losses, beats: [...agg.beats], losesTo: [...agg.losesTo] },
+    };
+  }).sort((a, b) => b.starts - a.starts || a.name.localeCompare(b.name));
 }
 
 if (require.main === module) {

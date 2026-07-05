@@ -1,0 +1,62 @@
+name: Predict on racecard upload
+
+# Drop a racecard into data/racecards/ (via the GitHub website "Add file →
+# Upload files", or git). This runs the predictor and pushes the result so the
+# dashboard updates automatically. Supports .pdf / .txt / .csv / .json cards.
+
+on:
+  push:
+    paths:
+      - 'data/racecards/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: formbook-write
+  cancel-in-progress: false
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund   # pulls pdf-parse for PDF cards
+
+      - name: Predict newly-added racecards
+        run: |
+          set -e
+          BEFORE='${{ github.event.before }}'
+          if git cat-file -e "$BEFORE" 2>/dev/null; then
+            FILES=$(git diff --name-only "$BEFORE" '${{ github.sha }}' -- 'data/racecards/**' || true)
+          else
+            FILES=$(git ls-files 'data/racecards/**')
+          fi
+          echo "Racecards to process:"; echo "$FILES"
+          FOUND=0
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            case "$f" in *EXAMPLE*) echo "skip example: $f"; continue;; esac
+            [ -f "$f" ] || continue
+            case "$f" in
+              *.pdf|*.txt|*.csv|*.json)
+                echo "→ predict $f"
+                node scripts/predict.js "$f" --no-push
+                FOUND=1 ;;
+            esac
+          done <<< "$FILES"
+          echo "found=$FOUND" >> "$GITHUB_ENV"
+
+      - name: Commit prediction + dashboard data
+        if: env.found == '1'
+        run: |
+          git config user.name 'formbook-bot'
+          git config user.email 'actions@github.com'
+          git add data docs
+          git commit -m 'Auto-predict uploaded racecard [skip ci]' || { echo 'nothing to commit'; exit 0; }
+          git push

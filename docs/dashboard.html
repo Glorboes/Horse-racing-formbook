@@ -124,6 +124,32 @@
   .foot{color:var(--muted);font-size:12px;text-align:center;margin-top:26px}
   .empty{color:var(--muted);text-align:center;padding:30px 10px}
   .lock-btn{margin-left:8px;background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer}
+
+  /* ---- tabs ---- */
+  .tabs{display:flex;gap:6px;margin:2px 0 12px;position:sticky;top:0;z-index:5;background:linear-gradient(180deg,var(--bg) 70%,transparent);padding:6px 0}
+  .tab{flex:1;background:var(--panel);border:1px solid var(--line);color:var(--muted);border-radius:12px;padding:11px 8px;font-size:14px;font-weight:600;cursor:pointer}
+  .tab.active{border-color:var(--gold);color:var(--gold2);background:linear-gradient(180deg,#1d1a10,#141418)}
+
+  /* ---- database view ---- */
+  .dbsearch{width:100%;padding:12px 14px;border-radius:12px;border:1px solid var(--line);background:#0f0f12;color:var(--ink);font-size:16px;margin-bottom:10px}
+  .dbsearch:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(212,175,55,.12)}
+  .dbmeta{color:var(--muted);font-size:12px;margin-bottom:8px}
+  .horse{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 13px;margin-bottom:8px;cursor:pointer}
+  .horse:active{border-color:var(--gold)}
+  .horse .hn{font-weight:700;font-size:15px}
+  .horse .hs{color:var(--muted);font-size:12px;margin-top:2px}
+  .horse .hr{margin-left:auto;text-align:right;font-size:12px;color:var(--muted)}
+  .horse .hr b{color:var(--gold2);font-size:15px;display:block}
+  .horse .f5{font-variant-numeric:tabular-nums;letter-spacing:2px;color:var(--gold2)}
+  .back{background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:6px 12px;font-size:13px;cursor:pointer;margin-bottom:12px}
+  .kpis{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+  .kpi{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-size:12px;color:var(--muted);flex:1;min-width:70px;text-align:center}
+  .kpi b{display:block;color:var(--gold2);font-size:18px}
+  .pos1{color:var(--green);font-weight:700}
+  .tagrow{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+  .tag{font-size:11px;border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--muted)}
+  .tag.win{color:var(--green);border-color:rgba(95,191,118,.4)}
+  .tag.loss{color:var(--red);border-color:rgba(209,106,106,.35)}
 </style>
 </head>
 <body>
@@ -150,8 +176,23 @@
     <button class="lock-btn" onclick="lockNow()">Lock</button>
   </header>
 
-  <div class="picker" id="picker"></div>
-  <div id="race"></div>
+  <nav class="tabs">
+    <button class="tab active" data-view="races" onclick="showView('races')">🏁 Races</button>
+    <button class="tab" data-view="db" onclick="showView('db')">📚 Database</button>
+  </nav>
+
+  <div id="view-races">
+    <div class="picker" id="picker"></div>
+    <div id="race"></div>
+  </div>
+
+  <div id="view-db" style="display:none">
+    <input id="dbSearch" class="dbsearch" type="search" placeholder="Search horses by name…" oninput="renderHorseList()" autocomplete="off">
+    <div class="dbmeta" id="dbMeta"></div>
+    <div id="dbList"></div>
+    <div id="dbDetail"></div>
+  </div>
+
   <div class="foot" id="foot"></div>
 </div>
 
@@ -177,20 +218,83 @@ document.getElementById("gateForm").addEventListener("submit", async (e)=>{
 if(sessionStorage.getItem(KEY)==="1"){ unlock(); }
 
 // ---- Data loading ----
-let MANIFEST=null, CURRENT=null;
+let MANIFEST=null, CURRENT=null, HORSES=[];
 async function boot(){
   try{
-    const [m, sr] = await Promise.all([
+    const [m, sr, hz] = await Promise.all([
       fetch("data/manifest.json").then(r=>r.json()),
-      fetch("data/strike-rate.json").then(r=>r.ok?r.json():null).catch(()=>null)
+      fetch("data/strike-rate.json").then(r=>r.ok?r.json():null).catch(()=>null),
+      fetch("data/horses.json").then(r=>r.ok?r.json():null).catch(()=>null)
     ]);
-    MANIFEST=m; renderStrike(sr); renderPicker(m.predictions||[]);
+    MANIFEST=m; HORSES=(hz&&hz.horses)||[]; renderStrike(sr); renderPicker(m.predictions||[]);
     if((m.predictions||[]).length) selectRace(m.predictions[0].file);
-    else document.getElementById("race").innerHTML='<div class="empty">No predictions yet. Run <code>predict &lt;racecard&gt;</code> to generate one.</div>';
-    document.getElementById("foot").textContent = "Updated "+new Date(m.generated).toLocaleString();
+    else document.getElementById("race").innerHTML='<div class="empty">No predictions yet. Upload a racecard to <code>data/racecards/</code> to generate one.</div>';
+    renderHorseList();
+    document.getElementById("foot").textContent = "Updated "+new Date(m.generated).toLocaleString()+" · "+HORSES.length+" horses in DB";
   }catch(err){
     document.getElementById("race").innerHTML='<div class="empty">Could not load data.<br><small>'+err.message+'</small></div>';
   }
+}
+
+// ---- Tabs ----
+function showView(v){
+  document.getElementById("view-races").style.display = v==="races"?"block":"none";
+  document.getElementById("view-db").style.display    = v==="db"?"block":"none";
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t.dataset.view===v));
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+// ---- Database: horse list + detail ----
+function renderHorseList(){
+  document.getElementById("dbDetail").innerHTML="";
+  const q = (document.getElementById("dbSearch").value||"").trim().toLowerCase();
+  const list = HORSES.filter(h=>!q||h.name.toLowerCase().includes(q))
+                     .sort((a,b)=> b.starts-a.starts || a.name.localeCompare(b.name));
+  document.getElementById("dbMeta").textContent =
+    HORSES.length ? `${list.length} of ${HORSES.length} horses` : "Database is empty — log results to populate it.";
+  document.getElementById("dbList").innerHTML = list.slice(0,300).map(h=>`
+    <div class="horse" onclick="showHorse('${encodeURIComponent(h.key)}')">
+      <div>
+        <div class="hn">${esc(h.name)}</div>
+        <div class="hs">${h.starts} run${h.starts===1?'':'s'} · <span class="f5">${esc(h.lastFive||'—')}</span>${h.rating!=null?' · MR '+h.rating:''}</div>
+      </div>
+      <div class="hr"><b>${h.winPct}%</b>${h.wins}W-${h.places}P</div>
+    </div>`).join("") || '<div class="empty">No horses match.</div>';
+}
+
+function showHorse(k){
+  const key = decodeURIComponent(k);
+  const h = HORSES.find(x=>x.key===key); if(!h) return;
+  const runs = [...(h.runs||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  const rows = runs.map(r=>`<tr>
+      <td class="name">${r.date||'—'}</td><td>${esc(r.track)||'—'}</td><td>R${r.race||'—'}</td>
+      <td>${r.distance||'—'}m</td><td>${esc(r.going)||'—'}</td>
+      <td class="${r.finish===1?'pos1':''}">${r.finish||'—'}/${r.field||'—'}</td>
+      <td>${r.marginBehindWinner!=null?(r.finish===1?'won':('+'+r.marginBehindWinner)):'—'}</td>
+      <td>${r.weight??'—'}</td><td>${esc(r.jockey)||'—'}</td></tr>`).join("");
+  const beats=(h.h2h&&h.h2h.beats)||[], loses=(h.h2h&&h.h2h.losesTo)||[];
+  const tags = beats.map(n=>`<span class="tag win">beat ${esc(n)}</span>`).join("")+
+               loses.map(n=>`<span class="tag loss">lost to ${esc(n)}</span>`).join("");
+  document.getElementById("dbList").innerHTML="";
+  document.getElementById("dbMeta").textContent="";
+  document.getElementById("dbDetail").innerHTML = `
+    <button class="back" onclick="renderHorseList()">‹ Back to list</button>
+    <section class="card">
+      <h2>🐎 ${esc(h.name)}</h2>
+      <div class="kpis">
+        <div class="kpi"><b>${h.starts}</b>starts</div>
+        <div class="kpi"><b>${h.wins}</b>wins</div>
+        <div class="kpi"><b>${h.places}</b>places</div>
+        <div class="kpi"><b>${h.winPct}%</b>win</div>
+        <div class="kpi"><b>${h.rating??'—'}</b>rating</div>
+      </div>
+      ${tags?`<div class="tagrow">${tags}</div>`:''}
+      <div class="scroll" style="margin-top:12px"><table>
+        <tr><th class="name">Date</th><th>Track</th><th>R</th><th>Dist</th><th>Going</th><th>Fin</th><th>Margin</th><th>Wt</th><th>Jockey</th></tr>
+        ${rows||'<tr><td colspan="9">No runs recorded.</td></tr>'}
+      </table></div>
+    </section>`;
+  window.scrollTo({top:0,behavior:"smooth"});
 }
 
 function renderStrike(sr){

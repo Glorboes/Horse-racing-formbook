@@ -43,6 +43,29 @@ the phone dashboard stays current. Disable with `AUTO_PUSH=0` or `--no-push`.
 
 ---
 
+## Phone-only workflow (no laptop needed) — GitHub Actions
+
+**Where do I send the day's racecard?** → Upload it into **`data/racecards/`**.
+
+On your phone: open the repo on github.com → `data/racecards/` → **Add file →
+Upload files** → pick the TAB Computaform **PDF** (or a `.txt`/`.json` card) →
+Commit. The **“Predict on racecard upload”** Action
+(`.github/workflows/predict.yml`) runs automatically, generates the prediction,
+and pushes it — the dashboard shows the new race a minute later. No git, no CLI.
+
+**Auto-updating results + the 6-month backfill.** The **“Pull results”** Action
+(`.github/workflows/pull-results.yml`) runs nightly to log results and refresh
+head-to-head. To backfill history, run it manually:
+**Actions tab → “Pull results” → Run workflow → `days` = `180`.**
+
+> ⚠️ The results sites (Gold Circle, 4Racing) are Cloudflare-protected and the
+> scraper's CSS selectors are **unverified against the live pages** — the first
+> real run may log 0 races until the selectors in `scripts/pull-results.js`
+> (`ADAPTERS`) are tuned using the debug HTML the Action uploads as an artifact.
+> The **`data/results-inbox/`** path always works as a fallback.
+
+---
+
 ## The dashboard
 
 - Lives in `docs/dashboard.html` (Pages entry `docs/index.html` redirects to it).

@@ -43,7 +43,19 @@ const server = http.createServer((req, res) => {
   const topPick = await page.textContent('.pick.top .nm');
   const strongest = await page.textContent('.strong .nm');
   const chips = await page.$$eval('#srChips .chip', (e) => e.map((x) => x.textContent));
+
+  // Database tab
+  await page.click('.tab[data-view="db"]');
+  await page.waitForSelector('#view-db .horse', { timeout: 5000 });
+  const horseCount = await page.$$eval('#view-db .horse', (e) => e.length);
+  await page.click('#view-db .horse'); // open first horse detail
+  await page.waitForSelector('#dbDetail .kpi', { timeout: 5000 });
+  const detailName = await page.textContent('#dbDetail h2');
+  const kpiCount = await page.$$eval('#dbDetail .kpi', (e) => e.length);
+  await page.screenshot({ path: path.join(__dirname, '..', '..', 'docs', 'preview-db.png'), fullPage: true });
+  await page.click('.tab[data-view="races"]');
   await page.screenshot({ path: path.join(__dirname, '..', '..', 'docs', 'preview.png'), fullPage: true });
+  console.log('db horses listed  :', horseCount, '| detail:', detailName.trim(), '| kpis:', kpiCount);
 
   console.log('gate shown initially:', gateShown);
   console.log('wrong-pass error   :', JSON.stringify(errText));
@@ -54,7 +66,8 @@ const server = http.createServer((req, res) => {
   console.log('page errors        :', errors);
 
   const need = ['Educated Guess', 'Comparison', 'Who Beat Who', 'Strike Rate'];
-  const ok = need.every((n) => headings.some((h) => h.includes(n))) && errors.length === 0 && gateShown;
+  const ok = need.every((n) => headings.some((h) => h.includes(n))) && errors.length === 0 && gateShown
+    && horseCount > 0 && kpiCount >= 4;
   await browser.close(); server.close();
   console.log(ok ? '\n✓ UI smoke test PASSED' : '\n✗ UI smoke test FAILED');
   process.exit(ok ? 0 : 1);
