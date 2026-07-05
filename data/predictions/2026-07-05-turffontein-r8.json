@@ -1,123 +1,29 @@
 {
-  "id": "2026-07-05-turffontein-r5",
+  "id": "2026-07-05-turffontein-r8",
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
-  "race": 5,
+  "race": 8,
   "distance": 1160,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.721Z",
+  "generated": "2026-07-05T06:08:12.724Z",
   "settled": false,
   "ranked": [
     {
-      "name": "WHATSDAMATTERWITHU",
-      "key": "WHATSDAMATTERWITHU",
-      "draw": 3,
-      "rating": 34,
+      "name": "TAXI TO THE MOON",
+      "key": "TAXI TO THE MOON",
+      "draw": 7,
+      "rating": 66,
       "jockey": null,
       "trainer": null,
-      "weight": 57,
-      "score": 59.6,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.947,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.9,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 15.16,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.4,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "beats": [],
-        "losesTo": []
-      },
-      "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 1
-    },
-    {
-      "name": "CAMPO FORMIO",
-      "key": "CAMPO FORMIO",
-      "draw": 8,
-      "rating": 35,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "score": 58.9,
+      "weight": 62,
+      "score": 53.2,
       "factors": {
         "form": 0.4,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.65,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 16,
-        "distance": 5,
-        "going": 4,
-        "draw": 3.9,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "beats": [],
-        "losesTo": []
-      },
-      "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 2
-    },
-    {
-      "name": "WISH YOU WERE HERE",
-      "key": "WISH YOU WERE HERE",
-      "draw": 1,
-      "rating": 33,
-      "jockey": null,
-      "trainer": null,
-      "weight": 60,
-      "score": 53.3,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.895,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
+        "draw": 0.7,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -126,10 +32,10 @@
       },
       "contrib": {
         "form": 7.2,
-        "rating": 14.32,
+        "rating": 16,
         "distance": 5,
         "going": 4,
-        "draw": 6,
+        "draw": 4.2,
         "jockey": 3,
         "trainer": 3,
         "weight": 0,
@@ -149,23 +55,23 @@
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "rank": 1
     },
     {
-      "name": "FIELD OF DREAMS",
-      "key": "FIELD OF DREAMS",
-      "draw": 2,
+      "name": "SLINKY MAPIMPI",
+      "key": "SLINKY MAPIMPI",
+      "draw": 3,
       "rating": null,
       "jockey": null,
       "trainer": null,
-      "weight": 57,
-      "score": 52.7,
+      "weight": 50,
+      "score": 52.4,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.95,
+        "draw": 0.9,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 1,
@@ -177,7 +83,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 5.7,
+        "draw": 5.4,
         "jockey": 3,
         "trainer": 3,
         "weight": 6,
@@ -196,16 +102,16 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "name": "SPICY PLUM",
-      "key": "SPICY PLUM",
+      "name": "THE LAST DUKE",
+      "key": "THE LAST DUKE",
       "draw": 4,
       "rating": null,
       "jockey": null,
       "trainer": null,
-      "weight": 57,
+      "weight": 50,
       "score": 52.1,
       "factors": {
         "form": 0.4,
@@ -243,17 +149,111 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
+      "rank": 3
+    },
+    {
+      "name": "ZALATORIS",
+      "key": "ZALATORIS",
+      "draw": 1,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 54,
+      "score": 51,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: the draw, weight.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 4
+    },
+    {
+      "name": "AFRICAN PRIDE",
+      "key": "AFRICAN PRIDE",
+      "draw": 2,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 54,
+      "score": 50.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: the draw, weight.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
       "rank": 5
     },
     {
-      "name": "RUMBA ERUPTA",
-      "key": "RUMBA ERUPTA",
+      "name": "CHARMING CHEETAH",
+      "key": "CHARMING CHEETAH",
       "draw": 5,
       "rating": null,
       "jockey": null,
       "trainer": null,
-      "weight": 57,
-      "score": 51.8,
+      "weight": 54,
+      "score": 49.8,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
@@ -262,7 +262,7 @@
         "draw": 0.8,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 1,
+        "weight": 0.667,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -274,7 +274,7 @@
         "draw": 4.8,
         "jockey": 3,
         "trainer": 3,
-        "weight": 6,
+        "weight": 4,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -287,114 +287,20 @@
         "losesTo": []
       },
       "reasoning": [
-        "Strengths: weight, the draw.",
+        "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
       "rank": 6
     },
     {
-      "name": "POLE POSITION",
-      "key": "POLE POSITION",
-      "draw": 7,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "score": 51.2,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.7,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.2,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "beats": [],
-        "losesTo": []
-      },
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 7
-    },
-    {
-      "name": "PARISIENNE QUEEN",
-      "key": "PARISIENNE QUEEN",
-      "draw": 9,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57.5,
-      "score": 49.6,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.6,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.833,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 3.6,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 5,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "beats": [],
-        "losesTo": []
-      },
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 8
-    },
-    {
-      "name": "GLASTONBURY FIRE",
-      "key": "GLASTONBURY FIRE",
+      "name": "QUANTUM THEORY",
+      "key": "QUANTUM THEORY",
       "draw": 6,
       "rating": null,
       "jockey": null,
       "trainer": null,
-      "weight": 60,
-      "score": 45.5,
+      "weight": 56,
+      "score": 48.5,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
@@ -403,7 +309,7 @@
         "draw": 0.75,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0,
+        "weight": 0.5,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -415,7 +321,7 @@
         "draw": 4.5,
         "jockey": 3,
         "trainer": 3,
-        "weight": 0,
+        "weight": 3,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -429,20 +335,114 @@
       },
       "reasoning": [
         "Strengths: the draw.",
-        "Concerns: weight.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 7
+    },
+    {
+      "name": "ALMOND SEA",
+      "key": "ALMOND SEA",
+      "draw": 8,
+      "rating": 64,
+      "jockey": null,
+      "trainer": null,
+      "weight": 56,
+      "score": 47.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: the draw.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 8
+    },
+    {
+      "name": "ONE FINE WINTER",
+      "key": "ONE FINE WINTER",
+      "draw": 9,
+      "rating": 62,
+      "jockey": null,
+      "trainer": null,
+      "weight": 50,
+      "score": 42.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: weight, the draw.",
+        "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
       "rank": 9
     },
     {
-      "name": "LEANNE’S LOVE",
-      "key": "LEANNES LOVE",
+      "name": "CHAPBOOK",
+      "key": "CHAPBOOK",
       "draw": 10,
-      "rating": 16,
+      "rating": 62,
       "jockey": null,
       "trainer": null,
-      "weight": 57.5,
-      "score": 41.3,
+      "weight": 51,
+      "score": 41.8,
       "factors": {
         "form": 0.4,
         "rating": 0,
@@ -451,7 +451,7 @@
         "draw": 0.55,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.833,
+        "weight": 0.917,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -463,7 +463,7 @@
         "draw": 3.3,
         "jockey": 3,
         "trainer": 3,
-        "weight": 5,
+        "weight": 5.5,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -485,20 +485,45 @@
   ],
   "comparison": [
     {
-      "no": 10,
-      "name": "WHATSDAMATTERWITHU",
+      "no": 1,
+      "name": "TAXI TO THE MOON",
       "rank": 1,
-      "score": 59.6,
-      "rating": 34,
-      "draw": 3,
-      "weight": 57,
+      "score": 53.2,
+      "rating": 66,
+      "draw": 7,
+      "weight": 62,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
         "form": 0.4,
-        "rating": 0.947,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "SLINKY MAPIMPI",
+      "rank": 2,
+      "score": 52.4,
+      "rating": null,
+      "draw": 3,
+      "weight": 50,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.9,
@@ -510,88 +535,13 @@
       }
     },
     {
-      "no": 5,
-      "name": "CAMPO FORMIO",
-      "rank": 2,
-      "score": 58.9,
-      "rating": 35,
-      "draw": 8,
-      "weight": 57,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 1,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.65,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 1,
-      "name": "WISH YOU WERE HERE",
+      "no": 10,
+      "name": "THE LAST DUKE",
       "rank": 3,
-      "score": 53.3,
-      "rating": 33,
-      "draw": 1,
-      "weight": 60,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.895,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 6,
-      "name": "FIELD OF DREAMS",
-      "rank": 4,
-      "score": 52.7,
-      "rating": null,
-      "draw": 2,
-      "weight": 57,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.95,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 9,
-      "name": "SPICY PLUM",
-      "rank": 5,
       "score": 52.1,
       "rating": null,
       "draw": 4,
-      "weight": 57,
+      "weight": 50,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -610,13 +560,63 @@
       }
     },
     {
-      "no": 8,
-      "name": "RUMBA ERUPTA",
+      "no": 5,
+      "name": "ZALATORIS",
+      "rank": 4,
+      "score": 51,
+      "rating": null,
+      "draw": 1,
+      "weight": 54,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "AFRICAN PRIDE",
+      "rank": 5,
+      "score": 50.7,
+      "rating": null,
+      "draw": 2,
+      "weight": 54,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "CHARMING CHEETAH",
       "rank": 6,
-      "score": 51.8,
+      "score": 49.8,
       "rating": null,
       "draw": 5,
-      "weight": 57,
+      "weight": 54,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -629,69 +629,19 @@
         "draw": 0.8,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 1,
+        "weight": 0.667,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
     },
     {
-      "no": 7,
-      "name": "POLE POSITION",
+      "no": 3,
+      "name": "QUANTUM THEORY",
       "rank": 7,
-      "score": 51.2,
-      "rating": null,
-      "draw": 7,
-      "weight": 57,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.7,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 4,
-      "name": "PARISIENNE QUEEN",
-      "rank": 8,
-      "score": 49.6,
-      "rating": null,
-      "draw": 9,
-      "weight": 57.5,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.6,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.833,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 2,
-      "name": "GLASTONBURY FIRE",
-      "rank": 9,
-      "score": 45.5,
+      "score": 48.5,
       "rating": null,
       "draw": 6,
-      "weight": 60,
+      "weight": 56,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -704,19 +654,69 @@
         "draw": 0.75,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0,
+        "weight": 0.5,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
     },
     {
-      "no": 3,
-      "name": "LEANNE’S LOVE",
+      "no": 2,
+      "name": "ALMOND SEA",
+      "rank": 8,
+      "score": 47.9,
+      "rating": 64,
+      "draw": 8,
+      "weight": 56,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "ONE FINE WINTER",
+      "rank": 9,
+      "score": 42.6,
+      "rating": 62,
+      "draw": 9,
+      "weight": 50,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "CHAPBOOK",
       "rank": 10,
-      "score": 41.3,
-      "rating": 16,
+      "score": 41.8,
+      "rating": 62,
       "draw": 10,
-      "weight": 57.5,
+      "weight": 51,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -729,7 +729,7 @@
         "draw": 0.55,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.833,
+        "weight": 0.917,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
@@ -737,8 +737,8 @@
   ],
   "headToHead": [
     {
-      "name": "WISH YOU WERE HERE",
-      "key": "WISH YOU WERE HERE",
+      "name": "TAXI TO THE MOON",
+      "key": "TAXI TO THE MOON",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -748,8 +748,8 @@
       "record": "0-0"
     },
     {
-      "name": "GLASTONBURY FIRE",
-      "key": "GLASTONBURY FIRE",
+      "name": "ALMOND SEA",
+      "key": "ALMOND SEA",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -759,8 +759,8 @@
       "record": "0-0"
     },
     {
-      "name": "LEANNE’S LOVE",
-      "key": "LEANNES LOVE",
+      "name": "QUANTUM THEORY",
+      "key": "QUANTUM THEORY",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -770,8 +770,8 @@
       "record": "0-0"
     },
     {
-      "name": "PARISIENNE QUEEN",
-      "key": "PARISIENNE QUEEN",
+      "name": "AFRICAN PRIDE",
+      "key": "AFRICAN PRIDE",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -781,8 +781,8 @@
       "record": "0-0"
     },
     {
-      "name": "CAMPO FORMIO",
-      "key": "CAMPO FORMIO",
+      "name": "ZALATORIS",
+      "key": "ZALATORIS",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -792,8 +792,8 @@
       "record": "0-0"
     },
     {
-      "name": "FIELD OF DREAMS",
-      "key": "FIELD OF DREAMS",
+      "name": "CHARMING CHEETAH",
+      "key": "CHARMING CHEETAH",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -803,8 +803,8 @@
       "record": "0-0"
     },
     {
-      "name": "POLE POSITION",
-      "key": "POLE POSITION",
+      "name": "CHAPBOOK",
+      "key": "CHAPBOOK",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -814,8 +814,8 @@
       "record": "0-0"
     },
     {
-      "name": "RUMBA ERUPTA",
-      "key": "RUMBA ERUPTA",
+      "name": "ONE FINE WINTER",
+      "key": "ONE FINE WINTER",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -825,8 +825,8 @@
       "record": "0-0"
     },
     {
-      "name": "SPICY PLUM",
-      "key": "SPICY PLUM",
+      "name": "SLINKY MAPIMPI",
+      "key": "SLINKY MAPIMPI",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -836,8 +836,8 @@
       "record": "0-0"
     },
     {
-      "name": "WHATSDAMATTERWITHU",
-      "key": "WHATSDAMATTERWITHU",
+      "name": "THE LAST DUKE",
+      "key": "THE LAST DUKE",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -847,5 +847,5 @@
       "record": "0-0"
     }
   ],
-  "strongest": "WISH YOU WERE HERE"
+  "strongest": "TAXI TO THE MOON"
 }

@@ -24,13 +24,27 @@ async function main() {
   if (!fs.existsSync(file)) { console.error(`File not found: ${file}`); process.exit(1); }
 
   const book = fb.load();
-  const race = await parseRacecard(file);
-  if (race._review) console.log(`ℹ parsed PDF -> review copy at ${path.relative(process.cwd(), race._review)}\n`);
+  const { races, review } = await parseRacecard(file);
+  if (review) console.log(`ℹ parsed ${races.length} race(s); review copy at ${path.relative(process.cwd(), review)}\n`);
+  if (!races.length) { console.error('No races parsed.'); process.exit(1); }
 
+  fs.mkdirSync(path.join(fb.ROOT, 'data', 'predictions'), { recursive: true });
+  const written = [];
+  for (const race of races) written.push(processRace(book, race));
+  fb.save(book);
+
+  const sync = syncDashboard();
+  const meta = races[0];
+  console.log(`\n✓ wrote ${written.length} prediction(s) for ${meta.track || 'card'} ${meta.date}  |  dashboard synced (${sync.predictions} cards)`);
+
+  if (!noPush) autoPush(`predict: ${meta.track || 'race'} — ${written.length} race(s) ${meta.date}`);
+}
+
+// Score one race, write its prediction JSON, log it for strike-rate tracking.
+function processRace(book, race) {
   const { ranked, h2h } = scoreRace(book, race);
   const id = fb.makePredId(race.date, race.track || 'unknown', race.race);
 
-  // build comparison table rows (form snapshot from formbook)
   const comparison = ranked.map((r) => {
     const known = book.horses[r.key] || { runs: [] };
     const last = (known.runs || []).slice(-5).reverse().map((x) => x.finish).join('');
@@ -39,41 +53,27 @@ async function main() {
       name: r.name, rank: r.rank, score: r.score,
       rating: r.rating, draw: r.draw, weight: r.weight,
       jockey: r.jockey, trainer: r.trainer,
-      lastFive: last || '—',
-      runsKnown: r.knownRuns,
-      factors: r.factors,
+      lastFive: last || '—', runsKnown: r.knownRuns, factors: r.factors,
     };
   });
 
   const prediction = {
     id, date: race.date, track: race.track, race: race.race,
-    distance: race.distance, going: race.going,
-    generated: new Date().toISOString(),
-    settled: false,
-    ranked, comparison,
-    headToHead: h2h,
-    strongest: h2h[0] ? h2h[0].name : null,
+    distance: race.distance, going: race.going, surface: race.surface || null,
+    generated: new Date().toISOString(), settled: false,
+    ranked, comparison, headToHead: h2h, strongest: h2h[0] ? h2h[0].name : null,
   };
 
-  // write prediction json
-  fs.mkdirSync(path.join(fb.ROOT, 'data', 'predictions'), { recursive: true });
-  const outPath = path.join(fb.ROOT, 'data', 'predictions', `${id}.json`);
-  fs.writeFileSync(outPath, JSON.stringify(prediction, null, 2) + '\n');
+  fs.writeFileSync(path.join(fb.ROOT, 'data', 'predictions', `${id}.json`), JSON.stringify(prediction, null, 2) + '\n');
 
-  // log the prediction so it can be settled later (strike-rate tracking)
   const existing = book.predictionsLog.find((p) => p.id === id);
   const logEntry = { id, date: race.date, track: race.track, race: race.race, settled: false,
     ranked: ranked.slice(0, 4).map((r) => ({ name: r.name, score: r.score })) };
   if (existing) Object.assign(existing, logEntry);
   else book.predictionsLog.push(logEntry);
-  fb.save(book);
 
   printReport(prediction);
-
-  const sync = syncDashboard();
-  console.log(`\n✓ wrote ${path.relative(process.cwd(), outPath)}  |  dashboard synced (${sync.predictions} cards)`);
-
-  if (!noPush) autoPush(`predict: ${race.track || 'race'} R${race.race} ${race.date}`);
+  return id;
 }
 
 function printReport(p) {

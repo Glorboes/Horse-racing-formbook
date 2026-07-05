@@ -2,24 +2,23 @@
 
 const fs = require('fs');
 const path = require('path');
-const { normalizeName } = require('./names');
 
-// Parse a racecard into a normalized race object:
-// { date, track, race, distance, going, runners: [{ no, name, draw, weight, rating, jockey, trainer }] }
+// Parse a racecard into one or more normalized race objects:
+// { date, track, race, distance, going, surface, runners:[{no,name,draw,weight,rating,gear,jockey,trainer}] }
 //
-// Three input modes, tried by extension:
-//   .json  -> already-structured race (fastest, most reliable)
-//   .txt   -> pipe/tab/CSV rows or raw text (parsed heuristically)
-//   .pdf   -> TAB Computaform PDF; text extracted via pdf-parse (optional dep)
+// Returns { races: [...], review? }.  A TAB Computaform PDF holds a whole
+// meeting (10+ races) — we return every race. .json/.txt/.csv are single-race.
 //
-// TAB Computaform PDFs vary; the PDF path extracts text and applies
-// heuristics, and ALWAYS writes what it could not confidently parse so you
-// can correct it rather than getting a silent wrong field.
+//   .json  -> already-structured race (single)
+//   .txt   -> pipe/CSV rows or key:value header (single)
+//   .pdf   -> TAB Computaform official racecard (full meeting, multi-race)
+
+const MONTHS = { january:'01',february:'02',march:'03',april:'04',may:'05',june:'06',july:'07',august:'08',september:'09',october:'10',november:'11',december:'12' };
 
 async function parseRacecard(file) {
   const ext = path.extname(file).toLowerCase();
-  if (ext === '.json') return normalizeRace(JSON.parse(fs.readFileSync(file, 'utf8')));
-  if (ext === '.txt' || ext === '.csv') return parseText(fs.readFileSync(file, 'utf8'), file);
+  if (ext === '.json') return { races: [normalizeRace(JSON.parse(fs.readFileSync(file, 'utf8')))] };
+  if (ext === '.txt' || ext === '.csv') return { races: [parseText(fs.readFileSync(file, 'utf8'), file)] };
   if (ext === '.pdf') return parsePdf(file);
   throw new Error(`Unsupported racecard type: ${ext} (use .pdf, .json, .txt, .csv)`);
 }
@@ -31,19 +30,21 @@ function normalizeRace(r) {
     draw: x.draw ?? null,
     weight: x.weight ?? null,
     rating: x.rating ?? null,
+    gear: x.gear ?? '',
     jockey: x.jockey ?? null,
     trainer: x.trainer ?? null,
   })).filter((x) => x.name);
   r.race = r.race ?? r.raceNo ?? 1;
   r.distance = r.distance ?? null;
   r.going = r.going ?? null;
+  r.surface = r.surface ?? null;
   r.track = r.track ?? null;
   r.date = r.date ?? new Date().toISOString().slice(0, 10);
   return r;
 }
 
-// TXT/CSV: header line "date,track,race,distance,going" then one runner per row:
-// no,name,draw,weight,rating,jockey,trainer  (missing cols ok)
+// TXT/CSV: header line "date: … / track: … / race: … / distance: … / going: …"
+// then one runner per row: no | name | draw | weight | rating | jockey | trainer
 function parseText(text, file) {
   const lines = text.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
   const meta = { race: 1 };
@@ -53,13 +54,9 @@ function parseText(text, file) {
     const kv = line.match(/^(date|track|race|distance|going)\s*[:=]\s*(.+)$/i);
     if (kv) { meta[kv[1].toLowerCase()] = coerce(kv[1].toLowerCase(), kv[2]); continue; }
     const cols = line.split(/\s*[|\t,]\s*/);
-    if (cols.length >= 2 && /\d/.test(cols[0]) === false && cols[0].toLowerCase() === 'no') continue;
+    if (cols.length >= 2 && cols[0].toLowerCase() === 'no') continue;
     if (cols.length >= 2) {
-      runners.push({
-        no: num(cols[0]), name: cols[1], draw: num(cols[2]),
-        weight: num(cols[3]), rating: num(cols[4]),
-        jockey: cols[5] || null, trainer: cols[6] || null,
-      });
+      runners.push({ no: num(cols[0]), name: cols[1], draw: num(cols[2]), weight: num(cols[3]), rating: num(cols[4]), jockey: cols[5] || null, trainer: cols[6] || null });
     }
   }
   if (!runners.length) throw new Error(`No runners parsed from ${path.basename(file)}`);
@@ -70,71 +67,79 @@ async function parsePdf(file) {
   let pdfParse;
   try { pdfParse = require('pdf-parse'); }
   catch {
-    throw new Error(
-      'PDF parsing needs the optional "pdf-parse" package.\n' +
-      '  Run: npm install pdf-parse\n' +
-      '  Or convert the racecard to .json/.txt (see data/racecards/EXAMPLE.txt).'
-    );
+    throw new Error('PDF parsing needs "pdf-parse" (npm install pdf-parse), or convert to .txt/.json.');
   }
-  const buf = fs.readFileSync(file);
-  const { text } = await pdfParse(buf);
-  const race = heuristicPdf(text);
+  const { text } = await pdfParse(fs.readFileSync(file));
+  const parsed = parseComputaform(text);
 
-  // Persist a review artifact so nothing parses silently-wrong.
   const reviewDir = path.resolve(__dirname, '..', '..', 'data', 'review');
   fs.mkdirSync(reviewDir, { recursive: true });
   const stub = path.join(reviewDir, path.basename(file, '.pdf') + '.parsed.json');
-  fs.writeFileSync(stub, JSON.stringify(race, null, 2) + '\n');
-  race._review = stub;
-  return race;
+
+  if (!parsed || !parsed.races.length) {
+    fs.writeFileSync(stub, JSON.stringify({ error: 'Could not locate the "FIELDS, RATINGS" section — is this a TAB Computaform card?', textStart: text.slice(0, 400) }, null, 2) + '\n');
+    throw new Error(`Could not parse Computaform PDF — wrote diagnostic to ${stub}. Try the .txt fallback.`);
+  }
+  const races = parsed.races.map(normalizeRace);
+  fs.writeFileSync(stub, JSON.stringify({ date: parsed.date, track: parsed.track, races }, null, 2) + '\n');
+  return { races, review: stub };
 }
 
-// Heuristic extraction from Computaform text. Looks for a distance token,
-// a track name, and runner rows starting with a saddle-cloth number.
-function heuristicPdf(text) {
-  const lines = text.split(/\r?\n/).map((l) => l.trim());
-  const joined = text.replace(/\s+/g, ' ');
-  const distance = (joined.match(/(\d{3,4})\s?m\b/) || [])[1];
-  const track = (joined.match(/\b(Turffontein|Vaal|Fairview|Scottsville|Greyville)\b/i) || [])[1];
-  const going = (joined.match(/\b(Good(?:\s?to\s?(?:Firm|Soft))?|Soft|Yielding|Heavy|Standard|Firm|Poly(?:track)?)\b/i) || [])[1];
-  const dateM = joined.match(/(\d{1,2})[\/\-\s](Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\d{1,2})[\/\-\s](\d{2,4})/i);
+// --- TAB Computaform "FIELDS, RATINGS FOR <TRACK> <course> <Day D Month YYYY>" ---
+function parseComputaform(text) {
+  const s = text.indexOf('FIELDS, RATINGS FOR');
+  if (s < 0) return null;
+  const sect = text.slice(s);
+  const head = sect.slice(0, 160);
+  const track = (head.match(/FIELDS, RATINGS FOR\s+([A-Za-z][A-Za-z ]+?)\s+(?:STANDSIDE|INSIDE|POLYTRACK|POLY|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)/i) || [])[1];
+  const dm = head.match(/(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);
+  const date = dm && MONTHS[dm[2].toLowerCase()] ? `${dm[3]}-${MONTHS[dm[2].toLowerCase()]}-${String(dm[1]).padStart(2, '0')}` : null;
+
+  const starts = [];
+  const re = /\n\s*(\d{1,2})\s*\n\s*(\d{1,2}:\d{2})\s*-\s*/g;
+  let m;
+  while ((m = re.exec(sect))) starts.push({ no: +m[1], idx: m.index });
+  const races = [];
+  for (let i = 0; i < starts.length; i++) {
+    const block = sect.slice(starts[i].idx, i + 1 < starts.length ? starts[i + 1].idx : sect.length);
+    const rc = parseRaceBlock(block, starts[i].no);
+    if (rc && rc.runners.length) races.push({ date, track: (track || '').trim() || null, ...rc });
+  }
+  return { date, track: (track || '').trim() || null, races };
+}
+
+function parseRaceBlock(block, no) {
+  const dist = block.match(/(\d{3,4})m\s*(TURF|POLYTRACK|POLY)/i);
+  const distance = dist ? +dist[1] : null;
+  const surface = dist ? (/POLY/i.test(dist[2]) ? 'Polytrack' : 'Turf') : null;
+
+  const hstart = block.search(/HORSE\s*-\s*NET\s*WGT|NO-\s*DR/i);
+  const rend = block.search(/COMPUTAFORM RATINGS/i);
+  const runnerText = block.slice(hstart >= 0 ? hstart : 0, rend >= 0 ? rend : block.length);
+  const flat = runnerText.replace(/\s+/g, ' ').replace(/\s*\([A-Z]{2,3}\)/g, ''); // drop (IRE)/(AUS)
 
   const runners = [];
-  for (const line of lines) {
-    // e.g. "3  EL BARB  (5)  60.0  J Smith  A Trainer  92"
-    const m = line.match(/^(\d{1,2})[.\)]?\s+([A-Z][A-Za-z'’\- ]{2,30}?)\s{2,}/);
-    if (m) {
-      const no = Number(m[1]);
-      const name = m[2].trim();
-      const draw = (line.match(/\((\d{1,2})\)/) || [])[1];
-      const weight = (line.match(/\b(\d{2}(?:\.\d)?)\s?kg?\b/) || line.match(/\s(\d{2}\.\d)\s/) || [])[1];
-      const rating = (line.match(/\b(\d{2,3})\s*$/) || [])[1];
-      if (no >= 1 && no <= 30 && name.length >= 3) {
-        runners.push({ no, name, draw: num(draw), weight: num(weight), rating: num(rating), jockey: null, trainer: null });
-      }
-    }
+  const rre = /(\d{1,2})\s*-\s*(\d{1,2})\s+([A-Z][A-Z0-9''‘’.\-\/ ]*?)\s+(\d{2}(?:\.\d)?)\s*(X{0,2})(?![\d])/g;
+  let r;
+  while ((r = rre.exec(flat))) {
+    const name = r[3].replace(/\s+/g, ' ').trim();
+    if (name.length < 2) continue;
+    runners.push({ no: +r[1], draw: +r[2], name, weight: +r[4], gear: r[5] || '' });
   }
 
-  return normalizeRace({
-    date: dateM ? toISO(dateM) : new Date().toISOString().slice(0, 10),
-    track: track || null,
-    race: Number((joined.match(/Race\s+(\d{1,2})/i) || [])[1]) || 1,
-    distance: distance ? Number(distance) : null,
-    going: going || null,
-    runners,
-  });
-}
+  const ratingByNo = {};
+  const cr = block.match(/COMPUTAFORM RATINGS([\s\S]*?)(SPEED RATINGS|$)/i);
+  if (cr) {
+    const rr = /(\d{1,2})\s+[A-Z][^\n\d]*?(\d{1,3})\s*(?:\n|$)/g;
+    let x;
+    while ((x = rr.exec(cr[1]))) ratingByNo[+x[1]] = +x[2];
+  }
+  runners.forEach((ru) => { if (ratingByNo[ru.no] != null) ru.rating = ratingByNo[ru.no]; });
 
-function toISO(m) {
-  const months = { jan: '01', feb: '02', mar: '03', apr: '04', may: '05', jun: '06', jul: '07', aug: '08', sep: '09', oct: '10', nov: '11', dec: '12' };
-  let [_, d, mo, y] = m;
-  d = String(d).padStart(2, '0');
-  mo = isNaN(+mo) ? months[String(mo).toLowerCase().slice(0, 3)] : String(mo).padStart(2, '0');
-  if (y.length === 2) y = '20' + y;
-  return `${y}-${mo}-${d}`;
+  return { race: no, distance, surface, going: null, runners };
 }
 
 function num(v) { const n = Number(String(v ?? '').replace(/[^\d.\-]/g, '')); return Number.isFinite(n) && v != null && v !== '' ? n : null; }
 function coerce(k, v) { return (k === 'race' || k === 'distance') ? num(v) : v.trim(); }
 
-module.exports = { parseRacecard, normalizeRace };
+module.exports = { parseRacecard, normalizeRace, parseComputaform };

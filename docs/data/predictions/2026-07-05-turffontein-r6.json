@@ -1,0 +1,518 @@
+{
+  "id": "2026-07-05-turffontein-r6",
+  "date": "2026-07-05",
+  "track": "TURFFONTEIN",
+  "race": 6,
+  "distance": 1800,
+  "going": null,
+  "surface": "Turf",
+  "generated": "2026-07-05T06:08:12.722Z",
+  "settled": false,
+  "ranked": [
+    {
+      "name": "KING’S EXPRESS",
+      "key": "KINGS EXPRESS",
+      "draw": 3,
+      "rating": 56,
+      "jockey": null,
+      "trainer": null,
+      "weight": 52.5,
+      "score": 54.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.938,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 5.63,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: class/rating, weight, the draw.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 1
+    },
+    {
+      "name": "THE EQUATOR",
+      "key": "THE EQUATOR",
+      "draw": 4,
+      "rating": 57,
+      "jockey": null,
+      "trainer": null,
+      "weight": 60,
+      "score": 53.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: class/rating, the draw.",
+        "Concerns: weight.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 2
+    },
+    {
+      "name": "DON’T CRY FOR ME",
+      "key": "DONT CRY FOR ME",
+      "draw": 1,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 54,
+      "score": 51.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: the draw, weight.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 3
+    },
+    {
+      "name": "FIRE ‘N FLAMES",
+      "key": "FIRE N FLAMES",
+      "draw": 5,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 54,
+      "score": 49.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: weight, the draw.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 4
+    },
+    {
+      "name": "HAWKBILL",
+      "key": "HAWKBILL",
+      "draw": 2,
+      "rating": 54,
+      "jockey": null,
+      "trainer": null,
+      "weight": 52,
+      "score": 44.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Strengths: weight, the draw.",
+        "Concerns: class/rating.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 5
+    },
+    {
+      "name": "WILD INTENT",
+      "key": "WILD INTENT",
+      "draw": 6,
+      "rating": 54,
+      "jockey": null,
+      "trainer": null,
+      "weight": 56,
+      "score": 39.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "beats": [],
+        "losesTo": []
+      },
+      "reasoning": [
+        "Concerns: class/rating.",
+        "No prior runs in the formbook — scored on today's racecard data only."
+      ],
+      "rank": 6
+    }
+  ],
+  "comparison": [
+    {
+      "no": 3,
+      "name": "KING’S EXPRESS",
+      "rank": 1,
+      "score": 54.3,
+      "rating": 56,
+      "draw": 3,
+      "weight": 52.5,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.938,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 1,
+      "name": "THE EQUATOR",
+      "rank": 2,
+      "score": 53.5,
+      "rating": 57,
+      "draw": 4,
+      "weight": 60,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "DON’T CRY FOR ME",
+      "rank": 3,
+      "score": 51.5,
+      "rating": null,
+      "draw": 1,
+      "weight": 54,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "FIRE ‘N FLAMES",
+      "rank": 4,
+      "score": 49.5,
+      "rating": null,
+      "draw": 5,
+      "weight": 54,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "HAWKBILL",
+      "rank": 5,
+      "score": 44.5,
+      "rating": 54,
+      "draw": 2,
+      "weight": 52,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "WILD INTENT",
+      "rank": 6,
+      "score": 39.5,
+      "rating": 54,
+      "draw": 6,
+      "weight": 56,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "THE EQUATOR",
+      "key": "THE EQUATOR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    },
+    {
+      "name": "WILD INTENT",
+      "key": "WILD INTENT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    },
+    {
+      "name": "KING’S EXPRESS",
+      "key": "KINGS EXPRESS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    },
+    {
+      "name": "DON’T CRY FOR ME",
+      "key": "DONT CRY FOR ME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    },
+    {
+      "name": "FIRE ‘N FLAMES",
+      "key": "FIRE N FLAMES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    },
+    {
+      "name": "HAWKBILL",
+      "key": "HAWKBILL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0"
+    }
+  ],
+  "strongest": "THE EQUATOR"
+}

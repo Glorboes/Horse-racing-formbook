@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updated": "2026-07-05T06:02:07.455Z",
+    "updated": "2026-07-05T06:08:12.726Z",
     "tracks": [
       "Turffontein",
       "Vaal",
@@ -515,25 +515,25 @@
     {
       "id": "2026-07-05-turffontein-r5",
       "date": "2026-07-05",
-      "track": "Turffontein",
+      "track": "TURFFONTEIN",
       "race": 5,
       "settled": false,
       "ranked": [
         {
-          "name": "El Barb",
-          "score": 75.5
+          "name": "WHATSDAMATTERWITHU",
+          "score": 59.6
         },
         {
-          "name": "Silver Host",
-          "score": 71.9
+          "name": "CAMPO FORMIO",
+          "score": 58.9
         },
         {
-          "name": "Night Watch",
-          "score": 55.9
+          "name": "WISH YOU WERE HERE",
+          "score": 53.3
         },
         {
-          "name": "Golden Reef",
-          "score": 46.5
+          "name": "FIELD OF DREAMS",
+          "score": 52.7
         }
       ]
     },
@@ -559,6 +559,231 @@
         {
           "name": "Got The Feeling",
           "score": 52.5
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r1",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 1,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "STAR MAGNOLIA",
+          "score": 57.1
+        },
+        {
+          "name": "WHAT NOW MY LOVE",
+          "score": 52.6
+        },
+        {
+          "name": "BLUE STORM RUNNER",
+          "score": 49.9
+        },
+        {
+          "name": "REGAL QUEEN",
+          "score": 48.4
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r2",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 2,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "ENFLAME",
+          "score": 55
+        },
+        {
+          "name": "BREEZE OVER",
+          "score": 53.3
+        },
+        {
+          "name": "ETHICAL",
+          "score": 51.7
+        },
+        {
+          "name": "DECEPTION PASS",
+          "score": 50.2
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r3",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 3,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "SECRET FATE",
+          "score": 54.3
+        },
+        {
+          "name": "BELLFLOWER",
+          "score": 53
+        },
+        {
+          "name": "QUEEN LEILA",
+          "score": 51.4
+        },
+        {
+          "name": "UP AND UP",
+          "score": 51.2
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r4",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 4,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "EXPERT WITNESS",
+          "score": 59
+        },
+        {
+          "name": "GOTTHETIGER",
+          "score": 53
+        },
+        {
+          "name": "ANGLE OF ATTACK",
+          "score": 52
+        },
+        {
+          "name": "RAFE’S ORACLE",
+          "score": 51.7
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r6",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 6,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "KING’S EXPRESS",
+          "score": 54.3
+        },
+        {
+          "name": "THE EQUATOR",
+          "score": 53.5
+        },
+        {
+          "name": "DON’T CRY FOR ME",
+          "score": 51.5
+        },
+        {
+          "name": "FIRE ‘N FLAMES",
+          "score": 49.5
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r7",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 7,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "ERROL FLYNN",
+          "score": 56.2
+        },
+        {
+          "name": "CHRONICLE KING",
+          "score": 50.7
+        },
+        {
+          "name": "SURPRISE PARTY",
+          "score": 50.7
+        },
+        {
+          "name": "WORLD OF ROYALTY",
+          "score": 49.7
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r8",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 8,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "TAXI TO THE MOON",
+          "score": 53.2
+        },
+        {
+          "name": "SLINKY MAPIMPI",
+          "score": 52.4
+        },
+        {
+          "name": "THE LAST DUKE",
+          "score": 52.1
+        },
+        {
+          "name": "ZALATORIS",
+          "score": 51
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r9",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 9,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "WARNING SOUND",
+          "score": 57.3
+        },
+        {
+          "name": "ENSUING",
+          "score": 49.1
+        },
+        {
+          "name": "KENSAL GREEN",
+          "score": 48.9
+        },
+        {
+          "name": "DANTONFROMSANDTON",
+          "score": 48.3
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05-turffontein-r10",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 10,
+      "settled": false,
+      "ranked": [
+        {
+          "name": "WAR REPORTER",
+          "score": 54.3
+        },
+        {
+          "name": "SUNSET WARRIOR",
+          "score": 52
+        },
+        {
+          "name": "UTSAAH",
+          "score": 51.5
+        },
+        {
+          "name": "AFTER HOURS",
+          "score": 49.7
         }
       ]
     }
