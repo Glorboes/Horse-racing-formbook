@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 1,
+  "time": "11:35",
   "distance": 1160,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.716Z",
+  "classLabel": "Maiden Plate",
+  "generated": "2026-07-05T06:23:05.287Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "STAR MAGNOLIA",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
       "score": 57.1,
       "factors": {
         "form": 0.4,
@@ -47,14 +52,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "WHAT NOW MY LOVE",
@@ -64,6 +75,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 55.5,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 52.6,
       "factors": {
         "form": 0.4,
@@ -94,14 +107,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 4,
+      "rank": 2,
+      "marketDisagree": false
     },
     {
       "name": "BLUE STORM RUNNER",
@@ -111,6 +130,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "14/1",
+      "oddsDecimal": 14,
       "score": 49.9,
       "factors": {
         "form": 0.4,
@@ -141,14 +162,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
+        "Model/market disagree: model rank 3 vs market rank 7 (14/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 7,
+      "rank": 3,
+      "marketDisagree": true
     },
     {
       "name": "REGAL QUEEN",
@@ -158,6 +186,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "8/1",
+      "oddsDecimal": 8,
       "score": 48.4,
       "factors": {
         "form": 0.4,
@@ -188,14 +218,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 6,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "PENNYS CHOICE",
@@ -205,6 +241,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "7/1",
+      "oddsDecimal": 7,
       "score": 47.8,
       "factors": {
         "form": 0.4,
@@ -235,15 +273,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 5,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "ERIK’S GIRL",
@@ -253,6 +297,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "14/1",
+      "oddsDecimal": 14,
       "score": 47,
       "factors": {
         "form": 0.4,
@@ -283,15 +329,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 8,
+      "rank": 6,
+      "marketDisagree": false
     },
     {
       "name": "IRISH WILMA",
@@ -301,6 +353,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "4/1",
+      "oddsDecimal": 4,
       "score": 41.3,
       "factors": {
         "form": 0.4,
@@ -331,15 +385,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "Concerns: class/rating.",
+        "Model/market disagree: model rank 7 vs market rank 2 (4/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true
     },
     {
       "name": "WINIKA",
@@ -349,6 +410,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "9/2",
+      "oddsDecimal": 4.5,
       "score": 37.5,
       "factors": {
         "form": 0.4,
@@ -379,15 +442,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: class/rating, weight.",
+        "Model/market disagree: model rank 8 vs market rank 3 (9/2).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 8
+      "marketRank": 3,
+      "rank": 8,
+      "marketDisagree": true
     }
   ],
   "comparison": [
@@ -399,6 +469,9 @@
       "rating": 54,
       "draw": 6,
       "weight": 57,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -424,6 +497,9 @@
       "rating": null,
       "draw": 2,
       "weight": 55.5,
+      "odds": "6/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -449,6 +525,9 @@
       "rating": null,
       "draw": 4,
       "weight": 57,
+      "odds": "14/1",
+      "marketRank": 7,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -474,6 +553,9 @@
       "rating": null,
       "draw": 8,
       "weight": 57,
+      "odds": "8/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -499,6 +581,9 @@
       "rating": 42,
       "draw": 3,
       "weight": 60,
+      "odds": "7/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -524,6 +609,9 @@
       "rating": null,
       "draw": 1,
       "weight": 60,
+      "odds": "14/1",
+      "marketRank": 8,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -549,6 +637,9 @@
       "rating": 25,
       "draw": 7,
       "weight": 57,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -574,6 +665,9 @@
       "rating": 24,
       "draw": 5,
       "weight": 60,
+      "odds": "9/2",
+      "marketRank": 3,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -602,7 +696,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "ERIK’S GIRL",
@@ -613,7 +708,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "PENNYS CHOICE",
@@ -624,7 +720,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "BLUE STORM RUNNER",
@@ -635,7 +732,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "IRISH WILMA",
@@ -646,7 +744,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "REGAL QUEEN",
@@ -657,7 +756,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "STAR MAGNOLIA",
@@ -668,7 +768,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "WHAT NOW MY LOVE",
@@ -679,7 +780,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "WINIKA"

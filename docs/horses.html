@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>Database — Formbook</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="wrap" id="app">
+  <div class="pagehead"><h1>Horse database</h1></div>
+  <input id="dbSearch" class="dbsearch" type="search" placeholder="Search horses by name…" oninput="renderList()" autocomplete="off">
+  <div class="foot" id="dbMeta" style="text-align:left"></div>
+  <div id="list"></div>
+  <div id="detail"></div>
+</div>
+
+<script src="assets/common.js"></script>
+<script>
+const F=window.Formbook, esc=F.esc;
+let HORSES=[];
+if(F.requireUnlock()){ F.renderNav('database'); boot(); }
+
+async function boot(){
+  try{
+    const hz=await F.fetchJSON('data/horses.json');
+    HORSES=(hz&&hz.horses)||[];
+    renderList();
+  }catch(err){
+    document.getElementById('list').innerHTML='<div class="empty">Could not load database.<br><small>'+esc(err.message)+'</small></div>';
+  }
+}
+
+function renderList(){
+  document.getElementById('detail').innerHTML='';
+  const q=(document.getElementById('dbSearch').value||'').trim().toLowerCase();
+  const list=HORSES.filter(h=>!q||h.name.toLowerCase().includes(q)).sort((a,b)=>b.starts-a.starts||a.name.localeCompare(b.name));
+  document.getElementById('dbMeta').textContent=HORSES.length?`${list.length} of ${HORSES.length} horses`:'Database is empty — log results to populate it.';
+  document.getElementById('list').innerHTML=list.slice(0,400).map(h=>`
+    <div class="horse" onclick="showHorse('${encodeURIComponent(h.key)}')">
+      <div><div class="hn">${esc(h.name)}</div>
+      <div class="hs">${h.starts} run${h.starts===1?'':'s'} · <span class="f5">${esc(h.lastFive||'—')}</span>${h.rating!=null?' · MR '+h.rating:''}</div></div>
+      <div class="hr"><b>${h.winPct}%</b>${h.wins}W-${h.places}P</div>
+    </div>`).join('')||'<div class="empty">No horses match.</div>';
+}
+
+function showHorse(k){
+  const key=decodeURIComponent(k), h=HORSES.find(x=>x.key===key); if(!h) return;
+  const runs=[...(h.runs||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  const rows=runs.map(r=>`<tr>
+    <td class="name">${r.date||'—'}</td><td>${esc(r.track)||'—'}</td><td>R${r.race||'—'}</td>
+    <td>${r.distance||'—'}m</td><td>${esc(r.classLabel)||'—'}</td>
+    <td class="${r.finish===1?'pos1':''}">${r.finish||'—'}/${r.field||'—'}</td>
+    <td>${r.marginBehindWinner!=null?(r.finish===1?'won':('+'+r.marginBehindWinner)):'—'}</td>
+    <td>${esc(r.jockey)||'—'}</td></tr>`).join('');
+  const beats=(h.h2h&&h.h2h.beats)||[], loses=(h.h2h&&h.h2h.losesTo)||[];
+  const tags=beats.map(n=>`<span class="tag win">beat ${esc(n)}</span>`).join('')+loses.map(n=>`<span class="tag loss">lost to ${esc(n)}</span>`).join('');
+  document.getElementById('list').innerHTML='';
+  document.getElementById('dbMeta').textContent='';
+  document.getElementById('detail').innerHTML=`
+    <button class="back" onclick="renderList()">‹ Back to list</button>
+    <section class="card"><h2>🐎 ${esc(h.name)}</h2>
+      <div class="kpis">
+        <div class="kpi"><b>${h.starts}</b>starts</div><div class="kpi"><b>${h.wins}</b>wins</div>
+        <div class="kpi"><b>${h.places}</b>places</div><div class="kpi"><b>${h.winPct}%</b>win</div>
+        <div class="kpi"><b>${h.rating??'—'}</b>rating</div>
+      </div>
+      ${tags?`<div class="tagrow">${tags}</div>`:''}
+      <div class="scroll" style="margin-top:12px"><table>
+        <tr><th class="name">Date</th><th>Track</th><th>R</th><th>Dist</th><th>Class</th><th>Fin</th><th>Margin</th><th>Jockey</th></tr>
+        ${rows||'<tr><td colspan="8">No runs recorded.</td></tr>'}
+      </table></div>
+    </section>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+</script>
+</body>
+</html>

@@ -1,7 +1,9 @@
 'use strict';
 
 const { normalizeName } = require('./names');
-const { strongestByHeadToHead } = require('./formbook');
+const { strongestByHeadToHead, comboRecord, lastRunBefore } = require('./formbook');
+
+const H2H_MIN_SAMPLE = 5; // fewer than this many meetings = "small sample"
 
 // ---------------------------------------------------------------------------
 // Weighting. Tune here. The 8 base factors are the existing system; the two
@@ -112,6 +114,7 @@ function scoreRace(fb, race) {
   // pre-compute H2H standings for the actual field
   const fieldNames = race.runners.map((r) => r.name);
   const h2h = strongestByHeadToHead(fb, fieldNames, { asOf });
+  h2h.forEach((t) => { t.smallSample = t.meetings > 0 && t.meetings < H2H_MIN_SAMPLE; });
   const h2hByKey = Object.fromEntries(h2h.map((t) => [t.key, t]));
   const h2hPoints = h2h.map((t) => t.points);
   const h2hLo = Math.min(0, ...h2hPoints), h2hHi = Math.max(0, ...h2hPoints);
@@ -155,6 +158,7 @@ function scoreRace(fb, race) {
     }
     const score = +((total / max) * 100).toFixed(1);
     const h2hRec = h2hByKey[r.key];
+    const meetings = h2hRec ? h2hRec.meetings : 0;
 
     return {
       name: r.name.trim(),
@@ -164,23 +168,50 @@ function scoreRace(fb, race) {
       jockey: r.jockey ?? null,
       trainer: r.trainer ?? null,
       weight: r.weight ?? null,
+      odds: r.oddsFrac ?? null,
+      oddsDecimal: r.oddsDecimal ?? null,
       score,
       factors: Object.fromEntries(Object.entries(f).map(([k, v]) => [k, +v.toFixed(3)])),
       contrib,
       knownRuns: r.knownRuns,
-      h2h: h2hRec ? { record: h2hRec.record, wins: h2hRec.wins, losses: h2hRec.losses, beats: h2hRec.beats, losesTo: h2hRec.losesTo } : null,
+      h2h: h2hRec ? { record: h2hRec.record, wins: h2hRec.wins, losses: h2hRec.losses, meetings, smallSample: meetings > 0 && meetings < H2H_MIN_SAMPLE, beats: h2hRec.beats, losesTo: h2hRec.losesTo } : null,
+      combo: comboRecord(fb, r.jockey, r.trainer),
+      classMove: classMovement(fb, r.key, race),
       reasoning: [],
     };
   });
 
   scored.sort((a, b) => b.score - a.score);
-  scored.forEach((s, i) => { s.rank = i + 1; s.reasoning = buildReasoning(s, WEIGHTS); });
 
-  return { h2h, ranked: scored };
+  // market rank (shortest odds = 1) vs model rank; flag big disagreements
+  const priced = scored.filter((s) => s.oddsDecimal != null)
+    .sort((a, b) => a.oddsDecimal - b.oddsDecimal);
+  priced.forEach((s, i) => { s.marketRank = i + 1; });
+  scored.forEach((s, i) => {
+    s.rank = i + 1;
+    if (s.marketRank != null) {
+      s.marketDisagree = Math.abs(s.rank - s.marketRank) >= 3;
+    }
+    s.reasoning = buildReasoning(s);
+  });
+
+  return { h2h, ranked: scored, marketPriced: priced.length > 0 };
+}
+
+// Class movement vs the horse's most recent prior run.
+function classMovement(fb, key, race) {
+  if (race.classType == null || race.classRank == null) return null;
+  const prev = lastRunBefore(fb, key, race.date);
+  if (!prev || prev.classRank == null || prev.classType == null) return null;
+  if (prev.classType !== race.classType) {
+    return { from: prev.classLabel, to: race.classLabel, direction: 'change' };
+  }
+  const dir = race.classRank > prev.classRank ? 'up' : race.classRank < prev.classRank ? 'down' : 'same';
+  return { from: prev.classLabel, to: race.classLabel, direction: dir };
 }
 
 // Human-readable, glass-box reasoning: top contributing factors + caveats.
-function buildReasoning(s, weights) {
+function buildReasoning(s) {
   const order = Object.entries(s.contrib).sort((a, b) => b[1] - a[1]);
   const label = {
     form: 'recent form', rating: 'class/rating', distance: 'distance suitability',
@@ -189,13 +220,25 @@ function buildReasoning(s, weights) {
     recencyMargin: 'recent winning margins',
   };
   const notes = [];
-  const strong = order.filter(([k, v]) => s.factors[k] >= 0.6).slice(0, 3);
+  const strong = order.filter(([k]) => s.factors[k] >= 0.6).slice(0, 3);
   const weak = order.filter(([k]) => s.factors[k] <= 0.35).slice(0, 2);
   if (strong.length) notes.push('Strengths: ' + strong.map(([k]) => label[k]).join(', ') + '.');
   if (weak.length) notes.push('Concerns: ' + weak.map(([k]) => label[k]).join(', ') + '.');
+
+  if (s.classMove && s.classMove.from && s.classMove.to && s.classMove.from !== s.classMove.to) {
+    const verb = s.classMove.direction === 'up' ? 'Rising' : s.classMove.direction === 'down' ? 'Dropping' : 'Moving';
+    notes.push(`${verb} in class: ${s.classMove.from} → ${s.classMove.to} since last run.`);
+  }
+  if (s.combo) {
+    notes.push(`Jockey/trainer combo: ${s.combo.record} this season (${s.combo.winPct}% win).`);
+  }
   if (s.h2h && (s.h2h.wins || s.h2h.losses)) {
-    if (s.h2h.beats.length) notes.push(`Has beaten ${[...new Set(s.h2h.beats)].join(', ')} before.`);
-    if (s.h2h.losesTo.length) notes.push(`Beaten by ${[...new Set(s.h2h.losesTo)].join(', ')} in the past.`);
+    const tag = s.h2h.smallSample ? ' ⚠ small sample' : '';
+    if (s.h2h.beats.length) notes.push(`Has beaten ${[...new Set(s.h2h.beats)].join(', ')} before (H2H ${s.h2h.record}${tag}).`);
+    else if (s.h2h.losesTo.length) notes.push(`Beaten by ${[...new Set(s.h2h.losesTo)].join(', ')} in the past (H2H ${s.h2h.record}${tag}).`);
+  }
+  if (s.marketDisagree) {
+    notes.push(`Model/market disagree: model rank ${s.rank} vs market rank ${s.marketRank}${s.odds ? ` (${s.odds})` : ''}.`);
   }
   if (!s.knownRuns) notes.push('No prior runs in the formbook — scored on today\'s racecard data only.');
   return notes;

@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 3,
+  "time": "12:40",
   "distance": 1400,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.719Z",
+  "classLabel": "Juvenile Plate",
+  "generated": "2026-07-05T06:23:05.290Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "SECRET FATE",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
       "score": 54.3,
       "factors": {
         "form": 0.4,
@@ -47,15 +52,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "BELLFLOWER",
@@ -65,6 +76,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 53.5,
+      "odds": "14/1",
+      "oddsDecimal": 14,
       "score": 53,
       "factors": {
         "form": 0.4,
@@ -95,14 +108,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
+        "Model/market disagree: model rank 2 vs market rank 6 (14/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 6,
+      "rank": 2,
+      "marketDisagree": true
     },
     {
       "name": "QUEEN LEILA",
@@ -112,6 +132,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
       "score": 51.4,
       "factors": {
         "form": 0.4,
@@ -142,15 +164,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 3,
+      "rank": 3,
+      "marketDisagree": false
     },
     {
       "name": "UP AND UP",
@@ -160,6 +188,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 55,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 51.2,
       "factors": {
         "form": 0.4,
@@ -190,14 +220,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 4,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "UNVARNISHED GOLD",
@@ -207,6 +243,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 55,
+      "odds": "25/1",
+      "oddsDecimal": 25,
       "score": 49.5,
       "factors": {
         "form": 0.4,
@@ -237,14 +275,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 7,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "IMPRESSIVE",
@@ -254,6 +298,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 43.7,
       "factors": {
         "form": 0.4,
@@ -284,15 +330,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: class/rating, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 5,
+      "rank": 6,
+      "marketDisagree": false
     },
     {
       "name": "WITHIN REACH",
@@ -302,6 +354,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "7/2",
+      "oddsDecimal": 3.5,
       "score": 40,
       "factors": {
         "form": 0.4,
@@ -332,15 +386,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight, class/rating.",
+        "Model/market disagree: model rank 7 vs market rank 2 (7/2).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true
     }
   ],
   "comparison": [
@@ -352,6 +413,9 @@
       "rating": 51,
       "draw": 7,
       "weight": 58,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -377,6 +441,9 @@
       "rating": null,
       "draw": 1,
       "weight": 53.5,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -402,6 +469,9 @@
       "rating": 50,
       "draw": 4,
       "weight": 60,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -427,6 +497,9 @@
       "rating": null,
       "draw": 2,
       "weight": 55,
+      "odds": "6/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -452,6 +525,9 @@
       "rating": null,
       "draw": 6,
       "weight": 55,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -477,6 +553,9 @@
       "rating": 46,
       "draw": 5,
       "weight": 58,
+      "odds": "6/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -502,6 +581,9 @@
       "rating": 44,
       "draw": 3,
       "weight": 58,
+      "odds": "7/2",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -530,7 +612,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "IMPRESSIVE",
@@ -541,7 +624,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "SECRET FATE",
@@ -552,7 +636,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "WITHIN REACH",
@@ -563,7 +648,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "BELLFLOWER",
@@ -574,7 +660,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "UNVARNISHED GOLD",
@@ -585,7 +672,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "UP AND UP",
@@ -596,7 +684,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "QUEEN LEILA"

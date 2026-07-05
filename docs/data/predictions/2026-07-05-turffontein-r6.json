@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 6,
+  "time": "14:25",
   "distance": 1800,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.722Z",
+  "classLabel": "Pinnacle Stakes",
+  "generated": "2026-07-05T06:23:05.292Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "KING’S EXPRESS",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 52.5,
+      "odds": "3/1",
+      "oddsDecimal": 3,
       "score": 54.3,
       "factors": {
         "form": 0.4,
@@ -47,14 +52,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 3,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "THE EQUATOR",
@@ -64,6 +75,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
       "score": 53.5,
       "factors": {
         "form": 0.4,
@@ -94,15 +107,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 1,
+      "rank": 2,
+      "marketDisagree": false
     },
     {
       "name": "DON’T CRY FOR ME",
@@ -112,6 +131,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
       "score": 51.5,
       "factors": {
         "form": 0.4,
@@ -142,14 +163,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 2,
+      "rank": 3,
+      "marketDisagree": false
     },
     {
       "name": "FIRE ‘N FLAMES",
@@ -159,6 +186,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "7/1",
+      "oddsDecimal": 7,
       "score": 49.5,
       "factors": {
         "form": 0.4,
@@ -189,14 +218,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 5,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "HAWKBILL",
@@ -206,6 +241,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 52,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 44.5,
       "factors": {
         "form": 0.4,
@@ -236,15 +273,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 4,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "WILD INTENT",
@@ -254,6 +297,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 56,
+      "odds": "10/1",
+      "oddsDecimal": 10,
       "score": 39.5,
       "factors": {
         "form": 0.4,
@@ -284,14 +329,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 6,
+      "rank": 6,
+      "marketDisagree": false
     }
   ],
   "comparison": [
@@ -303,6 +354,9 @@
       "rating": 56,
       "draw": 3,
       "weight": 52.5,
+      "odds": "3/1",
+      "marketRank": 3,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -328,6 +382,9 @@
       "rating": 57,
       "draw": 4,
       "weight": 60,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -353,6 +410,9 @@
       "rating": null,
       "draw": 1,
       "weight": 54,
+      "odds": "5/2",
+      "marketRank": 2,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -378,6 +438,9 @@
       "rating": null,
       "draw": 5,
       "weight": 54,
+      "odds": "7/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -403,6 +466,9 @@
       "rating": 54,
       "draw": 2,
       "weight": 52,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -428,6 +494,9 @@
       "rating": 54,
       "draw": 6,
       "weight": 56,
+      "odds": "10/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -456,7 +525,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "WILD INTENT",
@@ -467,7 +537,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "KING’S EXPRESS",
@@ -478,7 +549,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "DON’T CRY FOR ME",
@@ -489,7 +561,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "FIRE ‘N FLAMES",
@@ -500,7 +573,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "HAWKBILL",
@@ -511,7 +585,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "THE EQUATOR"

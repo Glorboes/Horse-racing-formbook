@@ -66,19 +66,36 @@ head-to-head. To backfill history, run it manually:
 
 ---
 
-## The dashboard
+## The dashboard (multi-page)
 
-- Lives in `docs/dashboard.html` (Pages entry `docs/index.html` redirects to it).
-- **Password gate:** it stores only the SHA-256 of your passphrase — the plain
-  text is never in the source. To change it, hash a new phrase and replace
-  `PASS_HASH` in `docs/dashboard.html`:
+Served from `docs/`, behind the password gate (which lives on `index.html`;
+other pages redirect there if the session isn't unlocked). Persistent top nav.
+
+| Page | What it shows |
+|------|---------------|
+| `index.html` | **Race list + calendar.** Days across the top; tap a day to see its races as cards (track, R#, time, distance, class, runner count, top pick). Tap a race → detail. |
+| `race.html?id=…` | **Race detail.** Educated-guess reasoning per horse, **Model vs Market** (odds → market rank vs model rank, disagreements flagged), comparison table, and head-to-head (matchup grid + strongest call). Records under 5 meetings are tagged *small sample*. |
+| `history.html` | **Strike rate + confidence calibration** (actual win rate by score tier) + settled-race list. |
+| `horses.html` | **Database** — searchable horse list with per-horse run history + H2H summary. |
+
+Prediction reasoning also surfaces **class movement** (e.g. "Dropping: Grade 3 →
+MR 96 Handicap") and **jockey/trainer combo** strike rate when that data is
+present. Predictions accumulate by day — old cards stay put, new cards appear
+under their date, so the calendar is a growing archive.
+
+### Password gate & data
+
+- **Gate:** stores only the SHA-256 of your passphrase — the plain text is never
+  in the source. To change it, hash a new phrase and replace `PASS_HASH` in
+  `docs/assets/common.js`:
   ```bash
   printf '%s' 'your new passphrase' | sha256sum
   ```
-  (The gate keeps it off Google and casual eyes; the real protection is the
-  **private repo**.)
-- Reads `docs/data/manifest.json` + `docs/data/predictions/*.json` +
-  `docs/data/strike-rate.json`, all generated for you.
+  (Keeps it off Google and casual eyes; the real protection is the **private
+  repo** — or, on free-tier public Pages, that the URL isn't shared.)
+- Pages read `docs/data/manifest.json` (+ `days` index), `docs/data/predictions/*.json`,
+  `docs/data/strike-rate.json` (+ calibration), and `docs/data/horses.json` — all generated for you.
+- `docs/dashboard.html` now just redirects to `index.html` (old bookmarks still work).
 
 ### Enable GitHub Pages (one-time, manual)
 Repo **Settings → Pages → Build and deployment → Deploy from a branch →

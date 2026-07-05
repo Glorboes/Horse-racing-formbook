@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 9,
+  "time": "16:10",
   "distance": 1400,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.725Z",
+  "classLabel": "MR 96 Handicap",
+  "generated": "2026-07-05T06:23:05.295Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "WARNING SOUND",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "4/1",
+      "oddsDecimal": 4,
       "score": 57.3,
       "factors": {
         "form": 0.4,
@@ -47,14 +52,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "ENSUING",
@@ -64,6 +75,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 55,
+      "odds": "010/1",
+      "oddsDecimal": 10,
       "score": 49.1,
       "factors": {
         "form": 0.4,
@@ -94,14 +107,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
+        "Model/market disagree: model rank 2 vs market rank 7 (010/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 7,
+      "rank": 2,
+      "marketDisagree": true
     },
     {
       "name": "KENSAL GREEN",
@@ -111,6 +131,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 48.9,
       "factors": {
         "form": 0.4,
@@ -141,14 +163,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 5,
+      "rank": 3,
+      "marketDisagree": false
     },
     {
       "name": "DANTONFROMSANDTON",
@@ -158,6 +186,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 59,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 48.3,
       "factors": {
         "form": 0.4,
@@ -188,15 +218,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 3,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "CHESTNUT BOMBER",
@@ -206,6 +242,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "9/2",
+      "oddsDecimal": 4.5,
       "score": 47.9,
       "factors": {
         "form": 0.4,
@@ -236,14 +274,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
+        "Model/market disagree: model rank 5 vs market rank 2 (9/2).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 2,
+      "rank": 5,
+      "marketDisagree": true
     },
     {
       "name": "MASTER CHRISTMAS",
@@ -253,6 +298,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 59,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 47.1,
       "factors": {
         "form": 0.4,
@@ -283,15 +330,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 4,
+      "rank": 6,
+      "marketDisagree": false
     },
     {
       "name": "FOSTINOVO",
@@ -301,6 +354,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 52,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 45.9,
       "factors": {
         "form": 0.4,
@@ -331,15 +386,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 6,
+      "rank": 7,
+      "marketDisagree": false
     },
     {
       "name": "SILVER TUDOR",
@@ -349,6 +410,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "12/1",
+      "oddsDecimal": 12,
       "score": 45,
       "factors": {
         "form": 0.4,
@@ -379,15 +442,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 8
+      "marketRank": 8,
+      "rank": 8,
+      "marketDisagree": false
     },
     {
       "name": "PAUL REVERE",
@@ -397,6 +466,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "12/1",
+      "oddsDecimal": 12,
       "score": 37.8,
       "factors": {
         "form": 0.4,
@@ -427,14 +498,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Concerns: weight, class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 9
+      "marketRank": 9,
+      "rank": 9,
+      "marketDisagree": false
     }
   ],
   "comparison": [
@@ -446,6 +523,9 @@
       "rating": 60,
       "draw": 1,
       "weight": 57,
+      "odds": "4/1",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -471,6 +551,9 @@
       "rating": null,
       "draw": 6,
       "weight": 55,
+      "odds": "010/1",
+      "marketRank": 7,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -496,6 +579,9 @@
       "rating": null,
       "draw": 2,
       "weight": 57,
+      "odds": "6/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -521,6 +607,9 @@
       "rating": 58,
       "draw": 4,
       "weight": 59,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -546,6 +635,9 @@
       "rating": null,
       "draw": 5,
       "weight": 57,
+      "odds": "9/2",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -571,6 +663,9 @@
       "rating": null,
       "draw": 3,
       "weight": 59,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -596,6 +691,9 @@
       "rating": 56,
       "draw": 8,
       "weight": 52,
+      "odds": "6/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -621,6 +719,9 @@
       "rating": null,
       "draw": 7,
       "weight": 60,
+      "odds": "12/1",
+      "marketRank": 8,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -646,6 +747,9 @@
       "rating": 55,
       "draw": 9,
       "weight": 58,
+      "odds": "12/1",
+      "marketRank": 9,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -674,7 +778,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "DANTONFROMSANDTON",
@@ -685,7 +790,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "MASTER CHRISTMAS",
@@ -696,7 +802,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "WARNING SOUND",
@@ -707,7 +814,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "PAUL REVERE",
@@ -718,7 +826,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "KENSAL GREEN",
@@ -729,7 +838,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "CHESTNUT BOMBER",
@@ -740,7 +850,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "ENSUING",
@@ -751,7 +862,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "FOSTINOVO",
@@ -762,7 +874,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "SILVER TUDOR"

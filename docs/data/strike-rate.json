@@ -4,5 +4,31 @@
   "topPickPlaces": 0,
   "winPct": 0,
   "placePct": 0,
-  "history": []
+  "history": [],
+  "calibration": [
+    {
+      "tier": "70+",
+      "n": 0,
+      "wins": 0,
+      "places": 0,
+      "winPct": null,
+      "placePct": null
+    },
+    {
+      "tier": "55–70",
+      "n": 0,
+      "wins": 0,
+      "places": 0,
+      "winPct": null,
+      "placePct": null
+    },
+    {
+      "tier": "below 55",
+      "n": 0,
+      "wins": 0,
+      "places": 0,
+      "winPct": null,
+      "placePct": null
+    }
+  ]
 }

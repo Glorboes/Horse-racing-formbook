@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 2,
+  "time": "12:05",
   "distance": 2400,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.718Z",
+  "classLabel": "Pinnacle Stakes",
+  "generated": "2026-07-05T06:23:05.289Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "ENFLAME",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "12/10",
+      "oddsDecimal": 1.2,
       "score": 55,
       "factors": {
         "form": 0.4,
@@ -47,15 +52,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "BREEZE OVER",
@@ -65,6 +76,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "8/1",
+      "oddsDecimal": 8,
       "score": 53.3,
       "factors": {
         "form": 0.4,
@@ -95,14 +108,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw, weight.",
+        "Model/market disagree: model rank 2 vs market rank 5 (8/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 5,
+      "rank": 2,
+      "marketDisagree": true
     },
     {
       "name": "ETHICAL",
@@ -112,6 +132,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 52,
+      "odds": "9/2",
+      "oddsDecimal": 4.5,
       "score": 51.7,
       "factors": {
         "form": 0.4,
@@ -142,14 +164,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 3,
+      "rank": 3,
+      "marketDisagree": false
     },
     {
       "name": "DECEPTION PASS",
@@ -159,6 +187,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "7/1",
+      "oddsDecimal": 7,
       "score": 50.2,
       "factors": {
         "form": 0.4,
@@ -189,14 +219,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 4,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "EUPHRATES",
@@ -206,6 +242,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "25/1",
+      "oddsDecimal": 25,
       "score": 49.4,
       "factors": {
         "form": 0.4,
@@ -236,14 +274,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 7,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "KUDZU",
@@ -253,6 +297,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "7/2",
+      "oddsDecimal": 3.5,
       "score": 48.9,
       "factors": {
         "form": 0.4,
@@ -283,14 +329,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight.",
+        "Model/market disagree: model rank 6 vs market rank 2 (7/2).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 2,
+      "rank": 6,
+      "marketDisagree": true
     },
     {
       "name": "MO MENT",
@@ -300,6 +353,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 54,
+      "odds": "14/1",
+      "oddsDecimal": 14,
       "score": 41.8,
       "factors": {
         "form": 0.4,
@@ -330,15 +385,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 6,
+      "rank": 7,
+      "marketDisagree": false
     }
   ],
   "comparison": [
@@ -350,6 +411,9 @@
       "rating": 60,
       "draw": 1,
       "weight": 60,
+      "odds": "12/10",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -375,6 +439,9 @@
       "rating": 57,
       "draw": 3,
       "weight": 54,
+      "odds": "8/1",
+      "marketRank": 5,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -400,6 +467,9 @@
       "rating": 55,
       "draw": 2,
       "weight": 52,
+      "odds": "9/2",
+      "marketRank": 3,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -425,6 +495,9 @@
       "rating": null,
       "draw": 4,
       "weight": 54,
+      "odds": "7/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -450,6 +523,9 @@
       "rating": null,
       "draw": 6,
       "weight": 54,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -475,6 +551,9 @@
       "rating": null,
       "draw": 7,
       "weight": 54,
+      "odds": "7/2",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -500,6 +579,9 @@
       "rating": 51,
       "draw": 5,
       "weight": 54,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -528,7 +610,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "BREEZE OVER",
@@ -539,7 +622,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "MO MENT",
@@ -550,7 +634,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "KUDZU",
@@ -561,7 +646,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "DECEPTION PASS",
@@ -572,7 +658,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "EUPHRATES",
@@ -583,7 +670,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "ETHICAL",
@@ -594,7 +682,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "ENFLAME"

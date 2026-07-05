@@ -31,13 +31,19 @@ function normalizeRace(r) {
     weight: x.weight ?? null,
     rating: x.rating ?? null,
     gear: x.gear ?? '',
+    oddsFrac: x.oddsFrac ?? null,
+    oddsDecimal: x.oddsDecimal ?? null,
     jockey: x.jockey ?? null,
     trainer: x.trainer ?? null,
   })).filter((x) => x.name);
   r.race = r.race ?? r.raceNo ?? 1;
+  r.time = r.time ?? null;
   r.distance = r.distance ?? null;
   r.going = r.going ?? null;
   r.surface = r.surface ?? null;
+  r.classLabel = r.classLabel ?? r.class ?? null;
+  r.classType = r.classType ?? null;
+  r.classRank = r.classRank ?? null;
   r.track = r.track ?? null;
   r.date = r.date ?? new Date().toISOString().slice(0, 10);
   return r;
@@ -98,12 +104,12 @@ function parseComputaform(text) {
   const starts = [];
   const re = /\n\s*(\d{1,2})\s*\n\s*(\d{1,2}:\d{2})\s*-\s*/g;
   let m;
-  while ((m = re.exec(sect))) starts.push({ no: +m[1], idx: m.index });
+  while ((m = re.exec(sect))) starts.push({ no: +m[1], time: m[2], idx: m.index });
   const races = [];
   for (let i = 0; i < starts.length; i++) {
     const block = sect.slice(starts[i].idx, i + 1 < starts.length ? starts[i + 1].idx : sect.length);
     const rc = parseRaceBlock(block, starts[i].no);
-    if (rc && rc.runners.length) races.push({ date, track: (track || '').trim() || null, ...rc });
+    if (rc && rc.runners.length) races.push({ date, track: (track || '').trim() || null, time: starts[i].time, ...rc });
   }
   return { date, track: (track || '').trim() || null, races };
 }
@@ -113,19 +119,33 @@ function parseRaceBlock(block, no) {
   const distance = dist ? +dist[1] : null;
   const surface = dist ? (/POLY/i.test(dist[2]) ? 'Polytrack' : 'Turf') : null;
 
+  // race title (between the time and the distance) → class label
+  const title = (block.match(/\d{1,2}:\d{2}\s*-\s*([\s\S]*?)\d{3,4}m/) || [])[1] || '';
+  const cls = classify(title);
+
   const hstart = block.search(/HORSE\s*-\s*NET\s*WGT|NO-\s*DR/i);
   const rend = block.search(/COMPUTAFORM RATINGS/i);
   const runnerText = block.slice(hstart >= 0 ? hstart : 0, rend >= 0 ? rend : block.length);
   const flat = runnerText.replace(/\s+/g, ' ').replace(/\s*\([A-Z]{2,3}\)/g, ''); // drop (IRE)/(AUS)
 
-  const runners = [];
+  // find runner starts, then the text between two starts holds comment + odds
   const rre = /(\d{1,2})\s*-\s*(\d{1,2})\s+([A-Z][A-Z0-9''‘’.\-\/ ]*?)\s+(\d{2}(?:\.\d)?)\s*(X{0,2})(?![\d])/g;
+  const hits = [];
   let r;
   while ((r = rre.exec(flat))) {
     const name = r[3].replace(/\s+/g, ' ').trim();
     if (name.length < 2) continue;
-    runners.push({ no: +r[1], draw: +r[2], name, weight: +r[4], gear: r[5] || '' });
+    hits.push({ no: +r[1], draw: +r[2], name, weight: +r[4], gear: r[5] || '', end: rre.lastIndex });
   }
+  const runners = hits.map((h, i) => {
+    const tail = flat.slice(h.end, i + 1 < hits.length ? hits[i + 1].end - 0 : flat.length);
+    const oddsMatches = tail.match(/(\d{1,3})\/(\d{1,3})/g) || [];
+    const frac = oddsMatches.length ? oddsMatches[oddsMatches.length - 1] : null; // trailing F/B price
+    let oddsDecimal = null;
+    if (frac) { const [a, b] = frac.split('/').map(Number); if (b) oddsDecimal = +(a / b).toFixed(2); }
+    return { no: h.no, draw: h.draw, name: h.name, weight: h.weight, gear: h.gear,
+      oddsFrac: frac, oddsDecimal };
+  });
 
   const ratingByNo = {};
   const cr = block.match(/COMPUTAFORM RATINGS([\s\S]*?)(SPEED RATINGS|$)/i);
@@ -136,7 +156,26 @@ function parseRaceBlock(block, no) {
   }
   runners.forEach((ru) => { if (ratingByNo[ru.no] != null) ru.rating = ratingByNo[ru.no]; });
 
-  return { race: no, distance, surface, going: null, runners };
+  return { race: no, distance, surface, going: null,
+    classLabel: cls.label, classType: cls.type, classRank: cls.rank, runners };
+}
+
+// Derive a concise class label + a comparable rank from a race title.
+// rank: higher = better class (Grade 1 > Grade 3; MR 96 > MR 72). Movement
+// direction is only compared within the same classType.
+function classify(title) {
+  const t = title.replace(/\s+/g, ' ').trim();
+  const grade = t.match(/\(?\bGrade\s*(\d)\b\)?/i) || t.match(/\bGr\s*(\d)\b/i);
+  if (grade) return { label: `Grade ${grade[1]}`, type: 'grade', rank: 100 - grade[1] * 5 };
+  const mr = t.match(/\bMR\s*(\d{1,3})\b/i);
+  if (mr) return { label: `MR ${mr[1]} Handicap`, type: 'mr', rank: +mr[1] };
+  const named = t.match(/\b(Maiden(?:\s+Juvenile)?(?:\s+Plate)?|Juvenile\s+Plate|Novice\s+Plate|Graduation|Progress\s+Plate|Pinnacle\s+Stakes|Listed|Handicap|Plate|Stakes)\b/i);
+  if (named) {
+    const label = named[1].replace(/\s+/g, ' ').toLowerCase().replace(/\b\w/g, (c) => c.toUpperCase());
+    const rankMap = { maiden: 10, 'maiden plate': 10, 'maiden juvenile': 12, 'juvenile plate': 15, 'novice plate': 20, plate: 25, graduation: 30, 'progress plate': 35, handicap: 40, 'pinnacle stakes': 60, listed: 75, stakes: 55 };
+    return { label, type: 'named', rank: rankMap[label.toLowerCase()] ?? null };
+  }
+  return { label: null, type: null, rank: null };
 }
 
 function num(v) { const n = Number(String(v ?? '').replace(/[^\d.\-]/g, '')); return Number.isFinite(n) && v != null && v !== '' ? n : null; }

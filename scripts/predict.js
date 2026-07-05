@@ -52,15 +52,18 @@ function processRace(book, race) {
       no: race.runners.find((x) => x.name.trim() === r.name)?.no ?? null,
       name: r.name, rank: r.rank, score: r.score,
       rating: r.rating, draw: r.draw, weight: r.weight,
+      odds: r.odds, marketRank: r.marketRank ?? null, marketDisagree: !!r.marketDisagree,
       jockey: r.jockey, trainer: r.trainer,
       lastFive: last || '—', runsKnown: r.knownRuns, factors: r.factors,
     };
   });
 
   const prediction = {
-    id, date: race.date, track: race.track, race: race.race,
+    id, date: race.date, track: race.track, race: race.race, time: race.time || null,
     distance: race.distance, going: race.going, surface: race.surface || null,
+    classLabel: race.classLabel || null,
     generated: new Date().toISOString(), settled: false,
+    marketPriced: ranked.some((r) => r.marketRank != null),
     ranked, comparison, headToHead: h2h, strongest: h2h[0] ? h2h[0].name : null,
   };
 

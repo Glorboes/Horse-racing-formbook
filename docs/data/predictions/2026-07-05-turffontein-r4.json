@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 4,
+  "time": "13:15",
   "distance": 1400,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.720Z",
+  "classLabel": "Juvenile Plate",
+  "generated": "2026-07-05T06:23:05.290Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "EXPERT WITNESS",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "3/1",
+      "oddsDecimal": 3,
       "score": 59,
       "factors": {
         "form": 0.4,
@@ -47,14 +52,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "GOTTHETIGER",
@@ -64,6 +75,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 53,
       "factors": {
         "form": 0.4,
@@ -94,14 +107,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 4,
+      "rank": 2,
+      "marketDisagree": false
     },
     {
       "name": "ANGLE OF ATTACK",
@@ -111,6 +130,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "33/1",
+      "oddsDecimal": 33,
       "score": 52,
       "factors": {
         "form": 0.4,
@@ -141,14 +162,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
+        "Model/market disagree: model rank 3 vs market rank 8 (33/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 8,
+      "rank": 3,
+      "marketDisagree": true
     },
     {
       "name": "RAFE’S ORACLE",
@@ -158,6 +186,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 51.7,
       "factors": {
         "form": 0.4,
@@ -188,14 +218,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 5,
+      "rank": 4,
+      "marketDisagree": false
     },
     {
       "name": "HARTREE",
@@ -205,6 +241,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "8/1",
+      "oddsDecimal": 8,
       "score": 51.3,
       "factors": {
         "form": 0.4,
@@ -235,14 +273,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "SPIRIT OF GABZ",
@@ -252,6 +296,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
       "score": 49.1,
       "factors": {
         "form": 0.4,
@@ -282,15 +328,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating.",
         "Concerns: weight.",
+        "Model/market disagree: model rank 6 vs market rank 2 (4/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 2,
+      "rank": 6,
+      "marketDisagree": true
     },
     {
       "name": "DEAR DOC",
@@ -300,6 +353,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "16/1",
+      "oddsDecimal": 16,
       "score": 45.1,
       "factors": {
         "form": 0.4,
@@ -330,15 +385,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 7,
+      "rank": 7,
+      "marketDisagree": false
     },
     {
       "name": "EHHFIFTEENKJOE",
@@ -348,6 +409,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "33/1",
+      "oddsDecimal": 33,
       "score": 44.7,
       "factors": {
         "form": 0.4,
@@ -378,15 +441,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 8
+      "marketRank": 9,
+      "rank": 8,
+      "marketDisagree": false
     },
     {
       "name": "SNOWBLADE",
@@ -396,6 +465,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "4/1",
+      "oddsDecimal": 4,
       "score": 44.3,
       "factors": {
         "form": 0.4,
@@ -426,15 +497,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
         "Concerns: class/rating.",
+        "Model/market disagree: model rank 9 vs market rank 3 (4/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 9
+      "marketRank": 3,
+      "rank": 9,
+      "marketDisagree": true
     }
   ],
   "comparison": [
@@ -446,6 +524,9 @@
       "rating": 47,
       "draw": 7,
       "weight": 57,
+      "odds": "3/1",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -471,6 +552,9 @@
       "rating": null,
       "draw": 1,
       "weight": 57,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -496,6 +580,9 @@
       "rating": null,
       "draw": 4,
       "weight": 57,
+      "odds": "33/1",
+      "marketRank": 8,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -521,6 +608,9 @@
       "rating": null,
       "draw": 5,
       "weight": 57,
+      "odds": "5/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -546,6 +636,9 @@
       "rating": null,
       "draw": 6,
       "weight": 57,
+      "odds": "8/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -571,6 +664,9 @@
       "rating": 46,
       "draw": 9,
       "weight": 60,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -596,6 +692,9 @@
       "rating": 44,
       "draw": 2,
       "weight": 60,
+      "odds": "16/1",
+      "marketRank": 7,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -621,6 +720,9 @@
       "rating": null,
       "draw": 8,
       "weight": 60,
+      "odds": "33/1",
+      "marketRank": 9,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -646,6 +748,9 @@
       "rating": 42,
       "draw": 3,
       "weight": 57,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -674,7 +779,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "EHHFIFTEENKJOE",
@@ -685,7 +791,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "SPIRIT OF GABZ",
@@ -696,7 +803,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "ANGLE OF ATTACK",
@@ -707,7 +815,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "EXPERT WITNESS",
@@ -718,7 +827,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "GOTTHETIGER",
@@ -729,7 +839,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "HARTREE",
@@ -740,7 +851,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "RAFE’S ORACLE",
@@ -751,7 +863,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "SNOWBLADE",
@@ -762,7 +875,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "DEAR DOC"

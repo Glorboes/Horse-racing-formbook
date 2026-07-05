@@ -46,6 +46,9 @@ function ensureHorse(fb, name) {
 // We derive cumulative margins to compute pairwise beaten-by distances.
 function logResult(fb, result) {
   const { date, track, race, distance, going } = result;
+  const classLabel = result.classLabel ?? result.class ?? null;
+  const classType = result.classType ?? null;
+  const classRank = result.classRank ?? null;
   const finishers = [...result.finishers].sort((a, b) => a.finish - b.finish);
 
   // cumulative lengths behind winner
@@ -63,6 +66,7 @@ function logResult(fb, result) {
       .map((o) => o.name);
     fb.horses[key].runs.push({
       date, track, race, distance, going,
+      classLabel, classType, classRank,
       finish: f.finish,
       field: enriched.length,
       marginBehindWinner: +f.cumBehind.toFixed(2),
@@ -212,10 +216,59 @@ function strikeRate(fb) {
   };
 }
 
+// ---------------------------------------------------------------------------
+// Jockey/trainer combo strike rate (across all logged runs)
+// ---------------------------------------------------------------------------
+function comboRecord(fb, jockey, trainer) {
+  if (!jockey || !trainer) return null;
+  const j = String(jockey).trim().toLowerCase(), t = String(trainer).trim().toLowerCase();
+  let starts = 0, wins = 0, places = 0;
+  for (const h of Object.values(fb.horses)) {
+    for (const r of h.runs || []) {
+      if ((r.jockey || '').trim().toLowerCase() === j && (r.trainer || '').trim().toLowerCase() === t) {
+        starts++; if (r.finish === 1) wins++; if (r.finish <= 3) places++;
+      }
+    }
+  }
+  if (!starts) return null;
+  return { starts, wins, places, winPct: +((wins / starts) * 100).toFixed(0), record: `${wins}-${starts}` };
+}
+
+// Most recent run for a horse strictly before `beforeDate` (for class movement)
+function lastRunBefore(fb, horseKey, beforeDate) {
+  const runs = (fb.horses[horseKey] && fb.horses[horseKey].runs) || [];
+  const prior = runs.filter((r) => !beforeDate || (r.date || '') < beforeDate)
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  return prior[0] || null;
+}
+
+// ---------------------------------------------------------------------------
+// Confidence calibration: actual win rate of the top pick by score tier
+// ---------------------------------------------------------------------------
+function calibration(fb) {
+  const tiers = [
+    { key: 'high', label: '70+', min: 70, max: Infinity },
+    { key: 'mid', label: '55–70', min: 55, max: 70 },
+    { key: 'low', label: 'below 55', min: -Infinity, max: 55 },
+  ].map((t) => ({ ...t, n: 0, wins: 0, places: 0 }));
+  for (const p of fb.predictionsLog) {
+    if (!p.settled || !p.result || !p.ranked || !p.ranked[0]) continue;
+    const score = p.ranked[0].score;
+    const tier = tiers.find((t) => score >= t.min && score < t.max);
+    if (!tier) continue;
+    tier.n++; if (p.result.topPickWon) tier.wins++; if (p.result.topPickPlaced) tier.places++;
+  }
+  return tiers.map((t) => ({
+    tier: t.label, n: t.n, wins: t.wins, places: t.places,
+    winPct: t.n ? +((t.wins / t.n) * 100).toFixed(0) : null,
+    placePct: t.n ? +((t.places / t.n) * 100).toFixed(0) : null,
+  }));
+}
+
 module.exports = {
   FORMBOOK_PATH, ROOT,
   load, save, ensureHorse,
   logResult, makePredId,
   headToHeadBetween, strongestByHeadToHead,
-  strikeRate,
+  strikeRate, comboRecord, lastRunBefore, calibration,
 };

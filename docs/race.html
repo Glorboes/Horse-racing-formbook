@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>Race — Formbook</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="wrap" id="app">
+  <a class="backlink" href="index.html">‹ Back to race list</a>
+  <div id="race"><div class="empty">Loading…</div></div>
+</div>
+
+<script src="assets/common.js"></script>
+<script>
+const F = window.Formbook;
+if (F.requireUnlock()) {
+  F.renderNav('races');
+  boot();
+}
+
+async function boot(){
+  const id=F.getParam('id');
+  if(!id){ document.getElementById('race').innerHTML='<div class="empty">No race specified.</div>'; return; }
+  try{
+    const p=await F.fetchJSON('data/predictions/'+id+'.json');
+    document.title=(p.track||'Race')+' R'+p.race+' — Formbook';
+    render(p);
+  }catch(err){
+    document.getElementById('race').innerHTML='<div class="empty">Could not load this race.<br><small>'+F.esc(err.message)+'</small></div>';
+  }
+}
+
+const esc=F.esc, pct=F.pct;
+
+function render(p){
+  const strongest=(p.headToHead&&p.headToHead[0])||null;
+  document.getElementById('race').innerHTML =
+    metaCard(p)+guessCard(p)+(p.marketPriced?marketCard(p):'')+comparisonCard(p)+h2hCard(p,strongest);
+}
+
+function metaCard(p){
+  return `<section class="card"><h2>${esc(p.track)||'—'} · Race ${p.race}</h2>
+    <div class="meta">
+      ${p.time?`<span>Off <b>${esc(p.time)}</b></span>`:''}
+      <span><b>${p.distance||'?'}</b> m</span>
+      <span>Going <b>${esc(p.going)||'n/a'}</b></span>
+      ${p.classLabel?`<span>Class <b>${esc(p.classLabel)}</b></span>`:''}
+      <span><b>${(p.ranked||[]).length}</b> runners</span>
+      <span><b>${esc(p.date)}</b></span>
+    </div></section>`;
+}
+
+// EDUCATED GUESS
+function guessCard(p){
+  const rows=(p.ranked||[]).map(r=>{
+    const why=(r.reasoning||[]).map(w=>{
+      const warn=/small sample|disagree/i.test(w);
+      return `<li class="${warn?'warn':''}">${esc(w)}</li>`;
+    }).join('');
+    const ss=r.h2h&&r.h2h.smallSample?'<span class="smalltag">small sample</span>':'';
+    return `<div class="pick ${r.rank===1?'top':''}">
+      <div class="row1">
+        <div class="rank">${r.rank===1?'★':r.rank}</div>
+        <div><div class="nm">${esc(r.name)}${ss}</div></div>
+        <div class="sc"><b>${r.score}</b><span>${r.odds?esc(r.odds)+' · ':''}${r.h2h&&(r.h2h.wins||r.h2h.losses)?'H2H '+r.h2h.record:'score'}</span></div>
+      </div>
+      <div class="bar"><i style="width:${r.score}%"></i></div>
+      <ul class="why">${why}</ul>
+    </div>`;
+  }).join('');
+  return `<section class="card"><h2>🎯 Educated Guess — reasoning per horse</h2>${rows}</section>`;
+}
+
+// MARKET vs MODEL
+function marketCard(p){
+  const rows=(p.ranked||[]).slice().map(r=>({
+    name:r.name, model:r.rank, market:r.marketRank, odds:r.odds, dis:r.marketDisagree
+  })).sort((a,b)=>(a.market||99)-(b.market||99));
+  const body=rows.map(r=>`<tr class="${r.dis?'':''}">
+      <td class="name">${esc(r.name)}</td>
+      <td>${r.odds?esc(r.odds):'—'}</td>
+      <td>${r.market??'—'}</td>
+      <td>${r.model}</td>
+      <td class="${r.dis?'disagree':''}">${r.dis?'⚠ '+ (r.model<r.market?'model higher':'market higher'):'aligned'}</td>
+    </tr>`).join('');
+  return `<section class="card"><h2>💹 Model vs Market</h2>
+    <div class="scroll"><table>
+      <tr><th class="name">Runner</th><th>Odds</th><th>Mkt rank</th><th>Model rank</th><th>Read</th></tr>
+      ${body}
+    </table></div>
+    <div class="foot" style="text-align:left;margin-top:8px">Market rank from card odds (shortest = 1). ⚠ flags a gap of 3+ places — where the model likes a horse the market doesn't (or vice-versa).</div>
+  </section>`;
+}
+
+// COMPARISON
+function comparisonCard(p){
+  const fk=['form','rating','distance','going','recencyMargin'];
+  const flabel={form:'Form',rating:'Rating',distance:'Dist',going:'Going',recencyMargin:'Margins'};
+  const head=`<tr><th class="name">Runner</th><th>Rank</th><th>Score</th><th>Odds</th><th>Last 5</th><th>MR</th><th>Draw</th><th>Wt</th>`+
+    fk.map(k=>`<th>${flabel[k]}</th>`).join('')+`</tr>`;
+  const body=(p.comparison||[]).map(c=>{
+    const r=(p.ranked||[]).find(x=>x.name===c.name)||{factors:{}};
+    const cells=fk.map(k=>{const v=pct(r.factors?.[k]);return `<td><span class="mini"><i style="width:${v}%"></i></span></td>`;}).join('');
+    return `<tr class="${c.rank===1?'lead':''}">
+      <td class="name">${esc(c.name)}</td><td>${c.rank}</td><td><b>${c.score}</b></td>
+      <td class="${c.marketDisagree?'disagree':''}">${c.odds?esc(c.odds):'—'}</td>
+      <td class="form5">${esc(c.lastFive)}</td><td>${c.rating??'—'}</td><td>${c.draw??'—'}</td><td>${c.weight??'—'}</td>
+      ${cells}</tr>`;
+  }).join('');
+  return `<section class="card"><h2>📊 Comparison — form, ratings, factor strength</h2>
+    <div class="scroll"><table>${head}${body}</table></div>
+    <div class="foot" style="text-align:left;margin-top:8px">Bars = each runner's strength on that factor (0–100%). Swipe sideways on mobile.</div>
+  </section>`;
+}
+
+// WHO BEAT WHO
+function h2hCard(p,strongest){
+  const table=p.headToHead||[];
+  if(!table.length) return '';
+  const anyMeetings=table.some(t=>t.meetings>0);
+  const strongBanner=strongest&&anyMeetings?`<div class="strong">
+      <div class="medal">🥇</div>
+      <div><div class="nm">${esc(strongest.name)}${strongest.smallSample?'<span class="smalltag">small sample</span>':''}</div>
+      <div class="sub">Strongest on head-to-head · record ${esc(strongest.record)} vs this field · ${strongest.beats&&strongest.beats.length?'has beaten '+esc([...new Set(strongest.beats)].join(', ')):"no losses to today's rivals"}</div></div>
+    </div>`:'';
+  if(!anyMeetings){
+    return `<section class="card"><h2>⚔️ Who Beat Who — head-to-head</h2>
+      <div class="empty">No prior meetings between today's runners yet. Head-to-head builds automatically as results are logged.</div></section>`;
+  }
+  const names=table.map(t=>t.name);
+  function cellFor(a,b){
+    if(a===b) return {cls:'self',txt:'—'};
+    const ra=table.find(t=>t.name===a);
+    const beats=(ra&&ra.beats)||[],loses=(ra&&ra.losesTo)||[];
+    const w=beats.filter(x=>x===b).length,l=loses.filter(x=>x===b).length;
+    if(!w&&!l) return {cls:'',txt:'·'};
+    if(w>=l) return {cls:'win',txt:w+'–'+l};
+    return {cls:'loss',txt:w+'–'+l};
+  }
+  const head=`<tr><th class="name">beat →</th>`+names.map(n=>`<th>${esc(n.split(' ').map(w=>w[0]).join(''))}</th>`).join('')+`</tr>`;
+  const rows=names.map(a=>`<tr><td class="rowname">${esc(a)}</td>`+names.map(b=>{const c=cellFor(a,b);return `<td class="${c.cls}">${c.txt}</td>`;}).join('')+`</tr>`).join('');
+  const standings=table.map((t,i)=>`
+    <div class="standRow">
+      <span class="rk">${i+1}</span><span class="nm">${esc(t.name)}${t.smallSample?'<span class="smalltag">small sample</span>':''}</span>
+      <span class="rec">${esc(t.record)} · ${t.points} pts</span>
+      ${t.beats&&t.beats.length?`<span class="beat">beat ${esc([...new Set(t.beats)].join(', '))}</span>`:''}
+    </div>`).join('');
+  return `<section class="card"><h2>⚔️ Who Beat Who — head-to-head</h2>
+    ${strongBanner}${standings}
+    <div class="scroll" style="margin-top:12px"><table class="h2hgrid">${head}${rows}</table></div>
+    <div class="foot" style="text-align:left;margin-top:8px">Grid = wins–losses of the row horse over the column horse (initials). Green = row leads. Records under 5 meetings are tagged <span class="smalltag">small sample</span>.</div>
+  </section>`;
+}
+</script>
+</body>
+</html>

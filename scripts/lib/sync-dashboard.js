@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { load, strikeRate } = require('./formbook');
+const { load, strikeRate, calibration } = require('./formbook');
 const { normalizeName } = require('./names');
 
 const ROOT = path.resolve(__dirname, '..', '..');
@@ -30,22 +30,42 @@ function syncDashboard() {
       const p = JSON.parse(fs.readFileSync(src, 'utf8'));
       entries.push({
         file: `data/predictions/${f}`,
-        id: p.id, date: p.date, track: p.track, race: p.race,
-        distance: p.distance, going: p.going,
+        id: p.id, date: p.date, track: p.track, race: p.race, time: p.time || null,
+        distance: p.distance, going: p.going, classLabel: p.classLabel || null,
         runners: (p.ranked || []).length,
         topPick: p.ranked && p.ranked[0] ? p.ranked[0].name : null,
         settled: !!p.settled,
+        result: p.result || null,
       });
     } catch { /* skip malformed */ }
   }
   entries.sort((a, b) => (b.date || '').localeCompare(a.date || '') || (b.race || 0) - (a.race || 0));
 
   const fb = load();
+
+  // settled status is the source-of-truth in formbook.predictionsLog, not the
+  // (immutable) prediction files — merge it into the manifest entries.
+  const logById = Object.fromEntries((fb.predictionsLog || []).map((p) => [p.id, p]));
+  for (const e of entries) {
+    const lg = logById[e.id];
+    if (lg && lg.settled) { e.settled = true; e.result = lg.result || null; }
+  }
+
   const sr = strikeRate(fb);
+  sr.calibration = calibration(fb);
   const horses = buildHorses(fb);
 
+  // days index for the calendar view (most recent first)
+  const byDay = {};
+  for (const e of entries) (byDay[e.date] = byDay[e.date] || []).push(e);
+  const days = Object.keys(byDay).sort((a, b) => b.localeCompare(a)).map((d) => ({
+    date: d, races: byDay[d].length,
+    tracks: [...new Set(byDay[d].map((e) => e.track).filter(Boolean))],
+    settled: byDay[d].filter((e) => e.settled).length,
+  }));
+
   fs.writeFileSync(path.join(DOCS_DATA, 'manifest.json'),
-    JSON.stringify({ generated: new Date().toISOString(), count: entries.length, predictions: entries }, null, 2) + '\n');
+    JSON.stringify({ generated: new Date().toISOString(), count: entries.length, days, predictions: entries }, null, 2) + '\n');
   fs.writeFileSync(path.join(DOCS_DATA, 'strike-rate.json'), JSON.stringify(sr, null, 2) + '\n');
   fs.writeFileSync(path.join(DOCS_DATA, 'horses.json'),
     JSON.stringify({ generated: new Date().toISOString(), count: horses.length, horses }, null, 2) + '\n');

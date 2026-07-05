@@ -2,12 +2,100 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<title>Formbook</title>
-<meta http-equiv="refresh" content="0; url=dashboard.html">
-<link rel="canonical" href="dashboard.html">
-<style>body{background:#0c0c0e;color:#d4af37;font-family:system-ui;display:grid;place-items:center;height:100vh;margin:0}</style>
+<meta name="theme-color" content="#0c0c0e">
+<title>Formbook — SA Racing</title>
+<link rel="stylesheet" href="assets/style.css">
 </head>
-<body>Loading the Formbook… <a href="dashboard.html" style="color:#f0d888">enter →</a></body>
+<body>
+
+<!-- password gate (lives on this page only) -->
+<div id="gate">
+  <div class="lock">
+    <div class="crest">🐎</div>
+    <h1>Formbook</h1>
+    <p>Private racing dashboard — enter passphrase</p>
+    <form id="gateForm">
+      <input id="pw" type="password" autocomplete="current-password" placeholder="Passphrase" autofocus>
+      <button type="submit">Unlock</button>
+      <div class="err" id="err"></div>
+    </form>
+  </div>
+</div>
+
+<div id="nav"></div>
+<div class="wrap" id="app" style="display:none">
+  <div class="pagehead">
+    <h1>Race day</h1>
+    <div class="chips" id="srChips"></div>
+  </div>
+  <div class="daybar" id="daybar"></div>
+  <div id="list"></div>
+  <div class="foot" id="foot"></div>
+</div>
+
+<script src="assets/common.js"></script>
+<script>
+const F = window.Formbook;
+F.renderNav('races');
+let MANIFEST=null, SR=null, CURDAY=null;
+
+F.initGate(async function(){
+  document.getElementById('app').style.display='block';
+  try{
+    const [m, sr] = await Promise.all([
+      F.fetchJSON('data/manifest.json'),
+      F.fetchJSON('data/strike-rate.json').catch(()=>null)
+    ]);
+    MANIFEST=m; SR=sr;
+    renderStrike(sr);
+    const days=(m.days&&m.days.length)?m.days:[{date:null,races:m.count}];
+    CURDAY = days[0] ? days[0].date : null;
+    renderDaybar(days);
+    renderList();
+    document.getElementById('foot').textContent='Updated '+new Date(m.generated).toLocaleString();
+  }catch(err){
+    document.getElementById('list').innerHTML='<div class="empty">Could not load races.<br><small>'+F.esc(err.message)+'</small></div>';
+  }
+});
+
+function renderStrike(sr){
+  const el=document.getElementById('srChips'); if(!sr){el.innerHTML='';return;}
+  el.innerHTML='<a class="chip" href="history.html">Win <b>'+sr.winPct+'%</b></a>'+
+    '<a class="chip" href="history.html">Place <b>'+sr.placePct+'%</b></a>'+
+    '<a class="chip" href="history.html">Settled <b>'+sr.settled+'</b></a>';
+}
+
+function renderDaybar(days){
+  const el=document.getElementById('daybar');
+  el.innerHTML=days.map(d=>`
+    <div class="day ${d.date===CURDAY?'active':''}" onclick="pickDay('${d.date||''}')">
+      <div class="d1">${d.date?F.fmtDate(d.date):'All'}</div>
+      <div class="d2">${d.races} race${d.races===1?'':'s'}${d.tracks&&d.tracks.length?' · '+F.esc(d.tracks[0]):''}</div>
+    </div>`).join('');
+}
+function pickDay(d){ CURDAY=d||null; renderDaybar((MANIFEST.days||[])); renderList(); }
+
+function renderList(){
+  let races=(MANIFEST.predictions||[]);
+  if(CURDAY) races=races.filter(r=>r.date===CURDAY);
+  races=races.slice().sort((a,b)=>(a.race||0)-(b.race||0));
+  const el=document.getElementById('list');
+  if(!races.length){ el.innerHTML='<div class="empty">No races for this day.</div>'; return; }
+  el.innerHTML=races.map(r=>`
+    <div class="racecard" onclick="location.href='race.html?id=${encodeURIComponent(r.id)}'">
+      <div class="num">R${r.race}</div>
+      <div class="mid">
+        <div class="t">${F.esc(r.track)||'—'}${r.time?' · '+r.time:''}</div>
+        <div class="s">${r.distance||'?'}m · ${F.esc(r.going||r.classLabel||'')||'—'} · ${r.runners} runners</div>
+      </div>
+      <div class="rt">
+        <div class="pk">★ ${F.esc(r.topPick)||'—'}</div>
+        ${r.settled?'<span class="settledtag">settled</span>':'<div style="font-size:11px;margin-top:3px">view ›</div>'}
+      </div>
+    </div>`).join('');
+}
+</script>
+</body>
 </html>

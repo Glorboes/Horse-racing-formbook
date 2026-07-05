@@ -3,11 +3,14 @@
   "date": "2026-07-05",
   "track": "TURFFONTEIN",
   "race": 10,
+  "time": "16:45",
   "distance": 1600,
   "going": null,
   "surface": "Turf",
-  "generated": "2026-07-05T06:08:12.726Z",
+  "classLabel": "MR 80 Handicap",
+  "generated": "2026-07-05T06:23:05.296Z",
   "settled": false,
+  "marketPriced": true,
   "ranked": [
     {
       "name": "WAR REPORTER",
@@ -17,6 +20,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
       "score": 54.3,
       "factors": {
         "form": 0.4,
@@ -47,15 +52,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false
     },
     {
       "name": "SUNSET WARRIOR",
@@ -65,6 +76,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 56,
+      "odds": "16/1",
+      "oddsDecimal": 16,
       "score": 52,
       "factors": {
         "form": 0.4,
@@ -95,14 +108,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: weight, the draw.",
+        "Model/market disagree: model rank 2 vs market rank 7 (16/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "marketRank": 7,
+      "rank": 2,
+      "marketDisagree": true
     },
     {
       "name": "UTSAAH",
@@ -112,6 +132,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 57,
+      "odds": "7/1",
+      "oddsDecimal": 7,
       "score": 51.5,
       "factors": {
         "form": 0.4,
@@ -142,14 +164,20 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "marketRank": 5,
+      "rank": 3,
+      "marketDisagree": false
     },
     {
       "name": "AFTER HOURS",
@@ -159,6 +187,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "50/1",
+      "oddsDecimal": 50,
       "score": 49.7,
       "factors": {
         "form": 0.4,
@@ -189,14 +219,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
+        "Model/market disagree: model rank 4 vs market rank 9 (50/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "marketRank": 9,
+      "rank": 4,
+      "marketDisagree": true
     },
     {
       "name": "SKY PILOT",
@@ -206,6 +243,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 59,
+      "odds": "5/1",
+      "oddsDecimal": 5,
       "score": 49.5,
       "factors": {
         "form": 0.4,
@@ -236,15 +275,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: class/rating, the draw.",
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "marketRank": 3,
+      "rank": 5,
+      "marketDisagree": false
     },
     {
       "name": "MILLENNIUM WARRIOR",
@@ -254,6 +299,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 58,
+      "odds": "25/1",
+      "oddsDecimal": 25,
       "score": 47.3,
       "factors": {
         "form": 0.4,
@@ -284,13 +331,19 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "marketRank": 8,
+      "rank": 6,
+      "marketDisagree": false
     },
     {
       "name": "PRINCESS KEIRA",
@@ -300,6 +353,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 59,
+      "odds": "6/1",
+      "oddsDecimal": 6,
       "score": 46.2,
       "factors": {
         "form": 0.4,
@@ -330,15 +385,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: weight.",
+        "Model/market disagree: model rank 7 vs market rank 4 (6/1).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "marketRank": 4,
+      "rank": 7,
+      "marketDisagree": true
     },
     {
       "name": "HARUN AL RASHID",
@@ -348,6 +410,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "7/1",
+      "oddsDecimal": 7,
       "score": 37.7,
       "factors": {
         "form": 0.4,
@@ -378,15 +442,21 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: class/rating, weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 8
+      "marketRank": 6,
+      "rank": 8,
+      "marketDisagree": false
     },
     {
       "name": "TOP SHELF TEDDY",
@@ -396,6 +466,8 @@
       "jockey": null,
       "trainer": null,
       "weight": 60,
+      "odds": "7/2",
+      "oddsDecimal": 3.5,
       "score": 37,
       "factors": {
         "form": 0.4,
@@ -426,15 +498,22 @@
         "record": "0-0",
         "wins": 0,
         "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
         "beats": [],
         "losesTo": []
       },
+      "combo": null,
+      "classMove": null,
       "reasoning": [
         "Strengths: the draw.",
         "Concerns: class/rating, weight.",
+        "Model/market disagree: model rank 9 vs market rank 2 (7/2).",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 9
+      "marketRank": 2,
+      "rank": 9,
+      "marketDisagree": true
     }
   ],
   "comparison": [
@@ -446,6 +525,9 @@
       "rating": 57,
       "draw": 3,
       "weight": 60,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -471,6 +553,9 @@
       "rating": null,
       "draw": 4,
       "weight": 56,
+      "odds": "16/1",
+      "marketRank": 7,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -496,6 +581,9 @@
       "rating": null,
       "draw": 1,
       "weight": 57,
+      "odds": "7/1",
+      "marketRank": 5,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -521,6 +609,9 @@
       "rating": null,
       "draw": 2,
       "weight": 58,
+      "odds": "50/1",
+      "marketRank": 9,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -546,6 +637,9 @@
       "rating": 56,
       "draw": 6,
       "weight": 59,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -571,6 +665,9 @@
       "rating": null,
       "draw": 9,
       "weight": 58,
+      "odds": "25/1",
+      "marketRank": 8,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -596,6 +693,9 @@
       "rating": null,
       "draw": 8,
       "weight": 59,
+      "odds": "6/1",
+      "marketRank": 4,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -621,6 +721,9 @@
       "rating": 54,
       "draw": 5,
       "weight": 60,
+      "odds": "7/1",
+      "marketRank": 6,
+      "marketDisagree": false,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -646,6 +749,9 @@
       "rating": 54,
       "draw": 7,
       "weight": 60,
+      "odds": "7/2",
+      "marketRank": 2,
+      "marketDisagree": true,
       "jockey": null,
       "trainer": null,
       "lastFive": "—",
@@ -674,7 +780,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "TOP SHELF TEDDY",
@@ -685,7 +792,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "WAR REPORTER",
@@ -696,7 +804,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "HARUN AL RASHID",
@@ -707,7 +816,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "SKY PILOT",
@@ -718,7 +828,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "AFTER HOURS",
@@ -729,7 +840,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "MILLENNIUM WARRIOR",
@@ -740,7 +852,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "UTSAAH",
@@ -751,7 +864,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     },
     {
       "name": "SUNSET WARRIOR",
@@ -762,7 +876,8 @@
       "meetings": 0,
       "beats": [],
       "losesTo": [],
-      "record": "0-0"
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "PRINCESS KEIRA"
