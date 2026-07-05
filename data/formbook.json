@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updated": "2026-07-05T20:25:01.658Z",
+    "updated": "2026-07-05T20:45:29.032Z",
     "tracks": [
       "Turffontein",
       "Vaal",
@@ -85,6 +85,28 @@
           "jockey": "M Yeni",
           "trainer": "S Tarry",
           "draw": 1
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Silver Host",
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": "M Yeni",
+          "trainer": null,
+          "draw": null
         }
       ]
     },
@@ -182,6 +204,26 @@
           "jockey": "C Zackey",
           "trainer": "M Azzie",
           "draw": 2
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 4,
+          "marginBehindWinner": 1.75,
+          "beaten": [
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
         }
       ]
     },
@@ -237,6 +279,24 @@
           "jockey": null,
           "trainer": null,
           "draw": 8
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 4,
+          "marginBehindWinner": 3.75,
+          "beaten": [],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
         }
       ]
     },
@@ -296,6 +356,27 @@
           "jockey": "R Danielson",
           "trainer": "J Snaith",
           "draw": 3
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 4,
+          "marginBehindWinner": 1.25,
+          "beaten": [
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
         }
       ]
     },
@@ -2252,6 +2333,15 @@
         "going": "Good",
         "marginLengths": 1,
         "winner": "El Barb"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 1.75,
+        "winner": "El Barb"
       }
     ],
     "CAPE VENTURE|EL BARB": [
@@ -2281,6 +2371,15 @@
         "going": "Soft",
         "marginLengths": 1.25,
         "winner": "Cape Venture"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 3.75,
+        "winner": "El Barb"
       }
     ],
     "GOLDEN REEF|NIGHT WATCH": [
@@ -2332,6 +2431,15 @@
         "going": "Good",
         "marginLengths": 2,
         "winner": "Night Watch"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 2,
+        "winner": "Night Watch"
       }
     ],
     "EL BARB|SILVER HOST": [
@@ -2361,6 +2469,15 @@
         "going": "Soft",
         "marginLengths": 3.5,
         "winner": "Silver Host"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 1.25,
+        "winner": "El Barb"
       }
     ],
     "CAPE VENTURE|SILVER HOST": [
@@ -2380,6 +2497,15 @@
         "distance": 1600,
         "going": "Soft",
         "marginLengths": 2.25,
+        "winner": "Silver Host"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 2.5,
         "winner": "Silver Host"
       }
     ],
@@ -2412,6 +2538,15 @@
         "going": "Good",
         "marginLengths": 0.25,
         "winner": "Night Watch"
+      },
+      {
+        "date": "2026-06-14",
+        "track": "Turffontein",
+        "race": 5,
+        "distance": 1600,
+        "going": "Good",
+        "marginLengths": 0.5,
+        "winner": "Silver Host"
       }
     ],
     "REGAL QUEEN|STAR MAGNOLIA": [

@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-05T20:25:01.674Z",
+  "generated": "2026-07-05T20:45:29.050Z",
   "count": 73,
   "horses": [
     {
       "key": "EL BARB",
       "name": "El Barb",
       "rating": null,
-      "starts": 4,
-      "wins": 2,
-      "places": 3,
-      "winPct": 50,
-      "placePct": 75,
-      "lastFive": "4121",
+      "starts": 5,
+      "wins": 3,
+      "places": 4,
+      "winPct": 60,
+      "placePct": 80,
+      "lastFive": "41121",
       "tracks": [
         "Turffontein",
         "Vaal",
@@ -87,10 +87,32 @@
           "jockey": "M Yeni",
           "trainer": "S Tarry",
           "draw": 1
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Silver Host",
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": "M Yeni",
+          "trainer": null,
+          "draw": null
         }
       ],
       "h2h": {
-        "wins": 7,
+        "wins": 10,
         "losses": 4,
         "beats": [
           "Golden Reef",
@@ -109,12 +131,12 @@
       "key": "CAPE VENTURE",
       "name": "Cape Venture",
       "rating": null,
-      "starts": 3,
+      "starts": 4,
       "wins": 0,
       "places": 2,
       "winPct": 0,
-      "placePct": 67,
-      "lastFive": "334",
+      "placePct": 50,
+      "lastFive": "3434",
       "tracks": [
         "Turffontein",
         "Vaal",
@@ -169,11 +191,29 @@
           "jockey": null,
           "trainer": null,
           "draw": 8
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 4,
+          "marginBehindWinner": 3.75,
+          "beaten": [],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
         }
       ],
       "h2h": {
         "wins": 2,
-        "losses": 7,
+        "losses": 10,
         "beats": [
           "El Barb",
           "Golden Reef"
@@ -183,6 +223,112 @@
           "Golden Reef",
           "Night Watch",
           "Silver Host"
+        ]
+      }
+    },
+    {
+      "key": "SILVER HOST",
+      "name": "Silver Host",
+      "rating": null,
+      "starts": 4,
+      "wins": 2,
+      "places": 4,
+      "winPct": 50,
+      "placePct": 100,
+      "lastFive": "1231",
+      "tracks": [
+        "Vaal",
+        "Turffontein",
+        "Greyville"
+      ],
+      "runs": [
+        {
+          "date": "2026-05-03",
+          "track": "Vaal",
+          "race": 6,
+          "distance": 1600,
+          "going": "Good to Firm",
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "El Barb",
+            "Cape Venture",
+            "Golden Reef"
+          ],
+          "weight": 58,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 5
+        },
+        {
+          "date": "2026-05-24",
+          "track": "Turffontein",
+          "race": 7,
+          "distance": 1600,
+          "going": "Good",
+          "finish": 3,
+          "field": 3,
+          "marginBehindWinner": 1.25,
+          "beaten": [],
+          "weight": 58,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 6
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Greyville",
+          "race": 5,
+          "distance": 1600,
+          "going": "Soft",
+          "finish": 1,
+          "field": 4,
+          "marginBehindWinner": 0,
+          "beaten": [
+            "Golden Reef",
+            "Cape Venture",
+            "El Barb"
+          ],
+          "weight": 59,
+          "jockey": "R Danielson",
+          "trainer": "J Snaith",
+          "draw": 3
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 4,
+          "marginBehindWinner": 1.25,
+          "beaten": [
+            "Night Watch",
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 3,
+        "beats": [
+          "El Barb",
+          "Cape Venture",
+          "Golden Reef",
+          "Night Watch"
+        ],
+        "losesTo": [
+          "El Barb",
+          "Night Watch"
         ]
       }
     },
@@ -270,99 +416,15 @@
       }
     },
     {
-      "key": "SILVER HOST",
-      "name": "Silver Host",
-      "rating": null,
-      "starts": 3,
-      "wins": 2,
-      "places": 3,
-      "winPct": 67,
-      "placePct": 100,
-      "lastFive": "131",
-      "tracks": [
-        "Vaal",
-        "Turffontein",
-        "Greyville"
-      ],
-      "runs": [
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "El Barb",
-            "Cape Venture",
-            "Golden Reef"
-          ],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 5
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 3,
-          "field": 3,
-          "marginBehindWinner": 1.25,
-          "beaten": [],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 6
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Golden Reef",
-            "Cape Venture",
-            "El Barb"
-          ],
-          "weight": 59,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 3
-        }
-      ],
-      "h2h": {
-        "wins": 6,
-        "losses": 2,
-        "beats": [
-          "El Barb",
-          "Cape Venture",
-          "Golden Reef"
-        ],
-        "losesTo": [
-          "El Barb",
-          "Night Watch"
-        ]
-      }
-    },
-    {
       "key": "NIGHT WATCH",
       "name": "Night Watch",
       "rating": null,
-      "starts": 2,
+      "starts": 3,
       "wins": 0,
-      "places": 2,
+      "places": 3,
       "winPct": 0,
       "placePct": 100,
-      "lastFive": "23",
+      "lastFive": "323",
       "tracks": [
         "Turffontein"
       ],
@@ -400,18 +462,39 @@
           "jockey": "C Zackey",
           "trainer": "M Azzie",
           "draw": 2
+        },
+        {
+          "date": "2026-06-14",
+          "track": "Turffontein",
+          "race": 5,
+          "distance": 1600,
+          "going": "Good",
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 4,
+          "marginBehindWinner": 1.75,
+          "beaten": [
+            "Cape Venture"
+          ],
+          "weight": null,
+          "jockey": null,
+          "trainer": null,
+          "draw": null
         }
       ],
       "h2h": {
-        "wins": 2,
-        "losses": 3,
+        "wins": 3,
+        "losses": 5,
         "beats": [
           "Cape Venture",
           "Silver Host"
         ],
         "losesTo": [
           "El Barb",
-          "Golden Reef"
+          "Golden Reef",
+          "Silver Host"
         ]
       }
     },
