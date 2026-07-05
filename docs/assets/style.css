@@ -151,3 +151,32 @@ tr.lead td.name{background:#1c190f}
 .tag.win{color:var(--green);border-color:rgba(95,191,118,.4)}
 .tag.loss{color:var(--red);border-color:rgba(209,106,106,.35)}
 .back{background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:6px 12px;font-size:13px;cursor:pointer;margin-bottom:12px}
+
+/* ---- multi bet ---- */
+.multi{border:1px solid var(--line);border-radius:12px;padding:13px;margin-bottom:10px;background:var(--panel2)}
+.multi.hero{border-color:var(--gold);background:linear-gradient(180deg,#1e1a0f,#16130c)}
+.multi .mh{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.multi .mt{font-weight:700;font-size:15px}
+.multi .big{margin-left:auto;text-align:right}
+.multi .big b{font-size:22px;color:var(--gold2);display:block;line-height:1}
+.multi .big span{font-size:11px;color:var(--muted)}
+.leg{display:flex;align-items:center;gap:8px;padding:7px 0;border-top:1px solid var(--line);font-size:13px}
+.leg .lr{width:34px;color:var(--muted);font-size:12px}
+.leg .ls{font-weight:600;flex:1}
+.leg .lp{color:var(--gold2);font-size:12px;font-variant-numeric:tabular-nums}
+.cbadge{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border-radius:999px;padding:2px 9px;border:1px solid}
+.cbadge.strong{color:var(--green);border-color:rgba(95,191,118,.5)}
+.cbadge.fair{color:var(--gold2);border-color:rgba(212,175,55,.5)}
+.cbadge.speculative{color:var(--amber);border-color:rgba(224,160,58,.5)}
+.cbadge.longshot{color:var(--red);border-color:rgba(209,106,106,.45)}
+.banker{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 13px;margin-bottom:8px}
+.banker .bn{font-weight:700}
+.banker .bd{color:var(--muted);font-size:12px}
+.banker .bp{margin-left:auto;text-align:right;font-size:12px;color:var(--muted)}
+.banker .bp b{color:var(--gold2);font-size:16px;display:block}
+.pbar{height:5px;border-radius:3px;background:#26262e;overflow:hidden;margin-top:5px}
+.pbar>i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2))}
+.segbtns{display:flex;gap:6px;margin:4px 0 12px}
+.segbtns button{flex:1;background:var(--panel);border:1px solid var(--line);color:var(--muted);border-radius:10px;padding:9px;font-size:13px;font-weight:600;cursor:pointer}
+.segbtns button.active{border-color:var(--gold);color:var(--gold2);background:linear-gradient(180deg,#1d1a10,#141418)}
+.disclaimer{color:var(--muted);font-size:11px;border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin:14px 0}

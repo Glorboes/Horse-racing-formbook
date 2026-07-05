@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Juvenile Plate",
-  "generated": "2026-07-05T06:23:05.290Z",
+  "generated": "2026-07-05T06:39:52.007Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -66,7 +66,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.264,
+      "pPlace": 0.4881,
+      "pMarket": 0.26,
+      "edge": 0.008
     },
     {
       "name": "BELLFLOWER",
@@ -122,7 +126,11 @@
       ],
       "marketRank": 6,
       "rank": 2,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1382,
+      "pPlace": 0.283,
+      "pMarket": 0.0607,
+      "edge": 0.1551
     },
     {
       "name": "QUEEN LEILA",
@@ -178,7 +186,11 @@
       ],
       "marketRank": 3,
       "rank": 3,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1737,
+      "pPlace": 0.3469,
+      "pMarket": 0.182,
+      "edge": -0.0167
     },
     {
       "name": "UP AND UP",
@@ -233,7 +245,11 @@
       ],
       "marketRank": 4,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1449,
+      "pPlace": 0.2954,
+      "pMarket": 0.13,
+      "edge": 0.0299
     },
     {
       "name": "UNVARNISHED GOLD",
@@ -288,7 +304,11 @@
       ],
       "marketRank": 7,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0777,
+      "pPlace": 0.165,
+      "pMarket": 0.035,
+      "edge": 0.0854
     },
     {
       "name": "IMPRESSIVE",
@@ -344,7 +364,11 @@
       ],
       "marketRank": 5,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0879,
+      "pPlace": 0.1856,
+      "pMarket": 0.13,
+      "edge": -0.0842
     },
     {
       "name": "WITHIN REACH",
@@ -401,7 +425,11 @@
       ],
       "marketRank": 2,
       "rank": 7,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1135,
+      "pPlace": 0.236,
+      "pMarket": 0.2022,
+      "edge": -0.1775
     }
   ],
   "comparison": [
@@ -688,5 +716,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "QUEEN LEILA"
+  "strongest": "QUEEN LEILA",
+  "places": 2
 }

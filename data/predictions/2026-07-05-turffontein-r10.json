@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "MR 80 Handicap",
-  "generated": "2026-07-05T06:23:05.296Z",
+  "generated": "2026-07-05T06:39:52.016Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -66,7 +66,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2484,
+      "pPlace": 0.6263,
+      "pMarket": 0.2412,
+      "edge": 0.0144
     },
     {
       "name": "SUNSET WARRIOR",
@@ -122,7 +126,11 @@
       ],
       "marketRank": 7,
       "rank": 2,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1119,
+      "pPlace": 0.3492,
+      "pMarket": 0.0497,
+      "edge": 0.1246
     },
     {
       "name": "UTSAAH",
@@ -177,7 +185,11 @@
       ],
       "marketRank": 5,
       "rank": 3,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1329,
+      "pPlace": 0.4027,
+      "pMarket": 0.1055,
+      "edge": 0.0548
     },
     {
       "name": "AFTER HOURS",
@@ -233,7 +245,11 @@
       ],
       "marketRank": 9,
       "rank": 4,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0677,
+      "pPlace": 0.2234,
+      "pMarket": 0.0166,
+      "edge": 0.1022
     },
     {
       "name": "SKY PILOT",
@@ -289,7 +305,11 @@
       ],
       "marketRank": 3,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1278,
+      "pPlace": 0.39,
+      "pMarket": 0.1407,
+      "edge": -0.0259
     },
     {
       "name": "MILLENNIUM WARRIOR",
@@ -343,7 +363,11 @@
       ],
       "marketRank": 8,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.056,
+      "pPlace": 0.1876,
+      "pMarket": 0.0325,
+      "edge": 0.0471
     },
     {
       "name": "PRINCESS KEIRA",
@@ -400,7 +424,11 @@
       ],
       "marketRank": 4,
       "rank": 7,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0934,
+      "pPlace": 0.2988,
+      "pMarket": 0.1206,
+      "edge": -0.0544
     },
     {
       "name": "HARUN AL RASHID",
@@ -456,7 +484,11 @@
       ],
       "marketRank": 6,
       "rank": 8,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0608,
+      "pPlace": 0.2024,
+      "pMarket": 0.1055,
+      "edge": -0.0895
     },
     {
       "name": "TOP SHELF TEDDY",
@@ -513,7 +545,11 @@
       ],
       "marketRank": 2,
       "rank": 9,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.101,
+      "pPlace": 0.3196,
+      "pMarket": 0.1876,
+      "edge": -0.1733
     }
   ],
   "comparison": [
@@ -880,5 +916,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "PRINCESS KEIRA"
+  "strongest": "PRINCESS KEIRA",
+  "places": 3
 }

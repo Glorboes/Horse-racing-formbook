@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "MR 96 Handicap",
-  "generated": "2026-07-05T06:23:05.295Z",
+  "generated": "2026-07-05T06:39:52.015Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -65,7 +65,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2858,
+      "pPlace": 0.6849,
+      "pMarket": 0.1606,
+      "edge": 0.2504
     },
     {
       "name": "ENSUING",
@@ -121,7 +125,11 @@
       ],
       "marketRank": 7,
       "rank": 2,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0889,
+      "pPlace": 0.2913,
+      "pMarket": 0.073,
+      "edge": 0.0318
     },
     {
       "name": "KENSAL GREEN",
@@ -176,7 +184,11 @@
       ],
       "marketRank": 5,
       "rank": 3,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.108,
+      "pPlace": 0.3451,
+      "pMarket": 0.1147,
+      "edge": -0.0133
     },
     {
       "name": "DANTONFROMSANDTON",
@@ -232,7 +244,11 @@
       ],
       "marketRank": 3,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1128,
+      "pPlace": 0.3578,
+      "pMarket": 0.1338,
+      "edge": -0.0421
     },
     {
       "name": "CHESTNUT BOMBER",
@@ -288,7 +304,11 @@
       ],
       "marketRank": 2,
       "rank": 5,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1159,
+      "pPlace": 0.3662,
+      "pMarket": 0.146,
+      "edge": -0.0602
     },
     {
       "name": "MASTER CHRISTMAS",
@@ -344,7 +364,11 @@
       ],
       "marketRank": 4,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1044,
+      "pPlace": 0.3353,
+      "pMarket": 0.1338,
+      "edge": -0.0587
     },
     {
       "name": "FOSTINOVO",
@@ -400,7 +424,11 @@
       ],
       "marketRank": 6,
       "rank": 7,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0881,
+      "pPlace": 0.2889,
+      "pMarket": 0.1147,
+      "edge": -0.0532
     },
     {
       "name": "SILVER TUDOR",
@@ -456,7 +484,11 @@
       ],
       "marketRank": 8,
       "rank": 8,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0573,
+      "pPlace": 0.1954,
+      "pMarket": 0.0618,
+      "edge": -0.0088
     },
     {
       "name": "PAUL REVERE",
@@ -511,7 +543,11 @@
       ],
       "marketRank": 9,
       "rank": 9,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0388,
+      "pPlace": 0.1352,
+      "pMarket": 0.0618,
+      "edge": -0.0458
     }
   ],
   "comparison": [
@@ -878,5 +914,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "SILVER TUDOR"
+  "strongest": "SILVER TUDOR",
+  "places": 3
 }

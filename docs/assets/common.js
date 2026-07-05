@@ -41,6 +41,7 @@
         '<a class="brand" href="index.html"><span class="crest">🐎</span>Formbook</a>' +
         '<nav class="navlinks">' +
           link('index.html', 'races', 'Races') +
+          link('multi.html', 'multi', 'Multi') +
           link('horses.html', 'database', 'Database') +
           link('history.html', 'history', 'History') +
           '<button class="lock-btn" onclick="Formbook.lockNow()">Lock</button>' +

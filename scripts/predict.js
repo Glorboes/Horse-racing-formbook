@@ -10,6 +10,7 @@ const path = require('path');
 const fb = require('./lib/formbook');
 const { parseRacecard } = require('./lib/parse-racecard');
 const { scoreRace } = require('./lib/scoring');
+const { annotatePrediction } = require('./lib/multibet');
 const { syncDashboard } = require('./lib/sync-dashboard');
 const { autoPush } = require('./lib/autopush');
 
@@ -67,6 +68,7 @@ function processRace(book, race) {
     ranked, comparison, headToHead: h2h, strongest: h2h[0] ? h2h[0].name : null,
   };
 
+  annotatePrediction(prediction); // adds pWin / pPlace / edge per runner
   fs.writeFileSync(path.join(fb.ROOT, 'data', 'predictions', `${id}.json`), JSON.stringify(prediction, null, 2) + '\n');
 
   const existing = book.predictionsLog.find((p) => p.id === id);

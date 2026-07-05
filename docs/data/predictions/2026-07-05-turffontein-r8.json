@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:23:05.294Z",
+  "generated": "2026-07-05T06:39:52.014Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -66,7 +66,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1857,
+      "pPlace": 0.5029,
+      "pMarket": 0.1995,
+      "edge": -0.0276
     },
     {
       "name": "SLINKY MAPIMPI",
@@ -122,7 +126,11 @@
       ],
       "marketRank": 7,
       "rank": 2,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1059,
+      "pPlace": 0.3217,
+      "pMarket": 0.0614,
+      "edge": 0.089
     },
     {
       "name": "THE LAST DUKE",
@@ -178,7 +186,11 @@
       ],
       "marketRank": 9,
       "rank": 3,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.095,
+      "pPlace": 0.2927,
+      "pMarket": 0.0469,
+      "edge": 0.0961
     },
     {
       "name": "ZALATORIS",
@@ -233,7 +245,11 @@
       ],
       "marketRank": 6,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1039,
+      "pPlace": 0.3164,
+      "pMarket": 0.0887,
+      "edge": 0.0305
     },
     {
       "name": "AFRICAN PRIDE",
@@ -289,7 +305,11 @@
       ],
       "marketRank": 2,
       "rank": 5,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1365,
+      "pPlace": 0.3975,
+      "pMarket": 0.1596,
+      "edge": -0.0463
     },
     {
       "name": "CHARMING CHEETAH",
@@ -344,7 +364,11 @@
       ],
       "marketRank": 8,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0795,
+      "pPlace": 0.2496,
+      "pMarket": 0.0614,
+      "edge": 0.0361
     },
     {
       "name": "QUANTUM THEORY",
@@ -400,7 +424,11 @@
       ],
       "marketRank": 10,
       "rank": 7,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.051,
+      "pPlace": 0.1657,
+      "pMarket": 0.0235,
+      "edge": 0.0551
     },
     {
       "name": "ALMOND SEA",
@@ -456,7 +484,11 @@
       ],
       "marketRank": 3,
       "rank": 8,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1153,
+      "pPlace": 0.3459,
+      "pMarket": 0.1596,
+      "edge": -0.0885
     },
     {
       "name": "ONE FINE WINTER",
@@ -513,7 +545,11 @@
       ],
       "marketRank": 4,
       "rank": 9,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0646,
+      "pPlace": 0.2065,
+      "pMarket": 0.0997,
+      "edge": -0.0704
     },
     {
       "name": "CHAPBOOK",
@@ -570,7 +606,11 @@
       ],
       "marketRank": 5,
       "rank": 10,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0627,
+      "pPlace": 0.2011,
+      "pMarket": 0.0997,
+      "edge": -0.074
     }
   ],
   "comparison": [
@@ -977,5 +1017,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "TAXI TO THE MOON"
+  "strongest": "TAXI TO THE MOON",
+  "places": 3
 }

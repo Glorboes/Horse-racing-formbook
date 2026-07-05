@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Juvenile Plate",
-  "generated": "2026-07-05T06:23:05.290Z",
+  "generated": "2026-07-05T06:39:52.009Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -65,7 +65,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2868,
+      "pPlace": 0.6908,
+      "pMarket": 0.2063,
+      "edge": 0.1611
     },
     {
       "name": "GOTTHETIGER",
@@ -120,7 +124,11 @@
       ],
       "marketRank": 4,
       "rank": 2,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1363,
+      "pPlace": 0.422,
+      "pMarket": 0.1375,
+      "edge": -0.0023
     },
     {
       "name": "ANGLE OF ATTACK",
@@ -176,7 +184,11 @@
       ],
       "marketRank": 8,
       "rank": 3,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0693,
+      "pPlace": 0.235,
+      "pMarket": 0.0243,
+      "edge": 0.0901
     },
     {
       "name": "RAFE’S ORACLE",
@@ -231,7 +243,11 @@
       ],
       "marketRank": 5,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1232,
+      "pPlace": 0.3886,
+      "pMarket": 0.1375,
+      "edge": -0.0287
     },
     {
       "name": "HARTREE",
@@ -286,7 +302,11 @@
       ],
       "marketRank": 6,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0967,
+      "pPlace": 0.3166,
+      "pMarket": 0.0917,
+      "edge": 0.0101
     },
     {
       "name": "SPIRIT OF GABZ",
@@ -343,7 +363,11 @@
       ],
       "marketRank": 2,
       "rank": 6,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1178,
+      "pPlace": 0.3745,
+      "pMarket": 0.165,
+      "edge": -0.0944
     },
     {
       "name": "DEAR DOC",
@@ -399,7 +423,11 @@
       ],
       "marketRank": 7,
       "rank": 7,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0424,
+      "pPlace": 0.1482,
+      "pMarket": 0.0485,
+      "edge": -0.0123
     },
     {
       "name": "EHHFIFTEENKJOE",
@@ -455,7 +483,11 @@
       ],
       "marketRank": 9,
       "rank": 8,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0291,
+      "pPlace": 0.1032,
+      "pMarket": 0.0243,
+      "edge": 0.0096
     },
     {
       "name": "SNOWBLADE",
@@ -512,7 +544,11 @@
       ],
       "marketRank": 3,
       "rank": 9,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0984,
+      "pPlace": 0.3212,
+      "pMarket": 0.165,
+      "edge": -0.1333
     }
   ],
   "comparison": [
@@ -879,5 +915,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "DEAR DOC"
+  "strongest": "DEAR DOC",
+  "places": 3
 }

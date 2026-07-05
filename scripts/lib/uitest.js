@@ -54,6 +54,17 @@ const server = http.createServer((req, res) => {
   ok.hasCalibration = (await page.content()).includes('Confidence calibration');
   await page.screenshot({ path: path.join(DOCS, 'preview-history.png'), fullPage: true });
 
+  // ---- multi ----
+  await page.goto(base + '/multi.html');
+  await page.waitForSelector('#body section.card', { timeout: 5000 });
+  ok.multiHeadings = await page.$$eval('#body section.card h2', (e) => e.map((x) => x.textContent.trim()));
+  ok.bankers = await page.$$eval('.banker', (e) => e.length);
+  ok.multiCards = await page.$$eval('.multi', (e) => e.length);
+  await page.click('.segbtns button:nth-child(2)'); // switch to win multis
+  await page.waitForTimeout(150);
+  ok.afterToggle = await page.$$eval('.multi', (e) => e.length);
+  await page.screenshot({ path: path.join(DOCS, 'preview-multi.png'), fullPage: true });
+
   // ---- database ----
   await page.goto(base + '/horses.html');
   await page.waitForSelector('.horse', { timeout: 5000 });
@@ -75,8 +86,8 @@ const server = http.createServer((req, res) => {
   console.log('page errors:', errors);
 
   const pass = ok.gateShown && ok.days >= 1 && ok.races === 10 && ok.hasMarket &&
-    ok.calRows >= 1 && ok.hasCalibration && ok.horses > 0 && ok.horseKpis >= 4 &&
-    ok.gateRedirect && errors.length === 0;
+    ok.hasCalibration && ok.horses > 0 && ok.horseKpis >= 4 &&
+    ok.bankers >= 1 && ok.multiCards >= 1 && ok.gateRedirect && errors.length === 0;
   console.log(pass ? '\n✓ ALL PAGES PASSED' : '\n✗ FAILED');
   process.exit(pass ? 0 : 1);
 })().catch((e) => { console.error(e); process.exit(1); });

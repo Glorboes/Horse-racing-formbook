@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T06:23:05.291Z",
+  "generated": "2026-07-05T06:39:52.010Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -63,7 +63,11 @@
         "Strengths: class/rating, weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 1
+      "rank": 1,
+      "pWin": 0.2707,
+      "pPlace": 0.68,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "CAMPO FORMIO",
@@ -116,7 +120,11 @@
         "Strengths: class/rating, weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 2
+      "rank": 2,
+      "pWin": 0.2409,
+      "pPlace": 0.6381,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "WISH YOU WERE HERE",
@@ -170,7 +178,11 @@
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 3
+      "rank": 3,
+      "pWin": 0.0947,
+      "pPlace": 0.3175,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "FIELD OF DREAMS",
@@ -223,7 +235,11 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 4
+      "rank": 4,
+      "pWin": 0.0857,
+      "pPlace": 0.2907,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "SPICY PLUM",
@@ -276,7 +292,11 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 5
+      "rank": 5,
+      "pWin": 0.0776,
+      "pPlace": 0.2658,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "RUMBA ERUPTA",
@@ -329,7 +349,11 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 6
+      "rank": 6,
+      "pWin": 0.0738,
+      "pPlace": 0.254,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "POLE POSITION",
@@ -382,7 +406,11 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 7
+      "rank": 7,
+      "pWin": 0.0668,
+      "pPlace": 0.2318,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "PARISIENNE QUEEN",
@@ -435,7 +463,11 @@
         "Strengths: weight, the draw.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 8
+      "rank": 8,
+      "pWin": 0.0511,
+      "pPlace": 0.1809,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "GLASTONBURY FIRE",
@@ -489,7 +521,11 @@
         "Concerns: weight.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 9
+      "rank": 9,
+      "pWin": 0.0258,
+      "pPlace": 0.0939,
+      "pMarket": null,
+      "edge": null
     },
     {
       "name": "LEANNE’S LOVE",
@@ -543,7 +579,11 @@
         "Concerns: class/rating.",
         "No prior runs in the formbook — scored on today's racecard data only."
       ],
-      "rank": 10
+      "rank": 10,
+      "pWin": 0.0128,
+      "pPlace": 0.0473,
+      "pMarket": null,
+      "edge": null
     }
   ],
   "comparison": [
@@ -950,5 +990,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "WISH YOU WERE HERE"
+  "strongest": "WISH YOU WERE HERE",
+  "places": 3
 }

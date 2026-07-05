@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { load, strikeRate, calibration } = require('./formbook');
 const { normalizeName } = require('./names');
+const { buildDayMultis } = require('./multibet');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const PRED_SRC = path.join(ROOT, 'data', 'predictions');
@@ -22,6 +23,7 @@ function syncDashboard() {
     : [];
 
   const entries = [];
+  const predsByDay = {};
   for (const f of files) {
     const src = path.join(PRED_SRC, f);
     const dst = path.join(DOCS_DATA, 'predictions', f);
@@ -36,6 +38,9 @@ function syncDashboard() {
         topPick: p.ranked && p.ranked[0] ? p.ranked[0].name : null,
         settled: !!p.settled,
         result: p.result || null,
+      });
+      (predsByDay[p.date] = predsByDay[p.date] || []).push({
+        id: p.id, race: p.race, track: p.track, time: p.time || null, ranked: p.ranked || [],
       });
     } catch { /* skip malformed */ }
   }
@@ -69,6 +74,12 @@ function syncDashboard() {
   fs.writeFileSync(path.join(DOCS_DATA, 'strike-rate.json'), JSON.stringify(sr, null, 2) + '\n');
   fs.writeFileSync(path.join(DOCS_DATA, 'horses.json'),
     JSON.stringify({ generated: new Date().toISOString(), count: horses.length, horses }, null, 2) + '\n');
+
+  // multi-bet suggestions per day
+  const multis = {};
+  for (const [date, races] of Object.entries(predsByDay)) multis[date] = buildDayMultis(races);
+  fs.writeFileSync(path.join(DOCS_DATA, 'multis.json'),
+    JSON.stringify({ generated: new Date().toISOString(), days: multis }, null, 2) + '\n');
 
   return { predictions: entries.length, horses: horses.length, strikeRate: sr };
 }

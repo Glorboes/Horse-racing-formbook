@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T06:23:05.287Z",
+  "generated": "2026-07-05T06:39:51.991Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -65,7 +65,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.3198,
+      "pPlace": 0.7391,
+      "pMarket": 0.2422,
+      "edge": 0.1553
     },
     {
       "name": "WHAT NOW MY LOVE",
@@ -120,7 +124,11 @@
       ],
       "marketRank": 4,
       "rank": 2,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1544,
+      "pPlace": 0.4763,
+      "pMarket": 0.1211,
+      "edge": 0.0667
     },
     {
       "name": "BLUE STORM RUNNER",
@@ -176,7 +184,11 @@
       ],
       "marketRank": 7,
       "rank": 3,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0881,
+      "pPlace": 0.2994,
+      "pMarket": 0.0565,
+      "edge": 0.0632
     },
     {
       "name": "REGAL QUEEN",
@@ -231,7 +243,11 @@
       ],
       "marketRank": 6,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0937,
+      "pPlace": 0.3161,
+      "pMarket": 0.0942,
+      "edge": -0.0009
     },
     {
       "name": "PENNYS CHOICE",
@@ -287,7 +303,11 @@
       ],
       "marketRank": 5,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0952,
+      "pPlace": 0.3204,
+      "pMarket": 0.1059,
+      "edge": -0.0216
     },
     {
       "name": "ERIK’S GIRL",
@@ -343,7 +363,11 @@
       ],
       "marketRank": 8,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0652,
+      "pPlace": 0.228,
+      "pMarket": 0.0565,
+      "edge": 0.0173
     },
     {
       "name": "IRISH WILMA",
@@ -400,7 +424,11 @@
       ],
       "marketRank": 2,
       "rank": 7,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.099,
+      "pPlace": 0.3317,
+      "pMarket": 0.1695,
+      "edge": -0.141
     },
     {
       "name": "WINIKA",
@@ -457,7 +485,11 @@
       ],
       "marketRank": 3,
       "rank": 8,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0846,
+      "pPlace": 0.2889,
+      "pMarket": 0.1541,
+      "edge": -0.1389
     }
   ],
   "comparison": [
@@ -784,5 +816,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "WINIKA"
+  "strongest": "WINIKA",
+  "places": 3
 }

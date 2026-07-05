@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:23:05.289Z",
+  "generated": "2026-07-05T06:39:52.006Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -66,7 +66,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.3266,
+      "pPlace": 0.5792,
+      "pMarket": 0.3788,
+      "edge": -0.1045
     },
     {
       "name": "BREEZE OVER",
@@ -122,7 +126,11 @@
       ],
       "marketRank": 5,
       "rank": 2,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1496,
+      "pPlace": 0.3116,
+      "pMarket": 0.0926,
+      "edge": 0.114
     },
     {
       "name": "ETHICAL",
@@ -177,7 +185,11 @@
       ],
       "marketRank": 3,
       "rank": 3,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1549,
+      "pPlace": 0.3214,
+      "pMarket": 0.1515,
+      "edge": 0.0067
     },
     {
       "name": "DECEPTION PASS",
@@ -232,7 +244,11 @@
       ],
       "marketRank": 4,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1137,
+      "pPlace": 0.2422,
+      "pMarket": 0.1042,
+      "edge": 0.0191
     },
     {
       "name": "EUPHRATES",
@@ -287,7 +303,11 @@
       ],
       "marketRank": 7,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.07,
+      "pPlace": 0.1527,
+      "pMarket": 0.0321,
+      "edge": 0.0758
     },
     {
       "name": "KUDZU",
@@ -343,7 +363,11 @@
       ],
       "marketRank": 2,
       "rank": 6,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1422,
+      "pPlace": 0.2976,
+      "pMarket": 0.1852,
+      "edge": -0.086
     },
     {
       "name": "MO MENT",
@@ -399,7 +423,11 @@
       ],
       "marketRank": 6,
       "rank": 7,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.043,
+      "pPlace": 0.0951,
+      "pMarket": 0.0556,
+      "edge": -0.0252
     }
   ],
   "comparison": [
@@ -686,5 +714,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "ENFLAME"
+  "strongest": "ENFLAME",
+  "places": 2
 }

@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:23:05.292Z",
+  "generated": "2026-07-05T06:39:52.011Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -65,7 +65,11 @@
       ],
       "marketRank": 3,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2585,
+      "pPlace": 0.4958,
+      "pMarket": 0.2076,
+      "edge": 0.1018
     },
     {
       "name": "THE EQUATOR",
@@ -121,7 +125,11 @@
       ],
       "marketRank": 1,
       "rank": 2,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2541,
+      "pPlace": 0.4893,
+      "pMarket": 0.2373,
+      "edge": 0.0335
     },
     {
       "name": "DON’T CRY FOR ME",
@@ -176,7 +184,11 @@
       ],
       "marketRank": 2,
       "rank": 3,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.2157,
+      "pPlace": 0.4295,
+      "pMarket": 0.2373,
+      "edge": -0.0433
     },
     {
       "name": "FIRE ‘N FLAMES",
@@ -231,7 +243,11 @@
       ],
       "marketRank": 5,
       "rank": 4,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1214,
+      "pPlace": 0.2584,
+      "pMarket": 0.1038,
+      "edge": 0.0352
     },
     {
       "name": "HAWKBILL",
@@ -287,7 +303,11 @@
       ],
       "marketRank": 4,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0994,
+      "pPlace": 0.2144,
+      "pMarket": 0.1384,
+      "edge": -0.078
     },
     {
       "name": "WILD INTENT",
@@ -342,7 +362,11 @@
       ],
       "marketRank": 6,
       "rank": 6,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0509,
+      "pPlace": 0.1126,
+      "pMarket": 0.0755,
+      "edge": -0.0492
     }
   ],
   "comparison": [
@@ -589,5 +613,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "THE EQUATOR"
+  "strongest": "THE EQUATOR",
+  "places": 2
 }

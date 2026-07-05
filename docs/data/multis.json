@@ -1,0 +1,340 @@
+{
+  "generated": "2026-07-05T06:41:29.841Z",
+  "days": {
+    "2026-07-05": {
+      "bankers": [
+        {
+          "race": 7,
+          "track": "TURFFONTEIN",
+          "time": "15:00",
+          "selection": "ERROL FLYNN",
+          "pWin": 34.7,
+          "pPlace": 77.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "TURFFONTEIN",
+          "time": "12:05",
+          "selection": "ENFLAME",
+          "pWin": 32.7,
+          "pPlace": 57.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 1,
+          "track": "TURFFONTEIN",
+          "time": "11:35",
+          "selection": "STAR MAGNOLIA",
+          "pWin": 32,
+          "pPlace": 73.9,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0363,
+          "combinedPct": 3.6,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 34.7
+            },
+            {
+              "race": 2,
+              "track": "TURFFONTEIN",
+              "time": "12:05",
+              "selection": "ENFLAME",
+              "prob": 32.7
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 32
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0104,
+          "combinedPct": 1,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 34.7
+            },
+            {
+              "race": 2,
+              "track": "TURFFONTEIN",
+              "time": "12:05",
+              "selection": "ENFLAME",
+              "prob": 32.7
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 32
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 28.7
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.003,
+          "combinedPct": 0.3,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 34.7
+            },
+            {
+              "race": 2,
+              "track": "TURFFONTEIN",
+              "time": "12:05",
+              "selection": "ENFLAME",
+              "prob": 32.7
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 32
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 28.7
+            },
+            {
+              "race": 9,
+              "track": "TURFFONTEIN",
+              "time": "16:10",
+              "selection": "WARNING SOUND",
+              "prob": 28.6
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.271,
+          "combinedPct": 27.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 77.5
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 73.9
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 69.1
+            },
+            {
+              "race": 9,
+              "track": "TURFFONTEIN",
+              "time": "16:10",
+              "selection": "WARNING SOUND",
+              "prob": 68.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.1843,
+          "combinedPct": 18.4,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 77.5
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 73.9
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 69.1
+            },
+            {
+              "race": 9,
+              "track": "TURFFONTEIN",
+              "time": "16:10",
+              "selection": "WARNING SOUND",
+              "prob": 68.5
+            },
+            {
+              "race": 5,
+              "track": "TURFFONTEIN",
+              "time": "13:50",
+              "selection": "WHATSDAMATTERWITHU",
+              "prob": 68
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.1154,
+          "combinedPct": 11.5,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 77.5
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 73.9
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 69.1
+            },
+            {
+              "race": 9,
+              "track": "TURFFONTEIN",
+              "time": "16:10",
+              "selection": "WARNING SOUND",
+              "prob": 68.5
+            },
+            {
+              "race": 5,
+              "track": "TURFFONTEIN",
+              "time": "13:50",
+              "selection": "WHATSDAMATTERWITHU",
+              "prob": 68
+            },
+            {
+              "race": 10,
+              "track": "TURFFONTEIN",
+              "time": "16:45",
+              "selection": "WAR REPORTER",
+              "prob": 62.6
+            }
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "race": 9,
+          "selection": "WARNING SOUND",
+          "edgePts": 25,
+          "pWin": 28.6
+        },
+        {
+          "race": 4,
+          "selection": "EXPERT WITNESS",
+          "edgePts": 16.1,
+          "pWin": 28.7
+        },
+        {
+          "race": 1,
+          "selection": "STAR MAGNOLIA",
+          "edgePts": 15.5,
+          "pWin": 32
+        },
+        {
+          "race": 6,
+          "selection": "KING’S EXPRESS",
+          "edgePts": 10.2,
+          "pWin": 25.9
+        }
+      ],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0363,
+        "combinedPct": 3.6,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 7,
+            "track": "TURFFONTEIN",
+            "time": "15:00",
+            "selection": "ERROL FLYNN",
+            "prob": 34.7
+          },
+          {
+            "race": 2,
+            "track": "TURFFONTEIN",
+            "time": "12:05",
+            "selection": "ENFLAME",
+            "prob": 32.7
+          },
+          {
+            "race": 1,
+            "track": "TURFFONTEIN",
+            "time": "11:35",
+            "selection": "STAR MAGNOLIA",
+            "prob": 32
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    }
+  }
+}

@@ -74,6 +74,7 @@ other pages redirect there if the session isn't unlocked). Persistent top nav.
 | Page | What it shows |
 |------|---------------|
 | `index.html` | **Race list + calendar.** Days across the top; tap a day to see its races as cards (track, R#, time, distance, class, runner count, top pick). Tap a race → detail. |
+| `multi.html` | **Multi builder.** Suggested accumulators for the day — win & place multis ranked by combined probability, "bankers" (strongest singles), and model-vs-market edges. Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes/payouts. |
 | `race.html?id=…` | **Race detail.** Educated-guess reasoning per horse, **Model vs Market** (odds → market rank vs model rank, disagreements flagged), comparison table, and head-to-head (matchup grid + strongest call). Records under 5 meetings are tagged *small sample*. |
 | `history.html` | **Strike rate + confidence calibration** (actual win rate by score tier) + settled-race list. |
 | `horses.html` | **Database** — searchable horse list with per-horse run history + H2H summary. |

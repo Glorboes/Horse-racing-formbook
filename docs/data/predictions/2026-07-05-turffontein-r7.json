@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Grade 3",
-  "generated": "2026-07-05T06:23:05.293Z",
+  "generated": "2026-07-05T06:39:52.012Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -65,7 +65,11 @@
       ],
       "marketRank": 1,
       "rank": 1,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.3474,
+      "pPlace": 0.775,
+      "pMarket": 0.3597,
+      "edge": -0.0246
     },
     {
       "name": "CHRONICLE KING",
@@ -121,7 +125,11 @@
       ],
       "marketRank": 3,
       "rank": 2,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.1455,
+      "pPlace": 0.4656,
+      "pMarket": 0.1569,
+      "edge": -0.023
     },
     {
       "name": "SURPRISE PARTY",
@@ -177,7 +185,11 @@
       ],
       "marketRank": 7,
       "rank": 3,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0836,
+      "pPlace": 0.293,
+      "pMarket": 0.0332,
+      "edge": 0.1008
     },
     {
       "name": "WORLD OF ROYALTY",
@@ -233,7 +245,11 @@
       ],
       "marketRank": 8,
       "rank": 4,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0604,
+      "pPlace": 0.218,
+      "pMarket": 0.0074,
+      "edge": 0.106
     },
     {
       "name": "GOT THE FEELING",
@@ -288,7 +304,11 @@
       ],
       "marketRank": 5,
       "rank": 5,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0976,
+      "pPlace": 0.3356,
+      "pMarket": 0.0959,
+      "edge": 0.0033
     },
     {
       "name": "COPPER EAGLE",
@@ -344,7 +364,11 @@
       ],
       "marketRank": 2,
       "rank": 6,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.1276,
+      "pPlace": 0.4202,
+      "pMarket": 0.1726,
+      "edge": -0.09
     },
     {
       "name": "SCARLETT HEART",
@@ -400,7 +424,11 @@
       ],
       "marketRank": 6,
       "rank": 7,
-      "marketDisagree": false
+      "marketDisagree": false,
+      "pWin": 0.0745,
+      "pPlace": 0.2643,
+      "pMarket": 0.0664,
+      "edge": 0.0162
     },
     {
       "name": "GOLDEN OPERATOR",
@@ -456,7 +484,11 @@
       ],
       "marketRank": 4,
       "rank": 8,
-      "marketDisagree": true
+      "marketDisagree": true,
+      "pWin": 0.0635,
+      "pPlace": 0.2283,
+      "pMarket": 0.1079,
+      "edge": -0.0888
     }
   ],
   "comparison": [
@@ -783,5 +815,6 @@
       "smallSample": false
     }
   ],
-  "strongest": "CHRONICLE KING"
+  "strongest": "CHRONICLE KING",
+  "places": 3
 }

@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>Multi — Formbook</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="wrap" id="app">
+  <div class="pagehead"><h1>Multi builder</h1></div>
+  <div class="daybar" id="daybar"></div>
+  <div id="body"><div class="empty">Loading…</div></div>
+</div>
+
+<script src="assets/common.js"></script>
+<script>
+const F=window.Formbook, esc=F.esc;
+let DATA=null, CURDAY=null, MODE='place';
+if(F.requireUnlock()){ F.renderNav('multi'); boot(); }
+
+async function boot(){
+  try{
+    DATA=await F.fetchJSON('data/multis.json');
+    const days=Object.keys(DATA.days||{}).sort((a,b)=>b.localeCompare(a));
+    if(!days.length){ document.getElementById('body').innerHTML='<div class="empty">No multis yet — generate predictions for a race day first.</div>'; return; }
+    CURDAY=days[0];
+    renderDaybar(days);
+    render();
+  }catch(err){
+    document.getElementById('body').innerHTML='<div class="empty">Could not load multis.<br><small>'+esc(err.message)+'</small></div>';
+  }
+}
+
+function renderDaybar(days){
+  const el=document.getElementById('daybar');
+  if(days.length<2){ el.innerHTML=''; return; }
+  el.innerHTML=days.map(d=>`<div class="day ${d===CURDAY?'active':''}" onclick="pickDay('${d}')"><div class="d1">${F.fmtDate(d)}</div></div>`).join('');
+}
+function pickDay(d){ CURDAY=d; renderDaybar(Object.keys(DATA.days).sort((a,b)=>b.localeCompare(a))); render(); }
+function setMode(m){ MODE=m; render(); }
+
+function render(){
+  const m=DATA.days[CURDAY];
+  const winM=m.winMultis||[], placeM=m.placeMultis||[];
+  const all=[...winM,...placeM];
+  const hero=all.slice().sort((a,b)=>b.combined-a.combined)[0]||null;
+  const list=(MODE==='win'?winM:placeM);
+  document.getElementById('body').innerHTML =
+    (hero?heroCard(hero):'') +
+    bankersCard(m.bankers||[]) +
+    `<section class="card"><h2>🎟️ Accumulators</h2>
+       <div class="segbtns">
+         <button class="${MODE==='place'?'active':''}" onclick="setMode('place')">Place multis</button>
+         <button class="${MODE==='win'?'active':''}" onclick="setMode('win')">Win multis</button>
+       </div>
+       ${list.length?list.map(multiCard).join(''):'<div class="empty">No '+MODE+' multis available for this day.</div>'}
+     </section>` +
+    edgesCard(m.edges||[]) +
+    `<div class="disclaimer">${esc(m.note||'')} Probabilities are the model's estimate, not a guarantee — accumulators are inherently low-probability, and the more legs, the lower the chance all come in.</div>`;
+}
+
+function badge(c){ return `<span class="cbadge ${c}">${c}</span>`; }
+
+function heroCard(h){
+  return `<section class="card"><h2>⭐ Most likely multi today</h2>
+    <div class="multi hero">
+      <div class="mh"><div class="mt">${h.legs}-leg ${h.kind} multi</div>
+        <div class="big"><b>${h.combinedPct}%</b><span>combined</span></div></div>
+      ${h.selections.map(legRow).join('')}
+      <div style="margin-top:8px">${badge(h.confidence)}</div>
+    </div></section>`;
+}
+
+function multiCard(w){
+  return `<div class="multi">
+    <div class="mh"><div class="mt">${w.legs}-leg ${w.kind} multi</div>
+      <div class="big"><b>${w.combinedPct}%</b><span>combined</span></div></div>
+    ${w.selections.map(legRow).join('')}
+    <div style="margin-top:8px">${badge(w.confidence)}</div>
+  </div>`;
+}
+
+function legRow(s){
+  return `<div class="leg"><span class="lr">R${s.race}</span>
+    <span class="ls">${esc(s.selection)}<div style="font-size:11px;color:var(--muted)">${esc(s.track||'')}${s.time?' · '+s.time:''}</div></span>
+    <span class="lp">${s.prob}%</span></div>`;
+}
+
+function bankersCard(b){
+  if(!b.length) return '';
+  return `<section class="card"><h2>🔒 Bankers — strongest singles</h2>
+    ${b.map(x=>`<div class="banker">
+      <div><div class="bn">${esc(x.selection)} ${badge(x.confidence)}</div>
+      <div class="bd">Race ${x.race}${x.track?' · '+esc(x.track):''}${x.time?' · '+x.time:''}</div>
+      <div class="pbar"><i style="width:${x.pWin}%"></i></div></div>
+      <div class="bp"><b>${x.pWin}%</b>win · ${x.pPlace}% place</div>
+    </div>`).join('')}
+    <div class="foot" style="text-align:left">Highest single-leg win probabilities of the day — the anchors to build multis around.</div>
+  </section>`;
+}
+
+function edgesCard(e){
+  if(!e.length) return '';
+  return `<section class="card"><h2>📈 Model edge vs market</h2>
+    ${e.map(x=>`<div class="leg"><span class="lr">R${x.race}</span>
+      <span class="ls">${esc(x.selection)}</span>
+      <span class="lp">+${x.edgePts} pts · ${x.pWin}% win</span></div>`).join('')}
+    <div class="foot" style="text-align:left">Where the model rates a runner higher than the card's odds imply (percentage-point gap). Most useful once form history is populated — with unraced fields these gaps are noisier.</div>
+  </section>`;
+}
+</script>
+</body>
+</html>
