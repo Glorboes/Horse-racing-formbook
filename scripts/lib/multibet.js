@@ -143,7 +143,27 @@ function buildDayMultis(races) {
   // headline recommendation: best win multi whose combined prob is still meaningful
   const best = [...winMultis].sort((a, b) => b.combined - a.combined)[0] || null;
 
-  return { bankers, winMultis, placeMultis, edges, best,
+  // Value picks: EVERY runner the model rates well above its market price
+  // (pure model win prob − market-implied prob), across the whole day.
+  const valuePicks = [];
+  for (const r of races) {
+    for (const run of r.ranked || []) {
+      if (run.edge != null && run.edge >= 0.06 && run.pMarket != null) {
+        valuePicks.push({
+          race: r.race, track: r.track, time: r.time || null,
+          name: run.name, odds: run.odds || null,
+          edgePts: +(run.edge * 100).toFixed(1),
+          marketPct: +(run.pMarket * 100).toFixed(1),
+          modelPct: +((run.edge + run.pMarket) * 100).toFixed(1), // pure model prob
+          winPct: +((run.pWin || 0) * 100).toFixed(1),            // blended estimate
+          modelRank: run.rank,
+        });
+      }
+    }
+  }
+  valuePicks.sort((a, b) => b.edgePts - a.edgePts);
+
+  return { bankers, winMultis, placeMultis, edges, valuePicks, best,
     note: 'Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts.' };
 }
 

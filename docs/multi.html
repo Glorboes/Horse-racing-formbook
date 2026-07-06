@@ -59,7 +59,7 @@ function render(){
        </div>
        ${list.length?list.map(multiCard).join(''):'<div class="empty">No '+MODE+' multis available for this day.</div>'}
      </section>` +
-    edgesCard(m.edges||[]) +
+    valueCard(m.valuePicks||[]) +
     `<div class="disclaimer">${esc(m.note||'')} Probabilities are the model's estimate, not a guarantee — accumulators are inherently low-probability, and the more legs, the lower the chance all come in.</div>`;
 }
 
@@ -103,13 +103,18 @@ function bankersCard(b){
   </section>`;
 }
 
-function edgesCard(e){
-  if(!e.length) return '';
-  return `<section class="card"><h2>📈 Model edge vs market</h2>
-    ${e.map(x=>`<div class="leg"><span class="lr">R${x.race}</span>
-      <span class="ls">${esc(x.selection)}</span>
-      <span class="lp">+${x.edgePts} pts · ${x.pWin}% win</span></div>`).join('')}
-    <div class="foot" style="text-align:left">Where the model rates a runner higher than the card's odds imply (percentage-point gap). Most useful once form history is populated — with unraced fields these gaps are noisier.</div>
+function valueCard(v){
+  if(!v.length) return `<section class="card"><h2>💎 Value picks</h2>
+    <div class="empty">No horses today where the model materially outrates the market.</div></section>`;
+  const rows=v.map(x=>`<div class="banker">
+      <div><div class="bn">${esc(x.name)} <span class="cbadge fair">+${x.edgePts} pts</span></div>
+      <div class="bd">Race ${x.race}${x.track?' · '+esc(x.track):''}${x.odds?' · '+esc(x.odds):''} · model rank ${x.modelRank}</div>
+      <div class="pbar"><i style="width:${Math.min(100,x.modelPct)}%"></i></div></div>
+      <div class="bp"><b>${x.modelPct}%</b>model · ${x.marketPct}% mkt</div>
+    </div>`).join('');
+  return `<section class="card"><h2>💎 Value picks — model rates above the market</h2>
+    ${rows}
+    <div class="foot" style="text-align:left">Every runner whose <b>model</b> win chance beats the <b>market-implied</b> chance by 6+ points — i.e. the model thinks it's overpriced. Bar = model win %. ⚠ With unraced/cold fields these gaps are noisy; they get trustworthy as form history builds and the calibration confirms the model's disagreements pay off.</div>
   </section>`;
 }
 </script>
