@@ -10,6 +10,13 @@ const ROOT = path.resolve(__dirname, '..', '..');
 const PRED_SRC = path.join(ROOT, 'data', 'predictions');
 const DOCS_DATA = path.join(ROOT, 'docs', 'data');
 
+// Runner with the highest blended win probability ("most likely to win").
+function mostLikelyWinner(ranked) {
+  if (!ranked || !ranked.length) return null;
+  const ml = ranked.reduce((a, b) => ((b.pWin || 0) > (a.pWin || 0) ? b : a), ranked[0]);
+  return { name: ml.name, pWin: +(((ml.pWin || 0)) * 100).toFixed(1), modelRank: ml.rank };
+}
+
 // GitHub Pages can only serve files under docs/, so the dashboard reads its
 // data from docs/data/. This copies predictions there and builds:
 //   docs/data/manifest.json  -> index the dashboard fetches on load
@@ -35,7 +42,8 @@ function syncDashboard() {
         id: p.id, date: p.date, track: p.track, race: p.race, time: p.time || null,
         distance: p.distance, going: p.going, classLabel: p.classLabel || null,
         runners: (p.ranked || []).length,
-        topPick: p.ranked && p.ranked[0] ? p.ranked[0].name : null,
+        topPick: p.ranked && p.ranked[0] ? p.ranked[0].name : null, // model's top rating
+        mostLikely: mostLikelyWinner(p.ranked),                     // highest win probability
         settled: !!p.settled,
         result: p.result || null,
       });

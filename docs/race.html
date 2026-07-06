@@ -57,6 +57,14 @@ function metaCard(p){
 
 // EDUCATED GUESS
 function guessCard(p){
+  const ml=(p.ranked||[]).reduce((a,b)=>((b.pWin||0)>(a.pWin||0)?b:a),(p.ranked||[])[0]||{});
+  const modelTop=(p.ranked||[])[0]||{};
+  const differ = ml.name && modelTop.name && ml.name!==modelTop.name;
+  const banner = ml.name ? `<div class="strong" style="margin-bottom:12px">
+      <div class="medal">🎯</div>
+      <div><div class="nm">Most likely to win: ${esc(ml.name)} · ${((ml.pWin||0)*100).toFixed(1)}%</div>
+      <div class="sub">Win probability = model score blended with market odds.${differ?` Model's top-rated on merit is <b>${esc(modelTop.name)}</b> (score ${modelTop.score}) — it rates higher than its price, a possible value angle.`:''}</div></div>
+    </div>` : '';
   const rows=(p.ranked||[]).map(r=>{
     const why=(r.reasoning||[]).map(w=>{
       const warn=/small sample|disagree/i.test(w);
@@ -67,13 +75,14 @@ function guessCard(p){
       <div class="row1">
         <div class="rank">${r.rank===1?'★':r.rank}</div>
         <div><div class="nm">${esc(r.name)}${ss}</div></div>
-        <div class="sc"><b>${r.score}</b><span>${r.odds?esc(r.odds)+' · ':''}${r.h2h&&(r.h2h.wins||r.h2h.losses)?'H2H '+r.h2h.record:'score'}</span></div>
+        <div class="sc"><b>${r.pWin!=null?(r.pWin*100).toFixed(0)+'%':r.score}</b><span>${r.pWin!=null?'win prob · score '+r.score:'score'}${r.odds?' · '+esc(r.odds):''}</span></div>
       </div>
       <div class="bar"><i style="width:${r.score}%"></i></div>
       <ul class="why">${why}</ul>
     </div>`;
   }).join('');
-  return `<section class="card"><h2>🎯 Educated Guess — reasoning per horse</h2>${rows}</section>`;
+  return `<section class="card"><h2>🎯 Educated Guess — reasoning per horse</h2>${banner}${rows}
+    <div class="foot" style="text-align:left;margin-top:8px">Big number = win probability (model + market). Bar = the model's own score. When they differ, the reasoning notes flag it.</div></section>`;
 }
 
 // MARKET vs MODEL

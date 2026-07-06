@@ -91,8 +91,9 @@ function renderList(){
         <div class="s">${r.distance||'?'}m · ${F.esc(r.going||r.classLabel||'')||'—'} · ${r.runners} runners</div>
       </div>
       <div class="rt">
-        <div class="pk">★ ${F.esc(r.topPick)||'—'}</div>
-        ${r.settled?'<span class="settledtag">settled</span>':'<div style="font-size:11px;margin-top:3px">view ›</div>'}
+        <div class="pk">★ ${F.esc(r.mostLikely?r.mostLikely.name:r.topPick)||'—'}</div>
+        ${r.mostLikely?`<div style="font-size:11px;color:var(--muted)">${r.mostLikely.pWin}% most likely</div>`:''}
+        ${r.settled?'<span class="settledtag">settled</span>':'<div style="font-size:11px;margin-top:2px">view ›</div>'}
       </div>
     </div>`).join('');
 }
