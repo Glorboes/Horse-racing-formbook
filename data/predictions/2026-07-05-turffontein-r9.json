@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "MR 96 Handicap",
-  "generated": "2026-07-05T06:39:52.015Z",
+  "generated": "2026-07-06T11:34:23.498Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -48,6 +48,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,18 +59,181 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, the draw.",
+        "Up against it on: recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "form"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2858,
-      "pPlace": 0.6849,
+      "pWin": 0.263,
+      "pPlace": 0.6504,
       "pMarket": 0.1606,
-      "edge": 0.2504
+      "edge": 0.2049
+    },
+    {
+      "name": "KENSAL GREEN",
+      "key": "KENSAL GREEN",
+      "draw": 2,
+      "rating": null,
+      "jockey": "R A Venniker",
+      "trainer": "A P Peter",
+      "weight": 57,
+      "odds": "6/1",
+      "oddsDecimal": 6,
+      "score": 51.6,
+      "factors": {
+        "form": 0.552,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.93,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 2.25,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 4
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: recent form, the draw.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 2 vs market rank 5 (6/1).",
+        "Career 12 starts, 3 wins, 8 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "marketRank": 5,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.128,
+      "pPlace": 0.3933,
+      "pMarket": 0.1147,
+      "edge": 0.0267
+    },
+    {
+      "name": "DANTONFROMSANDTON",
+      "key": "DANTONFROMSANDTON",
+      "draw": 4,
+      "rating": 58,
+      "jockey": "C Habib",
+      "trainer": "S G Tarry",
+      "weight": 59,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 49.2,
+      "factors": {
+        "form": 0.447,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.05,
+        "rating": 9.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0.75,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 27,
+        "wins": 4,
+        "seconds": 2,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
+        "Career 27 starts, 4 wins, 9 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "marketRank": 3,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.1143,
+      "pPlace": 0.3579,
+      "pMarket": 0.1338,
+      "edge": -0.0391
     },
     {
       "name": "ENSUING",
@@ -107,6 +271,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -117,152 +282,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "Model/market disagree: model rank 2 vs market rank 7 (010/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
+        "Model/market disagree: model rank 4 vs market rank 7 (010/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 7,
-      "rank": 2,
-      "marketDisagree": true,
-      "pWin": 0.0889,
-      "pPlace": 0.2913,
-      "pMarket": 0.073,
-      "edge": 0.0318
-    },
-    {
-      "name": "KENSAL GREEN",
-      "key": "KENSAL GREEN",
-      "draw": 2,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "odds": "6/1",
-      "oddsDecimal": 6,
-      "score": 48.9,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.944,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.375,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.67,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 2.25,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 5,
-      "rank": 3,
-      "marketDisagree": false,
-      "pWin": 0.108,
-      "pPlace": 0.3451,
-      "pMarket": 0.1147,
-      "edge": -0.0133
-    },
-    {
-      "name": "DANTONFROMSANDTON",
-      "key": "DANTONFROMSANDTON",
-      "draw": 4,
-      "rating": 58,
-      "jockey": null,
-      "trainer": null,
-      "weight": 59,
-      "odds": "5/1",
-      "oddsDecimal": 5,
-      "score": 48.3,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.6,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.833,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.125,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 9.6,
-        "distance": 5,
-        "going": 4,
-        "draw": 5,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 0.75,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 3,
       "rank": 4,
-      "marketDisagree": false,
-      "pWin": 0.1128,
-      "pPlace": 0.3578,
-      "pMarket": 0.1338,
-      "edge": -0.0421
+      "marketDisagree": true,
+      "pWin": 0.0831,
+      "pPlace": 0.2711,
+      "pMarket": 0.073,
+      "edge": 0.0202
     },
     {
       "name": "CHESTNUT BOMBER",
       "key": "CHESTNUT BOMBER",
       "draw": 5,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J J van Vuuren",
       "weight": 57,
       "odds": "9/2",
       "oddsDecimal": 4.5,
-      "score": 47.9,
+      "score": 48.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.429,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -274,7 +331,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.71,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -286,6 +343,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 21,
+        "wins": 2,
+        "seconds": 3,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -296,33 +359,41 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
+        "Up against it on: recent form, class/rating.",
         "Model/market disagree: model rank 5 vs market rank 2 (9/2).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 21 starts, 2 wins, 8 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 2,
       "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.1159,
-      "pPlace": 0.3662,
+      "pWin": 0.1144,
+      "pPlace": 0.3583,
       "pMarket": 0.146,
-      "edge": -0.0602
+      "edge": -0.063
     },
     {
       "name": "MASTER CHRISTMAS",
       "key": "MASTER CHRISTMAS",
       "draw": 3,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
       "weight": 59,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 47.1,
+      "score": 48.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.468,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -334,7 +405,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.43,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -346,6 +417,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 33,
+        "wins": 5,
+        "seconds": 6,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -356,33 +433,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
+        "Career 33 starts, 5 wins, 15 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 4,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.1044,
-      "pPlace": 0.3353,
+      "pWin": 0.1077,
+      "pPlace": 0.3403,
       "pMarket": 0.1338,
-      "edge": -0.0587
+      "edge": -0.0523
     },
     {
       "name": "FOSTINOVO",
       "key": "FOSTINOVO",
       "draw": 8,
       "rating": 56,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "L Nhlapo",
+      "trainer": "J J van Vuuren",
       "weight": 52,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 45.9,
+      "score": 46.8,
       "factors": {
-        "form": 0.4,
+        "form": 0.452,
         "rating": 0.2,
         "distance": 0.5,
         "going": 0.5,
@@ -394,7 +481,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.13,
         "rating": 3.2,
         "distance": 5,
         "going": 4,
@@ -406,6 +493,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 37,
+        "wins": 4,
+        "seconds": 10,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -416,33 +509,42 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
+        "Career 37 starts, 4 wins, 18 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 6,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0881,
-      "pPlace": 0.2889,
+      "pWin": 0.0891,
+      "pPlace": 0.2886,
       "pMarket": 0.1147,
-      "edge": -0.0532
+      "edge": -0.0512
     },
     {
       "name": "SILVER TUDOR",
       "key": "SILVER TUDOR",
       "draw": 7,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "weight": 60,
       "odds": "12/1",
       "oddsDecimal": 12,
-      "score": 45,
+      "score": 46.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.478,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -454,7 +556,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.6,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -466,6 +568,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 29,
+        "wins": 5,
+        "seconds": 4,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -476,33 +584,40 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Career 29 starts, 5 wins, 13 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 8,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0573,
-      "pPlace": 0.1954,
+      "pWin": 0.0606,
+      "pPlace": 0.2032,
       "pMarket": 0.0618,
-      "edge": -0.0088
+      "edge": -0.0023
     },
     {
       "name": "PAUL REVERE",
       "key": "PAUL REVERE",
       "draw": 9,
       "rating": 55,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "C J Lensley",
       "weight": 58,
       "odds": "12/1",
       "oddsDecimal": 12,
-      "score": 37.8,
+      "score": 39.2,
       "factors": {
-        "form": 0.4,
+        "form": 0.477,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -514,7 +629,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.58,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -526,6 +641,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 25,
+        "wins": 4,
+        "seconds": 3,
+        "thirds": 5
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -536,18 +657,25 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: weight, class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Career 25 starts, 4 wins, 12 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 9,
       "rank": 9,
       "marketDisagree": false,
-      "pWin": 0.0388,
-      "pPlace": 0.1352,
+      "pWin": 0.0398,
+      "pPlace": 0.1368,
       "pMarket": 0.0618,
-      "edge": -0.0458
+      "edge": -0.0439
     }
   ],
   "comparison": [
@@ -580,9 +708,65 @@
       }
     },
     {
+      "no": 6,
+      "name": "KENSAL GREEN",
+      "rank": 2,
+      "score": 51.6,
+      "rating": null,
+      "draw": 2,
+      "weight": 57,
+      "odds": "6/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "R A Venniker",
+      "trainer": "A P Peter",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.552,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "DANTONFROMSANDTON",
+      "rank": 3,
+      "score": 49.2,
+      "rating": 58,
+      "draw": 4,
+      "weight": 59,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "C Habib",
+      "trainer": "S G Tarry",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.447,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 8,
       "name": "ENSUING",
-      "rank": 2,
+      "rank": 4,
       "score": 49.1,
       "rating": null,
       "draw": 6,
@@ -608,78 +792,22 @@
       }
     },
     {
-      "no": 6,
-      "name": "KENSAL GREEN",
-      "rank": 3,
-      "score": 48.9,
-      "rating": null,
-      "draw": 2,
-      "weight": 57,
-      "odds": "6/1",
-      "marketRank": 5,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.944,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.375,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 2,
-      "name": "DANTONFROMSANDTON",
-      "rank": 4,
-      "score": 48.3,
-      "rating": 58,
-      "draw": 4,
-      "weight": 59,
-      "odds": "5/1",
-      "marketRank": 3,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.6,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.833,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.125,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 7,
       "name": "CHESTNUT BOMBER",
       "rank": 5,
-      "score": 47.9,
+      "score": 48.4,
       "rating": null,
       "draw": 5,
       "weight": 57,
       "odds": "9/2",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J J van Vuuren",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.429,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -695,19 +823,19 @@
       "no": 3,
       "name": "MASTER CHRISTMAS",
       "rank": 6,
-      "score": 47.1,
+      "score": 48.3,
       "rating": null,
       "draw": 3,
       "weight": 59,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.468,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -723,19 +851,19 @@
       "no": 9,
       "name": "FOSTINOVO",
       "rank": 7,
-      "score": 45.9,
+      "score": 46.8,
       "rating": 56,
       "draw": 8,
       "weight": 52,
       "odds": "6/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "L Nhlapo",
+      "trainer": "J J van Vuuren",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.452,
         "rating": 0.2,
         "distance": 0.5,
         "going": 0.5,
@@ -751,19 +879,19 @@
       "no": 1,
       "name": "SILVER TUDOR",
       "rank": 8,
-      "score": 45,
+      "score": 46.4,
       "rating": null,
       "draw": 7,
       "weight": 60,
       "odds": "12/1",
       "marketRank": 8,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.478,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -779,19 +907,19 @@
       "no": 5,
       "name": "PAUL REVERE",
       "rank": 9,
-      "score": 37.8,
+      "score": 39.2,
       "rating": 55,
       "draw": 9,
       "weight": 58,
       "odds": "12/1",
       "marketRank": 9,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "C J Lensley",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.477,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

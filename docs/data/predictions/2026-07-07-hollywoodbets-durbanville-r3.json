@@ -8,79 +8,10 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T20:25:01.650Z",
+  "generated": "2026-07-06T11:35:28.216Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
-    {
-      "name": "SPANISH WORLD",
-      "key": "SPANISH WORLD",
-      "draw": 2,
-      "rating": 27,
-      "jockey": "C Zackey",
-      "trainer": "J S Snaith",
-      "weight": 56,
-      "odds": "2/1",
-      "oddsDecimal": 2,
-      "score": 51.9,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.625,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.917,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.571,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 10,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.5,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 3.43,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "career": {
-        "starts": 2,
-        "wins": 0,
-        "seconds": 1,
-        "thirds": 0
-      },
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Advantages over this field: the draw.",
-        "Career 2 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
-      ],
-      "_strengths": [
-        "draw"
-      ],
-      "_concerns": [],
-      "marketRank": 1,
-      "rank": 1,
-      "marketDisagree": false,
-      "pWin": 0.2529,
-      "pPlace": 0.481,
-      "pMarket": 0.2832,
-      "edge": -0.0605
-    },
     {
       "name": "NTIBINDI",
       "key": "NTIBINDI",
@@ -133,6 +64,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -146,12 +80,92 @@
         "weight"
       ],
       "marketRank": 3,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.2018,
+      "pPlace": 0.4008,
+      "pMarket": 0.1888,
+      "edge": 0.0261
+    },
+    {
+      "name": "SPANISH WORLD",
+      "key": "SPANISH WORLD",
+      "draw": 2,
+      "rating": 27,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "weight": 56,
+      "odds": "2/1",
+      "oddsDecimal": 2,
+      "score": 51.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.625,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 2.55,
+        "trainer": 3,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: the draw.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
+        "Career 2 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
+      "marketRank": 1,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.2003,
-      "pPlace": 0.3986,
-      "pMarket": 0.1888,
-      "edge": 0.023
+      "pWin": 0.2473,
+      "pPlace": 0.4723,
+      "pMarket": 0.2832,
+      "edge": -0.0719
     },
     {
       "name": "HURRICANE PAIGE",
@@ -200,6 +214,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -215,10 +232,10 @@
       "marketRank": 5,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1572,
-      "pPlace": 0.3229,
+      "pWin": 0.1588,
+      "pPlace": 0.3254,
       "pMarket": 0.1062,
-      "edge": 0.1021
+      "edge": 0.1051
     },
     {
       "name": "ODDS AND EVENS",
@@ -272,6 +289,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -284,10 +304,10 @@
       "marketRank": 2,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.2142,
-      "pPlace": 0.4215,
+      "pWin": 0.2157,
+      "pPlace": 0.4236,
       "pMarket": 0.2236,
-      "edge": -0.0187
+      "edge": -0.0157
     },
     {
       "name": "PINK BLOSSOM",
@@ -341,6 +361,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating.",
@@ -353,10 +376,10 @@
       "marketRank": 6,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0864,
-      "pPlace": 0.1855,
+      "pWin": 0.0873,
+      "pPlace": 0.187,
       "pMarket": 0.0566,
-      "edge": 0.0596
+      "edge": 0.0613
     },
     {
       "name": "MACRO GRAVITY",
@@ -410,6 +433,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -425,45 +451,17 @@
       "marketRank": 4,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0889,
-      "pPlace": 0.1905,
+      "pWin": 0.0892,
+      "pPlace": 0.1909,
       "pMarket": 0.1416,
-      "edge": -0.1054
+      "edge": -0.1049
     }
   ],
   "comparison": [
     {
-      "no": 2,
-      "name": "SPANISH WORLD",
-      "rank": 1,
-      "score": 51.9,
-      "rating": 27,
-      "draw": 2,
-      "weight": 56,
-      "odds": "2/1",
-      "marketRank": 1,
-      "marketDisagree": false,
-      "jockey": "C Zackey",
-      "trainer": "J S Snaith",
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.625,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.917,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.571,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 5,
       "name": "NTIBINDI",
-      "rank": 2,
+      "rank": 1,
       "score": 51.6,
       "rating": 33,
       "draw": 5,
@@ -484,6 +482,34 @@
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "SPANISH WORLD",
+      "rank": 2,
+      "score": 51.5,
+      "rating": 27,
+      "draw": 2,
+      "weight": 56,
+      "odds": "2/1",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.625,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.571,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }

@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:39:52.006Z",
+  "generated": "2026-07-06T11:34:23.485Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "ENFLAME",
       "draw": 1,
       "rating": 60,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "T Dawson",
       "weight": 60,
       "odds": "12/10",
       "oddsDecimal": 1.2,
-      "score": 55,
+      "score": 58.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.616,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 11.09,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 6,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,33 +64,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating, the draw.",
+        "Up against it on: weight.",
+        "Career 15 starts, 6 wins, 9 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.3266,
-      "pPlace": 0.5792,
+      "pWin": 0.3768,
+      "pPlace": 0.6449,
       "pMarket": 0.3788,
-      "edge": -0.1045
+      "edge": -0.0041
     },
     {
       "name": "BREEZE OVER",
       "key": "BREEZE OVER",
       "draw": 3,
       "rating": 57,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "M G Azzie",
       "weight": 54,
       "odds": "8/1",
       "oddsDecimal": 8,
-      "score": 53.3,
+      "score": 54.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.456,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -96,7 +113,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.2,
         "rating": 10.67,
         "distance": 5,
         "going": 4,
@@ -108,6 +125,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 36,
+        "wins": 4,
+        "seconds": 11,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -118,33 +141,40 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw, weight.",
+        "Advantages over this field: class/rating.",
         "Model/market disagree: model rank 2 vs market rank 5 (8/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 36 starts, 4 wins, 18 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "marketRank": 5,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.1496,
-      "pPlace": 0.3116,
+      "pWin": 0.1333,
+      "pPlace": 0.2883,
       "pMarket": 0.0926,
-      "edge": 0.114
+      "edge": 0.0815
     },
     {
       "name": "ETHICAL",
       "key": "ETHICAL",
       "draw": 2,
       "rating": 55,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "T Dawson",
       "weight": 52,
       "odds": "9/2",
       "oddsDecimal": 4.5,
-      "score": 51.7,
+      "score": 54.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.532,
         "rating": 0.444,
         "distance": 0.5,
         "going": 0.5,
@@ -156,7 +186,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.58,
         "rating": 7.11,
         "distance": 5,
         "going": 4,
@@ -168,6 +198,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -178,32 +214,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight, recent form, the draw.",
+        "Up against it on: class/rating.",
+        "Career 10 starts, 2 wins, 7 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight",
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 3,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1549,
-      "pPlace": 0.3214,
+      "pWin": 0.16,
+      "pPlace": 0.34,
       "pMarket": 0.1515,
-      "edge": 0.0067
+      "edge": 0.0168
     },
     {
       "name": "DECEPTION PASS",
       "key": "DECEPTION PASS",
       "draw": 4,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J Penny",
+      "trainer": "M G Azzie",
       "weight": 54,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 50.2,
+      "score": 50.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.412,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -215,7 +263,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.42,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -227,6 +275,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 30,
+        "wins": 2,
+        "seconds": 7,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -237,91 +291,39 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: recent form.",
+        "Career 30 starts, 2 wins, 11 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form"
       ],
       "marketRank": 4,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1137,
-      "pPlace": 0.2422,
+      "pWin": 0.0975,
+      "pPlace": 0.2153,
       "pMarket": 0.1042,
-      "edge": 0.0191
-    },
-    {
-      "name": "EUPHRATES",
-      "key": "EUPHRATES",
-      "draw": 6,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 54,
-      "odds": "25/1",
-      "oddsDecimal": 25,
-      "score": 49.4,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.643,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.75,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 3.86,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 4.5,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 7,
-      "rank": 5,
-      "marketDisagree": false,
-      "pWin": 0.07,
-      "pPlace": 0.1527,
-      "pMarket": 0.0321,
-      "edge": 0.0758
+      "edge": -0.0133
     },
     {
       "name": "KUDZU",
       "key": "KUDZU",
       "draw": 7,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J J van Vuuren",
       "weight": 54,
       "odds": "7/2",
       "oddsDecimal": 3.5,
-      "score": 48.9,
+      "score": 50.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.477,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -333,7 +335,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.58,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -345,6 +347,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 25,
+        "wins": 4,
+        "seconds": 5,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -355,33 +363,109 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight.",
-        "Model/market disagree: model rank 6 vs market rank 2 (7/2).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Model/market disagree: model rank 5 vs market rank 2 (7/2).",
+        "Career 25 starts, 4 wins, 12 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [],
+      "_concerns": [],
       "marketRank": 2,
-      "rank": 6,
+      "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.1422,
-      "pPlace": 0.2976,
+      "pWin": 0.1373,
+      "pPlace": 0.2961,
       "pMarket": 0.1852,
-      "edge": -0.086
+      "edge": -0.0958
+    },
+    {
+      "name": "EUPHRATES",
+      "key": "EUPHRATES",
+      "draw": 6,
+      "rating": null,
+      "jockey": "K Matsunyane",
+      "trainer": "A P Peter",
+      "weight": 54,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 49.4,
+      "factors": {
+        "form": 0.401,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.22,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 16,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 4
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form.",
+        "Career 16 starts, 1 win, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form"
+      ],
+      "marketRank": 7,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.0545,
+      "pPlace": 0.1231,
+      "pMarket": 0.0321,
+      "edge": 0.0449
     },
     {
       "name": "MO MENT",
       "key": "MO MENT",
       "draw": 5,
       "rating": 51,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "B Webber",
       "weight": 54,
       "odds": "14/1",
       "oddsDecimal": 14,
-      "score": 41.8,
+      "score": 42.8,
       "factors": {
-        "form": 0.4,
+        "form": 0.459,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -393,7 +477,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.26,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -405,6 +489,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 32,
+        "wins": 6,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -415,19 +505,25 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Career 32 starts, 6 wins, 9 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 6,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.043,
-      "pPlace": 0.0951,
+      "pWin": 0.0406,
+      "pPlace": 0.0923,
       "pMarket": 0.0556,
-      "edge": -0.0252
+      "edge": -0.03
     }
   ],
   "comparison": [
@@ -435,19 +531,19 @@
       "no": 1,
       "name": "ENFLAME",
       "rank": 1,
-      "score": 55,
+      "score": 58.9,
       "rating": 60,
       "draw": 1,
       "weight": 60,
       "odds": "12/10",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "T Dawson",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.616,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -463,19 +559,19 @@
       "no": 2,
       "name": "BREEZE OVER",
       "rank": 2,
-      "score": 53.3,
+      "score": 54.3,
       "rating": 57,
       "draw": 3,
       "weight": 54,
       "odds": "8/1",
       "marketRank": 5,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "M G Azzie",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.456,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -491,19 +587,19 @@
       "no": 7,
       "name": "ETHICAL",
       "rank": 3,
-      "score": 51.7,
+      "score": 54.1,
       "rating": 55,
       "draw": 2,
       "weight": 52,
       "odds": "9/2",
       "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "T Dawson",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.532,
         "rating": 0.444,
         "distance": 0.5,
         "going": 0.5,
@@ -519,19 +615,19 @@
       "no": 5,
       "name": "DECEPTION PASS",
       "rank": 4,
-      "score": 50.2,
+      "score": 50.4,
       "rating": null,
       "draw": 4,
       "weight": 54,
       "odds": "7/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J Penny",
+      "trainer": "M G Azzie",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.412,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -544,50 +640,22 @@
       }
     },
     {
-      "no": 6,
-      "name": "EUPHRATES",
-      "rank": 5,
-      "score": 49.4,
-      "rating": null,
-      "draw": 6,
-      "weight": 54,
-      "odds": "25/1",
-      "marketRank": 7,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.643,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.75,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 4,
       "name": "KUDZU",
-      "rank": 6,
-      "score": 48.9,
+      "rank": 5,
+      "score": 50.3,
       "rating": null,
       "draw": 7,
       "weight": 54,
       "odds": "7/2",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J J van Vuuren",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.477,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -600,22 +668,50 @@
       }
     },
     {
+      "no": 6,
+      "name": "EUPHRATES",
+      "rank": 6,
+      "score": 49.4,
+      "rating": null,
+      "draw": 6,
+      "weight": 54,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": false,
+      "jockey": "K Matsunyane",
+      "trainer": "A P Peter",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.401,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 3,
       "name": "MO MENT",
       "rank": 7,
-      "score": 41.8,
+      "score": 42.8,
       "rating": 51,
       "draw": 5,
       "weight": 54,
       "odds": "14/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "B Webber",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.459,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

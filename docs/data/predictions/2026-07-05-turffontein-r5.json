@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T06:39:52.010Z",
+  "generated": "2026-07-06T11:34:23.491Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "WHATSDAMATTERWITHU",
       "draw": 3,
       "rating": 34,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "C Binda",
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
-      "score": 59.6,
+      "score": 59.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.373,
         "rating": 0.947,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 6.72,
         "rating": 15.16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 3,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,14 +64,22 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, the draw.",
+        "Career 3 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [],
       "rank": 1,
-      "pWin": 0.2707,
-      "pPlace": 0.68,
+      "pWin": 0.2655,
+      "pPlace": 0.6756,
       "pMarket": null,
       "edge": null
     },
@@ -105,6 +119,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -115,129 +130,21 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "No form data — scored on today's racecard only."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "rank": 2,
-      "pWin": 0.2409,
-      "pPlace": 0.6381,
-      "pMarket": null,
-      "edge": null
-    },
-    {
-      "name": "WISH YOU WERE HERE",
-      "key": "WISH YOU WERE HERE",
-      "draw": 1,
-      "rating": 33,
-      "jockey": null,
-      "trainer": null,
-      "weight": 60,
-      "odds": null,
-      "oddsDecimal": null,
-      "score": 53.3,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.895,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 14.32,
-        "distance": 5,
-        "going": 4,
-        "draw": 6,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 0,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 3,
-      "pWin": 0.0947,
-      "pPlace": 0.3175,
-      "pMarket": null,
-      "edge": null
-    },
-    {
-      "name": "FIELD OF DREAMS",
-      "key": "FIELD OF DREAMS",
-      "draw": 2,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "odds": null,
-      "oddsDecimal": null,
-      "score": 52.7,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.95,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.7,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "rank": 4,
-      "pWin": 0.0857,
-      "pPlace": 0.2907,
+      "pWin": 0.2568,
+      "pPlace": 0.6637,
       "pMarket": null,
       "edge": null
     },
@@ -246,8 +153,8 @@
       "key": "SPICY PLUM",
       "draw": 4,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "M de Kock",
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
@@ -277,6 +184,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -287,14 +200,95 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Unraced — first career start."
       ],
-      "rank": 5,
-      "pWin": 0.0776,
-      "pPlace": 0.2658,
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "rank": 3,
+      "pWin": 0.0827,
+      "pPlace": 0.2831,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WISH YOU WERE HERE",
+      "key": "WISH YOU WERE HERE",
+      "draw": 1,
+      "rating": 33,
+      "jockey": "M V’Rensburg",
+      "trainer": "W Marwing",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.9,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.895,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 14.32,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: the draw, class/rating.",
+        "Up against it on: weight.",
+        "Career 5 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "rank": 4,
+      "pWin": 0.08,
+      "pPlace": 0.2748,
       "pMarket": null,
       "edge": null
     },
@@ -303,8 +297,8 @@
       "key": "RUMBA ERUPTA",
       "draw": 5,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "R Klaasen",
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
@@ -334,6 +328,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -344,14 +344,94 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "rank": 5,
+      "pWin": 0.0786,
+      "pPlace": 0.2707,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FIELD OF DREAMS",
+      "key": "FIELD OF DREAMS",
+      "draw": 2,
+      "rating": null,
+      "jockey": "P Mxoli",
+      "trainer": "A Ndzilana",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.3,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Career 2 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "rank": 6,
-      "pWin": 0.0738,
-      "pPlace": 0.254,
+      "pWin": 0.0724,
+      "pPlace": 0.251,
       "pMarket": null,
       "edge": null
     },
@@ -360,8 +440,8 @@
       "key": "POLE POSITION",
       "draw": 7,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "M de Kock",
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
@@ -391,6 +471,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -401,14 +487,21 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "rank": 7,
-      "pWin": 0.0668,
-      "pPlace": 0.2318,
+      "pWin": 0.0712,
+      "pPlace": 0.2472,
       "pMarket": null,
       "edge": null
     },
@@ -417,8 +510,8 @@
       "key": "PARISIENNE QUEEN",
       "draw": 9,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A G Laird",
       "weight": 57.5,
       "odds": null,
       "oddsDecimal": null,
@@ -448,6 +541,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -458,14 +557,21 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "rank": 8,
-      "pWin": 0.0511,
-      "pPlace": 0.1809,
+      "pWin": 0.0545,
+      "pPlace": 0.1932,
       "pMarket": null,
       "edge": null
     },
@@ -474,8 +580,8 @@
       "key": "GLASTONBURY FIRE",
       "draw": 6,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "N Klink",
+      "trainer": "M de Kock",
       "weight": 60,
       "odds": null,
       "oddsDecimal": null,
@@ -505,6 +611,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -515,15 +627,22 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: weight, class/rating.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "rank": 9,
-      "pWin": 0.0258,
-      "pPlace": 0.0939,
+      "pWin": 0.0275,
+      "pPlace": 0.1005,
       "pMarket": null,
       "edge": null
     },
@@ -532,14 +651,14 @@
       "key": "LEANNES LOVE",
       "draw": 10,
       "rating": 16,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "H van der Westhuizen",
       "weight": 57.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 41.3,
+      "score": 39.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -551,7 +670,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -563,6 +682,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -573,15 +698,22 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating, the draw.",
+        "Career 9 starts, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "draw"
       ],
       "rank": 10,
-      "pWin": 0.0128,
-      "pPlace": 0.0473,
+      "pWin": 0.0108,
+      "pPlace": 0.0402,
       "pMarket": null,
       "edge": null
     }
@@ -591,19 +723,19 @@
       "no": 10,
       "name": "WHATSDAMATTERWITHU",
       "rank": 1,
-      "score": 59.6,
+      "score": 59.1,
       "rating": 34,
       "draw": 3,
       "weight": 57,
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "C Binda",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.373,
         "rating": 0.947,
         "distance": 0.5,
         "going": 0.5,
@@ -644,65 +776,9 @@
       }
     },
     {
-      "no": 1,
-      "name": "WISH YOU WERE HERE",
-      "rank": 3,
-      "score": 53.3,
-      "rating": 33,
-      "draw": 1,
-      "weight": 60,
-      "odds": null,
-      "marketRank": null,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.895,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 6,
-      "name": "FIELD OF DREAMS",
-      "rank": 4,
-      "score": 52.7,
-      "rating": null,
-      "draw": 2,
-      "weight": 57,
-      "odds": null,
-      "marketRank": null,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.95,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 9,
       "name": "SPICY PLUM",
-      "rank": 5,
+      "rank": 3,
       "score": 52.1,
       "rating": null,
       "draw": 4,
@@ -710,8 +786,8 @@
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "M de Kock",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -728,9 +804,37 @@
       }
     },
     {
+      "no": 1,
+      "name": "WISH YOU WERE HERE",
+      "rank": 4,
+      "score": 51.9,
+      "rating": 33,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "M V’Rensburg",
+      "trainer": "W Marwing",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.895,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 8,
       "name": "RUMBA ERUPTA",
-      "rank": 6,
+      "rank": 5,
       "score": 51.8,
       "rating": null,
       "draw": 5,
@@ -738,8 +842,8 @@
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "R Klaasen",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -748,6 +852,34 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "FIELD OF DREAMS",
+      "rank": 6,
+      "score": 51.3,
+      "rating": null,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "P Mxoli",
+      "trainer": "A Ndzilana",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 1,
@@ -766,8 +898,8 @@
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "M de Kock",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -794,8 +926,8 @@
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A G Laird",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -822,8 +954,8 @@
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "N Klink",
+      "trainer": "M de Kock",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -843,19 +975,19 @@
       "no": 3,
       "name": "LEANNE’S LOVE",
       "rank": 10,
-      "score": 41.3,
+      "score": 39.9,
       "rating": 16,
       "draw": 10,
       "weight": 57.5,
       "odds": null,
       "marketRank": null,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "H van der Westhuizen",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

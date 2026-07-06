@@ -7,14 +7,6 @@
   "placePct": 75,
   "history": [
     {
-      "id": "2026-07-05-turffontein-r5",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 5,
-      "won": true,
-      "placed": true
-    },
-    {
       "id": "2026-07-05-turffontein-r1",
       "date": "2026-07-05",
       "track": "TURFFONTEIN",
@@ -45,6 +37,14 @@
       "race": 4,
       "won": false,
       "placed": false
+    },
+    {
+      "id": "2026-07-05-turffontein-r5",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 5,
+      "won": true,
+      "placed": true
     },
     {
       "id": "2026-07-05-turffontein-r6",
@@ -82,19 +82,19 @@
     },
     {
       "tier": "55–70",
-      "n": 5,
-      "wins": 4,
-      "places": 4,
-      "winPct": 80,
-      "placePct": 80
+      "n": 7,
+      "wins": 5,
+      "places": 5,
+      "winPct": 71,
+      "placePct": 71
     },
     {
       "tier": "below 55",
-      "n": 3,
-      "wins": 1,
-      "places": 2,
-      "winPct": 33,
-      "placePct": 67
+      "n": 1,
+      "wins": 0,
+      "places": 1,
+      "winPct": 0,
+      "placePct": 100
     }
   ]
 }

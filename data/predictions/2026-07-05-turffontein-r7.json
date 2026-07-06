@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Grade 3",
-  "generated": "2026-07-05T06:39:52.012Z",
+  "generated": "2026-07-06T11:34:23.494Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "ERROL FLYNN",
       "draw": 5,
       "rating": 65,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J A Soma",
       "weight": 58,
       "odds": "14/10",
       "oddsDecimal": 1.4,
-      "score": 56.2,
+      "score": 62.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.76,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 13.68,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 6,
+        "wins": 4,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,32 +64,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating.",
+        "Up against it on: weight.",
+        "Career 6 starts, 4 wins, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.3474,
-      "pPlace": 0.775,
+      "pWin": 0.433,
+      "pPlace": 0.8615,
       "pMarket": 0.3597,
-      "edge": -0.0246
+      "edge": 0.1467
     },
     {
       "name": "CHRONICLE KING",
       "key": "CHRONICLE KING",
       "draw": 4,
       "rating": 64,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "T Dawson",
       "weight": 60,
       "odds": "9/2",
       "oddsDecimal": 4.5,
-      "score": 50.7,
+      "score": 54.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.616,
         "rating": 0.8,
         "distance": 0.5,
         "going": 0.5,
@@ -95,7 +112,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 11.09,
         "rating": 12.8,
         "distance": 5,
         "going": 4,
@@ -107,6 +124,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 4,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -117,33 +140,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating.",
+        "Up against it on: weight.",
+        "Career 10 starts, 4 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 3,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.1455,
-      "pPlace": 0.4656,
+      "pWin": 0.1452,
+      "pPlace": 0.5034,
       "pMarket": 0.1569,
-      "edge": -0.023
+      "edge": -0.0235
     },
     {
       "name": "SURPRISE PARTY",
       "key": "SURPRISE PARTY",
       "draw": 7,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
       "weight": 55.5,
       "odds": "25/1",
       "oddsDecimal": 25,
-      "score": 50.7,
+      "score": 52.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.484,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -155,7 +188,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.71,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -167,6 +200,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -177,33 +216,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
         "Model/market disagree: model rank 3 vs market rank 7 (25/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 10 starts, 2 wins, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 7,
       "rank": 3,
       "marketDisagree": true,
-      "pWin": 0.0836,
-      "pPlace": 0.293,
+      "pWin": 0.0621,
+      "pPlace": 0.2454,
       "pMarket": 0.0332,
-      "edge": 0.1008
+      "edge": 0.0578
     },
     {
       "name": "WORLD OF ROYALTY",
       "key": "WORLD OF ROYALTY",
       "draw": 1,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "W C Marwing",
       "weight": 58,
       "odds": "116/1",
       "oddsDecimal": 116,
-      "score": 49.7,
+      "score": 51.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.525,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -215,7 +265,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.45,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -227,6 +277,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 3,
+        "seconds": 0,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -237,33 +293,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
         "Model/market disagree: model rank 4 vs market rank 8 (116/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 12 starts, 3 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 8,
       "rank": 4,
       "marketDisagree": true,
-      "pWin": 0.0604,
-      "pPlace": 0.218,
+      "pWin": 0.0462,
+      "pPlace": 0.1865,
       "pMarket": 0.0074,
-      "edge": 0.106
+      "edge": 0.0777
     },
     {
       "name": "GOT THE FEELING",
       "key": "GOT THE FEELING",
       "draw": 3,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Strydom",
+      "trainer": "F Bronkhorst",
       "weight": 58,
       "odds": "8/1",
       "oddsDecimal": 8,
-      "score": 48.9,
+      "score": 50.2,
       "factors": {
-        "form": 0.4,
+        "form": 0.471,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +342,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.47,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -287,6 +354,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 13,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,92 +370,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: recent form, weight.",
+        "Career 13 starts, 2 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
       ],
       "marketRank": 5,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0976,
-      "pPlace": 0.3356,
+      "pWin": 0.08,
+      "pPlace": 0.3086,
       "pMarket": 0.0959,
-      "edge": 0.0033
-    },
-    {
-      "name": "COPPER EAGLE",
-      "key": "COPPER EAGLE",
-      "draw": 6,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 58,
-      "odds": "4/1",
-      "oddsDecimal": 4,
-      "score": 47.8,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.688,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.444,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.13,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 2.67,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 6 vs market rank 2 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 2,
-      "rank": 6,
-      "marketDisagree": true,
-      "pWin": 0.1276,
-      "pPlace": 0.4202,
-      "pMarket": 0.1726,
-      "edge": -0.09
+      "edge": -0.0318
     },
     {
       "name": "SCARLETT HEART",
       "key": "SCARLETT HEART",
       "draw": 2,
       "rating": 61,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J Penny",
+      "trainer": "F Bronkhorst",
       "weight": 55.5,
       "odds": "12/1",
       "oddsDecimal": 12,
-      "score": 47.8,
+      "score": 49.5,
       "factors": {
-        "form": 0.4,
+        "form": 0.492,
         "rating": 0.2,
         "distance": 0.5,
         "going": 0.5,
@@ -394,7 +418,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.85,
         "rating": 3.2,
         "distance": 5,
         "going": 4,
@@ -406,6 +430,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 19,
+        "wins": 3,
+        "seconds": 5,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -416,33 +446,117 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: class/rating.",
+        "Career 19 starts, 3 wins, 11 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 6,
-      "rank": 7,
+      "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0745,
-      "pPlace": 0.2643,
+      "pWin": 0.0617,
+      "pPlace": 0.2441,
       "pMarket": 0.0664,
-      "edge": 0.0162
+      "edge": -0.0093
+    },
+    {
+      "name": "COPPER EAGLE",
+      "key": "COPPER EAGLE",
+      "draw": 6,
+      "rating": null,
+      "jockey": "C Habib",
+      "trainer": "R Klaasen",
+      "weight": 58,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 48.1,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.444,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.47,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 2.67,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 1,
+        "seconds": 3,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form, weight.",
+        "Model/market disagree: model rank 7 vs market rank 2 (4/1).",
+        "Career 12 starts, 1 win, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1089,
+      "pPlace": 0.4022,
+      "pMarket": 0.1726,
+      "edge": -0.1275
     },
     {
       "name": "GOLDEN OPERATOR",
       "key": "GOLDEN OPERATOR",
       "draw": 8,
       "rating": 60,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "weight": 58,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 39,
+      "score": 42.5,
       "factors": {
-        "form": 0.4,
+        "form": 0.593,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -454,7 +568,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 10.68,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -466,6 +580,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -476,19 +596,30 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: class/rating.",
+        "Advantages over this field: recent form.",
+        "Up against it on: class/rating, weight.",
         "Model/market disagree: model rank 8 vs market rank 4 (7/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 9 starts, 3 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 4,
       "rank": 8,
       "marketDisagree": true,
-      "pWin": 0.0635,
-      "pPlace": 0.2283,
+      "pWin": 0.0628,
+      "pPlace": 0.2481,
       "pMarket": 0.1079,
-      "edge": -0.0888
+      "edge": -0.0901
     }
   ],
   "comparison": [
@@ -496,19 +627,19 @@
       "no": 3,
       "name": "ERROL FLYNN",
       "rank": 1,
-      "score": 56.2,
+      "score": 62.6,
       "rating": 65,
       "draw": 5,
       "weight": 58,
       "odds": "14/10",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J A Soma",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.76,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -524,19 +655,19 @@
       "no": 1,
       "name": "CHRONICLE KING",
       "rank": 2,
-      "score": 50.7,
+      "score": 54.6,
       "rating": 64,
       "draw": 4,
       "weight": 60,
       "odds": "9/2",
       "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "T Dawson",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.616,
         "rating": 0.8,
         "distance": 0.5,
         "going": 0.5,
@@ -552,19 +683,19 @@
       "no": 8,
       "name": "SURPRISE PARTY",
       "rank": 3,
-      "score": 50.7,
+      "score": 52.3,
       "rating": null,
       "draw": 7,
       "weight": 55.5,
       "odds": "25/1",
       "marketRank": 7,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.484,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -580,19 +711,19 @@
       "no": 6,
       "name": "WORLD OF ROYALTY",
       "rank": 4,
-      "score": 49.7,
+      "score": 51.9,
       "rating": null,
       "draw": 1,
       "weight": 58,
       "odds": "116/1",
       "marketRank": 8,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "W C Marwing",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.525,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -608,19 +739,19 @@
       "no": 5,
       "name": "GOT THE FEELING",
       "rank": 5,
-      "score": 48.9,
+      "score": 50.2,
       "rating": null,
       "draw": 3,
       "weight": 58,
       "odds": "8/1",
       "marketRank": 5,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Strydom",
+      "trainer": "F Bronkhorst",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.471,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -633,50 +764,22 @@
       }
     },
     {
-      "no": 2,
-      "name": "COPPER EAGLE",
-      "rank": 6,
-      "score": 47.8,
-      "rating": null,
-      "draw": 6,
-      "weight": 58,
-      "odds": "4/1",
-      "marketRank": 2,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.688,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.444,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 7,
       "name": "SCARLETT HEART",
-      "rank": 7,
-      "score": 47.8,
+      "rank": 6,
+      "score": 49.5,
       "rating": 61,
       "draw": 2,
       "weight": 55.5,
       "odds": "12/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J Penny",
+      "trainer": "F Bronkhorst",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.492,
         "rating": 0.2,
         "distance": 0.5,
         "going": 0.5,
@@ -689,22 +792,50 @@
       }
     },
     {
+      "no": 2,
+      "name": "COPPER EAGLE",
+      "rank": 7,
+      "score": 48.1,
+      "rating": null,
+      "draw": 6,
+      "weight": 58,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": "C Habib",
+      "trainer": "R Klaasen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.444,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 4,
       "name": "GOLDEN OPERATOR",
       "rank": 8,
-      "score": 39,
+      "score": 42.5,
       "rating": 60,
       "draw": 8,
       "weight": 58,
       "odds": "7/1",
       "marketRank": 4,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.593,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

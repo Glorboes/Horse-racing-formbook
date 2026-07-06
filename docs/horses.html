@@ -69,6 +69,7 @@ function showHorse(k){
         <div class="kpi"><b>${h.rating??'—'}</b>rating</div>
       </div>
       ${tags?`<div class="tagrow">${tags}</div>`:''}
+      ${(h.jockeys&&h.jockeys.length)?`<div style="margin-top:12px"><div class="foot" style="text-align:left;margin:0 0 6px">Record by jockey</div>${h.jockeys.map(j=>`<div class="leg"><span class="ls">${esc(j.jockey)}</span><span class="lp">${j.wins}-${j.starts}${j.places>j.wins?' ('+j.places+' plc)':''}</span></div>`).join('')}${h.trainer?`<div class="foot" style="text-align:left;margin-top:6px">Trainer: ${esc(h.trainer)}</div>`:''}</div>`:''}
       <div class="scroll" style="margin-top:12px"><table>
         <tr><th class="name">Date</th><th>Track</th><th>R</th><th>Dist</th><th>Class</th><th>Fin</th><th>Margin</th><th>Jockey</th></tr>
         ${rows||'<tr><td colspan="8">No runs recorded.</td></tr>'}

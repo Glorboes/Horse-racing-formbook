@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": null,
-  "generated": "2026-07-05T20:25:01.654Z",
+  "generated": "2026-07-06T11:35:28.222Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -22,14 +22,14 @@
       "weight": 60,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 56.6,
+      "score": 56.2,
       "factors": {
         "form": 0.506,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.813,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0.143,
         "headToHead": 0.5,
@@ -41,7 +41,7 @@
         "distance": 5,
         "going": 4,
         "draw": 4.88,
-        "jockey": 3,
+        "jockey": 2.55,
         "trainer": 3,
         "weight": 0.86,
         "headToHead": 6,
@@ -64,10 +64,21 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: recent form, class/rating.",
         "Up against it on: weight.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
         "Career 7 starts, 1 win, 5 placed (from the card — no logged runs in our DB yet)."
       ],
       "_strengths": [
@@ -80,10 +91,10 @@
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2692,
-      "pPlace": 0.6711,
+      "pWin": 0.2614,
+      "pPlace": 0.6591,
       "pMarket": 0.1666,
-      "edge": 0.2051
+      "edge": 0.1897
     },
     {
       "name": "MIDWAY",
@@ -137,6 +148,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating, weight.",
@@ -151,10 +165,10 @@
       "marketRank": 5,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.1416,
-      "pPlace": 0.4365,
+      "pWin": 0.1437,
+      "pPlace": 0.44,
       "pMarket": 0.119,
-      "edge": 0.0452
+      "edge": 0.0493
     },
     {
       "name": "GOLD INDEX",
@@ -208,6 +222,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -224,10 +241,10 @@
       "marketRank": 2,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1614,
-      "pPlace": 0.4827,
+      "pWin": 0.1634,
+      "pPlace": 0.4854,
       "pMarket": 0.1666,
-      "edge": -0.0104
+      "edge": -0.0065
     },
     {
       "name": "SMART HORSE",
@@ -281,6 +298,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -297,10 +317,10 @@
       "marketRank": 3,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.116,
-      "pPlace": 0.3711,
+      "pWin": 0.1172,
+      "pPlace": 0.3728,
       "pMarket": 0.1388,
-      "edge": -0.0456
+      "edge": -0.0434
     },
     {
       "name": "RED DAWN",
@@ -354,6 +374,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -370,10 +393,10 @@
       "marketRank": 6,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.094,
-      "pPlace": 0.3098,
+      "pWin": 0.0949,
+      "pPlace": 0.3111,
       "pMarket": 0.119,
-      "edge": -0.05
+      "edge": -0.0483
     },
     {
       "name": "DEVIL A SAINT",
@@ -427,6 +450,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -443,10 +469,10 @@
       "marketRank": 4,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.1028,
-      "pPlace": 0.3348,
+      "pWin": 0.1036,
+      "pPlace": 0.3359,
       "pMarket": 0.1388,
-      "edge": -0.0721
+      "edge": -0.0704
     },
     {
       "name": "DISTRICT MASTER",
@@ -500,6 +526,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -513,10 +542,10 @@
       "marketRank": 8,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0416,
-      "pPlace": 0.146,
+      "pWin": 0.0422,
+      "pPlace": 0.1476,
       "pMarket": 0.032,
-      "edge": 0.0191
+      "edge": 0.0204
     },
     {
       "name": "BATON ROUGE",
@@ -570,6 +599,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -585,10 +617,10 @@
       "marketRank": 7,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0733,
-      "pPlace": 0.248,
+      "pWin": 0.0736,
+      "pPlace": 0.2481,
       "pMarket": 0.119,
-      "edge": -0.0914
+      "edge": -0.0907
     }
   ],
   "comparison": [
@@ -596,7 +628,7 @@
       "no": 4,
       "name": "SUPERHERO",
       "rank": 1,
-      "score": 56.6,
+      "score": 56.2,
       "rating": 69,
       "draw": 4,
       "weight": 60,
@@ -613,7 +645,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.813,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0.143,
         "headToHead": 0.5,

@@ -58,12 +58,32 @@ function logResult(fb, result) {
     return { ...f, cumBehind: f.finish === 1 ? 0 : cum };
   });
 
+  const predId = result.predictionId || makePredId(date, track, race);
+
+  // Results feeds (e.g. Raceform) give the jockey but not the trainer. The
+  // racecard we predicted from DOES have trainers, so cross-fill from it.
+  const cardTrainer = {};
+  const cardJockey = {};
+  try {
+    const pf = path.join(ROOT, 'data', 'predictions', `${predId}.json`);
+    if (fs.existsSync(pf)) {
+      const pred = JSON.parse(fs.readFileSync(pf, 'utf8'));
+      for (const r of pred.ranked || []) {
+        const k = normalizeName(r.name);
+        if (r.trainer) cardTrainer[k] = r.trainer;
+        if (r.jockey) cardJockey[k] = r.jockey;
+      }
+    }
+  } catch { /* no card — fine */ }
+
   // 1) append to each horse's run history
   for (const f of enriched) {
     const key = ensureHorse(fb, f.name);
     const beaten = enriched
       .filter((o) => o.finish > f.finish)
       .map((o) => o.name);
+    const jockey = f.jockey ?? cardJockey[key] ?? null;
+    const trainer = f.trainer ?? cardTrainer[key] ?? null;
     fb.horses[key].runs.push({
       date, track, race, distance, going,
       classLabel, classType, classRank,
@@ -72,10 +92,11 @@ function logResult(fb, result) {
       marginBehindWinner: +f.cumBehind.toFixed(2),
       beaten,
       weight: f.weight ?? null,
-      jockey: f.jockey ?? null,
-      trainer: f.trainer ?? null,
+      jockey,
+      trainer,
       draw: f.draw ?? null,
     });
+    if (trainer && !fb.horses[key].trainer) fb.horses[key].trainer = trainer; // remember stable
     if (f.rating != null) fb.horses[key].rating = f.rating;
   }
 
@@ -100,7 +121,6 @@ function logResult(fb, result) {
   }
 
   // 3) settle any matching prediction in the log
-  const predId = result.predictionId || makePredId(date, track, race);
   const pred = fb.predictionsLog.find((p) => p.id === predId);
   if (pred && !pred.settled) {
     const winnerName = enriched.find((f) => f.finish === 1);
@@ -241,6 +261,45 @@ function comboRecord(fb, jockey, trainer) {
   return { starts, wins, places, winPct: +((wins / starts) * 100).toFixed(0), record: `${wins}-${starts}` };
 }
 
+// Strike rate for a jockey across every logged run.
+function jockeyRecord(fb, jockey) {
+  if (!jockey) return null;
+  const j = String(jockey).trim().toLowerCase();
+  let starts = 0, wins = 0, places = 0;
+  for (const h of Object.values(fb.horses)) {
+    for (const r of h.runs || []) {
+      if ((r.jockey || '').trim().toLowerCase() === j) { starts++; if (r.finish === 1) wins++; if (r.finish <= 3) places++; }
+    }
+  }
+  if (!starts) return null;
+  return { starts, wins, places, winPct: +((wins / starts) * 100).toFixed(0), placePct: +((places / starts) * 100).toFixed(0), record: `${wins}-${starts}` };
+}
+
+// Strike rate for a trainer across every logged run.
+function trainerRecord(fb, trainer) {
+  if (!trainer) return null;
+  const t = String(trainer).trim().toLowerCase();
+  let starts = 0, wins = 0, places = 0;
+  for (const h of Object.values(fb.horses)) {
+    for (const r of h.runs || []) {
+      if ((r.trainer || '').trim().toLowerCase() === t) { starts++; if (r.finish === 1) wins++; if (r.finish <= 3) places++; }
+    }
+  }
+  if (!starts) return null;
+  return { starts, wins, places, winPct: +((wins / starts) * 100).toFixed(0), record: `${wins}-${starts}` };
+}
+
+// This horse's record specifically when ridden by this jockey (the partnership).
+function horseJockeyRecord(fb, horseKey, jockey) {
+  if (!jockey || !fb.horses[horseKey]) return null;
+  const j = String(jockey).trim().toLowerCase();
+  const runs = (fb.horses[horseKey].runs || []).filter((r) => (r.jockey || '').trim().toLowerCase() === j);
+  if (!runs.length) return { starts: 0, wins: 0, places: 0, newPartnership: true };
+  const wins = runs.filter((r) => r.finish === 1).length;
+  const places = runs.filter((r) => r.finish <= 3).length;
+  return { starts: runs.length, wins, places, newPartnership: false, record: `${wins}-${runs.length}` };
+}
+
 // Most recent run for a horse strictly before `beforeDate` (for class movement)
 function lastRunBefore(fb, horseKey, beforeDate) {
   const runs = (fb.horses[horseKey] && fb.horses[horseKey].runs) || [];
@@ -278,5 +337,5 @@ module.exports = {
   load, save, ensureHorse,
   logResult, makePredId,
   headToHeadBetween, strongestByHeadToHead,
-  strikeRate, comboRecord, lastRunBefore, calibration,
+  strikeRate, comboRecord, jockeyRecord, trainerRecord, horseJockeyRecord, lastRunBefore, calibration,
 };

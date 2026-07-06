@@ -1,7 +1,7 @@
 'use strict';
 
 const { normalizeName } = require('./names');
-const { strongestByHeadToHead, comboRecord, lastRunBefore } = require('./formbook');
+const { strongestByHeadToHead, comboRecord, lastRunBefore, jockeyRecord, trainerRecord, horseJockeyRecord } = require('./formbook');
 
 const H2H_MIN_SAMPLE = 5; // fewer than this many meetings = "small sample"
 
@@ -104,11 +104,14 @@ function weightScore(weight, field) {
   return clamp01(1 - (weight - lo) / (hi - lo)); // lighter = better, mildly
 }
 
-// jockey/trainer strike from horse's own runs (proxy if no global table)
-function connectionScore(runs, key) {
-  if (!runs.length) return 0.5;
-  const withWins = runs.filter((r) => r.finish === 1).length;
-  return clamp01(0.4 + 0.6 * (withWins / runs.length));
+// Convert a jockey/trainer strike record into a 0-1 factor, shrunk toward the
+// field base-rate for small samples (so a 1-from-1 jockey isn't rated elite).
+function strikeToScore(rec, fieldSize) {
+  if (!rec) return 0.5; // unknown -> neutral
+  const base = 1 / Math.max(6, fieldSize || 10); // avg win chance in this field
+  const k = 10; // prior strength (rides) — heavy shrink while data is thin
+  const shrunk = (rec.wins + k * base) / (rec.starts + k);
+  return clamp01(0.5 + (shrunk / base - 1) * 0.2); // base->0.5, 2x base->0.7
 }
 
 // ---------------------------------------------------------------------------
@@ -148,8 +151,8 @@ function scoreRace(fb, race) {
       distance: distanceScore(r.runs, race.distance),
       going: goingScore(r.runs, race.going),
       draw: drawScore(r.draw, fieldSize),
-      jockey: connectionScore(r.runs, 'jockey'),
-      trainer: connectionScore(r.runs, 'trainer'),
+      jockey: strikeToScore(jockeyRecord(fb, r.jockey), fieldSize),
+      trainer: strikeToScore(trainerRecord(fb, r.trainer), fieldSize),
       weight: weightScore(r.weight, enriched),
       headToHead: h2hHi > h2hLo
         ? clamp01(((h2hByKey[r.key]?.points ?? 0) - h2hLo) / (h2hHi - h2hLo))
@@ -186,6 +189,9 @@ function scoreRace(fb, race) {
       career: r.careerStats ?? null,
       h2h: h2hRec ? { record: h2hRec.record, wins: h2hRec.wins, losses: h2hRec.losses, meetings, smallSample: meetings > 0 && meetings < H2H_MIN_SAMPLE, beats: h2hRec.beats, losesTo: h2hRec.losesTo } : null,
       combo: comboRecord(fb, r.jockey, r.trainer),
+      jockeyRec: jockeyRecord(fb, r.jockey),
+      trainerRec: trainerRecord(fb, r.trainer),
+      partnership: r.jockey ? horseJockeyRecord(fb, r.key, r.jockey) : null,
       classMove: classMovement(fb, r.key, race),
       reasoning: [],
     };
@@ -262,8 +268,16 @@ function buildReasoning(s) {
     const verb = s.classMove.direction === 'up' ? 'Rising' : s.classMove.direction === 'down' ? 'Dropping' : 'Moving';
     notes.push(`${verb} in class: ${s.classMove.from} → ${s.classMove.to} since last run.`);
   }
+  if (s.jockey && s.jockeyRec && s.jockeyRec.starts >= 3) {
+    notes.push(`Jockey ${s.jockey}: ${s.jockeyRec.record} (${s.jockeyRec.winPct}% strike over ${s.jockeyRec.starts} logged rides).`);
+  }
+  if (s.partnership && s.partnership.starts > 0) {
+    notes.push(`With ${s.jockey} aboard: ${s.partnership.record} together${s.partnership.starts < 3 ? ' (few rides)' : ''}.`);
+  } else if (s.partnership && s.partnership.newPartnership && s.knownRuns > 0) {
+    notes.push(`New partnership — first ride for ${s.jockey} on this horse.`);
+  }
   if (s.combo) {
-    notes.push(`Jockey/trainer combo: ${s.combo.record} this season (${s.combo.winPct}% win).`);
+    notes.push(`Jockey/trainer combo: ${s.combo.record} (${s.combo.winPct}% win).`);
   }
   if (s.h2h && (s.h2h.wins || s.h2h.losses)) {
     const tag = s.h2h.smallSample ? ' ⚠ small sample' : '';

@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Juvenile Plate",
-  "generated": "2026-07-05T20:25:01.649Z",
+  "generated": "2026-07-06T11:35:28.214Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -64,6 +64,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -80,10 +83,10 @@
       "marketRank": 4,
       "rank": 1,
       "marketDisagree": true,
-      "pWin": 0.1985,
-      "pPlace": 0.5708,
+      "pWin": 0.2001,
+      "pPlace": 0.5726,
       "pMarket": 0.1047,
-      "edge": 0.1876
+      "edge": 0.1907
     },
     {
       "name": "VISIONARY FLAME",
@@ -132,6 +135,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -147,10 +153,10 @@
       "marketRank": 3,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.153,
-      "pPlace": 0.4747,
+      "pWin": 0.154,
+      "pPlace": 0.476,
       "pMarket": 0.1197,
-      "edge": 0.0667
+      "edge": 0.0687
     },
     {
       "name": "MORDECHAI",
@@ -162,14 +168,14 @@
       "weight": 60,
       "odds": "1/1",
       "oddsDecimal": 1,
-      "score": 49.4,
+      "score": 49,
       "factors": {
         "form": 0.32,
         "rating": 0.762,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.944,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -181,7 +187,7 @@
         "distance": 5,
         "going": 4,
         "draw": 5.67,
-        "jockey": 3,
+        "jockey": 2.55,
         "trainer": 3,
         "weight": 0,
         "headToHead": 6,
@@ -204,10 +210,21 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating, the draw.",
         "Up against it on: weight.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
         "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
       ],
       "_strengths": [
@@ -220,10 +237,10 @@
       "marketRank": 1,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.2897,
-      "pPlace": 0.7082,
+      "pWin": 0.2853,
+      "pPlace": 0.702,
       "pMarket": 0.4189,
-      "edge": -0.2585
+      "edge": -0.2672
     },
     {
       "name": "EDICTAL CITATION",
@@ -277,6 +294,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -294,10 +314,10 @@
       "marketRank": 7,
       "rank": 4,
       "marketDisagree": true,
-      "pWin": 0.0625,
-      "pPlace": 0.2197,
+      "pWin": 0.063,
+      "pPlace": 0.2207,
       "pMarket": 0.0399,
-      "edge": 0.0453
+      "edge": 0.0462
     },
     {
       "name": "CALIFORNIA CAT",
@@ -351,6 +371,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -365,10 +388,10 @@
       "marketRank": 2,
       "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.1103,
-      "pPlace": 0.3645,
+      "pWin": 0.1107,
+      "pPlace": 0.3649,
       "pMarket": 0.1396,
-      "edge": -0.0586
+      "edge": -0.0578
     },
     {
       "name": "SCOTLAND YARD",
@@ -422,6 +445,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -438,10 +464,10 @@
       "marketRank": 8,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.054,
-      "pPlace": 0.1917,
+      "pWin": 0.0544,
+      "pPlace": 0.1926,
       "pMarket": 0.0322,
-      "edge": 0.0436
+      "edge": 0.0444
     },
     {
       "name": "CRACKER",
@@ -495,6 +521,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -508,10 +537,10 @@
       "marketRank": 5,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0659,
-      "pPlace": 0.2308,
+      "pWin": 0.0663,
+      "pPlace": 0.2314,
       "pMarket": 0.0644,
-      "edge": 0.003
+      "edge": 0.0037
     },
     {
       "name": "HAVOC",
@@ -565,6 +594,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -578,10 +610,10 @@
       "marketRank": 9,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0285,
-      "pPlace": 0.1042,
+      "pWin": 0.0287,
+      "pPlace": 0.1045,
       "pMarket": 0.0246,
-      "edge": 0.0078
+      "edge": 0.0081
     },
     {
       "name": "HAPPY WINTER",
@@ -635,6 +667,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating, weight.",
@@ -649,10 +684,10 @@
       "marketRank": 6,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.0374,
+      "pWin": 0.0375,
       "pPlace": 0.1354,
       "pMarket": 0.0559,
-      "edge": -0.0369
+      "edge": -0.0367
     }
   ],
   "comparison": [
@@ -716,7 +751,7 @@
       "no": 2,
       "name": "MORDECHAI",
       "rank": 3,
-      "score": 49.4,
+      "score": 49,
       "rating": 30,
       "draw": 2,
       "weight": 60,
@@ -733,7 +768,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.944,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,

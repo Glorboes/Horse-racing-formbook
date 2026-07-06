@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden",
-  "generated": "2026-07-05T20:25:01.652Z",
+  "generated": "2026-07-06T11:35:28.220Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -59,6 +59,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -71,10 +74,10 @@
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2591,
-      "pPlace": 0.6397,
+      "pWin": 0.2594,
+      "pPlace": 0.6401,
       "pMarket": 0.2104,
-      "edge": 0.0973
+      "edge": 0.0978
     },
     {
       "name": "MY SUNSHINE",
@@ -123,6 +126,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw, weight.",
@@ -139,10 +145,10 @@
       "marketRank": 4,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.1534,
-      "pPlace": 0.4497,
+      "pWin": 0.1536,
+      "pPlace": 0.4502,
       "pMarket": 0.1202,
-      "edge": 0.0664
+      "edge": 0.0667
     },
     {
       "name": "LIFELONG DANCE",
@@ -191,6 +197,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw, weight.",
@@ -208,10 +217,10 @@
       "marketRank": 8,
       "rank": 3,
       "marketDisagree": true,
-      "pWin": 0.0847,
-      "pPlace": 0.2733,
+      "pWin": 0.0848,
+      "pPlace": 0.2736,
       "pMarket": 0.0401,
-      "edge": 0.0893
+      "edge": 0.0895
     },
     {
       "name": "EPERNAY",
@@ -260,6 +269,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating.",
@@ -273,10 +285,10 @@
       "marketRank": 9,
       "rank": 4,
       "marketDisagree": true,
-      "pWin": 0.0581,
-      "pPlace": 0.1937,
+      "pWin": 0.0582,
+      "pPlace": 0.1939,
       "pMarket": 0.0324,
-      "edge": 0.0515
+      "edge": 0.0516
     },
     {
       "name": "MISTER ED",
@@ -330,6 +342,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -346,10 +361,10 @@
       "marketRank": 10,
       "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.0536,
-      "pPlace": 0.1796,
+      "pWin": 0.0537,
+      "pPlace": 0.1799,
       "pMarket": 0.0248,
-      "edge": 0.0577
+      "edge": 0.0579
     },
     {
       "name": "THE BIG BANG",
@@ -403,6 +418,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -420,9 +438,9 @@
       "rank": 6,
       "marketDisagree": true,
       "pWin": 0.1045,
-      "pPlace": 0.3284,
+      "pPlace": 0.3286,
       "pMarket": 0.1403,
-      "edge": -0.0716
+      "edge": -0.0715
     },
     {
       "name": "PURE AS SNOW",
@@ -476,6 +494,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -493,9 +514,9 @@
       "rank": 7,
       "marketDisagree": false,
       "pWin": 0.0605,
-      "pPlace": 0.201,
+      "pPlace": 0.2012,
       "pMarket": 0.0647,
-      "edge": -0.0085
+      "edge": -0.0084
     },
     {
       "name": "MONTESSORI",
@@ -549,6 +570,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -563,9 +587,9 @@
       "rank": 8,
       "marketDisagree": false,
       "pWin": 0.0666,
-      "pPlace": 0.2196,
+      "pPlace": 0.2198,
       "pMarket": 0.0935,
-      "edge": -0.0539
+      "edge": -0.0538
     },
     {
       "name": "RACHETTU",
@@ -577,14 +601,14 @@
       "weight": 60,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 41.4,
+      "score": 41,
       "factors": {
         "form": 0.38,
         "rating": 0.308,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.55,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0.091,
         "headToHead": 0.5,
@@ -596,7 +620,7 @@
         "distance": 5,
         "going": 4,
         "draw": 3.3,
-        "jockey": 3,
+        "jockey": 2.55,
         "trainer": 3,
         "weight": 0.55,
         "headToHead": 6,
@@ -619,9 +643,20 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: the draw, class/rating.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
         "Model/market disagree: model rank 9 vs market rank 2 (4/1).",
         "Career 8 starts, 0 wins, 3 placed (from the card — no logged runs in our DB yet)."
       ],
@@ -633,10 +668,10 @@
       "marketRank": 2,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.0977,
-      "pPlace": 0.3098,
+      "pWin": 0.0968,
+      "pPlace": 0.3075,
       "pMarket": 0.1683,
-      "edge": -0.1413
+      "edge": -0.143
     },
     {
       "name": "ROYAL CLINTON",
@@ -690,6 +725,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating.",
@@ -704,7 +742,7 @@
       "rank": 10,
       "marketDisagree": true,
       "pWin": 0.0618,
-      "pPlace": 0.2051,
+      "pPlace": 0.2052,
       "pMarket": 0.1052,
       "edge": -0.0868
     }
@@ -938,7 +976,7 @@
       "no": 10,
       "name": "RACHETTU",
       "rank": 9,
-      "score": 41.4,
+      "score": 41,
       "rating": 25,
       "draw": 10,
       "weight": 60,
@@ -955,7 +993,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.55,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0.091,
         "headToHead": 0.5,

@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-05T20:25:01.651Z",
+  "generated": "2026-07-06T11:35:28.218Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -64,6 +64,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating.",
@@ -76,10 +79,10 @@
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.277,
-      "pPlace": 0.6656,
+      "pWin": 0.2776,
+      "pPlace": 0.6666,
       "pMarket": 0.2153,
-      "edge": 0.1233
+      "edge": 0.1246
     },
     {
       "name": "ARKANSAS STATE",
@@ -128,6 +131,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -144,10 +150,10 @@
       "marketRank": 9,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.0893,
-      "pPlace": 0.2879,
+      "pWin": 0.0897,
+      "pPlace": 0.2889,
       "pMarket": 0.016,
-      "edge": 0.1466
+      "edge": 0.1472
     },
     {
       "name": "LADY AMBER",
@@ -196,6 +202,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating.",
@@ -209,10 +218,10 @@
       "marketRank": 10,
       "rank": 3,
       "marketDisagree": true,
-      "pWin": 0.0507,
-      "pPlace": 0.1714,
+      "pWin": 0.0509,
+      "pPlace": 0.172,
       "pMarket": 0.0122,
-      "edge": 0.077
+      "edge": 0.0774
     },
     {
       "name": "ONSSILVERJET",
@@ -266,6 +275,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating.",
@@ -279,10 +291,10 @@
       "marketRank": 7,
       "rank": 4,
       "marketDisagree": true,
-      "pWin": 0.0589,
-      "pPlace": 0.1971,
+      "pWin": 0.0591,
+      "pPlace": 0.1977,
       "pMarket": 0.0315,
-      "edge": 0.0549
+      "edge": 0.0552
     },
     {
       "name": "FREQUENT TRAVELLER",
@@ -336,6 +348,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating, the draw.",
@@ -352,10 +367,10 @@
       "marketRank": 4,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.106,
-      "pPlace": 0.3341,
+      "pWin": 0.1061,
+      "pPlace": 0.3346,
       "pMarket": 0.1364,
-      "edge": -0.0608
+      "edge": -0.0605
     },
     {
       "name": "QUIET PLACE",
@@ -409,6 +424,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -425,10 +443,10 @@
       "marketRank": 5,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0899,
-      "pPlace": 0.2895,
+      "pWin": 0.09,
+      "pPlace": 0.29,
       "pMarket": 0.1169,
-      "edge": -0.054
+      "edge": -0.0537
     },
     {
       "name": "WHATWILLBEWILLBE",
@@ -440,14 +458,14 @@
       "weight": 60,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 45.1,
+      "score": 44.7,
       "factors": {
         "form": 0.347,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.85,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -459,7 +477,7 @@
         "distance": 5,
         "going": 4,
         "draw": 5.1,
-        "jockey": 3,
+        "jockey": 2.55,
         "trainer": 3,
         "weight": 0,
         "headToHead": 6,
@@ -482,9 +500,20 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
         "Career 6 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
       ],
       "_strengths": [],
@@ -495,10 +524,10 @@
       "marketRank": 6,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0806,
-      "pPlace": 0.2626,
+      "pWin": 0.0788,
+      "pPlace": 0.2574,
       "pMarket": 0.1023,
-      "edge": -0.0434
+      "edge": -0.047
     },
     {
       "name": "UNDOUBTED THE BOY",
@@ -552,6 +581,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
@@ -565,10 +597,10 @@
       "marketRank": 8,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0369,
-      "pPlace": 0.1268,
+      "pWin": 0.037,
+      "pPlace": 0.1271,
       "pMarket": 0.0241,
-      "edge": 0.0257
+      "edge": 0.0259
     },
     {
       "name": "SPARKLING SKY",
@@ -622,6 +654,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: the draw, class/rating.",
@@ -636,10 +671,10 @@
       "marketRank": 3,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.1047,
-      "pPlace": 0.3307,
+      "pWin": 0.1048,
+      "pPlace": 0.3311,
       "pMarket": 0.1636,
-      "edge": -0.1178
+      "edge": -0.1176
     },
     {
       "name": "UP IN FLAMES",
@@ -693,6 +728,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -709,10 +747,10 @@
       "marketRank": 2,
       "rank": 10,
       "marketDisagree": true,
-      "pWin": 0.106,
-      "pPlace": 0.3342,
+      "pWin": 0.1061,
+      "pPlace": 0.3345,
       "pMarket": 0.1818,
-      "edge": -0.1516
+      "edge": -0.1515
     }
   ],
   "comparison": [
@@ -888,7 +926,7 @@
       "no": 4,
       "name": "WHATWILLBEWILLBE",
       "rank": 7,
-      "score": 45.1,
+      "score": 44.7,
       "rating": null,
       "draw": 4,
       "weight": 60,
@@ -905,7 +943,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.85,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,

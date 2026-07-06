@@ -1,304 +1,19 @@
 {
   "meta": {
     "version": 2,
-    "updated": "2026-07-05T20:25:01.658Z",
+    "updated": "2026-07-06T11:35:28.226Z",
     "tracks": [
       "Turffontein",
       "Vaal",
       "Fairview",
       "Scottsville",
-      "Greyville"
+      "Greyville",
+      "Durbanville",
+      "Kenilworth"
     ],
-    "note": "Head-to-head is auto-maintained. Do not hand-edit headToHead keys; log results via scripts/log-result.js or scripts/pull-results.js."
+    "note": "Head-to-head is auto-maintained. Do not hand-edit headToHead keys; log results via scripts/import-results.js."
   },
   "horses": {
-    "EL BARB": {
-      "name": "El Barb",
-      "rating": null,
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Golden Reef",
-            "Night Watch",
-            "Cape Venture"
-          ],
-          "weight": 59,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 2
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 0.5,
-          "beaten": [
-            "Cape Venture",
-            "Golden Reef"
-          ],
-          "weight": 60,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 3
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 1,
-          "field": 3,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Night Watch",
-            "Silver Host"
-          ],
-          "weight": 60,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 4
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 3.5,
-          "beaten": [],
-          "weight": 61,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 1
-        }
-      ]
-    },
-    "GOLDEN REEF": {
-      "name": "Golden Reef",
-      "rating": null,
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 0.75,
-          "beaten": [
-            "Night Watch",
-            "Cape Venture"
-          ],
-          "weight": 57,
-          "jockey": "L Mxothwa",
-          "trainer": "G Woodruff",
-          "draw": 6
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 3.25,
-          "beaten": [],
-          "weight": 56,
-          "jockey": null,
-          "trainer": null,
-          "draw": 1
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 1.75,
-          "beaten": [
-            "Cape Venture",
-            "El Barb"
-          ],
-          "weight": 56,
-          "jockey": "L Mxothwa",
-          "trainer": "G Woodruff",
-          "draw": 5
-        }
-      ]
-    },
-    "NIGHT WATCH": {
-      "name": "Night Watch",
-      "rating": null,
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.25,
-          "beaten": [
-            "Cape Venture"
-          ],
-          "weight": 56,
-          "jockey": "C Zackey",
-          "trainer": "M Azzie",
-          "draw": 4
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 2,
-          "field": 3,
-          "marginBehindWinner": 1,
-          "beaten": [
-            "Silver Host"
-          ],
-          "weight": 57,
-          "jockey": "C Zackey",
-          "trainer": "M Azzie",
-          "draw": 2
-        }
-      ]
-    },
-    "CAPE VENTURE": {
-      "name": "Cape Venture",
-      "rating": null,
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 4.25,
-          "beaten": [],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 8
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.75,
-          "beaten": [
-            "Golden Reef"
-          ],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 7
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.25,
-          "beaten": [
-            "El Barb"
-          ],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 8
-        }
-      ]
-    },
-    "SILVER HOST": {
-      "name": "Silver Host",
-      "rating": null,
-      "runs": [
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "El Barb",
-            "Cape Venture",
-            "Golden Reef"
-          ],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 5
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 3,
-          "field": 3,
-          "marginBehindWinner": 1.25,
-          "beaten": [],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 6
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Golden Reef",
-            "Cape Venture",
-            "El Barb"
-          ],
-          "weight": 59,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 3
-        }
-      ]
-    },
     "STAR MAGNOLIA": {
       "name": "Star Magnolia",
       "rating": null,
@@ -516,10 +231,11 @@
           ],
           "weight": 60,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "T Dawson"
     },
     "MO MENT": {
       "name": "Mo Ment",
@@ -542,10 +258,11 @@
           ],
           "weight": 54,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "B Webber",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "B Webber"
     },
     "EUPHRATES": {
       "name": "Euphrates",
@@ -566,10 +283,11 @@
           "beaten": [],
           "weight": 54,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "WITHIN REACH": {
       "name": "Within Reach",
@@ -596,10 +314,11 @@
           ],
           "weight": 58,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "QUEEN LEILA": {
       "name": "Queen Leila",
@@ -625,10 +344,11 @@
           ],
           "weight": 60,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "P F Matchett"
     },
     "IMPRESSIVE": {
       "name": "Impressive",
@@ -653,10 +373,11 @@
           ],
           "weight": 58,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "P F Matchett"
     },
     "SECRET FATE": {
       "name": "Secret Fate",
@@ -680,10 +401,11 @@
           ],
           "weight": 58,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "BELLFLOWER": {
       "name": "Bellflower",
@@ -730,10 +452,11 @@
           "beaten": [],
           "weight": 55,
           "jockey": "Wes Marwing",
-          "trainer": null,
+          "trainer": "W C Marwing",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "W C Marwing"
     },
     "GOTTHETIGER": {
       "name": "Gotthetiger",
@@ -763,10 +486,11 @@
           ],
           "weight": 57,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J A Soma",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "J A Soma"
     },
     "SPIRIT OF GABZ": {
       "name": "Spirit Of Gabz",
@@ -826,10 +550,11 @@
           ],
           "weight": 60,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "A Ndzilana"
     },
     "SNOWBLADE": {
       "name": "Snowblade",
@@ -856,10 +581,11 @@
           ],
           "weight": 57,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "M G Azzie",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "M G Azzie"
     },
     "ANGLE OF ATTACK": {
       "name": "Angle Of Attack",
@@ -885,10 +611,11 @@
           ],
           "weight": 57,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "A Ndzilana"
     },
     "HARTREE": {
       "name": "Hartree",
@@ -913,10 +640,11 @@
           ],
           "weight": 57,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "R R Sage",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "R R Sage"
     },
     "RAFES ORACLE": {
       "name": "Rafe's Oracle",
@@ -940,10 +668,11 @@
           ],
           "weight": 57,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "R R Sage",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "R R Sage"
     },
     "EXPERT WITNESS": {
       "name": "Expert Witness",
@@ -966,10 +695,11 @@
           ],
           "weight": 57,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 7
         }
-      ]
+      ],
+      "trainer": "T Dawson"
     },
     "EHHFIFTEENKJOE": {
       "name": "Ehhfifteenkjoe",
@@ -990,10 +720,11 @@
           "beaten": [],
           "weight": 60,
           "jockey": "C Ngcobo",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 8
         }
-      ]
+      ],
+      "trainer": "A Ndzilana"
     },
     "WHATSDAMATTERWITHU": {
       "name": "Whatsdamatterwithu",
@@ -1024,10 +755,11 @@
           ],
           "weight": 57,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "C Binda",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "C Binda"
     },
     "POLE POSITION": {
       "name": "Pole Position",
@@ -1057,10 +789,11 @@
           ],
           "weight": 57,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 7
         }
-      ]
+      ],
+      "trainer": "M de Kock"
     },
     "PARISIENNE QUEEN": {
       "name": "Parisienne Queen",
@@ -1089,10 +822,11 @@
           ],
           "weight": 57.5,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A G Laird",
           "draw": 9
         }
-      ]
+      ],
+      "trainer": "A G Laird"
     },
     "WISH YOU WERE HERE": {
       "name": "Wish You Were Here",
@@ -1120,10 +854,11 @@
           ],
           "weight": 60,
           "jockey": "M V'Rensburg",
-          "trainer": null,
+          "trainer": "W Marwing",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "W Marwing"
     },
     "GLASTONBURY FIRE": {
       "name": "Glastonbury Fire",
@@ -1150,10 +885,11 @@
           ],
           "weight": 60,
           "jockey": "N Klink",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "M de Kock"
     },
     "SPICY PLUM": {
       "name": "Spicy Plum",
@@ -1179,10 +915,11 @@
           ],
           "weight": 57,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "M de Kock"
     },
     "CAMPO FORMIO": {
       "name": "Campo Formio",
@@ -1234,10 +971,11 @@
           ],
           "weight": 57.5,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "H van der Westhuizen",
           "draw": 10
         }
-      ]
+      ],
+      "trainer": "H van der Westhuizen"
     },
     "RUMBA ERUPTA": {
       "name": "Rumba Erupta",
@@ -1260,10 +998,11 @@
           ],
           "weight": 57,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "R Klaasen"
     },
     "FIELD OF DREAMS": {
       "name": "Field Of Dreams",
@@ -1284,10 +1023,11 @@
           "beaten": [],
           "weight": 57,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "A Ndzilana"
     },
     "THE EQUATOR": {
       "name": "The Equator",
@@ -1343,10 +1083,11 @@
           ],
           "weight": 52,
           "jockey": "M K Katjedi",
-          "trainer": null,
+          "trainer": "M N Houdalakis",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "M N Houdalakis"
     },
     "KINGS EXPRESS": {
       "name": "King's Express",
@@ -1424,10 +1165,11 @@
           ],
           "weight": 56,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "M N Houdalakis",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "M N Houdalakis"
     },
     "DONT CRY FOR ME": {
       "name": "Don't Cry For Me",
@@ -1448,10 +1190,11 @@
           "beaten": [],
           "weight": 54,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "ERROL FLYNN": {
       "name": "Errol Flynn",
@@ -1479,10 +1222,11 @@
           ],
           "weight": 58,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J A Soma",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "J A Soma"
     },
     "CHRONICLE KING": {
       "name": "Chronicle King",
@@ -1509,10 +1253,11 @@
           ],
           "weight": 60,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "T Dawson"
     },
     "GOT THE FEELING": {
       "name": "Got The Feeling",
@@ -1538,10 +1283,11 @@
           ],
           "weight": 58,
           "jockey": "K Strydom",
-          "trainer": null,
+          "trainer": "F Bronkhorst",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "F Bronkhorst"
     },
     "COPPER EAGLE": {
       "name": "Copper Eagle",
@@ -1566,10 +1312,11 @@
           ],
           "weight": 58,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "R Klaasen"
     },
     "WORLD OF ROYALTY": {
       "name": "World Of Royalty",
@@ -1593,10 +1340,11 @@
           ],
           "weight": 58,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "W C Marwing",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "W C Marwing"
     },
     "SCARLETT HEART": {
       "name": "Scarlett Heart",
@@ -1619,10 +1367,11 @@
           ],
           "weight": 55.5,
           "jockey": "J Penny",
-          "trainer": null,
+          "trainer": "F Bronkhorst",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "F Bronkhorst"
     },
     "SURPRISE PARTY": {
       "name": "Surprise Party",
@@ -1643,10 +1392,11 @@
           "beaten": [],
           "weight": 55.5,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 7
         }
-      ]
+      ],
+      "trainer": "P F Matchett"
     },
     "TAXI TO THE MOON": {
       "name": "Taxi To The Moon",
@@ -1675,10 +1425,11 @@
           ],
           "weight": 62,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 7
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "CHAPBOOK": {
       "name": "Chapbook",
@@ -1736,10 +1487,11 @@
           ],
           "weight": 54,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "C Spies",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "C Spies"
     },
     "THE LAST DUKE": {
       "name": "The Last Duke",
@@ -1765,10 +1517,11 @@
           ],
           "weight": 50,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "P F Matchett"
     },
     "ZALATORIS": {
       "name": "Zalatoris",
@@ -1793,10 +1546,11 @@
           ],
           "weight": 54,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "SLINKY MAPIMPI": {
       "name": "Slinky Mapimpi",
@@ -1820,10 +1574,11 @@
           ],
           "weight": 50,
           "jockey": "M K Katjedi",
-          "trainer": null,
+          "trainer": "J Vermeulen",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "J Vermeulen"
     },
     "CHARMING CHEETAH": {
       "name": "Charming Cheetah",
@@ -1846,10 +1601,11 @@
           ],
           "weight": 54,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "R Klaasen"
     },
     "QUANTUM THEORY": {
       "name": "Quantum Theory",
@@ -1870,10 +1626,11 @@
           "beaten": [],
           "weight": 56,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "KENSAL GREEN": {
       "name": "Kensal Green",
@@ -1900,10 +1657,11 @@
           ],
           "weight": 57.5,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "MASTER CHRISTMAS": {
       "name": "Master Christmas",
@@ -1929,10 +1687,11 @@
           ],
           "weight": 59,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "CHESTNUT BOMBER": {
       "name": "Chestnut Bomber",
@@ -1957,10 +1716,11 @@
           ],
           "weight": 57.5,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J J van Vuuren",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "J J van Vuuren"
     },
     "DANTONFROMSANDTON": {
       "name": "Dantonfromsandton",
@@ -1984,10 +1744,11 @@
           ],
           "weight": 59,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "PAUL REVERE": {
       "name": "Paul Revere",
@@ -2010,10 +1771,11 @@
           ],
           "weight": 58,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "C J Lensley",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "C J Lensley"
     },
     "SILVER TUDOR": {
       "name": "Silver Tudor",
@@ -2034,10 +1796,11 @@
           "beaten": [],
           "weight": 60.5,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "SKY PILOT": {
       "name": "Sky Pilot",
@@ -2064,10 +1827,11 @@
           ],
           "weight": 59.5,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "C Binda",
           "draw": 5
         }
-      ]
+      ],
+      "trainer": "C Binda"
     },
     "HARUN AL RASHID": {
       "name": "Harun Al Rashid",
@@ -2093,10 +1857,11 @@
           ],
           "weight": 60,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 4
         }
-      ]
+      ],
+      "trainer": "A P Peter"
     },
     "AFTER HOURS": {
       "name": "After Hours",
@@ -2121,10 +1886,11 @@
           ],
           "weight": 58.5,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "S J Gray",
           "draw": 2
         }
-      ]
+      ],
+      "trainer": "S J Gray"
     },
     "SUNSET WARRIOR": {
       "name": "Sunset Warrior",
@@ -2148,10 +1914,11 @@
           ],
           "weight": 56.5,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "B Webber",
           "draw": 3
         }
-      ]
+      ],
+      "trainer": "B Webber"
     },
     "UTSAAH": {
       "name": "Utsaah",
@@ -2174,10 +1941,11 @@
           ],
           "weight": 57.5,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 1
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     },
     "TOP SHELF TEDDY": {
       "name": "Top Shelf Teddy",
@@ -2198,222 +1966,14 @@
           "beaten": [],
           "weight": 60.5,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
-      ]
+      ],
+      "trainer": "S G Tarry"
     }
   },
   "headToHead": {
-    "EL BARB|GOLDEN REEF": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 0.75,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 2.75,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 1.75,
-        "winner": "Golden Reef"
-      }
-    ],
-    "EL BARB|NIGHT WATCH": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 2.25,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-05-24",
-        "track": "Turffontein",
-        "race": 7,
-        "distance": 1600,
-        "going": "Good",
-        "marginLengths": 1,
-        "winner": "El Barb"
-      }
-    ],
-    "CAPE VENTURE|EL BARB": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 4.25,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 2.25,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 1.25,
-        "winner": "Cape Venture"
-      }
-    ],
-    "GOLDEN REEF|NIGHT WATCH": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 1.5,
-        "winner": "Golden Reef"
-      }
-    ],
-    "CAPE VENTURE|GOLDEN REEF": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 3.5,
-        "winner": "Golden Reef"
-      },
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 0.5,
-        "winner": "Cape Venture"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 0.5,
-        "winner": "Golden Reef"
-      }
-    ],
-    "CAPE VENTURE|NIGHT WATCH": [
-      {
-        "date": "2026-04-12",
-        "track": "Turffontein",
-        "race": 4,
-        "distance": 1450,
-        "going": "Good",
-        "marginLengths": 2,
-        "winner": "Night Watch"
-      }
-    ],
-    "EL BARB|SILVER HOST": [
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 0.5,
-        "winner": "Silver Host"
-      },
-      {
-        "date": "2026-05-24",
-        "track": "Turffontein",
-        "race": 7,
-        "distance": 1600,
-        "going": "Good",
-        "marginLengths": 1.25,
-        "winner": "El Barb"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 3.5,
-        "winner": "Silver Host"
-      }
-    ],
-    "CAPE VENTURE|SILVER HOST": [
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 2.75,
-        "winner": "Silver Host"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 2.25,
-        "winner": "Silver Host"
-      }
-    ],
-    "GOLDEN REEF|SILVER HOST": [
-      {
-        "date": "2026-05-03",
-        "track": "Vaal",
-        "race": 6,
-        "distance": 1600,
-        "going": "Good to Firm",
-        "marginLengths": 3.25,
-        "winner": "Silver Host"
-      },
-      {
-        "date": "2026-06-14",
-        "track": "Greyville",
-        "race": 5,
-        "distance": 1600,
-        "going": "Soft",
-        "marginLengths": 1.75,
-        "winner": "Silver Host"
-      }
-    ],
-    "NIGHT WATCH|SILVER HOST": [
-      {
-        "date": "2026-05-24",
-        "track": "Turffontein",
-        "race": 7,
-        "distance": 1600,
-        "going": "Good",
-        "marginLengths": 0.25,
-        "winner": "Night Watch"
-      }
-    ],
     "REGAL QUEEN|STAR MAGNOLIA": [
       {
         "date": "2026-07-05",
@@ -4771,63 +4331,6 @@
   },
   "predictionsLog": [
     {
-      "id": "2026-07-05-turffontein-r5",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 5,
-      "settled": true,
-      "ranked": [
-        {
-          "name": "WHATSDAMATTERWITHU",
-          "score": 59.6
-        },
-        {
-          "name": "CAMPO FORMIO",
-          "score": 58.9
-        },
-        {
-          "name": "WISH YOU WERE HERE",
-          "score": 53.3
-        },
-        {
-          "name": "FIELD OF DREAMS",
-          "score": 52.7
-        }
-      ],
-      "result": {
-        "winner": "Whatsdamatterwithu",
-        "topPick": "WHATSDAMATTERWITHU",
-        "topPickScratched": false,
-        "topPickWon": true,
-        "topPickPlaced": true
-      }
-    },
-    {
-      "id": "2011-01-26-turffontein-r1",
-      "date": "2011-01-26",
-      "track": "TURFFONTEIN",
-      "race": 1,
-      "settled": false,
-      "ranked": [
-        {
-          "name": "Hawkbill",
-          "score": 55
-        },
-        {
-          "name": "Enflame",
-          "score": 54.5
-        },
-        {
-          "name": "Ethical",
-          "score": 53.2
-        },
-        {
-          "name": "Got The Feeling",
-          "score": 52.5
-        }
-      ]
-    },
-    {
       "id": "2026-07-05-turffontein-r1",
       "date": "2026-07-05",
       "track": "TURFFONTEIN",
@@ -4868,19 +4371,19 @@
       "ranked": [
         {
           "name": "ENFLAME",
-          "score": 55
+          "score": 58.9
         },
         {
           "name": "BREEZE OVER",
-          "score": 53.3
+          "score": 54.3
         },
         {
           "name": "ETHICAL",
-          "score": 51.7
+          "score": 54.1
         },
         {
           "name": "DECEPTION PASS",
-          "score": 50.2
+          "score": 50.4
         }
       ],
       "result": {
@@ -4900,19 +4403,19 @@
       "ranked": [
         {
           "name": "SECRET FATE",
-          "score": 54.3
+          "score": 60.2
+        },
+        {
+          "name": "QUEEN LEILA",
+          "score": 54
         },
         {
           "name": "BELLFLOWER",
           "score": 53
         },
         {
-          "name": "QUEEN LEILA",
-          "score": 51.4
-        },
-        {
           "name": "UP AND UP",
-          "score": 51.2
+          "score": 51.7
         }
       ],
       "result": {
@@ -4936,15 +4439,15 @@
         },
         {
           "name": "GOTTHETIGER",
-          "score": 53
+          "score": 51.6
+        },
+        {
+          "name": "HARTREE",
+          "score": 51.3
         },
         {
           "name": "ANGLE OF ATTACK",
-          "score": 52
-        },
-        {
-          "name": "RAFE’S ORACLE",
-          "score": 51.7
+          "score": 50.6
         }
       ],
       "result": {
@@ -4953,6 +4456,38 @@
         "topPickScratched": false,
         "topPickWon": false,
         "topPickPlaced": false
+      }
+    },
+    {
+      "id": "2026-07-05-turffontein-r5",
+      "date": "2026-07-05",
+      "track": "TURFFONTEIN",
+      "race": 5,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "WHATSDAMATTERWITHU",
+          "score": 59.1
+        },
+        {
+          "name": "CAMPO FORMIO",
+          "score": 58.9
+        },
+        {
+          "name": "SPICY PLUM",
+          "score": 52.1
+        },
+        {
+          "name": "WISH YOU WERE HERE",
+          "score": 51.9
+        }
+      ],
+      "result": {
+        "winner": "Whatsdamatterwithu",
+        "topPick": "WHATSDAMATTERWITHU",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
       }
     },
     {
@@ -4972,7 +4507,7 @@
         },
         {
           "name": "DON’T CRY FOR ME",
-          "score": 51.5
+          "score": 52.1
         },
         {
           "name": "FIRE ‘N FLAMES",
@@ -4996,19 +4531,19 @@
       "ranked": [
         {
           "name": "ERROL FLYNN",
-          "score": 56.2
+          "score": 62.6
         },
         {
           "name": "CHRONICLE KING",
-          "score": 50.7
+          "score": 54.6
         },
         {
           "name": "SURPRISE PARTY",
-          "score": 50.7
+          "score": 52.3
         },
         {
           "name": "WORLD OF ROYALTY",
-          "score": 49.7
+          "score": 51.9
         }
       ],
       "result": {
@@ -5028,19 +4563,19 @@
       "ranked": [
         {
           "name": "TAXI TO THE MOON",
-          "score": 53.2
-        },
-        {
-          "name": "SLINKY MAPIMPI",
-          "score": 52.4
+          "score": 56.9
         },
         {
           "name": "THE LAST DUKE",
-          "score": 52.1
+          "score": 54.7
         },
         {
-          "name": "ZALATORIS",
-          "score": 51
+          "name": "AFRICAN PRIDE",
+          "score": 53.9
+        },
+        {
+          "name": "SLINKY MAPIMPI",
+          "score": 53.9
         }
       ],
       "result": {
@@ -5063,16 +4598,16 @@
           "score": 57.3
         },
         {
-          "name": "ENSUING",
-          "score": 49.1
-        },
-        {
           "name": "KENSAL GREEN",
-          "score": 48.9
+          "score": 51.6
         },
         {
           "name": "DANTONFROMSANDTON",
-          "score": 48.3
+          "score": 49.2
+        },
+        {
+          "name": "ENSUING",
+          "score": 49.1
         }
       ],
       "result": {
@@ -5092,19 +4627,19 @@
       "ranked": [
         {
           "name": "WAR REPORTER",
-          "score": 54.3
+          "score": 56.3
         },
         {
           "name": "SUNSET WARRIOR",
-          "score": 52
+          "score": 52.7
         },
         {
           "name": "UTSAAH",
-          "score": 51.5
+          "score": 52.3
         },
         {
-          "name": "AFTER HOURS",
-          "score": 49.7
+          "name": "SKY PILOT",
+          "score": 50.4
         }
       ],
       "result": {
@@ -5157,7 +4692,7 @@
         },
         {
           "name": "MORDECHAI",
-          "score": 49.4
+          "score": 49
         },
         {
           "name": "EDICTAL CITATION",
@@ -5173,12 +4708,12 @@
       "settled": false,
       "ranked": [
         {
-          "name": "SPANISH WORLD",
-          "score": 51.9
-        },
-        {
           "name": "NTIBINDI",
           "score": 51.6
+        },
+        {
+          "name": "SPANISH WORLD",
+          "score": 51.5
         },
         {
           "name": "HURRICANE PAIGE",
@@ -5249,7 +4784,7 @@
       "ranked": [
         {
           "name": "SUPERHERO",
-          "score": 56.6
+          "score": 56.2
         },
         {
           "name": "MIDWAY",
@@ -5278,7 +4813,7 @@
         },
         {
           "name": "ONE MAGIC",
-          "score": 52.9
+          "score": 52.4
         },
         {
           "name": "TYPICALLY FRENCH",

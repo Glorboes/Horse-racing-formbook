@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:39:52.011Z",
+  "generated": "2026-07-06T11:34:23.493Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -48,6 +48,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,18 +59,26 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, weight.",
+        "No form data — scored on today's racecard only."
       ],
+      "_strengths": [
+        "rating",
+        "weight"
+      ],
+      "_concerns": [],
       "marketRank": 3,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2585,
-      "pPlace": 0.4958,
+      "pWin": 0.253,
+      "pPlace": 0.4869,
       "pMarket": 0.2076,
-      "edge": 0.1018
+      "edge": 0.0908
     },
     {
       "name": "THE EQUATOR",
@@ -107,6 +116,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -117,33 +127,42 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.2541,
-      "pPlace": 0.4893,
+      "pWin": 0.2492,
+      "pPlace": 0.4813,
       "pMarket": 0.2373,
-      "edge": 0.0335
+      "edge": 0.0239
     },
     {
       "name": "DON’T CRY FOR ME",
       "key": "DONT CRY FOR ME",
       "draw": 1,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "S G Tarry",
       "weight": 54,
       "odds": "5/2",
       "oddsDecimal": 2.5,
-      "score": 51.5,
+      "score": 52.1,
       "factors": {
-        "form": 0.4,
+        "form": 0.432,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -155,7 +174,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.77,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -167,6 +186,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 22,
+        "wins": 3,
+        "seconds": 2,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -177,18 +202,25 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Career 22 starts, 3 wins, 6 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
       "marketRank": 2,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.2157,
-      "pPlace": 0.4295,
+      "pWin": 0.2221,
+      "pPlace": 0.4391,
       "pMarket": 0.2373,
-      "edge": -0.0433
+      "edge": -0.0305
     },
     {
       "name": "FIRE ‘N FLAMES",
@@ -226,6 +258,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -236,32 +269,36 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
       ],
+      "_strengths": [],
+      "_concerns": [],
       "marketRank": 5,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1214,
-      "pPlace": 0.2584,
+      "pWin": 0.119,
+      "pPlace": 0.2531,
       "pMarket": 0.1038,
-      "edge": 0.0352
+      "edge": 0.0303
     },
     {
       "name": "HAWKBILL",
       "key": "HAWKBILL",
       "draw": 2,
       "rating": 54,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "M N Houdalakis",
       "weight": 52,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 44.5,
+      "score": 45.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.459,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -273,7 +310,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.27,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -285,6 +322,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 34,
+        "wins": 5,
+        "seconds": 5,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -295,33 +338,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight, the draw.",
+        "Up against it on: class/rating.",
+        "Career 34 starts, 5 wins, 14 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 4,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0994,
-      "pPlace": 0.2144,
+      "pWin": 0.1042,
+      "pPlace": 0.2237,
       "pMarket": 0.1384,
-      "edge": -0.078
+      "edge": -0.0684
     },
     {
       "name": "WILD INTENT",
       "key": "WILD INTENT",
       "draw": 6,
       "rating": 54,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "M N Houdalakis",
       "weight": 56,
       "odds": "10/1",
       "oddsDecimal": 10,
-      "score": 39.5,
+      "score": 40.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.451,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -333,7 +386,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.11,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -345,6 +398,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -355,18 +414,26 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Concerns: class/rating.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating, weight.",
+        "Career 15 starts, 2 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 6,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.0509,
-      "pPlace": 0.1126,
+      "pWin": 0.0525,
+      "pPlace": 0.1158,
       "pMarket": 0.0755,
-      "edge": -0.0492
+      "edge": -0.0461
     }
   ],
   "comparison": [
@@ -430,19 +497,19 @@
       "no": 4,
       "name": "DON’T CRY FOR ME",
       "rank": 3,
-      "score": 51.5,
+      "score": 52.1,
       "rating": null,
       "draw": 1,
       "weight": 54,
       "odds": "5/2",
       "marketRank": 2,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.432,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -486,19 +553,19 @@
       "no": 6,
       "name": "HAWKBILL",
       "rank": 5,
-      "score": 44.5,
+      "score": 45.6,
       "rating": 54,
       "draw": 2,
       "weight": 52,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "M N Houdalakis",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.459,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -514,19 +581,19 @@
       "no": 2,
       "name": "WILD INTENT",
       "rank": 6,
-      "score": 39.5,
+      "score": 40.4,
       "rating": 54,
       "draw": 6,
       "weight": 56,
       "odds": "10/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "M N Houdalakis",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.451,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

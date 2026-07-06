@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Juvenile Plate",
-  "generated": "2026-07-05T06:39:52.007Z",
+  "generated": "2026-07-06T11:34:23.486Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "SECRET FATE",
       "draw": 7,
       "rating": 51,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "S G Tarry",
       "weight": 58,
       "odds": "5/2",
       "oddsDecimal": 2.5,
-      "score": 54.3,
+      "score": 60.2,
       "factors": {
-        "form": 0.4,
+        "form": 0.73,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 13.14,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,19 +64,104 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating, recent form.",
+        "Up against it on: weight.",
+        "Career 2 starts, 1 win, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating",
+        "form"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.264,
-      "pPlace": 0.4881,
+      "pWin": 0.3561,
+      "pPlace": 0.6173,
       "pMarket": 0.26,
-      "edge": 0.008
+      "edge": 0.1921
+    },
+    {
+      "name": "QUEEN LEILA",
+      "key": "QUEEN LEILA",
+      "draw": 4,
+      "rating": 50,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
+      "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 54,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.857,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.81,
+        "rating": 13.71,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
+        "Career 8 starts, 2 wins, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "marketRank": 3,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.1714,
+      "pPlace": 0.3566,
+      "pMarket": 0.182,
+      "edge": -0.0212
     },
     {
       "name": "BELLFLOWER",
@@ -108,6 +199,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -118,93 +210,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "Model/market disagree: model rank 2 vs market rank 6 (14/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: recent form.",
+        "Model/market disagree: model rank 3 vs market rank 6 (14/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form"
       ],
       "marketRank": 6,
-      "rank": 2,
-      "marketDisagree": true,
-      "pWin": 0.1382,
-      "pPlace": 0.283,
-      "pMarket": 0.0607,
-      "edge": 0.1551
-    },
-    {
-      "name": "QUEEN LEILA",
-      "key": "QUEEN LEILA",
-      "draw": 4,
-      "rating": 50,
-      "jockey": null,
-      "trainer": null,
-      "weight": 60,
-      "odds": "4/1",
-      "oddsDecimal": 4,
-      "score": 51.4,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.857,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.786,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 13.71,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.71,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 0,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 3,
       "rank": 3,
-      "marketDisagree": false,
-      "pWin": 0.1737,
-      "pPlace": 0.3469,
-      "pMarket": 0.182,
-      "edge": -0.0167
+      "marketDisagree": true,
+      "pWin": 0.0984,
+      "pPlace": 0.2143,
+      "pMarket": 0.0607,
+      "edge": 0.0755
     },
     {
       "name": "UP AND UP",
       "key": "UP AND UP",
       "draw": 2,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "P F Matchett",
       "weight": 55,
       "odds": "6/1",
       "oddsDecimal": 6,
-      "score": 51.2,
+      "score": 51.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.427,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -216,7 +259,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.68,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -228,6 +271,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 3,
+        "wins": 0,
+        "seconds": 2,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -238,32 +287,39 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Career 3 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
       "marketRank": 4,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1449,
-      "pPlace": 0.2954,
+      "pWin": 0.1198,
+      "pPlace": 0.2577,
       "pMarket": 0.13,
-      "edge": 0.0299
+      "edge": -0.0204
     },
     {
       "name": "UNVARNISHED GOLD",
       "key": "UNVARNISHED GOLD",
       "draw": 6,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "Wes Marwing",
+      "trainer": "W C Marwing",
       "weight": 55,
       "odds": "25/1",
       "oddsDecimal": 25,
-      "score": 49.5,
+      "score": 48,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +331,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -287,6 +343,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,92 +359,39 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: recent form.",
+        "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form"
       ],
       "marketRank": 7,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0777,
-      "pPlace": 0.165,
+      "pWin": 0.0471,
+      "pPlace": 0.1054,
       "pMarket": 0.035,
-      "edge": 0.0854
-    },
-    {
-      "name": "IMPRESSIVE",
-      "key": "IMPRESSIVE",
-      "draw": 5,
-      "rating": 46,
-      "jockey": null,
-      "trainer": null,
-      "weight": 58,
-      "odds": "6/1",
-      "oddsDecimal": 6,
-      "score": 43.7,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.286,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.714,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.308,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 4.57,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.29,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 1.85,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 5,
-      "rank": 6,
-      "marketDisagree": false,
-      "pWin": 0.0879,
-      "pPlace": 0.1856,
-      "pMarket": 0.13,
-      "edge": -0.0842
+      "edge": 0.0242
     },
     {
       "name": "WITHIN REACH",
       "key": "WITHIN REACH",
       "draw": 3,
       "rating": 44,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
       "weight": 58,
       "odds": "7/2",
       "oddsDecimal": 3.5,
-      "score": 40,
+      "score": 45.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.73,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -394,7 +403,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 13.14,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -406,6 +415,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -416,20 +431,103 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight, class/rating.",
-        "Model/market disagree: model rank 7 vs market rank 2 (7/2).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form.",
+        "Up against it on: class/rating, weight.",
+        "Model/market disagree: model rank 6 vs market rank 2 (7/2).",
+        "Career 2 starts, 1 win, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 2,
-      "rank": 7,
+      "rank": 6,
       "marketDisagree": true,
-      "pWin": 0.1135,
-      "pPlace": 0.236,
+      "pWin": 0.122,
+      "pPlace": 0.262,
       "pMarket": 0.2022,
-      "edge": -0.1775
+      "edge": -0.1605
+    },
+    {
+      "name": "IMPRESSIVE",
+      "key": "IMPRESSIVE",
+      "draw": 5,
+      "rating": 46,
+      "jockey": "C Zackey",
+      "trainer": "P F Matchett",
+      "weight": 58,
+      "odds": "6/1",
+      "oddsDecimal": 6,
+      "score": 45.7,
+      "factors": {
+        "form": 0.51,
+        "rating": 0.286,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.308,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.18,
+        "rating": 4.57,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 1.85,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 6,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: class/rating, weight.",
+        "Career 6 starts, 1 win, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "marketRank": 5,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0852,
+      "pPlace": 0.1868,
+      "pMarket": 0.13,
+      "edge": -0.0897
     }
   ],
   "comparison": [
@@ -437,19 +535,19 @@
       "no": 3,
       "name": "SECRET FATE",
       "rank": 1,
-      "score": 54.3,
+      "score": 60.2,
       "rating": 51,
       "draw": 7,
       "weight": 58,
       "odds": "5/2",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.73,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -462,9 +560,37 @@
       }
     },
     {
+      "no": 1,
+      "name": "QUEEN LEILA",
+      "rank": 2,
+      "score": 54,
+      "rating": 50,
+      "draw": 4,
+      "weight": 60,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.857,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 5,
       "name": "BELLFLOWER",
-      "rank": 2,
+      "rank": 3,
       "score": 53,
       "rating": null,
       "draw": 1,
@@ -490,50 +616,22 @@
       }
     },
     {
-      "no": 1,
-      "name": "QUEEN LEILA",
-      "rank": 3,
-      "score": 51.4,
-      "rating": 50,
-      "draw": 4,
-      "weight": 60,
-      "odds": "4/1",
-      "marketRank": 3,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.857,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.786,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 7,
       "name": "UP AND UP",
       "rank": 4,
-      "score": 51.2,
+      "score": 51.7,
       "rating": null,
       "draw": 2,
       "weight": 55,
       "odds": "6/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "P F Matchett",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.427,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -549,19 +647,19 @@
       "no": 6,
       "name": "UNVARNISHED GOLD",
       "rank": 5,
-      "score": 49.5,
+      "score": 48,
       "rating": null,
       "draw": 6,
       "weight": 55,
       "odds": "25/1",
       "marketRank": 7,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "Wes Marwing",
+      "trainer": "W C Marwing",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -574,26 +672,26 @@
       }
     },
     {
-      "no": 2,
-      "name": "IMPRESSIVE",
+      "no": 4,
+      "name": "WITHIN REACH",
       "rank": 6,
-      "score": 43.7,
-      "rating": 46,
-      "draw": 5,
+      "score": 45.9,
+      "rating": 44,
+      "draw": 3,
       "weight": 58,
-      "odds": "6/1",
-      "marketRank": 5,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "odds": "7/2",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
-        "rating": 0.286,
+        "form": 0.73,
+        "rating": 0,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.714,
+        "draw": 0.857,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0.308,
@@ -602,26 +700,26 @@
       }
     },
     {
-      "no": 4,
-      "name": "WITHIN REACH",
+      "no": 2,
+      "name": "IMPRESSIVE",
       "rank": 7,
-      "score": 40,
-      "rating": 44,
-      "draw": 3,
+      "score": 45.7,
+      "rating": 46,
+      "draw": 5,
       "weight": 58,
-      "odds": "7/2",
-      "marketRank": 2,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "odds": "6/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "P F Matchett",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
-        "rating": 0,
+        "form": 0.51,
+        "rating": 0.286,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.857,
+        "draw": 0.714,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0.308,

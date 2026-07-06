@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Juvenile Plate",
-  "generated": "2026-07-05T06:39:52.009Z",
+  "generated": "2026-07-06T11:34:23.488Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,8 +17,8 @@
       "key": "EXPERT WITNESS",
       "draw": 7,
       "rating": 47,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "T Dawson",
       "weight": 57,
       "odds": "3/1",
       "oddsDecimal": 3,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,32 +64,39 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Career 2 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2868,
-      "pPlace": 0.6908,
+      "pWin": 0.2994,
+      "pPlace": 0.7079,
       "pMarket": 0.2063,
-      "edge": 0.1611
+      "edge": 0.1863
     },
     {
       "name": "GOTTHETIGER",
       "key": "GOTTHETIGER",
       "draw": 1,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J A Soma",
       "weight": 57,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 53,
+      "score": 51.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -95,7 +108,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 5.76,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -107,6 +120,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -117,145 +136,37 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: recent form, class/rating.",
+        "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 4,
       "rank": 2,
       "marketDisagree": false,
-      "pWin": 0.1363,
-      "pPlace": 0.422,
+      "pWin": 0.1259,
+      "pPlace": 0.3979,
       "pMarket": 0.1375,
-      "edge": -0.0023
-    },
-    {
-      "name": "ANGLE OF ATTACK",
-      "key": "ANGLE OF ATTACK",
-      "draw": 4,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "odds": "33/1",
-      "oddsDecimal": 33,
-      "score": 52,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.833,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 5,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "Model/market disagree: model rank 3 vs market rank 8 (33/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 8,
-      "rank": 3,
-      "marketDisagree": true,
-      "pWin": 0.0693,
-      "pPlace": 0.235,
-      "pMarket": 0.0243,
-      "edge": 0.0901
-    },
-    {
-      "name": "RAFE’S ORACLE",
-      "key": "RAFES ORACLE",
-      "draw": 5,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 57,
-      "odds": "5/1",
-      "oddsDecimal": 5,
-      "score": 51.7,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.778,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.67,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 5,
-      "rank": 4,
-      "marketDisagree": false,
-      "pWin": 0.1232,
-      "pPlace": 0.3886,
-      "pMarket": 0.1375,
-      "edge": -0.0287
+      "edge": -0.0231
     },
     {
       "name": "HARTREE",
       "key": "HARTREE",
       "draw": 6,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "R R Sage",
       "weight": 57,
       "odds": "8/1",
       "oddsDecimal": 8,
@@ -285,6 +196,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -295,18 +212,173 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 3 vs market rank 6 (8/1).",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 6,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.1002,
+      "pPlace": 0.3283,
+      "pMarket": 0.0917,
+      "edge": 0.0171
+    },
+    {
+      "name": "ANGLE OF ATTACK",
+      "key": "ANGLE OF ATTACK",
+      "draw": 4,
+      "rating": null,
+      "jockey": "J R Syster",
+      "trainer": "A Ndzilana",
+      "weight": 57,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 50.6,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form, class/rating.",
+        "Model/market disagree: model rank 4 vs market rank 8 (33/1).",
+        "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "marketRank": 8,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0605,
+      "pPlace": 0.2086,
+      "pMarket": 0.0243,
+      "edge": 0.0725
+    },
+    {
+      "name": "RAFE’S ORACLE",
+      "key": "RAFES ORACLE",
+      "draw": 5,
+      "rating": null,
+      "jockey": "G Lerena",
+      "trainer": "R R Sage",
+      "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 50.2,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form, class/rating.",
+        "Career 1 start, 0 wins (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "marketRank": 5,
       "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0967,
-      "pPlace": 0.3166,
-      "pMarket": 0.0917,
-      "edge": 0.0101
+      "pWin": 0.114,
+      "pPlace": 0.3665,
+      "pMarket": 0.1375,
+      "edge": -0.0469
     },
     {
       "name": "SPIRIT OF GABZ",
@@ -344,6 +416,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -354,34 +427,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating.",
-        "Concerns: weight.",
+        "Advantages over this field: class/rating.",
+        "Up against it on: weight.",
         "Model/market disagree: model rank 6 vs market rank 2 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 2,
       "rank": 6,
       "marketDisagree": true,
-      "pWin": 0.1178,
-      "pPlace": 0.3745,
+      "pWin": 0.1202,
+      "pPlace": 0.383,
       "pMarket": 0.165,
-      "edge": -0.0944
+      "edge": -0.0896
     },
     {
       "name": "DEAR DOC",
       "key": "DEAR DOC",
       "draw": 2,
       "rating": 44,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "A Ndzilana",
       "weight": 60,
       "odds": "16/1",
       "oddsDecimal": 16,
-      "score": 45.1,
+      "score": 46.6,
       "factors": {
-        "form": 0.4,
+        "form": 0.483,
         "rating": 0.4,
         "distance": 0.5,
         "going": 0.5,
@@ -393,7 +475,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.69,
         "rating": 6.4,
         "distance": 5,
         "going": 4,
@@ -405,6 +487,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -415,93 +503,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: weight, class/rating.",
+        "Career 7 starts, 1 win, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 7,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0424,
-      "pPlace": 0.1482,
+      "pWin": 0.0491,
+      "pPlace": 0.1715,
       "pMarket": 0.0485,
-      "edge": -0.0123
-    },
-    {
-      "name": "EHHFIFTEENKJOE",
-      "key": "EHHFIFTEENKJOE",
-      "draw": 8,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 60,
-      "odds": "33/1",
-      "oddsDecimal": 33,
-      "score": 44.7,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.611,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 3.67,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 0,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 9,
-      "rank": 8,
-      "marketDisagree": false,
-      "pWin": 0.0291,
-      "pPlace": 0.1032,
-      "pMarket": 0.0243,
-      "edge": 0.0096
+      "edge": 0.0012
     },
     {
       "name": "SNOWBLADE",
       "key": "SNOWBLADE",
       "draw": 3,
       "rating": 42,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "M G Azzie",
       "weight": 57,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 44.3,
+      "score": 44.8,
       "factors": {
-        "form": 0.4,
+        "form": 0.427,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -513,7 +551,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.68,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -525,6 +563,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 3,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -535,20 +579,102 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
-        "Model/market disagree: model rank 9 vs market rank 3 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 8 vs market rank 3 (4/1).",
+        "Career 3 starts, 0 wins, 2 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 3,
-      "rank": 9,
+      "rank": 8,
       "marketDisagree": true,
-      "pWin": 0.0984,
-      "pPlace": 0.3212,
+      "pWin": 0.1009,
+      "pPlace": 0.3303,
       "pMarket": 0.165,
-      "edge": -0.1333
+      "edge": -0.1282
+    },
+    {
+      "name": "EHHFIFTEENKJOE",
+      "key": "EHHFIFTEENKJOE",
+      "draw": 8,
+      "rating": null,
+      "jockey": "C Ngcobo",
+      "trainer": "A Ndzilana",
+      "weight": 60,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 44.5,
+      "factors": {
+        "form": 0.393,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.08,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: weight, class/rating.",
+        "Career 9 starts, 1 win, 1 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "marketRank": 9,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0296,
+      "pPlace": 0.1058,
+      "pMarket": 0.0243,
+      "edge": 0.0108
     }
   ],
   "comparison": [
@@ -563,8 +689,8 @@
       "odds": "3/1",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "T Dawson",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
@@ -584,19 +710,19 @@
       "no": 6,
       "name": "GOTTHETIGER",
       "rank": 2,
-      "score": 53,
+      "score": 51.6,
       "rating": null,
       "draw": 1,
       "weight": 57,
       "odds": "5/1",
       "marketRank": 4,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "J A Soma",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -609,22 +735,50 @@
       }
     },
     {
+      "no": 7,
+      "name": "HARTREE",
+      "rank": 3,
+      "score": 51.3,
+      "rating": null,
+      "draw": 6,
+      "weight": 57,
+      "odds": "8/1",
+      "marketRank": 6,
+      "marketDisagree": true,
+      "jockey": "K Matsunyane",
+      "trainer": "R R Sage",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 4,
       "name": "ANGLE OF ATTACK",
-      "rank": 3,
-      "score": 52,
+      "rank": 4,
+      "score": 50.6,
       "rating": null,
       "draw": 4,
       "weight": 57,
       "odds": "33/1",
       "marketRank": 8,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "A Ndzilana",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -639,52 +793,24 @@
     {
       "no": 8,
       "name": "RAFE’S ORACLE",
-      "rank": 4,
-      "score": 51.7,
+      "rank": 5,
+      "score": 50.2,
       "rating": null,
       "draw": 5,
       "weight": 57,
       "odds": "5/1",
       "marketRank": 5,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "R R Sage",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.778,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
-      "no": 7,
-      "name": "HARTREE",
-      "rank": 5,
-      "score": 51.3,
-      "rating": null,
-      "draw": 6,
-      "weight": 57,
-      "odds": "8/1",
-      "marketRank": 6,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.722,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 1,
@@ -724,19 +850,19 @@
       "no": 1,
       "name": "DEAR DOC",
       "rank": 7,
-      "score": 45.1,
+      "score": 46.6,
       "rating": 44,
       "draw": 2,
       "weight": 60,
       "odds": "16/1",
       "marketRank": 7,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "A Ndzilana",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.483,
         "rating": 0.4,
         "distance": 0.5,
         "going": 0.5,
@@ -749,50 +875,22 @@
       }
     },
     {
-      "no": 2,
-      "name": "EHHFIFTEENKJOE",
-      "rank": 8,
-      "score": 44.7,
-      "rating": null,
-      "draw": 8,
-      "weight": 60,
-      "odds": "33/1",
-      "marketRank": 9,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.611,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 9,
       "name": "SNOWBLADE",
-      "rank": 9,
-      "score": 44.3,
+      "rank": 8,
+      "score": 44.8,
       "rating": 42,
       "draw": 3,
       "weight": 57,
       "odds": "4/1",
       "marketRank": 3,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "M G Azzie",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.427,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -800,6 +898,34 @@
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "EHHFIFTEENKJOE",
+      "rank": 9,
+      "score": 44.5,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": "33/1",
+      "marketRank": 9,
+      "marketDisagree": false,
+      "jockey": "C Ngcobo",
+      "trainer": "A Ndzilana",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.393,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }

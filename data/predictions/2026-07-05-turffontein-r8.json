@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Pinnacle Stakes",
-  "generated": "2026-07-05T06:39:52.014Z",
+  "generated": "2026-07-06T11:34:23.496Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "TAXI TO THE MOON",
       "draw": 7,
       "rating": 66,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "A P Peter",
       "weight": 62,
       "odds": "3/1",
       "oddsDecimal": 3,
-      "score": 53.2,
+      "score": 56.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.604,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 10.87,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 22,
+        "wins": 8,
+        "seconds": 4,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,93 +64,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating.",
+        "Up against it on: weight.",
+        "Career 22 starts, 8 wins, 14 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.1857,
-      "pPlace": 0.5029,
+      "pWin": 0.2046,
+      "pPlace": 0.542,
       "pMarket": 0.1995,
-      "edge": -0.0276
-    },
-    {
-      "name": "SLINKY MAPIMPI",
-      "key": "SLINKY MAPIMPI",
-      "draw": 3,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 50,
-      "odds": "12/1",
-      "oddsDecimal": 12,
-      "score": 52.4,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.9,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.4,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: weight, the draw.",
-        "Model/market disagree: model rank 2 vs market rank 7 (12/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 7,
-      "rank": 2,
-      "marketDisagree": true,
-      "pWin": 0.1059,
-      "pPlace": 0.3217,
-      "pMarket": 0.0614,
-      "edge": 0.089
+      "edge": 0.0102
     },
     {
       "name": "THE LAST DUKE",
       "key": "THE LAST DUKE",
       "draw": 4,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
       "weight": 50,
       "odds": "16/1",
       "oddsDecimal": 16,
-      "score": 52.1,
+      "score": 54.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.544,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -156,7 +112,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.79,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -168,6 +124,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 11,
+        "wins": 3,
+        "seconds": 2,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -178,92 +140,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Model/market disagree: model rank 3 vs market rank 9 (16/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 2 vs market rank 9 (16/1).",
+        "Career 11 starts, 3 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 9,
-      "rank": 3,
+      "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.095,
-      "pPlace": 0.2927,
+      "pWin": 0.0961,
+      "pPlace": 0.2982,
       "pMarket": 0.0469,
-      "edge": 0.0961
-    },
-    {
-      "name": "ZALATORIS",
-      "key": "ZALATORIS",
-      "draw": 1,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 54,
-      "odds": "8/1",
-      "oddsDecimal": 8,
-      "score": 51,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.667,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 6,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 4,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 6,
-      "rank": 4,
-      "marketDisagree": false,
-      "pWin": 0.1039,
-      "pPlace": 0.3164,
-      "pMarket": 0.0887,
-      "edge": 0.0305
+      "edge": 0.0984
     },
     {
       "name": "AFRICAN PRIDE",
       "key": "AFRICAN PRIDE",
       "draw": 2,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "R A Venniker",
+      "trainer": "C Spies",
       "weight": 54,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 50.7,
+      "score": 53.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.58,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +188,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 10.44,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -287,6 +200,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 4,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,37 +216,124 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "Model/market disagree: model rank 5 vs market rank 2 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw, recent form.",
+        "Up against it on: class/rating.",
+        "Career 12 starts, 4 wins, 7 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw",
+        "form"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 2,
-      "rank": 5,
-      "marketDisagree": true,
-      "pWin": 0.1365,
-      "pPlace": 0.3975,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.1434,
+      "pPlace": 0.417,
       "pMarket": 0.1596,
-      "edge": -0.0463
+      "edge": -0.0324
     },
     {
-      "name": "CHARMING CHEETAH",
-      "key": "CHARMING CHEETAH",
-      "draw": 5,
+      "name": "SLINKY MAPIMPI",
+      "key": "SLINKY MAPIMPI",
+      "draw": 3,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 54,
+      "jockey": "M K Katjedi",
+      "trainer": "J Vermeulen",
+      "weight": 50,
       "odds": "12/1",
       "oddsDecimal": 12,
-      "score": 49.8,
+      "score": 53.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.483,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.8,
+        "draw": 0.9,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.7,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 25,
+        "wins": 4,
+        "seconds": 8,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: class/rating.",
+        "Model/market disagree: model rank 4 vs market rank 7 (12/1).",
+        "Career 25 starts, 4 wins, 13 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "marketRank": 7,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0943,
+      "pPlace": 0.2932,
+      "pMarket": 0.0614,
+      "edge": 0.0658
+    },
+    {
+      "name": "ZALATORIS",
+      "key": "ZALATORIS",
+      "draw": 1,
+      "rating": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
+      "weight": 54,
+      "odds": "8/1",
+      "oddsDecimal": 8,
+      "score": 53.4,
+      "factors": {
+        "form": 0.534,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0.667,
@@ -335,11 +341,11 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.61,
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 4.8,
+        "draw": 6,
         "jockey": 3,
         "trainer": 3,
         "weight": 4,
@@ -347,6 +353,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 13,
+        "wins": 3,
+        "seconds": 3,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -357,92 +369,42 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw.",
+        "Up against it on: class/rating.",
+        "Career 13 starts, 3 wins, 8 placed (from the card — no logged runs in our DB yet)."
       ],
-      "marketRank": 8,
-      "rank": 6,
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "marketRank": 6,
+      "rank": 5,
       "marketDisagree": false,
-      "pWin": 0.0795,
-      "pPlace": 0.2496,
-      "pMarket": 0.0614,
-      "edge": 0.0361
-    },
-    {
-      "name": "QUANTUM THEORY",
-      "key": "QUANTUM THEORY",
-      "draw": 6,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 56,
-      "odds": "33/1",
-      "oddsDecimal": 33,
-      "score": 48.5,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.75,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.5,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 3,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 7 vs market rank 10 (33/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 10,
-      "rank": 7,
-      "marketDisagree": true,
-      "pWin": 0.051,
-      "pPlace": 0.1657,
-      "pMarket": 0.0235,
-      "edge": 0.0551
+      "pWin": 0.1028,
+      "pPlace": 0.3163,
+      "pMarket": 0.0887,
+      "edge": 0.0283
     },
     {
       "name": "ALMOND SEA",
       "key": "ALMOND SEA",
       "draw": 8,
       "rating": 64,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "A P Peter",
       "weight": 56,
       "odds": "4/1",
       "oddsDecimal": 4,
-      "score": 47.9,
+      "score": 51.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.587,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -454,7 +416,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 10.57,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -466,6 +428,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 19,
+        "wins": 6,
+        "seconds": 3,
+        "thirds": 4
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -476,33 +444,190 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 8 vs market rank 3 (4/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form.",
+        "Up against it on: weight, class/rating.",
+        "Model/market disagree: model rank 6 vs market rank 3 (4/1).",
+        "Career 19 starts, 6 wins, 13 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
       ],
       "marketRank": 3,
-      "rank": 8,
+      "rank": 6,
       "marketDisagree": true,
-      "pWin": 0.1153,
-      "pPlace": 0.3459,
+      "pWin": 0.121,
+      "pPlace": 0.3632,
       "pMarket": 0.1596,
-      "edge": -0.0885
+      "edge": -0.0771
+    },
+    {
+      "name": "CHARMING CHEETAH",
+      "key": "CHARMING CHEETAH",
+      "draw": 5,
+      "rating": null,
+      "jockey": "C Habib",
+      "trainer": "R Klaasen",
+      "weight": 54,
+      "odds": "12/1",
+      "oddsDecimal": 12,
+      "score": 51.1,
+      "factors": {
+        "form": 0.472,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.5,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 2,
+        "seconds": 4,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form, class/rating.",
+        "Career 15 starts, 2 wins, 8 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "marketRank": 8,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0706,
+      "pPlace": 0.226,
+      "pMarket": 0.0614,
+      "edge": 0.0184
+    },
+    {
+      "name": "QUANTUM THEORY",
+      "key": "QUANTUM THEORY",
+      "draw": 6,
+      "rating": null,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
+      "weight": 56,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 49.8,
+      "factors": {
+        "form": 0.471,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.49,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 42,
+        "wins": 6,
+        "seconds": 12,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Up against it on: recent form, weight.",
+        "Career 42 starts, 6 wins, 21 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "marketRank": 10,
+      "rank": 8,
+      "marketDisagree": false,
+      "pWin": 0.0438,
+      "pPlace": 0.1449,
+      "pMarket": 0.0235,
+      "edge": 0.0407
     },
     {
       "name": "ONE FINE WINTER",
       "key": "ONE FINE WINTER",
       "draw": 9,
       "rating": 62,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "S G Tarry",
       "weight": 50,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 42.6,
+      "score": 45.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.552,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -514,7 +639,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.93,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -526,6 +651,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 3,
+        "seconds": 2,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -536,20 +667,29 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
-        "Concerns: class/rating.",
+        "Advantages over this field: weight.",
+        "Up against it on: class/rating.",
         "Model/market disagree: model rank 9 vs market rank 4 (7/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 12 starts, 3 wins, 8 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 4,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.0646,
-      "pPlace": 0.2065,
+      "pWin": 0.065,
+      "pPlace": 0.2097,
       "pMarket": 0.0997,
-      "edge": -0.0704
+      "edge": -0.0694
     },
     {
       "name": "CHAPBOOK",
@@ -587,6 +727,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -597,20 +738,27 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight.",
-        "Concerns: class/rating.",
+        "Up against it on: recent form, class/rating.",
         "Model/market disagree: model rank 10 vs market rank 5 (7/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 5,
       "rank": 10,
       "marketDisagree": true,
-      "pWin": 0.0627,
-      "pPlace": 0.2011,
+      "pWin": 0.0583,
+      "pPlace": 0.1896,
       "pMarket": 0.0997,
-      "edge": -0.074
+      "edge": -0.0828
     }
   ],
   "comparison": [
@@ -618,19 +766,19 @@
       "no": 1,
       "name": "TAXI TO THE MOON",
       "rank": 1,
-      "score": 53.2,
+      "score": 56.9,
       "rating": 66,
       "draw": 7,
       "weight": 62,
       "odds": "3/1",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "A P Peter",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.604,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -643,50 +791,22 @@
       }
     },
     {
-      "no": 9,
-      "name": "SLINKY MAPIMPI",
-      "rank": 2,
-      "score": 52.4,
-      "rating": null,
-      "draw": 3,
-      "weight": 50,
-      "odds": "12/1",
-      "marketRank": 7,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.9,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 1,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 10,
       "name": "THE LAST DUKE",
-      "rank": 3,
-      "score": 52.1,
+      "rank": 2,
+      "score": 54.7,
       "rating": null,
       "draw": 4,
       "weight": 50,
       "odds": "16/1",
       "marketRank": 9,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "P Mxoli",
+      "trainer": "P F Matchett",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.544,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -699,50 +819,22 @@
       }
     },
     {
-      "no": 5,
-      "name": "ZALATORIS",
-      "rank": 4,
-      "score": 51,
-      "rating": null,
-      "draw": 1,
-      "weight": 54,
-      "odds": "8/1",
-      "marketRank": 6,
-      "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 1,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.667,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 4,
       "name": "AFRICAN PRIDE",
-      "rank": 5,
-      "score": 50.7,
+      "rank": 3,
+      "score": 53.9,
       "rating": null,
       "draw": 2,
       "weight": 54,
       "odds": "4/1",
       "marketRank": 2,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "marketDisagree": false,
+      "jockey": "R A Venniker",
+      "trainer": "C Spies",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.58,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -755,22 +847,106 @@
       }
     },
     {
+      "no": 9,
+      "name": "SLINKY MAPIMPI",
+      "rank": 4,
+      "score": 53.9,
+      "rating": null,
+      "draw": 3,
+      "weight": 50,
+      "odds": "12/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "M K Katjedi",
+      "trainer": "J Vermeulen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "ZALATORIS",
+      "rank": 5,
+      "score": 53.4,
+      "rating": null,
+      "draw": 1,
+      "weight": 54,
+      "odds": "8/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.534,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "ALMOND SEA",
+      "rank": 6,
+      "score": 51.3,
+      "rating": 64,
+      "draw": 8,
+      "weight": 56,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": true,
+      "jockey": "G Lerena",
+      "trainer": "A P Peter",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.587,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 6,
       "name": "CHARMING CHEETAH",
-      "rank": 6,
-      "score": 49.8,
+      "rank": 7,
+      "score": 51.1,
       "rating": null,
       "draw": 5,
       "weight": 54,
       "odds": "12/1",
       "marketRank": 8,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Habib",
+      "trainer": "R Klaasen",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.472,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -785,20 +961,20 @@
     {
       "no": 3,
       "name": "QUANTUM THEORY",
-      "rank": 7,
-      "score": 48.5,
+      "rank": 8,
+      "score": 49.8,
       "rating": null,
       "draw": 6,
       "weight": 56,
       "odds": "33/1",
       "marketRank": 10,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "marketDisagree": false,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.471,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -811,50 +987,22 @@
       }
     },
     {
-      "no": 2,
-      "name": "ALMOND SEA",
-      "rank": 8,
-      "score": 47.9,
-      "rating": 64,
-      "draw": 8,
-      "weight": 56,
-      "odds": "4/1",
-      "marketRank": 3,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.65,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 8,
       "name": "ONE FINE WINTER",
       "rank": 9,
-      "score": 42.6,
+      "score": 45.3,
       "rating": 62,
       "draw": 9,
       "weight": 50,
       "odds": "7/1",
       "marketRank": 4,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.552,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

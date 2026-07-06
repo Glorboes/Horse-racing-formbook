@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "MR 80 Handicap",
-  "generated": "2026-07-05T06:39:52.016Z",
+  "generated": "2026-07-06T11:34:23.500Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -17,14 +17,14 @@
       "key": "WAR REPORTER",
       "draw": 3,
       "rating": 57,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
       "weight": 60,
       "odds": "5/2",
       "oddsDecimal": 2.5,
-      "score": 54.3,
+      "score": 56.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.512,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -36,7 +36,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 9.21,
         "rating": 16,
         "distance": 5,
         "going": 4,
@@ -48,6 +48,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -58,33 +64,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: recent form, class/rating, the draw.",
+        "Up against it on: weight.",
+        "Career 12 starts, 3 wins, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
       ],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2484,
-      "pPlace": 0.6263,
+      "pWin": 0.2707,
+      "pPlace": 0.6626,
       "pMarket": 0.2412,
-      "edge": 0.0144
+      "edge": 0.0589
     },
     {
       "name": "SUNSET WARRIOR",
       "key": "SUNSET WARRIOR",
       "draw": 4,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "B Webber",
       "weight": 56,
       "odds": "16/1",
       "oddsDecimal": 16,
-      "score": 52,
+      "score": 52.7,
       "factors": {
-        "form": 0.4,
+        "form": 0.44,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -96,7 +113,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 7.92,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -108,6 +125,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -118,33 +141,44 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: weight, the draw.",
+        "Advantages over this field: weight.",
+        "Up against it on: recent form, class/rating.",
         "Model/market disagree: model rank 2 vs market rank 7 (16/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 15 starts, 2 wins, 5 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 7,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.1119,
-      "pPlace": 0.3492,
+      "pWin": 0.1072,
+      "pPlace": 0.3404,
       "pMarket": 0.0497,
-      "edge": 0.1246
+      "edge": 0.115
     },
     {
       "name": "UTSAAH",
       "key": "UTSAAH",
       "draw": 1,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "weight": 57,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 51.5,
+      "score": 52.3,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -156,7 +190,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.04,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -168,6 +202,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -178,92 +218,43 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: the draw, weight.",
+        "Up against it on: class/rating.",
+        "Career 9 starts, 1 win, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 5,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1329,
-      "pPlace": 0.4027,
+      "pWin": 0.1298,
+      "pPlace": 0.3994,
       "pMarket": 0.1055,
-      "edge": 0.0548
-    },
-    {
-      "name": "AFTER HOURS",
-      "key": "AFTER HOURS",
-      "draw": 2,
-      "rating": null,
-      "jockey": null,
-      "trainer": null,
-      "weight": 58,
-      "odds": "50/1",
-      "oddsDecimal": 50,
-      "score": 49.7,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.944,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 7.2,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 5.67,
-        "jockey": 3,
-        "trainer": 3,
-        "weight": 3,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "combo": null,
-      "classMove": null,
-      "reasoning": [
-        "Strengths: the draw.",
-        "Model/market disagree: model rank 4 vs market rank 9 (50/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
-      ],
-      "marketRank": 9,
-      "rank": 4,
-      "marketDisagree": true,
-      "pWin": 0.0677,
-      "pPlace": 0.2234,
-      "pMarket": 0.0166,
-      "edge": 0.1022
+      "edge": 0.0485
     },
     {
       "name": "SKY PILOT",
       "key": "SKY PILOT",
       "draw": 6,
       "rating": 56,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "C Binda",
       "weight": 59,
       "odds": "5/1",
       "oddsDecimal": 5,
-      "score": 49.5,
+      "score": 50.4,
       "factors": {
-        "form": 0.4,
+        "form": 0.45,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -275,7 +266,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.1,
         "rating": 10.67,
         "distance": 5,
         "going": 4,
@@ -287,6 +278,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 3
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -297,33 +294,116 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: class/rating, the draw.",
-        "Concerns: weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Advantages over this field: class/rating.",
+        "Career 10 starts, 1 win, 5 placed (from the card — no logged runs in our DB yet)."
       ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
       "marketRank": 3,
-      "rank": 5,
+      "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1278,
-      "pPlace": 0.39,
+      "pWin": 0.1265,
+      "pPlace": 0.391,
       "pMarket": 0.1407,
-      "edge": -0.0259
+      "edge": -0.0285
+    },
+    {
+      "name": "AFTER HOURS",
+      "key": "AFTER HOURS",
+      "draw": 2,
+      "rating": null,
+      "jockey": "P Mxoli",
+      "trainer": "S J Gray",
+      "weight": 58,
+      "odds": "50/1",
+      "oddsDecimal": 50,
+      "score": 49.9,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.46,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 106,
+        "wins": 13,
+        "seconds": 8,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Advantages over this field: the draw.",
+        "Up against it on: recent form, class/rating.",
+        "Model/market disagree: model rank 5 vs market rank 9 (50/1).",
+        "Career 106 starts, 13 wins, 22 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "marketRank": 9,
+      "rank": 5,
+      "marketDisagree": true,
+      "pWin": 0.0599,
+      "pPlace": 0.2021,
+      "pMarket": 0.0166,
+      "edge": 0.0867
     },
     {
       "name": "MILLENNIUM WARRIOR",
       "key": "MILLENNIUM WARRIOR",
       "draw": 9,
       "rating": null,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "S G Tarry",
       "weight": 58,
       "odds": "25/1",
       "oddsDecimal": 25,
-      "score": 47.3,
+      "score": 48.2,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -335,7 +415,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.04,
         "rating": 8,
         "distance": 5,
         "going": 4,
@@ -347,6 +427,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 1,
+        "seconds": 2,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -357,17 +443,25 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating.",
+        "Career 9 starts, 1 win, 4 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
       ],
       "marketRank": 8,
       "rank": 6,
       "marketDisagree": false,
-      "pWin": 0.056,
-      "pPlace": 0.1876,
+      "pWin": 0.0551,
+      "pPlace": 0.187,
       "pMarket": 0.0325,
-      "edge": 0.0471
+      "edge": 0.0453
     },
     {
       "name": "PRINCESS KEIRA",
@@ -405,6 +499,7 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": null,
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -415,34 +510,41 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: weight.",
+        "Up against it on: recent form, class/rating.",
         "Model/market disagree: model rank 7 vs market rank 4 (6/1).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
       ],
       "marketRank": 4,
       "rank": 7,
       "marketDisagree": true,
-      "pWin": 0.0934,
-      "pPlace": 0.2988,
+      "pWin": 0.0882,
+      "pPlace": 0.2872,
       "pMarket": 0.1206,
-      "edge": -0.0544
+      "edge": -0.0649
     },
     {
       "name": "HARUN AL RASHID",
       "key": "HARUN AL RASHID",
       "draw": 5,
       "rating": 54,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
       "weight": 60,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 37.7,
+      "score": 38.9,
       "factors": {
-        "form": 0.4,
+        "form": 0.471,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -454,7 +556,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.47,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -466,6 +568,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 13,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 2
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -476,33 +584,40 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Up against it on: class/rating, weight.",
+        "Career 13 starts, 2 wins, 6 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 6,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0608,
-      "pPlace": 0.2024,
+      "pWin": 0.061,
+      "pPlace": 0.2055,
       "pMarket": 0.1055,
-      "edge": -0.0895
+      "edge": -0.089
     },
     {
       "name": "TOP SHELF TEDDY",
       "key": "TOP SHELF TEDDY",
       "draw": 7,
       "rating": 54,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "S G Tarry",
       "weight": 60,
       "odds": "7/2",
       "oddsDecimal": 3.5,
-      "score": 37,
+      "score": 38.5,
       "factors": {
-        "form": 0.4,
+        "form": 0.484,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -514,7 +629,7 @@
         "recencyMargin": 0.4
       },
       "contrib": {
-        "form": 7.2,
+        "form": 8.72,
         "rating": 0,
         "distance": 5,
         "going": 4,
@@ -526,6 +641,12 @@
         "recencyMargin": 4.8
       },
       "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 2,
+        "seconds": 0,
+        "thirds": 1
+      },
       "h2h": {
         "record": "0-0",
         "wins": 0,
@@ -536,20 +657,27 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Strengths: the draw.",
-        "Concerns: class/rating, weight.",
+        "Up against it on: class/rating, weight.",
         "Model/market disagree: model rank 9 vs market rank 2 (7/2).",
-        "No prior runs in the formbook — scored on today's racecard data only."
+        "Career 9 starts, 2 wins, 3 placed (from the card — no logged runs in our DB yet)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
       ],
       "marketRank": 2,
       "rank": 9,
       "marketDisagree": true,
-      "pWin": 0.101,
-      "pPlace": 0.3196,
+      "pWin": 0.1015,
+      "pPlace": 0.3249,
       "pMarket": 0.1876,
-      "edge": -0.1733
+      "edge": -0.1722
     }
   ],
   "comparison": [
@@ -557,19 +685,19 @@
       "no": 3,
       "name": "WAR REPORTER",
       "rank": 1,
-      "score": 54.3,
+      "score": 56.3,
       "rating": 57,
       "draw": 3,
       "weight": 60,
       "odds": "5/2",
       "marketRank": 1,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K de Melo",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.512,
         "rating": 1,
         "distance": 0.5,
         "going": 0.5,
@@ -585,19 +713,19 @@
       "no": 9,
       "name": "SUNSET WARRIOR",
       "rank": 2,
-      "score": 52,
+      "score": 52.7,
       "rating": null,
       "draw": 4,
       "weight": 56,
       "odds": "16/1",
       "marketRank": 7,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "J R Syster",
+      "trainer": "B Webber",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.44,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -613,19 +741,19 @@
       "no": 8,
       "name": "UTSAAH",
       "rank": 3,
-      "score": 51.5,
+      "score": 52.3,
       "rating": null,
       "draw": 1,
       "weight": 57,
       "odds": "7/1",
       "marketRank": 5,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "C Zackey",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -638,50 +766,22 @@
       }
     },
     {
-      "no": 6,
-      "name": "AFTER HOURS",
-      "rank": 4,
-      "score": 49.7,
-      "rating": null,
-      "draw": 2,
-      "weight": 58,
-      "odds": "50/1",
-      "marketRank": 9,
-      "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.4,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.944,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.5,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 5,
       "name": "SKY PILOT",
-      "rank": 5,
-      "score": 49.5,
+      "rank": 4,
+      "score": 50.4,
       "rating": 56,
       "draw": 6,
       "weight": 59,
       "odds": "5/1",
       "marketRank": 3,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "G Lerena",
+      "trainer": "C Binda",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.45,
         "rating": 0.667,
         "distance": 0.5,
         "going": 0.5,
@@ -694,22 +794,50 @@
       }
     },
     {
+      "no": 6,
+      "name": "AFTER HOURS",
+      "rank": 5,
+      "score": 49.9,
+      "rating": null,
+      "draw": 2,
+      "weight": 58,
+      "odds": "50/1",
+      "marketRank": 9,
+      "marketDisagree": true,
+      "jockey": "P Mxoli",
+      "trainer": "S J Gray",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 7,
       "name": "MILLENNIUM WARRIOR",
       "rank": 6,
-      "score": 47.3,
+      "score": 48.2,
       "rating": null,
       "draw": 9,
       "weight": 58,
       "odds": "25/1",
       "marketRank": 8,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "M K Katjedi",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.447,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
@@ -753,19 +881,19 @@
       "no": 4,
       "name": "HARUN AL RASHID",
       "rank": 8,
-      "score": 37.7,
+      "score": 38.9,
       "rating": 54,
       "draw": 5,
       "weight": 60,
       "odds": "7/1",
       "marketRank": 6,
       "marketDisagree": false,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K J Lihaba",
+      "trainer": "A P Peter",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.471,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,
@@ -781,19 +909,19 @@
       "no": 2,
       "name": "TOP SHELF TEDDY",
       "rank": 9,
-      "score": 37,
+      "score": 38.5,
       "rating": 54,
       "draw": 7,
       "weight": 60,
       "odds": "7/2",
       "marketRank": 2,
       "marketDisagree": true,
-      "jockey": null,
-      "trainer": null,
+      "jockey": "K Matsunyane",
+      "trainer": "S G Tarry",
       "lastFive": "—",
       "runsKnown": 0,
       "factors": {
-        "form": 0.4,
+        "form": 0.484,
         "rating": 0,
         "distance": 0.5,
         "going": 0.5,

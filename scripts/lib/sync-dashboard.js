@@ -109,9 +109,19 @@ function buildHorses(fb) {
     const lastFive = [...runs].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
       .slice(0, 5).map((r) => (r.finish > 9 ? '0' : r.finish)).join('');
     const agg = h2hAgg[key] || { beats: new Set(), losesTo: new Set(), wins: 0, losses: 0 };
+
+    // per-jockey record for this horse (the partnership breakdown)
+    const jmap = {};
+    for (const r of runs) {
+      if (!r.jockey) continue;
+      const jk = (jmap[r.jockey] = jmap[r.jockey] || { jockey: r.jockey, starts: 0, wins: 0, places: 0 });
+      jk.starts++; if (r.finish === 1) jk.wins++; if (r.finish <= 3) jk.places++;
+    }
+    const jockeys = Object.values(jmap).sort((a, b) => b.starts - a.starts);
+
     return {
-      key, name: h.name, rating: h.rating ?? null,
-      starts, wins, places,
+      key, name: h.name, rating: h.rating ?? null, trainer: h.trainer ?? null,
+      starts, wins, places, jockeys,
       winPct: starts ? +((wins / starts) * 100).toFixed(0) : 0,
       placePct: starts ? +((places / starts) * 100).toFixed(0) : 0,
       lastFive: lastFive || '—',

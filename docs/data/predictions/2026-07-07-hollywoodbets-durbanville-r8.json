@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Stakes",
-  "generated": "2026-07-05T20:25:01.657Z",
+  "generated": "2026-07-06T11:35:28.225Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -59,6 +59,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: class/rating, weight.",
@@ -75,10 +78,10 @@
       "marketRank": 3,
       "rank": 1,
       "marketDisagree": false,
-      "pWin": 0.2768,
-      "pPlace": 0.6844,
+      "pWin": 0.2773,
+      "pPlace": 0.6852,
       "pMarket": 0.1698,
-      "edge": 0.2141
+      "edge": 0.2149
     },
     {
       "name": "ABSOLUTELY YES",
@@ -132,6 +135,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw, recent form, weight.",
@@ -150,10 +156,10 @@
       "marketRank": 6,
       "rank": 2,
       "marketDisagree": true,
-      "pWin": 0.1292,
-      "pPlace": 0.4082,
+      "pWin": 0.1294,
+      "pPlace": 0.4089,
       "pMarket": 0.0943,
-      "edge": 0.0698
+      "edge": 0.0701
     },
     {
       "name": "BEWARE",
@@ -207,6 +213,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: recent form, the draw.",
@@ -223,10 +232,10 @@
       "marketRank": 2,
       "rank": 3,
       "marketDisagree": false,
-      "pWin": 0.1572,
-      "pPlace": 0.4761,
+      "pWin": 0.1573,
+      "pPlace": 0.4766,
       "pMarket": 0.1887,
-      "edge": -0.063
+      "edge": -0.0627
     },
     {
       "name": "KING REGENT",
@@ -275,6 +284,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: the draw.",
@@ -291,10 +303,10 @@
       "marketRank": 4,
       "rank": 4,
       "marketDisagree": false,
-      "pWin": 0.1205,
-      "pPlace": 0.3855,
+      "pWin": 0.1206,
+      "pPlace": 0.386,
       "pMarket": 0.1415,
-      "edge": -0.042
+      "edge": -0.0418
     },
     {
       "name": "DREAMLAND",
@@ -343,6 +355,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: weight.",
@@ -360,10 +375,10 @@
       "marketRank": 8,
       "rank": 5,
       "marketDisagree": true,
-      "pWin": 0.059,
-      "pPlace": 0.2045,
+      "pWin": 0.0591,
+      "pPlace": 0.2049,
       "pMarket": 0.025,
-      "edge": 0.0681
+      "edge": 0.0683
     },
     {
       "name": "THE US OF A",
@@ -417,6 +432,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Advantages over this field: recent form.",
@@ -435,9 +453,9 @@
       "rank": 6,
       "marketDisagree": true,
       "pWin": 0.1395,
-      "pPlace": 0.434,
+      "pPlace": 0.4344,
       "pMarket": 0.1974,
-      "edge": -0.116
+      "edge": -0.1158
     },
     {
       "name": "DANCE VARIETY",
@@ -449,14 +467,14 @@
       "weight": 60,
       "odds": "7/1",
       "oddsDecimal": 7,
-      "score": 44.2,
+      "score": 43.8,
       "factors": {
         "form": 0.499,
         "rating": 0.333,
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.688,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -468,7 +486,7 @@
         "distance": 5,
         "going": 4,
         "draw": 4.13,
-        "jockey": 3,
+        "jockey": 2.55,
         "trainer": 3,
         "weight": 0,
         "headToHead": 6,
@@ -491,9 +509,20 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: weight, class/rating.",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
         "Career 32 starts, 7 wins, 14 placed (from the card — no logged runs in our DB yet)."
       ],
       "_strengths": [],
@@ -504,10 +533,10 @@
       "marketRank": 5,
       "rank": 7,
       "marketDisagree": false,
-      "pWin": 0.0696,
-      "pPlace": 0.2382,
+      "pWin": 0.0686,
+      "pPlace": 0.235,
       "pMarket": 0.1061,
-      "edge": -0.073
+      "edge": -0.0751
     },
     {
       "name": "DUMBLEDORE",
@@ -561,6 +590,9 @@
         "losesTo": []
       },
       "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
       "classMove": null,
       "reasoning": [
         "Up against it on: class/rating, weight.",
@@ -574,10 +606,10 @@
       "marketRank": 7,
       "rank": 8,
       "marketDisagree": false,
-      "pWin": 0.0481,
-      "pPlace": 0.1689,
+      "pWin": 0.0482,
+      "pPlace": 0.1691,
       "pMarket": 0.0772,
-      "edge": -0.0581
+      "edge": -0.058
     }
   ],
   "comparison": [
@@ -753,7 +785,7 @@
       "no": 6,
       "name": "DANCE VARIETY",
       "rank": 7,
-      "score": 44.2,
+      "score": 43.8,
       "rating": 62,
       "draw": 6,
       "weight": 60,
@@ -770,7 +802,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 0.688,
-        "jockey": 0.5,
+        "jockey": 0.425,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,

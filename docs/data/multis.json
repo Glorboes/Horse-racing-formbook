@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T20:25:01.676Z",
+  "generated": "2026-07-06T11:35:28.380Z",
   "days": {
     "2026-07-05": {
       "bankers": [
@@ -8,8 +8,8 @@
           "track": "TURFFONTEIN",
           "time": "15:00",
           "selection": "ERROL FLYNN",
-          "pWin": 34.7,
-          "pPlace": 77.5,
+          "pWin": 43.3,
+          "pPlace": 86.2,
           "confidence": "strong"
         },
         {
@@ -17,17 +17,17 @@
           "track": "TURFFONTEIN",
           "time": "12:05",
           "selection": "ENFLAME",
-          "pWin": 32.7,
-          "pPlace": 57.9,
+          "pWin": 37.7,
+          "pPlace": 64.5,
           "confidence": "strong"
         },
         {
-          "race": 1,
+          "race": 3,
           "track": "TURFFONTEIN",
-          "time": "11:35",
-          "selection": "STAR MAGNOLIA",
-          "pWin": 32,
-          "pPlace": 73.9,
+          "time": "12:40",
+          "selection": "SECRET FATE",
+          "pWin": 35.6,
+          "pPlace": 61.7,
           "confidence": "strong"
         }
       ],
@@ -35,8 +35,8 @@
         {
           "kind": "win",
           "legs": 3,
-          "combined": 0.0363,
-          "combinedPct": 3.6,
+          "combined": 0.0581,
+          "combinedPct": 5.8,
           "confidence": "speculative",
           "selections": [
             {
@@ -44,29 +44,29 @@
               "track": "TURFFONTEIN",
               "time": "15:00",
               "selection": "ERROL FLYNN",
-              "prob": 34.7
+              "prob": 43.3
             },
             {
               "race": 2,
               "track": "TURFFONTEIN",
               "time": "12:05",
               "selection": "ENFLAME",
-              "prob": 32.7
+              "prob": 37.7
             },
             {
-              "race": 1,
+              "race": 3,
               "track": "TURFFONTEIN",
-              "time": "11:35",
-              "selection": "STAR MAGNOLIA",
-              "prob": 32
+              "time": "12:40",
+              "selection": "SECRET FATE",
+              "prob": 35.6
             }
           ]
         },
         {
           "kind": "win",
           "legs": 4,
-          "combined": 0.0104,
-          "combinedPct": 1,
+          "combined": 0.0186,
+          "combinedPct": 1.9,
           "confidence": "longshot",
           "selections": [
             {
@@ -74,14 +74,21 @@
               "track": "TURFFONTEIN",
               "time": "15:00",
               "selection": "ERROL FLYNN",
-              "prob": 34.7
+              "prob": 43.3
             },
             {
               "race": 2,
               "track": "TURFFONTEIN",
               "time": "12:05",
               "selection": "ENFLAME",
-              "prob": 32.7
+              "prob": 37.7
+            },
+            {
+              "race": 3,
+              "track": "TURFFONTEIN",
+              "time": "12:40",
+              "selection": "SECRET FATE",
+              "prob": 35.6
             },
             {
               "race": 1,
@@ -89,21 +96,14 @@
               "time": "11:35",
               "selection": "STAR MAGNOLIA",
               "prob": 32
-            },
-            {
-              "race": 4,
-              "track": "TURFFONTEIN",
-              "time": "13:15",
-              "selection": "EXPERT WITNESS",
-              "prob": 28.7
             }
           ]
         },
         {
           "kind": "win",
           "legs": 5,
-          "combined": 0.003,
-          "combinedPct": 0.3,
+          "combined": 0.0056,
+          "combinedPct": 0.6,
           "confidence": "longshot",
           "selections": [
             {
@@ -111,14 +111,21 @@
               "track": "TURFFONTEIN",
               "time": "15:00",
               "selection": "ERROL FLYNN",
-              "prob": 34.7
+              "prob": 43.3
             },
             {
               "race": 2,
               "track": "TURFFONTEIN",
               "time": "12:05",
               "selection": "ENFLAME",
-              "prob": 32.7
+              "prob": 37.7
+            },
+            {
+              "race": 3,
+              "track": "TURFFONTEIN",
+              "time": "12:40",
+              "selection": "SECRET FATE",
+              "prob": 35.6
             },
             {
               "race": 1,
@@ -132,14 +139,7 @@
               "track": "TURFFONTEIN",
               "time": "13:15",
               "selection": "EXPERT WITNESS",
-              "prob": 28.7
-            },
-            {
-              "race": 9,
-              "track": "TURFFONTEIN",
-              "time": "16:10",
-              "selection": "WARNING SOUND",
-              "prob": 28.6
+              "prob": 29.9
             }
           ]
         }
@@ -148,8 +148,8 @@
         {
           "kind": "place",
           "legs": 4,
-          "combined": 0.271,
-          "combinedPct": 27.1,
+          "combined": 0.3045,
+          "combinedPct": 30.5,
           "confidence": "strong",
           "selections": [
             {
@@ -157,7 +157,7 @@
               "track": "TURFFONTEIN",
               "time": "15:00",
               "selection": "ERROL FLYNN",
-              "prob": 77.5
+              "prob": 86.2
             },
             {
               "race": 1,
@@ -171,22 +171,22 @@
               "track": "TURFFONTEIN",
               "time": "13:15",
               "selection": "EXPERT WITNESS",
-              "prob": 69.1
+              "prob": 70.8
             },
             {
-              "race": 9,
+              "race": 5,
               "track": "TURFFONTEIN",
-              "time": "16:10",
-              "selection": "WARNING SOUND",
-              "prob": 68.5
+              "time": "13:50",
+              "selection": "WHATSDAMATTERWITHU",
+              "prob": 67.6
             }
           ]
         },
         {
           "kind": "place",
           "legs": 5,
-          "combined": 0.1843,
-          "combinedPct": 18.4,
+          "combined": 0.2018,
+          "combinedPct": 20.2,
           "confidence": "fair",
           "selections": [
             {
@@ -194,7 +194,7 @@
               "track": "TURFFONTEIN",
               "time": "15:00",
               "selection": "ERROL FLYNN",
-              "prob": 77.5
+              "prob": 86.2
             },
             {
               "race": 1,
@@ -208,72 +208,72 @@
               "track": "TURFFONTEIN",
               "time": "13:15",
               "selection": "EXPERT WITNESS",
-              "prob": 69.1
-            },
-            {
-              "race": 9,
-              "track": "TURFFONTEIN",
-              "time": "16:10",
-              "selection": "WARNING SOUND",
-              "prob": 68.5
+              "prob": 70.8
             },
             {
               "race": 5,
               "track": "TURFFONTEIN",
               "time": "13:50",
               "selection": "WHATSDAMATTERWITHU",
-              "prob": 68
-            }
-          ]
-        },
-        {
-          "kind": "place",
-          "legs": 6,
-          "combined": 0.1154,
-          "combinedPct": 11.5,
-          "confidence": "fair",
-          "selections": [
-            {
-              "race": 7,
-              "track": "TURFFONTEIN",
-              "time": "15:00",
-              "selection": "ERROL FLYNN",
-              "prob": 77.5
-            },
-            {
-              "race": 1,
-              "track": "TURFFONTEIN",
-              "time": "11:35",
-              "selection": "STAR MAGNOLIA",
-              "prob": 73.9
-            },
-            {
-              "race": 4,
-              "track": "TURFFONTEIN",
-              "time": "13:15",
-              "selection": "EXPERT WITNESS",
-              "prob": 69.1
-            },
-            {
-              "race": 9,
-              "track": "TURFFONTEIN",
-              "time": "16:10",
-              "selection": "WARNING SOUND",
-              "prob": 68.5
-            },
-            {
-              "race": 5,
-              "track": "TURFFONTEIN",
-              "time": "13:50",
-              "selection": "WHATSDAMATTERWITHU",
-              "prob": 68
+              "prob": 67.6
             },
             {
               "race": 10,
               "track": "TURFFONTEIN",
               "time": "16:45",
               "selection": "WAR REPORTER",
-              "prob": 62.6
+              "prob": 66.3
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.1312,
+          "combinedPct": 13.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "TURFFONTEIN",
+              "time": "15:00",
+              "selection": "ERROL FLYNN",
+              "prob": 86.2
+            },
+            {
+              "race": 1,
+              "track": "TURFFONTEIN",
+              "time": "11:35",
+              "selection": "STAR MAGNOLIA",
+              "prob": 73.9
+            },
+            {
+              "race": 4,
+              "track": "TURFFONTEIN",
+              "time": "13:15",
+              "selection": "EXPERT WITNESS",
+              "prob": 70.8
+            },
+            {
+              "race": 5,
+              "track": "TURFFONTEIN",
+              "time": "13:50",
+              "selection": "WHATSDAMATTERWITHU",
+              "prob": 67.6
+            },
+            {
+              "race": 10,
+              "track": "TURFFONTEIN",
+              "time": "16:45",
+              "selection": "WAR REPORTER",
+              "prob": 66.3
+            },
+            {
+              "race": 9,
+              "track": "TURFFONTEIN",
+              "time": "16:10",
+              "selection": "WARNING SOUND",
+              "prob": 65
             }
           ]
         }
@@ -282,14 +282,20 @@
         {
           "race": 9,
           "selection": "WARNING SOUND",
-          "edgePts": 25,
-          "pWin": 28.6
+          "edgePts": 20.5,
+          "pWin": 26.3
+        },
+        {
+          "race": 3,
+          "selection": "SECRET FATE",
+          "edgePts": 19.2,
+          "pWin": 35.6
         },
         {
           "race": 4,
           "selection": "EXPERT WITNESS",
-          "edgePts": 16.1,
-          "pWin": 28.7
+          "edgePts": 18.6,
+          "pWin": 29.9
         },
         {
           "race": 1,
@@ -298,17 +304,23 @@
           "pWin": 32
         },
         {
+          "race": 7,
+          "selection": "ERROL FLYNN",
+          "edgePts": 14.7,
+          "pWin": 43.3
+        },
+        {
           "race": 6,
           "selection": "KING’S EXPRESS",
-          "edgePts": 10.2,
-          "pWin": 25.9
+          "edgePts": 9.1,
+          "pWin": 25.3
         }
       ],
       "best": {
         "kind": "win",
         "legs": 3,
-        "combined": 0.0363,
-        "combinedPct": 3.6,
+        "combined": 0.0581,
+        "combinedPct": 5.8,
         "confidence": "speculative",
         "selections": [
           {
@@ -316,21 +328,21 @@
             "track": "TURFFONTEIN",
             "time": "15:00",
             "selection": "ERROL FLYNN",
-            "prob": 34.7
+            "prob": 43.3
           },
           {
             "race": 2,
             "track": "TURFFONTEIN",
             "time": "12:05",
             "selection": "ENFLAME",
-            "prob": 32.7
+            "prob": 37.7
           },
           {
-            "race": 1,
+            "race": 3,
             "track": "TURFFONTEIN",
-            "time": "11:35",
-            "selection": "STAR MAGNOLIA",
-            "prob": 32
+            "time": "12:40",
+            "selection": "SECRET FATE",
+            "prob": 35.6
           }
         ]
       },
@@ -352,8 +364,8 @@
           "track": "HOLLYWOODBETS DURBANVILLE",
           "time": "13:25",
           "selection": "MORDECHAI",
-          "pWin": 29,
-          "pPlace": 70.8,
+          "pWin": 28.5,
+          "pPlace": 70.2,
           "confidence": "strong"
         },
         {
@@ -361,8 +373,8 @@
           "track": "HOLLYWOODBETS DURBANVILLE",
           "time": "14:35",
           "selection": "LIEFLING",
-          "pWin": 27.7,
-          "pPlace": 66.6,
+          "pWin": 27.8,
+          "pPlace": 66.7,
           "confidence": "strong"
         }
       ],
@@ -370,8 +382,8 @@
         {
           "kind": "win",
           "legs": 3,
-          "combined": 0.0256,
-          "combinedPct": 2.6,
+          "combined": 0.0252,
+          "combinedPct": 2.5,
           "confidence": "longshot",
           "selections": [
             {
@@ -386,21 +398,21 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 29
+              "prob": 28.5
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 27.7
+              "prob": 27.8
             }
           ]
         },
         {
           "kind": "win",
           "legs": 4,
-          "combined": 0.0071,
+          "combined": 0.007,
           "combinedPct": 0.7,
           "confidence": "longshot",
           "selections": [
@@ -416,14 +428,14 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 29
+              "prob": 28.5
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 27.7
+              "prob": 27.8
             },
             {
               "race": 8,
@@ -437,7 +449,7 @@
         {
           "kind": "win",
           "legs": 5,
-          "combined": 0.0019,
+          "combined": 0.0018,
           "combinedPct": 0.2,
           "confidence": "longshot",
           "selections": [
@@ -453,14 +465,14 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 29
+              "prob": 28.5
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 27.7
+              "prob": 27.8
             },
             {
               "race": 8,
@@ -474,7 +486,7 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "15:45",
               "selection": "SUPERHERO",
-              "prob": 26.9
+              "prob": 26.1
             }
           ]
         }
@@ -483,8 +495,8 @@
         {
           "kind": "place",
           "legs": 4,
-          "combined": 0.2341,
-          "combinedPct": 23.4,
+          "combined": 0.2307,
+          "combinedPct": 23.1,
           "confidence": "fair",
           "selections": [
             {
@@ -499,73 +511,73 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 70.8
+              "prob": 70.2
             },
             {
               "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "16:55",
               "selection": "GOLD GIBOSKI",
-              "prob": 68.4
-            },
-            {
-              "race": 6,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "15:45",
-              "selection": "SUPERHERO",
-              "prob": 67.1
-            }
-          ]
-        },
-        {
-          "kind": "place",
-          "legs": 5,
-          "combined": 0.1558,
-          "combinedPct": 15.6,
-          "confidence": "fair",
-          "selections": [
-            {
-              "race": 1,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "12:50",
-              "selection": "ONTHEWINGSOFADOVE",
-              "prob": 72
-            },
-            {
-              "race": 2,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "13:25",
-              "selection": "MORDECHAI",
-              "prob": 70.8
-            },
-            {
-              "race": 8,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "16:55",
-              "selection": "GOLD GIBOSKI",
-              "prob": 68.4
-            },
-            {
-              "race": 6,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "15:45",
-              "selection": "SUPERHERO",
-              "prob": 67.1
+              "prob": 68.5
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 66.6
+              "prob": 66.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.1521,
+          "combinedPct": 15.2,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "ONTHEWINGSOFADOVE",
+              "prob": 72
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:25",
+              "selection": "MORDECHAI",
+              "prob": 70.2
+            },
+            {
+              "race": 8,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "16:55",
+              "selection": "GOLD GIBOSKI",
+              "prob": 68.5
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:35",
+              "selection": "LIEFLING",
+              "prob": 66.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 65.9
             }
           ]
         },
         {
           "kind": "place",
           "legs": 6,
-          "combined": 0.0997,
-          "combinedPct": 10,
+          "combined": 0.0973,
+          "combinedPct": 9.7,
           "confidence": "speculative",
           "selections": [
             {
@@ -580,28 +592,28 @@
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "13:25",
               "selection": "MORDECHAI",
-              "prob": 70.8
+              "prob": 70.2
             },
             {
               "race": 8,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "16:55",
               "selection": "GOLD GIBOSKI",
-              "prob": 68.4
-            },
-            {
-              "race": 6,
-              "track": "HOLLYWOODBETS DURBANVILLE",
-              "time": "15:45",
-              "selection": "SUPERHERO",
-              "prob": 67.1
+              "prob": 68.5
             },
             {
               "race": 4,
               "track": "HOLLYWOODBETS DURBANVILLE",
               "time": "14:35",
               "selection": "LIEFLING",
-              "prob": 66.6
+              "prob": 66.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:45",
+              "selection": "SUPERHERO",
+              "prob": 65.9
             },
             {
               "race": 5,
@@ -617,31 +629,31 @@
         {
           "race": 8,
           "selection": "GOLD GIBOSKI",
-          "edgePts": 21.4,
+          "edgePts": 21.5,
           "pWin": 27.7
         },
         {
           "race": 6,
           "selection": "SUPERHERO",
-          "edgePts": 20.5,
-          "pWin": 26.9
+          "edgePts": 19,
+          "pWin": 26.1
         },
         {
           "race": 7,
           "selection": "PRINCE OF TIBET",
-          "edgePts": 13.3,
-          "pWin": 23.3
+          "edgePts": 13.7,
+          "pWin": 23.5
         },
         {
           "race": 4,
           "selection": "LIEFLING",
-          "edgePts": 12.3,
-          "pWin": 27.7
+          "edgePts": 12.5,
+          "pWin": 27.8
         },
         {
           "race": 5,
           "selection": "PROTECTOR OF PEACE",
-          "edgePts": 9.7,
+          "edgePts": 9.8,
           "pWin": 25.9
         },
         {
@@ -654,8 +666,8 @@
       "best": {
         "kind": "win",
         "legs": 3,
-        "combined": 0.0256,
-        "combinedPct": 2.6,
+        "combined": 0.0252,
+        "combinedPct": 2.5,
         "confidence": "longshot",
         "selections": [
           {
@@ -670,14 +682,14 @@
             "track": "HOLLYWOODBETS DURBANVILLE",
             "time": "13:25",
             "selection": "MORDECHAI",
-            "prob": 29
+            "prob": 28.5
           },
           {
             "race": 4,
             "track": "HOLLYWOODBETS DURBANVILLE",
             "time": "14:35",
             "selection": "LIEFLING",
-            "prob": 27.7
+            "prob": 27.8
           }
         ]
       },

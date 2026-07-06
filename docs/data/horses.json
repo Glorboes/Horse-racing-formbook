@@ -1,427 +1,23 @@
 {
-  "generated": "2026-07-05T20:25:01.674Z",
-  "count": 73,
+  "generated": "2026-07-06T11:35:28.377Z",
+  "count": 68,
   "horses": [
-    {
-      "key": "EL BARB",
-      "name": "El Barb",
-      "rating": null,
-      "starts": 4,
-      "wins": 2,
-      "places": 3,
-      "winPct": 50,
-      "placePct": 75,
-      "lastFive": "4121",
-      "tracks": [
-        "Turffontein",
-        "Vaal",
-        "Greyville"
-      ],
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Golden Reef",
-            "Night Watch",
-            "Cape Venture"
-          ],
-          "weight": 59,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 2
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 0.5,
-          "beaten": [
-            "Cape Venture",
-            "Golden Reef"
-          ],
-          "weight": 60,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 3
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 1,
-          "field": 3,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Night Watch",
-            "Silver Host"
-          ],
-          "weight": 60,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 4
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 3.5,
-          "beaten": [],
-          "weight": 61,
-          "jockey": "M Yeni",
-          "trainer": "S Tarry",
-          "draw": 1
-        }
-      ],
-      "h2h": {
-        "wins": 7,
-        "losses": 4,
-        "beats": [
-          "Golden Reef",
-          "Night Watch",
-          "Cape Venture",
-          "Silver Host"
-        ],
-        "losesTo": [
-          "Golden Reef",
-          "Cape Venture",
-          "Silver Host"
-        ]
-      }
-    },
-    {
-      "key": "CAPE VENTURE",
-      "name": "Cape Venture",
-      "rating": null,
-      "starts": 3,
-      "wins": 0,
-      "places": 2,
-      "winPct": 0,
-      "placePct": 67,
-      "lastFive": "334",
-      "tracks": [
-        "Turffontein",
-        "Vaal",
-        "Greyville"
-      ],
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 4.25,
-          "beaten": [],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 8
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.75,
-          "beaten": [
-            "Golden Reef"
-          ],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 7
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.25,
-          "beaten": [
-            "El Barb"
-          ],
-          "weight": 55,
-          "jockey": null,
-          "trainer": null,
-          "draw": 8
-        }
-      ],
-      "h2h": {
-        "wins": 2,
-        "losses": 7,
-        "beats": [
-          "El Barb",
-          "Golden Reef"
-        ],
-        "losesTo": [
-          "El Barb",
-          "Golden Reef",
-          "Night Watch",
-          "Silver Host"
-        ]
-      }
-    },
-    {
-      "key": "GOLDEN REEF",
-      "name": "Golden Reef",
-      "rating": null,
-      "starts": 3,
-      "wins": 0,
-      "places": 2,
-      "winPct": 0,
-      "placePct": 67,
-      "lastFive": "242",
-      "tracks": [
-        "Turffontein",
-        "Vaal",
-        "Greyville"
-      ],
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 0.75,
-          "beaten": [
-            "Night Watch",
-            "Cape Venture"
-          ],
-          "weight": 57,
-          "jockey": "L Mxothwa",
-          "trainer": "G Woodruff",
-          "draw": 6
-        },
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 4,
-          "field": 4,
-          "marginBehindWinner": 3.25,
-          "beaten": [],
-          "weight": 56,
-          "jockey": null,
-          "trainer": null,
-          "draw": 1
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 2,
-          "field": 4,
-          "marginBehindWinner": 1.75,
-          "beaten": [
-            "Cape Venture",
-            "El Barb"
-          ],
-          "weight": 56,
-          "jockey": "L Mxothwa",
-          "trainer": "G Woodruff",
-          "draw": 5
-        }
-      ],
-      "h2h": {
-        "wins": 4,
-        "losses": 5,
-        "beats": [
-          "El Barb",
-          "Night Watch",
-          "Cape Venture"
-        ],
-        "losesTo": [
-          "El Barb",
-          "Cape Venture",
-          "Silver Host"
-        ]
-      }
-    },
-    {
-      "key": "SILVER HOST",
-      "name": "Silver Host",
-      "rating": null,
-      "starts": 3,
-      "wins": 2,
-      "places": 3,
-      "winPct": 67,
-      "placePct": 100,
-      "lastFive": "131",
-      "tracks": [
-        "Vaal",
-        "Turffontein",
-        "Greyville"
-      ],
-      "runs": [
-        {
-          "date": "2026-05-03",
-          "track": "Vaal",
-          "race": 6,
-          "distance": 1600,
-          "going": "Good to Firm",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "El Barb",
-            "Cape Venture",
-            "Golden Reef"
-          ],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 5
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 3,
-          "field": 3,
-          "marginBehindWinner": 1.25,
-          "beaten": [],
-          "weight": 58,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 6
-        },
-        {
-          "date": "2026-06-14",
-          "track": "Greyville",
-          "race": 5,
-          "distance": 1600,
-          "going": "Soft",
-          "finish": 1,
-          "field": 4,
-          "marginBehindWinner": 0,
-          "beaten": [
-            "Golden Reef",
-            "Cape Venture",
-            "El Barb"
-          ],
-          "weight": 59,
-          "jockey": "R Danielson",
-          "trainer": "J Snaith",
-          "draw": 3
-        }
-      ],
-      "h2h": {
-        "wins": 6,
-        "losses": 2,
-        "beats": [
-          "El Barb",
-          "Cape Venture",
-          "Golden Reef"
-        ],
-        "losesTo": [
-          "El Barb",
-          "Night Watch"
-        ]
-      }
-    },
-    {
-      "key": "NIGHT WATCH",
-      "name": "Night Watch",
-      "rating": null,
-      "starts": 2,
-      "wins": 0,
-      "places": 2,
-      "winPct": 0,
-      "placePct": 100,
-      "lastFive": "23",
-      "tracks": [
-        "Turffontein"
-      ],
-      "runs": [
-        {
-          "date": "2026-04-12",
-          "track": "Turffontein",
-          "race": 4,
-          "distance": 1450,
-          "going": "Good",
-          "finish": 3,
-          "field": 4,
-          "marginBehindWinner": 2.25,
-          "beaten": [
-            "Cape Venture"
-          ],
-          "weight": 56,
-          "jockey": "C Zackey",
-          "trainer": "M Azzie",
-          "draw": 4
-        },
-        {
-          "date": "2026-05-24",
-          "track": "Turffontein",
-          "race": 7,
-          "distance": 1600,
-          "going": "Good",
-          "finish": 2,
-          "field": 3,
-          "marginBehindWinner": 1,
-          "beaten": [
-            "Silver Host"
-          ],
-          "weight": 57,
-          "jockey": "C Zackey",
-          "trainer": "M Azzie",
-          "draw": 2
-        }
-      ],
-      "h2h": {
-        "wins": 2,
-        "losses": 3,
-        "beats": [
-          "Cape Venture",
-          "Silver Host"
-        ],
-        "losesTo": [
-          "El Barb",
-          "Golden Reef"
-        ]
-      }
-    },
     {
       "key": "AFRICAN PRIDE",
       "name": "African Pride",
       "rating": null,
+      "trainer": "C Spies",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "R A Venniker",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -450,7 +46,7 @@
           ],
           "weight": 54,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "C Spies",
           "draw": 2
         }
       ],
@@ -474,9 +70,18 @@
       "key": "AFTER HOURS",
       "name": "After Hours",
       "rating": null,
+      "trainer": "S J Gray",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -503,7 +108,7 @@
           ],
           "weight": 58.5,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "S J Gray",
           "draw": 2
         }
       ],
@@ -525,9 +130,18 @@
       "key": "ANGLE OF ATTACK",
       "name": "Angle Of Attack",
       "rating": null,
+      "trainer": "A Ndzilana",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J R Syster",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -555,7 +169,7 @@
           ],
           "weight": 57,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 4
         }
       ],
@@ -580,9 +194,18 @@
       "key": "BELLFLOWER",
       "name": "Bellflower",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "B Marx-Jacobson",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -629,9 +252,18 @@
       "key": "BLUE STORM RUNNER",
       "name": "Blue Storm Runner",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "T Matsoele",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "7",
@@ -676,9 +308,18 @@
       "key": "CAMPO FORMIO",
       "name": "Campo Formio",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "T Mayhew",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "7",
@@ -731,9 +372,18 @@
       "key": "CHAPBOOK",
       "name": "Chapbook",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "B Marx-Jacobson",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -787,9 +437,18 @@
       "key": "CHARMING CHEETAH",
       "name": "Charming Cheetah",
       "rating": null,
+      "trainer": "R Klaasen",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "7",
@@ -814,7 +473,7 @@
           ],
           "weight": 54,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 5
         }
       ],
@@ -838,9 +497,18 @@
       "key": "CHESTNUT BOMBER",
       "name": "Chestnut Bomber",
       "rating": null,
+      "trainer": "J J van Vuuren",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K de Melo",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -867,7 +535,7 @@
           ],
           "weight": 57.5,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J J van Vuuren",
           "draw": 4
         }
       ],
@@ -889,9 +557,18 @@
       "key": "CHRONICLE KING",
       "name": "Chronicle King",
       "rating": null,
+      "trainer": "T Dawson",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -920,7 +597,7 @@
           ],
           "weight": 60,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 4
         }
       ],
@@ -943,9 +620,18 @@
       "key": "COPPER EAGLE",
       "name": "Copper Eagle",
       "rating": null,
+      "trainer": "R Klaasen",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -972,7 +658,7 @@
           ],
           "weight": 58,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 6
         }
       ],
@@ -995,9 +681,18 @@
       "key": "DANTONFROMSANDTON",
       "name": "Dantonfromsandton",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -1023,7 +718,7 @@
           ],
           "weight": 59,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 3
         }
       ],
@@ -1045,9 +740,18 @@
       "key": "DEAR DOC",
       "name": "Dear Doc",
       "rating": null,
+      "trainer": "A Ndzilana",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -1077,7 +781,7 @@
           ],
           "weight": 60,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 2
         }
       ],
@@ -1102,9 +806,18 @@
       "key": "DONT CRY FOR ME",
       "name": "Don't Cry For Me",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -1127,7 +840,7 @@
           "beaten": [],
           "weight": 54,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 1
         }
       ],
@@ -1148,9 +861,18 @@
       "key": "EHHFIFTEENKJOE",
       "name": "Ehhfifteenkjoe",
       "rating": null,
+      "trainer": "A Ndzilana",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Ngcobo",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "9",
@@ -1173,7 +895,7 @@
           "beaten": [],
           "weight": 60,
           "jockey": "C Ngcobo",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 8
         }
       ],
@@ -1197,9 +919,18 @@
       "key": "ENFLAME",
       "name": "Enflame",
       "rating": null,
+      "trainer": "T Dawson",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -1225,7 +956,7 @@
           ],
           "weight": 60,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 1
         }
       ],
@@ -1243,9 +974,18 @@
       "key": "ERIKS GIRL",
       "name": "Erik's Girl",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "N Ngqwangi",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -1293,9 +1033,18 @@
       "key": "ERROL FLYNN",
       "name": "Errol Flynn",
       "rating": null,
+      "trainer": "J A Soma",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K de Melo",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -1325,7 +1074,7 @@
           ],
           "weight": 58,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J A Soma",
           "draw": 5
         }
       ],
@@ -1347,9 +1096,18 @@
       "key": "EUPHRATES",
       "name": "Euphrates",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -1372,7 +1130,7 @@
           "beaten": [],
           "weight": 54,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 3
         }
       ],
@@ -1390,9 +1148,18 @@
       "key": "EXPERT WITNESS",
       "name": "Expert Witness",
       "rating": null,
+      "trainer": "T Dawson",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "8",
@@ -1417,7 +1184,7 @@
           ],
           "weight": 57,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "T Dawson",
           "draw": 7
         }
       ],
@@ -1442,9 +1209,18 @@
       "key": "FIELD OF DREAMS",
       "name": "Field Of Dreams",
       "rating": null,
+      "trainer": "A Ndzilana",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "0",
@@ -1467,7 +1243,7 @@
           "beaten": [],
           "weight": 57,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "A Ndzilana",
           "draw": 2
         }
       ],
@@ -1492,9 +1268,18 @@
       "key": "FIRE N FLAMES",
       "name": "Fire 'N Flames",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R A Venniker",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -1542,9 +1327,18 @@
       "key": "GLASTONBURY FIRE",
       "name": "Glastonbury Fire",
       "rating": null,
+      "trainer": "M de Kock",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "N Klink",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -1573,7 +1367,7 @@
           ],
           "weight": 60,
           "jockey": "N Klink",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 6
         }
       ],
@@ -1599,9 +1393,18 @@
       "key": "GOT THE FEELING",
       "name": "Got The Feeling",
       "rating": null,
+      "trainer": "F Bronkhorst",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K Strydom",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -1629,7 +1432,7 @@
           ],
           "weight": 58,
           "jockey": "K Strydom",
-          "trainer": null,
+          "trainer": "F Bronkhorst",
           "draw": 3
         }
       ],
@@ -1652,9 +1455,18 @@
       "key": "GOTTHETIGER",
       "name": "Gotthetiger",
       "rating": null,
+      "trainer": "J A Soma",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K de Melo",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -1686,7 +1498,7 @@
           ],
           "weight": 57,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "J A Soma",
           "draw": 1
         }
       ],
@@ -1710,9 +1522,18 @@
       "key": "HARTREE",
       "name": "Hartree",
       "rating": null,
+      "trainer": "R R Sage",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -1739,7 +1560,7 @@
           ],
           "weight": 57,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "R R Sage",
           "draw": 6
         }
       ],
@@ -1764,9 +1585,18 @@
       "key": "HARUN AL RASHID",
       "name": "Harun Al Rashid",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K J Lihaba",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -1794,7 +1624,7 @@
           ],
           "weight": 60,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 4
         }
       ],
@@ -1816,9 +1646,18 @@
       "key": "HAWKBILL",
       "name": "Hawkbill",
       "rating": null,
+      "trainer": "M N Houdalakis",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M K Katjedi",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -1846,7 +1685,7 @@
           ],
           "weight": 52,
           "jockey": "M K Katjedi",
-          "trainer": null,
+          "trainer": "M N Houdalakis",
           "draw": 2
         }
       ],
@@ -1868,9 +1707,18 @@
       "key": "IMPRESSIVE",
       "name": "Impressive",
       "rating": null,
+      "trainer": "P F Matchett",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -1897,7 +1745,7 @@
           ],
           "weight": 58,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 4
         }
       ],
@@ -1919,9 +1767,18 @@
       "key": "KENSAL GREEN",
       "name": "Kensal Green",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "R A Venniker",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -1950,7 +1807,7 @@
           ],
           "weight": 57.5,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 1
         }
       ],
@@ -1971,9 +1828,18 @@
       "key": "KINGS EXPRESS",
       "name": "King's Express",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "B Marx-Jacobson",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -2022,9 +1888,18 @@
       "key": "LEANNES LOVE",
       "name": "Leanne's Love",
       "rating": null,
+      "trainer": "H van der Westhuizen",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J R Syster",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "8",
@@ -2050,7 +1925,7 @@
           ],
           "weight": 57.5,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "H van der Westhuizen",
           "draw": 10
         }
       ],
@@ -2076,9 +1951,18 @@
       "key": "MASTER CHRISTMAS",
       "name": "Master Christmas",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K J Lihaba",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -2106,7 +1990,7 @@
           ],
           "weight": 59,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 2
         }
       ],
@@ -2128,9 +2012,18 @@
       "key": "MO MENT",
       "name": "Mo Ment",
       "rating": null,
+      "trainer": "B Webber",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -2155,7 +2048,7 @@
           ],
           "weight": 54,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "B Webber",
           "draw": 2
         }
       ],
@@ -2174,9 +2067,18 @@
       "key": "PARISIENNE QUEEN",
       "name": "Parisienne Queen",
       "rating": null,
+      "trainer": "A G Laird",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K J Lihaba",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -2207,7 +2109,7 @@
           ],
           "weight": 57.5,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A G Laird",
           "draw": 9
         }
       ],
@@ -2233,9 +2135,18 @@
       "key": "PAUL REVERE",
       "name": "Paul Revere",
       "rating": null,
+      "trainer": "C J Lensley",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -2260,7 +2171,7 @@
           ],
           "weight": 58,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "C J Lensley",
           "draw": 6
         }
       ],
@@ -2282,9 +2193,18 @@
       "key": "PENNYS CHOICE",
       "name": "Pennys Choice",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Mabaya",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "3",
@@ -2335,9 +2255,18 @@
       "key": "POLE POSITION",
       "name": "Pole Position",
       "rating": null,
+      "trainer": "M de Kock",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -2369,7 +2298,7 @@
           ],
           "weight": 57,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 7
         }
       ],
@@ -2395,9 +2324,18 @@
       "key": "QUANTUM THEORY",
       "name": "Quantum Theory",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K de Melo",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "8",
@@ -2420,7 +2358,7 @@
           "beaten": [],
           "weight": 56,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
       ],
@@ -2443,9 +2381,18 @@
       "key": "QUEEN LEILA",
       "name": "Queen Leila",
       "rating": null,
+      "trainer": "P F Matchett",
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -2473,7 +2420,7 @@
           ],
           "weight": 60,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 3
         }
       ],
@@ -2495,9 +2442,18 @@
       "key": "RAFES ORACLE",
       "name": "Rafe's Oracle",
       "rating": null,
+      "trainer": "R R Sage",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "7",
@@ -2523,7 +2479,7 @@
           ],
           "weight": 57,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "R R Sage",
           "draw": 5
         }
       ],
@@ -2548,9 +2504,18 @@
       "key": "REGAL QUEEN",
       "name": "Regal Queen",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "T Mango",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -2602,9 +2567,18 @@
       "key": "RUMBA ERUPTA",
       "name": "Rumba Erupta",
       "rating": null,
+      "trainer": "R Klaasen",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "9",
@@ -2629,7 +2603,7 @@
           ],
           "weight": 57,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "R Klaasen",
           "draw": 5
         }
       ],
@@ -2655,9 +2629,18 @@
       "key": "SCARLETT HEART",
       "name": "Scarlett Heart",
       "rating": null,
+      "trainer": "F Bronkhorst",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J Penny",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -2682,7 +2665,7 @@
           ],
           "weight": 55.5,
           "jockey": "J Penny",
-          "trainer": null,
+          "trainer": "F Bronkhorst",
           "draw": 2
         }
       ],
@@ -2705,9 +2688,18 @@
       "key": "SECRET FATE",
       "name": "Secret Fate",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -2733,7 +2725,7 @@
           ],
           "weight": 58,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
       ],
@@ -2755,9 +2747,18 @@
       "key": "SILVER TUDOR",
       "name": "Silver Tudor",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -2780,7 +2781,7 @@
           "beaten": [],
           "weight": 60.5,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 5
         }
       ],
@@ -2801,9 +2802,18 @@
       "key": "SKY PILOT",
       "name": "Sky Pilot",
       "rating": null,
+      "trainer": "C Binda",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -2832,7 +2842,7 @@
           ],
           "weight": 59.5,
           "jockey": "G Lerena",
-          "trainer": null,
+          "trainer": "C Binda",
           "draw": 5
         }
       ],
@@ -2853,9 +2863,18 @@
       "key": "SLINKY MAPIMPI",
       "name": "Slinky Mapimpi",
       "rating": null,
+      "trainer": "J Vermeulen",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M K Katjedi",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -2881,7 +2900,7 @@
           ],
           "weight": 50,
           "jockey": "M K Katjedi",
-          "trainer": null,
+          "trainer": "J Vermeulen",
           "draw": 3
         }
       ],
@@ -2905,9 +2924,18 @@
       "key": "SNOWBLADE",
       "name": "Snowblade",
       "rating": null,
+      "trainer": "M G Azzie",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R A Venniker",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -2936,7 +2964,7 @@
           ],
           "weight": 57,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "M G Azzie",
           "draw": 3
         }
       ],
@@ -2961,9 +2989,18 @@
       "key": "SPICY PLUM",
       "name": "Spicy Plum",
       "rating": null,
+      "trainer": "M de Kock",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -2991,7 +3028,7 @@
           ],
           "weight": 57,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "M de Kock",
           "draw": 4
         }
       ],
@@ -3017,9 +3054,18 @@
       "key": "SPIRIT OF GABZ",
       "name": "Spirit Of Gabz",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "T Mayhew",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
       "winPct": 0,
       "placePct": 100,
       "lastFive": "2",
@@ -3075,9 +3121,18 @@
       "key": "STAR MAGNOLIA",
       "name": "Star Magnolia",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "P Mongqawa",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -3129,9 +3184,18 @@
       "key": "SUNSET WARRIOR",
       "name": "Sunset Warrior",
       "rating": null,
+      "trainer": "B Webber",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J R Syster",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -3157,7 +3221,7 @@
           ],
           "weight": 56.5,
           "jockey": "J R Syster",
-          "trainer": null,
+          "trainer": "B Webber",
           "draw": 3
         }
       ],
@@ -3179,9 +3243,18 @@
       "key": "SURPRISE PARTY",
       "name": "Surprise Party",
       "rating": null,
+      "trainer": "P F Matchett",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "7",
@@ -3204,7 +3277,7 @@
           "beaten": [],
           "weight": 55.5,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 7
         }
       ],
@@ -3226,9 +3299,18 @@
       "key": "TAXI TO THE MOON",
       "name": "Taxi To The Moon",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -3259,7 +3341,7 @@
           ],
           "weight": 62,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 7
         }
       ],
@@ -3282,9 +3364,18 @@
       "key": "THE EQUATOR",
       "name": "The Equator",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -3334,9 +3425,18 @@
       "key": "THE LAST DUKE",
       "name": "The Last Duke",
       "rating": null,
+      "trainer": "P F Matchett",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "P Mxoli",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -3364,7 +3464,7 @@
           ],
           "weight": 50,
           "jockey": "P Mxoli",
-          "trainer": null,
+          "trainer": "P F Matchett",
           "draw": 4
         }
       ],
@@ -3388,9 +3488,18 @@
       "key": "TOP SHELF TEDDY",
       "name": "Top Shelf Teddy",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Matsunyane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -3413,7 +3522,7 @@
           "beaten": [],
           "weight": 60.5,
           "jockey": "K Matsunyane",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 6
         }
       ],
@@ -3434,9 +3543,18 @@
       "key": "UNVARNISHED GOLD",
       "name": "Unvarnished Gold",
       "rating": null,
+      "trainer": "W C Marwing",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Wes Marwing",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "6",
@@ -3459,7 +3577,7 @@
           "beaten": [],
           "weight": 55,
           "jockey": "Wes Marwing",
-          "trainer": null,
+          "trainer": "W C Marwing",
           "draw": 5
         }
       ],
@@ -3480,9 +3598,18 @@
       "key": "UTSAAH",
       "name": "Utsaah",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -3507,7 +3634,7 @@
           ],
           "weight": 57.5,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 1
         }
       ],
@@ -3529,9 +3656,18 @@
       "key": "WHAT NOW MY LOVE",
       "name": "What Now My Love",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Valjalo",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -3580,9 +3716,18 @@
       "key": "WHATSDAMATTERWITHU",
       "name": "Whatsdamatterwithu",
       "rating": null,
+      "trainer": "C Binda",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Habib",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -3615,7 +3760,7 @@
           ],
           "weight": 57,
           "jockey": "C Habib",
-          "trainer": null,
+          "trainer": "C Binda",
           "draw": 3
         }
       ],
@@ -3640,9 +3785,18 @@
       "key": "WILD INTENT",
       "name": "Wild Intent",
       "rating": null,
+      "trainer": "M N Houdalakis",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -3667,7 +3821,7 @@
           ],
           "weight": 56,
           "jockey": "C Zackey",
-          "trainer": null,
+          "trainer": "M N Houdalakis",
           "draw": 6
         }
       ],
@@ -3689,9 +3843,18 @@
       "key": "WINIKA",
       "name": "Winika",
       "rating": null,
+      "trainer": null,
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Dadamasi",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -3741,9 +3904,18 @@
       "key": "WISH YOU WERE HERE",
       "name": "Wish You Were Here",
       "rating": null,
+      "trainer": "W Marwing",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M V'Rensburg",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "4",
@@ -3773,7 +3945,7 @@
           ],
           "weight": 60,
           "jockey": "M V'Rensburg",
-          "trainer": null,
+          "trainer": "W Marwing",
           "draw": 1
         }
       ],
@@ -3799,9 +3971,18 @@
       "key": "WITHIN REACH",
       "name": "Within Reach",
       "rating": null,
+      "trainer": "S G Tarry",
       "starts": 1,
       "wins": 1,
       "places": 1,
+      "jockeys": [
+        {
+          "jockey": "K de Melo",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
       "winPct": 100,
       "placePct": 100,
       "lastFive": "1",
@@ -3830,7 +4011,7 @@
           ],
           "weight": 58,
           "jockey": "K de Melo",
-          "trainer": null,
+          "trainer": "S G Tarry",
           "draw": 2
         }
       ],
@@ -3851,9 +4032,18 @@
       "key": "WORLD OF ROYALTY",
       "name": "World Of Royalty",
       "rating": null,
+      "trainer": "W C Marwing",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R A Venniker",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -3879,7 +4069,7 @@
           ],
           "weight": 58,
           "jockey": "R A Venniker",
-          "trainer": null,
+          "trainer": "W C Marwing",
           "draw": 1
         }
       ],
@@ -3902,9 +4092,18 @@
       "key": "ZALATORIS",
       "name": "Zalatoris",
       "rating": null,
+      "trainer": "A P Peter",
       "starts": 1,
       "wins": 0,
       "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K J Lihaba",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
       "winPct": 0,
       "placePct": 0,
       "lastFive": "5",
@@ -3931,7 +4130,7 @@
           ],
           "weight": 54,
           "jockey": "K J Lihaba",
-          "trainer": null,
+          "trainer": "A P Peter",
           "draw": 1
         }
       ],
