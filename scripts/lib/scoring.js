@@ -1,15 +1,19 @@
 'use strict';
 
+const fs = require('fs');
+const path = require('path');
 const { normalizeName } = require('./names');
 const { strongestByHeadToHead, comboRecord, lastRunBefore, jockeyRecord, trainerRecord, horseJockeyRecord } = require('./formbook');
 
 const H2H_MIN_SAMPLE = 5; // fewer than this many meetings = "small sample"
 
 // ---------------------------------------------------------------------------
-// Weighting. Tune here. The 8 base factors are the existing system; the two
-// new contributors (headToHead, recencyMargin) are additive on top.
+// Weighting. The 8 base factors are the original system; headToHead and
+// recencyMargin are additive on top. These are the DEFAULTS — if the
+// auto-tuner has learned weights from settled results (data/weights.json),
+// those are merged over the top. Order here defines the feature vector.
 // ---------------------------------------------------------------------------
-const WEIGHTS = {
+const DEFAULT_WEIGHTS = {
   form: 18,          // 1. recent finishing positions
   rating: 16,        // 2. merit / class rating
   distance: 10,      // 3. proven at today's distance
@@ -21,6 +25,18 @@ const WEIGHTS = {
   headToHead: 12,    // NEW: H2H vs today's actual field
   recencyMargin: 12, // NEW: recency-weighted winning/beaten margins
 };
+
+// Learned weights override defaults when present (written by scripts/tune-weights.js --apply).
+const WEIGHTS = (() => {
+  try {
+    const wf = path.resolve(__dirname, '..', '..', 'data', 'weights.json');
+    if (fs.existsSync(wf)) {
+      const learned = JSON.parse(fs.readFileSync(wf, 'utf8'));
+      if (learned && learned.weights) return { ...DEFAULT_WEIGHTS, ...learned.weights };
+    }
+  } catch { /* fall back to defaults */ }
+  return { ...DEFAULT_WEIGHTS };
+})();
 
 const clamp01 = (x) => Math.max(0, Math.min(1, x));
 
@@ -301,4 +317,4 @@ function buildReasoning(s) {
   return notes;
 }
 
-module.exports = { scoreRace, WEIGHTS };
+module.exports = { scoreRace, WEIGHTS, DEFAULT_WEIGHTS };

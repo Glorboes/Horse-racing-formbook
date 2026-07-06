@@ -47,6 +47,24 @@ recently. `0.5 ^ (ageDays/200)` decay, margin mapped over ~12 lengths.
 all three, plus strike-rate history.
 
 ## Tuning
-Edit `WEIGHTS`. Re-run `predict` on any racecard — nothing else changes.
-The two new factors are deliberately additive: set them to `0` and you get the
-original 8-factor behaviour back.
+Edit `DEFAULT_WEIGHTS` in `scripts/lib/scoring.js` by hand, or let the model
+learn them.
+
+### Auto-tuning the weights (`scripts/tune-weights.js`)
+Once enough races have settled, the weights can be **fitted from actual results**
+instead of hand-set — using conditional logistic regression (the correct model
+for "one winner per race"): `P(i wins) = softmax(w · factors_i)`, fit by
+maximising the likelihood of the real winners.
+
+```bash
+node scripts/tune-weights.js          # fit + report, changes nothing
+node scripts/tune-weights.js --apply  # write data/weights.json (gated)
+node scripts/tune-weights.js --reset  # revert to defaults
+```
+
+It stays a **glass box** — it prints the learned weights, and it will only
+*apply* them when: there are **≥200 settled races** and the tuned weights
+**beat the defaults out-of-sample** (time-split validation). Below that it just
+reports. If `data/weights.json` exists, `scoring.js` merges it over the
+defaults; delete it (or `--reset`) to go back. Guardrails: L2 regularisation +
+non-negative weights + the data gate stop it over-fitting thin data.
