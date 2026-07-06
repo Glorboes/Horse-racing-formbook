@@ -8,3 +8,7 @@ data/results-inbox/processed/
 docs/preview.png
 docs/preview*.png
 data/review/*.parsed.json
+data/backtest/cards/*
+data/backtest/results/*
+!data/backtest/cards/.gitkeep
+!data/backtest/results/.gitkeep

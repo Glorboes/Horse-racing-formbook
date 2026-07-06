@@ -72,7 +72,8 @@ function renderDaybar(days){
   el.innerHTML=days.map(d=>`
     <div class="day ${d.date===CURDAY?'active':''}" onclick="pickDay('${d.date||''}')">
       <div class="d1">${d.date?F.fmtDate(d.date):'All'}</div>
-      <div class="d2">${d.races} race${d.races===1?'':'s'}${d.tracks&&d.tracks.length?' · '+F.esc(d.tracks[0]):''}</div>
+      <div class="d2">${d.tracks&&d.tracks.length?F.esc(d.tracks[0]):d.races+' races'}</div>
+      ${d.circuit&&d.circuit!=='Other'?`<div class="d2" style="color:var(--gold2)">${d.circuit} circuit</div>`:''}
     </div>`).join('');
 }
 function pickDay(d){ CURDAY=d||null; renderDaybar((MANIFEST.days||[])); renderList(); }

@@ -60,4 +60,19 @@ function bestMatch(candidate, knownKeys, threshold = 0.82) {
   return null;
 }
 
-module.exports = { normalizeName, pairKey, levenshtein, bestMatch };
+// SA racing circuits — tracks in the same circuit share horses/jockeys/trainers.
+const CIRCUITS = {
+  Cape: ['kenilworth', 'durbanville'],
+  Highveld: ['turffontein', 'vaal', 'newmarket'],
+  KZN: ['greyville', 'scottsville', 'hollywoodbets greyville', 'hollywoodbets scottsville'],
+  'Eastern Cape': ['fairview'],
+};
+function circuitOf(track) {
+  const t = normalizeName(track).toLowerCase();
+  for (const [circuit, tracks] of Object.entries(CIRCUITS)) {
+    if (tracks.some((x) => t.includes(x))) return circuit;
+  }
+  return 'Other';
+}
+
+module.exports = { normalizeName, pairKey, levenshtein, bestMatch, circuitOf, CIRCUITS };

@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { load, strikeRate, calibration } = require('./formbook');
-const { normalizeName } = require('./names');
+const { normalizeName, circuitOf } = require('./names');
 const { buildDayMultis } = require('./multibet');
 
 const ROOT = path.resolve(__dirname, '..', '..');
@@ -39,7 +39,7 @@ function syncDashboard() {
       const p = JSON.parse(fs.readFileSync(src, 'utf8'));
       entries.push({
         file: `data/predictions/${f}`,
-        id: p.id, date: p.date, track: p.track, race: p.race, time: p.time || null,
+        id: p.id, date: p.date, track: p.track, circuit: circuitOf(p.track), race: p.race, time: p.time || null,
         distance: p.distance, going: p.going, classLabel: p.classLabel || null,
         runners: (p.ranked || []).length,
         topPick: p.ranked && p.ranked[0] ? p.ranked[0].name : null, // model's top rating
@@ -74,6 +74,7 @@ function syncDashboard() {
   const days = Object.keys(byDay).sort((a, b) => b.localeCompare(a)).map((d) => ({
     date: d, races: byDay[d].length,
     tracks: [...new Set(byDay[d].map((e) => e.track).filter(Boolean))],
+    circuit: [...new Set(byDay[d].map((e) => e.circuit).filter(Boolean))][0] || 'Other',
     settled: byDay[d].filter((e) => e.settled).length,
   }));
 
