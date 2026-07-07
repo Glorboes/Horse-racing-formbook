@@ -67,11 +67,12 @@ function logResult(fb, result) {
   // racecard we predicted from DOES have trainers, so cross-fill from it.
   const cardTrainer = {};
   const cardJockey = {};
+  let predFile = null;
   try {
     const pf = path.join(ROOT, 'data', 'predictions', `${predId}.json`);
     if (fs.existsSync(pf)) {
-      const pred = JSON.parse(fs.readFileSync(pf, 'utf8'));
-      for (const r of pred.ranked || []) {
+      predFile = JSON.parse(fs.readFileSync(pf, 'utf8'));
+      for (const r of predFile.ranked || []) {
         const k = normalizeName(r.name);
         if (r.trainer) cardTrainer[k] = r.trainer;
         if (r.jockey) cardJockey[k] = r.jockey;
@@ -130,16 +131,25 @@ function logResult(fb, result) {
     const winnerName = enriched.find((f) => f.finish === 1);
     const finKeys = enriched.map((f) => normalizeName(f.name));
     const placed = enriched.filter((f) => f.finish <= 3).map((f) => normalizeName(f.name));
-    const topPick = pred.ranked && pred.ranked[0];
-    const topKey = topPick ? normalizeName(topPick.name) : null;
-    const scratched = topKey ? !finKeys.includes(topKey) : false; // pick withdrawn after the card
+    // Graded pick = the "most likely to win" we headline (highest win probability),
+    // not the raw model-score top. Falls back to score-top if no probabilities.
+    let pick = null;
+    if (predFile && predFile.ranked && predFile.ranked.length) {
+      pick = predFile.ranked.reduce((a, b) => ((b.pWin || 0) > (a.pWin || 0) ? b : a), predFile.ranked[0]);
+    } else if (pred.ranked && pred.ranked[0]) {
+      pick = pred.ranked[0];
+    }
+    const pickKey = pick ? normalizeName(pick.name) : null;
+    const scratched = pickKey ? !finKeys.includes(pickKey) : false; // pick withdrawn after the card
     pred.settled = true;
     pred.result = {
       winner: winnerName ? winnerName.name.trim() : null,
-      topPick: topPick ? topPick.name : null,
+      topPick: pick ? pick.name : null,
+      pickPWin: pick && pick.pWin != null ? +(+pick.pWin).toFixed(4) : null,
+      pickScore: pick && pick.score != null ? pick.score : null,
       topPickScratched: scratched,
-      topPickWon: !scratched && topKey ? topKey === normalizeName(winnerName?.name) : false,
-      topPickPlaced: !scratched && topKey ? placed.includes(topKey) : false,
+      topPickWon: !scratched && pickKey ? pickKey === normalizeName(winnerName?.name) : false,
+      topPickPlaced: !scratched && pickKey ? placed.includes(pickKey) : false,
     };
   }
 
@@ -315,24 +325,28 @@ function lastRunBefore(fb, horseKey, beforeDate) {
 // ---------------------------------------------------------------------------
 // Confidence calibration: actual win rate of the top pick by score tier
 // ---------------------------------------------------------------------------
+// Probability calibration: group the graded pick by its stated win probability,
+// then compare the AVERAGE predicted probability (expected) to the ACTUAL win
+// rate. A well-calibrated model has expected ≈ actual in every band.
 function calibration(fb) {
   const tiers = [
-    { key: 'high', label: '70+', min: 70, max: Infinity },
-    { key: 'mid', label: '55–70', min: 55, max: 70 },
-    { key: 'low', label: 'below 55', min: -Infinity, max: 55 },
-  ].map((t) => ({ ...t, n: 0, wins: 0, places: 0 }));
+    { label: '40%+', min: 0.40, max: Infinity },
+    { label: '25–40%', min: 0.25, max: 0.40 },
+    { label: '15–25%', min: 0.15, max: 0.25 },
+    { label: 'under 15%', min: -Infinity, max: 0.15 },
+  ].map((t) => ({ ...t, n: 0, wins: 0, sumP: 0 }));
   for (const p of fb.predictionsLog) {
-    if (!p.settled || !p.result || !p.ranked || !p.ranked[0]) continue;
-    if (p.result.topPickScratched) continue; // pick didn't run — void
-    const score = p.ranked[0].score;
-    const tier = tiers.find((t) => score >= t.min && score < t.max);
+    if (!p.settled || !p.result || p.result.topPickScratched) continue;
+    const pw = p.result.pickPWin;
+    if (pw == null) continue;
+    const tier = tiers.find((t) => pw >= t.min && pw < t.max);
     if (!tier) continue;
-    tier.n++; if (p.result.topPickWon) tier.wins++; if (p.result.topPickPlaced) tier.places++;
+    tier.n++; tier.sumP += pw; if (p.result.topPickWon) tier.wins++;
   }
   return tiers.map((t) => ({
-    tier: t.label, n: t.n, wins: t.wins, places: t.places,
-    winPct: t.n ? +((t.wins / t.n) * 100).toFixed(0) : null,
-    placePct: t.n ? +((t.places / t.n) * 100).toFixed(0) : null,
+    tier: t.label, n: t.n, wins: t.wins,
+    expectedPct: t.n ? +((t.sumP / t.n) * 100).toFixed(0) : null, // avg predicted
+    winPct: t.n ? +((t.wins / t.n) * 100).toFixed(0) : null,       // actual
   }));
 }
 

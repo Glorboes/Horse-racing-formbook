@@ -1,10 +1,10 @@
 {
   "settled": 16,
   "scratched": 2,
-  "topPickWins": 8,
-  "topPickPlaces": 10,
-  "winPct": 50,
-  "placePct": 62.5,
+  "topPickWins": 10,
+  "topPickPlaces": 12,
+  "winPct": 62.5,
+  "placePct": 75,
   "history": [
     {
       "id": "2026-07-05-turffontein-r1",
@@ -83,16 +83,16 @@
       "date": "2026-07-07",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 2,
-      "won": false,
-      "placed": false
+      "won": true,
+      "placed": true
     },
     {
       "id": "2026-07-07-hollywoodbets-durbanville-r3",
       "date": "2026-07-07",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 3,
-      "won": false,
-      "placed": false
+      "won": true,
+      "placed": true
     },
     {
       "id": "2026-07-07-hollywoodbets-durbanville-r4",
@@ -137,28 +137,32 @@
   ],
   "calibration": [
     {
-      "tier": "70+",
+      "tier": "40%+",
+      "n": 1,
+      "wins": 1,
+      "expectedPct": 43,
+      "winPct": 100
+    },
+    {
+      "tier": "25–40%",
+      "n": 12,
+      "wins": 7,
+      "expectedPct": 30,
+      "winPct": 58
+    },
+    {
+      "tier": "15–25%",
+      "n": 3,
+      "wins": 2,
+      "expectedPct": 23,
+      "winPct": 67
+    },
+    {
+      "tier": "under 15%",
       "n": 0,
       "wins": 0,
-      "places": 0,
-      "winPct": null,
-      "placePct": null
-    },
-    {
-      "tier": "55–70",
-      "n": 13,
-      "wins": 8,
-      "places": 9,
-      "winPct": 62,
-      "placePct": 69
-    },
-    {
-      "tier": "below 55",
-      "n": 3,
-      "wins": 0,
-      "places": 1,
-      "winPct": 0,
-      "placePct": 33
+      "expectedPct": null,
+      "winPct": null
     }
   ]
 }

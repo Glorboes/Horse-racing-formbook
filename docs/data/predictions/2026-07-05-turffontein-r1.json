@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-06T11:34:23.464Z",
+  "generated": "2026-07-07T19:10:35.923Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -58,19 +58,24 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: class/rating.",
+        "Why it can win: top-rated in the field (MR 54).",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [
         "rating"
       ],
       "_concerns": [],
+      "_strReasons": [
+        "top-rated in the field (MR 54)"
+      ],
+      "_conReasons": [],
       "marketRank": 1,
       "rank": 1,
       "marketDisagree": false,
@@ -125,14 +130,15 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: weight, the draw.",
-        "Up against it on: class/rating.",
+        "Why it can win: well-in at the weights (55.5kg); drawn 2 — a handy low draw.",
+        "Against it: up in class.",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [
@@ -141,6 +147,13 @@
       ],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (55.5kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class"
       ],
       "marketRank": 4,
       "rank": 2,
@@ -196,19 +209,24 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "Model/market disagree: model rank 3 vs market rank 7 (14/1).",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "marketRank": 7,
       "rank": 3,
@@ -264,18 +282,23 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "marketRank": 6,
       "rank": 4,
@@ -331,14 +354,15 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: class/rating, the draw.",
-        "Up against it on: weight.",
+        "Why it can win: well-rated (MR 42); drawn 3 — a handy low draw.",
+        "Against it: top-weight (60kg).",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [
@@ -347,6 +371,13 @@
       ],
       "_concerns": [
         "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 42)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
       ],
       "marketRank": 5,
       "rank": 5,
@@ -402,14 +433,15 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw.",
-        "Up against it on: weight, class/rating.",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: top-weight (60kg); up in class.",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [
@@ -418,6 +450,13 @@
       "_concerns": [
         "weight",
         "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "up in class"
       ],
       "marketRank": 8,
       "rank": 6,
@@ -473,19 +512,24 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: lower-rated (MR 25).",
         "Model/market disagree: model rank 7 vs market rank 2 (4/1).",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 25)"
       ],
       "marketRank": 2,
       "rank": 7,
@@ -541,13 +585,14 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating, weight.",
+        "Against it: lower-rated (MR 24); top-weight (60kg).",
         "Model/market disagree: model rank 8 vs market rank 3 (9/2).",
         "No form data — scored on today's racecard only."
       ],
@@ -555,6 +600,11 @@
       "_concerns": [
         "rating",
         "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 24)",
+        "top-weight (60kg)"
       ],
       "marketRank": 3,
       "rank": 8,

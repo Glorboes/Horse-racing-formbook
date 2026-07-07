@@ -65,24 +65,26 @@ function guessCard(p){
       <div><div class="nm">Most likely to win: ${esc(ml.name)} · ${((ml.pWin||0)*100).toFixed(1)}%</div>
       <div class="sub">Win probability = model score blended with market odds.${differ?` Model's top-rated on merit is <b>${esc(modelTop.name)}</b> (score ${modelTop.score}) — it rates higher than its price, a possible value angle.`:''}</div></div>
     </div>` : '';
-  const rows=(p.ranked||[]).map(r=>{
+  const ordered=[...(p.ranked||[])].sort((a,b)=>(b.pWin||0)-(a.pWin||0));
+  const maxP=Math.max(0.01,...ordered.map(r=>r.pWin||0));
+  const rows=ordered.map((r,i)=>{
     const why=(r.reasoning||[]).map(w=>{
       const warn=/small sample|disagree/i.test(w);
       return `<li class="${warn?'warn':''}">${esc(w)}</li>`;
     }).join('');
     const ss=r.h2h&&r.h2h.smallSample?'<span class="smalltag">small sample</span>':'';
-    return `<div class="pick ${r.rank===1?'top':''}">
+    return `<div class="pick ${i===0?'top':''}">
       <div class="row1">
-        <div class="rank">${r.rank===1?'★':r.rank}</div>
+        <div class="rank">${i===0?'★':i+1}</div>
         <div><div class="nm">${esc(r.name)}${ss}</div></div>
-        <div class="sc"><b>${r.pWin!=null?(r.pWin*100).toFixed(0)+'%':r.score}</b><span>${r.pWin!=null?'win prob · score '+r.score:'score'}${r.odds?' · '+esc(r.odds):''}</span></div>
+        <div class="sc"><b>${r.pWin!=null?(r.pWin*100).toFixed(0)+'%':r.score}</b><span>${r.pWin!=null?'win chance · score '+r.score:'score'}${r.odds?' · '+esc(r.odds):''}</span></div>
       </div>
-      <div class="bar"><i style="width:${r.score}%"></i></div>
+      <div class="bar"><i style="width:${r.pWin!=null?Math.round((r.pWin/maxP)*100):r.score}%"></i></div>
       <ul class="why">${why}</ul>
     </div>`;
   }).join('');
-  return `<section class="card"><h2>🎯 Educated Guess — reasoning per horse</h2>${banner}${rows}
-    <div class="foot" style="text-align:left;margin-top:8px">Big number = win probability (model + market). Bar = the model's own score. When they differ, the reasoning notes flag it.</div></section>`;
+  return `<section class="card"><h2>🎯 Educated Guess — ranked by win chance</h2>${banner}${rows}
+    <div class="foot" style="text-align:left;margin-top:8px">Order & big number = win probability (model score blended with market odds). Bar length is relative to the favourite. Model score shown alongside; when they differ the reasoning flags it.</div></section>`;
 }
 
 // MARKET vs MODEL
@@ -110,13 +112,15 @@ function marketCard(p){
 function comparisonCard(p){
   const fk=['form','rating','distance','going','recencyMargin'];
   const flabel={form:'Form',rating:'Rating',distance:'Dist',going:'Going',recencyMargin:'Margins'};
-  const head=`<tr><th class="name">Runner</th><th>Rank</th><th>Score</th><th>Odds</th><th>Last 5</th><th>MR</th><th>Draw</th><th>Wt</th>`+
+  const head=`<tr><th class="name">Runner</th><th>Win%</th><th>Score</th><th>Odds</th><th>Last 5</th><th>MR</th><th>Draw</th><th>Wt</th>`+
     fk.map(k=>`<th>${flabel[k]}</th>`).join('')+`</tr>`;
-  const body=(p.comparison||[]).map(c=>{
-    const r=(p.ranked||[]).find(x=>x.name===c.name)||{factors:{}};
+  const rankByName={}; (p.ranked||[]).forEach(r=>{rankByName[r.name]=r;});
+  const ordered=[...(p.comparison||[])].sort((a,b)=>((rankByName[b.name]||{}).pWin||0)-((rankByName[a.name]||{}).pWin||0));
+  const body=ordered.map((c,i)=>{
+    const r=rankByName[c.name]||{factors:{}};
     const cells=fk.map(k=>{const v=pct(r.factors?.[k]);return `<td><span class="mini"><i style="width:${v}%"></i></span></td>`;}).join('');
-    return `<tr class="${c.rank===1?'lead':''}">
-      <td class="name">${esc(c.name)}</td><td>${c.rank}</td><td><b>${c.score}</b></td>
+    return `<tr class="${i===0?'lead':''}">
+      <td class="name">${esc(c.name)}</td><td><b>${r.pWin!=null?(r.pWin*100).toFixed(0)+'%':'—'}</b></td><td>${c.score}</td>
       <td class="${c.marketDisagree?'disagree':''}">${c.odds?esc(c.odds):'—'}</td>
       <td class="form5">${esc(c.lastFive)}</td><td>${c.rating??'—'}</td><td>${c.draw??'—'}</td><td>${c.weight??'—'}</td>
       ${cells}</tr>`;

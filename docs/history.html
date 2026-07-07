@@ -55,7 +55,7 @@ function dots(h){
   }).join('')+'</div><div class="foot" style="text-align:left;margin-top:8px">Each square = one settled race (newest right). <span style="color:var(--green)">W</span> win · <span style="color:var(--gold)">P</span> placed · miss.</div>';
 }
 
-// CONFIDENCE CALIBRATION — actual win rate by score tier
+// CONFIDENCE CALIBRATION — predicted win% (expected) vs actual win rate
 function calibrationCard(sr){
   const cal=sr.calibration||[];
   const any=cal.some(c=>c.n>0);
@@ -63,13 +63,13 @@ function calibrationCard(sr){
     const w=c.winPct==null?0:c.winPct;
     return `<div class="calrow">
       <div class="lbl">${esc(c.tier)}</div>
-      <div class="track"><div class="fill" style="width:${Math.max(w,c.n?6:0)}%">${c.winPct==null?'':c.winPct+'%'}</div></div>
-      <div class="n">${c.n} race${c.n===1?'':'s'}</div>
+      <div class="track"><div class="fill" style="width:${Math.max(w,c.n?6:0)}%">${c.winPct==null?'':'actual '+c.winPct+'%'}</div></div>
+      <div class="n">${c.expectedPct!=null?'exp '+c.expectedPct+'% · ':''}${c.n} race${c.n===1?'':'s'}</div>
     </div>`;
   }).join('');
   return `<section class="card"><h2>🎯 Confidence calibration</h2>
-    ${any?rows+`<div class="foot" style="text-align:left;margin-top:8px">Actual win rate of the top pick, grouped by its score. If the model is well-calibrated, the <b>70+</b> tier should win more often than <b>below 55</b>. Updates as more races settle.</div>`
-        :'<div class="empty">Needs settled races. Once outcomes are logged, this shows whether higher-scored picks actually win more often.</div>'}
+    ${any?rows+`<div class="foot" style="text-align:left;margin-top:8px">Picks grouped by the <b>win probability</b> we gave them. <b>exp</b> = average probability we predicted; the bar = the <b>actual</b> win rate. Well-calibrated = actual ≈ expected in each band (e.g. picks we call 40%+ should win ~40% of the time). Updates as more races settle.</div>`
+        :'<div class="empty">Needs settled races. Once outcomes are logged, this checks whether our stated win probabilities match reality.</div>'}
   </section>`;
 }
 

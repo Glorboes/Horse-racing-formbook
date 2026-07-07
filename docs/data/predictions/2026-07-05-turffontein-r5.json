@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-06T11:34:23.491Z",
+  "generated": "2026-07-07T19:10:35.929Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -63,20 +63,28 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 3 starts, 0 wins, 1 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: class/rating, the draw.",
-        "Career 3 starts, 0 wins, 1 placed (from the card — no logged runs in our DB yet)."
+        "Career 3 starts, 0 wins, 1 placed (from the card).",
+        "Why it can win: well-rated (MR 34); drawn 3 — a handy low draw."
       ],
       "_strengths": [
         "rating",
         "draw"
       ],
       "_concerns": [],
+      "_strReasons": [
+        "well-rated (MR 34)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [],
       "rank": 1,
       "pWin": 0.2655,
       "pPlace": 0.6756,
@@ -129,19 +137,24 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: class/rating.",
+        "Why it can win: top-rated in the field (MR 35).",
         "No form data — scored on today's racecard only."
       ],
       "_strengths": [
         "rating"
       ],
       "_concerns": [],
+      "_strReasons": [
+        "top-rated in the field (MR 35)"
+      ],
+      "_conReasons": [],
       "rank": 2,
       "pWin": 0.2568,
       "pPlace": 0.6637,
@@ -199,18 +212,23 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "Unraced — first career start."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "rank": 3,
       "pWin": 0.0827,
@@ -269,15 +287,18 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 5 starts, 0 wins (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw, class/rating.",
-        "Up against it on: weight.",
-        "Career 5 starts, 0 wins (from the card — no logged runs in our DB yet)."
+        "Career 5 starts, 0 wins (from the card).",
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 33).",
+        "Against it: top-weight (60kg)."
       ],
       "_strengths": [
         "draw",
@@ -285,6 +306,13 @@
       ],
       "_concerns": [
         "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 33)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
       ],
       "rank": 4,
       "pWin": 0.08,
@@ -343,18 +371,23 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "Unraced — first career start."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "rank": 5,
       "pWin": 0.0786,
@@ -413,21 +446,30 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 2 starts, 0 wins (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw.",
-        "Up against it on: class/rating.",
-        "Career 2 starts, 0 wins (from the card — no logged runs in our DB yet)."
+        "Career 2 starts, 0 wins (from the card).",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: up in class."
       ],
       "_strengths": [
         "draw"
       ],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class"
       ],
       "rank": 6,
       "pWin": 0.0724,
@@ -486,18 +528,23 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "Unraced — first career start."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "rank": 7,
       "pWin": 0.0712,
@@ -556,18 +603,23 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating.",
+        "Against it: up in class.",
         "Unraced — first career start."
       ],
       "_strengths": [],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
       ],
       "rank": 8,
       "pWin": 0.0545,
@@ -626,19 +678,25 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: weight, class/rating.",
+        "Against it: top-weight (60kg); up in class.",
         "Unraced — first career start."
       ],
       "_strengths": [],
       "_concerns": [
         "weight",
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "up in class"
       ],
       "rank": 9,
       "pWin": 0.0275,
@@ -697,19 +755,27 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 9 starts, 0 wins (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: class/rating, the draw.",
-        "Career 9 starts, 0 wins (from the card — no logged runs in our DB yet)."
+        "Career 9 starts, 0 wins (from the card).",
+        "Against it: lower-rated (MR 16); drawn wide (10)."
       ],
       "_strengths": [],
       "_concerns": [
         "rating",
         "draw"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 16)",
+        "drawn wide (10)"
       ],
       "rank": 10,
       "pWin": 0.0108,
