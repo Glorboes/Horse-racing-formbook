@@ -1,7 +1,73 @@
 {
-  "generated": "2026-07-07T06:24:37.120Z",
-  "count": 68,
+  "generated": "2026-07-07T19:02:11.925Z",
+  "count": 138,
   "horses": [
+    {
+      "key": "ABSOLUTELY YES",
+      "name": "ABSOLUTELY YES",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 0.05,
+          "wonBy": null,
+          "beaten": [
+            "BEWARE",
+            "THE US OF A",
+            "KING REGENT",
+            "DANCE VARIETY",
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 52.5,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Justin Snaith",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 1,
+        "beats": [
+          "BEWARE",
+          "THE US OF A",
+          "KING REGENT",
+          "DANCE VARIETY",
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI"
+        ]
+      }
+    },
     {
       "key": "AFRICAN PRIDE",
       "name": "African Pride",
@@ -191,6 +257,201 @@
       }
     },
     {
+      "key": "ARKANSAS STATE",
+      "name": "ARKANSAS STATE",
+      "rating": null,
+      "trainer": "Piet Botha",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "V Jodhee",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 19.05,
+          "wonBy": null,
+          "beaten": [
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 56.5,
+          "jockey": "V Jodhee",
+          "trainer": "Piet Botha",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET"
+        ]
+      }
+    },
+    {
+      "key": "AVIGNON",
+      "name": "AVIGNON",
+      "rating": null,
+      "trainer": "Piet Botha",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "B Plaatjies",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 1.65,
+          "wonBy": null,
+          "beaten": [
+            "COMMANDING",
+            "ONE MAGIC",
+            "OZARK",
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 59,
+          "jockey": "B Plaatjies",
+          "trainer": "Piet Botha",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH"
+        ]
+      }
+    },
+    {
+      "key": "BATON ROUGE",
+      "name": "BATON ROUGE",
+      "rating": null,
+      "trainer": "Piet Botha",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "B Plaatjies",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "DEVIL A SAINT",
+            "RED DAWN",
+            "SUPERHERO",
+            "MIDWAY",
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 59,
+          "jockey": "B Plaatjies",
+          "trainer": "Piet Botha",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 0,
+        "beats": [
+          "DEVIL A SAINT",
+          "RED DAWN",
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "BELLFLOWER",
       "name": "Bellflower",
       "rating": null,
@@ -249,6 +510,71 @@
       }
     },
     {
+      "key": "BEWARE",
+      "name": "BEWARE",
+      "rating": null,
+      "trainer": "Lucinda Woodruff",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 0.55,
+          "wonBy": null,
+          "beaten": [
+            "THE US OF A",
+            "KING REGENT",
+            "DANCE VARIETY",
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 54,
+          "jockey": "S Veale",
+          "trainer": "Lucinda Woodruff",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 2,
+        "beats": [
+          "THE US OF A",
+          "KING REGENT",
+          "DANCE VARIETY",
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES"
+        ]
+      }
+    },
+    {
       "key": "BLUE STORM RUNNER",
       "name": "Blue Storm Runner",
       "rating": null,
@@ -301,6 +627,142 @@
           "Winika",
           "What Now My Love",
           "Erik's Girl"
+        ]
+      }
+    },
+    {
+      "key": "BURSTURBUBBLE",
+      "name": "BURSTURBUBBLE",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 12,
+          "marginBehindWinner": 6.1,
+          "wonBy": null,
+          "beaten": [
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "S Bungane",
+          "trainer": "Michelle Rix",
+          "draw": 12
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 7,
+        "beats": [
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT"
+        ]
+      }
+    },
+    {
+      "key": "CALIFORNIA CAT",
+      "name": "CALIFORNIA CAT",
+      "rating": null,
+      "trainer": "Lucinda Woodruff",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 0.2,
+          "wonBy": null,
+          "beaten": [
+            "CRACKER",
+            "HAVOC",
+            "PLATINUM GREY",
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Lucinda Woodruff",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI"
         ]
       }
     },
@@ -365,6 +827,77 @@
           "Wish You Were Here",
           "Glastonbury Fire",
           "Spicy Plum"
+        ]
+      }
+    },
+    {
+      "key": "CAPTAINS ELECT",
+      "name": "CAPTAIN'S ELECT",
+      "rating": null,
+      "trainer": "Andre Nel",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 12,
+          "marginBehindWinner": 5,
+          "wonBy": null,
+          "beaten": [
+            "SYLT",
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "G Wright",
+          "trainer": "Andre Nel",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 4,
+        "beats": [
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU"
         ]
       }
     },
@@ -617,6 +1150,136 @@
       }
     },
     {
+      "key": "CLOUDY DAY",
+      "name": "CLOUDY DAY",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J Solomons",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "0",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 11,
+          "field": 12,
+          "marginBehindWinner": 10.75,
+          "wonBy": null,
+          "beaten": [
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "J Solomons",
+          "trainer": "Candice Bass",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 10,
+        "beats": [
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM"
+        ]
+      }
+    },
+    {
+      "key": "COMMANDING",
+      "name": "COMMANDING",
+      "rating": null,
+      "trainer": "Glen Kotzen",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 1.95,
+          "wonBy": null,
+          "beaten": [
+            "ONE MAGIC",
+            "OZARK",
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 60,
+          "jockey": "C Murray",
+          "trainer": "Glen Kotzen",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON"
+        ]
+      }
+    },
+    {
       "key": "COPPER EAGLE",
       "name": "Copper Eagle",
       "rating": null,
@@ -674,6 +1337,135 @@
           "Errol Flynn",
           "Chronicle King",
           "Got The Feeling"
+        ]
+      }
+    },
+    {
+      "key": "CRACKER",
+      "name": "CRACKER",
+      "rating": null,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 2.7,
+          "wonBy": null,
+          "beaten": [
+            "HAVOC",
+            "PLATINUM GREY",
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "M Michel",
+          "trainer": "James Crawford",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT"
+        ]
+      }
+    },
+    {
+      "key": "DANCE VARIETY",
+      "name": "DANCE VARIETY",
+      "rating": null,
+      "trainer": "Adam Marcus",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 3.05,
+          "wonBy": null,
+          "beaten": [
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 60,
+          "jockey": "C Zackey",
+          "trainer": "Adam Marcus",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 5,
+        "beats": [
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES",
+          "BEWARE",
+          "THE US OF A",
+          "KING REGENT"
         ]
       }
     },
@@ -803,6 +1595,133 @@
       }
     },
     {
+      "key": "DEVIL A SAINT",
+      "name": "DEVIL A SAINT",
+      "rating": null,
+      "trainer": "Des A McLachlan",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "RED DAWN",
+            "SUPERHERO",
+            "MIDWAY",
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 59.5,
+          "jockey": "S Veale",
+          "trainer": "Des A McLachlan",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 1,
+        "beats": [
+          "RED DAWN",
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE"
+        ]
+      }
+    },
+    {
+      "key": "DISTRICT MASTER",
+      "name": "DISTRICT MASTER",
+      "rating": null,
+      "trainer": "Des A McLachlan",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Behr",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "SMART HORSE"
+          ],
+          "weight": 61,
+          "jockey": "G Behr",
+          "trainer": "Des A McLachlan",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 6,
+        "beats": [
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "RED DAWN",
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX"
+        ]
+      }
+    },
+    {
       "key": "DONT CRY FOR ME",
       "name": "Don't Cry For Me",
       "rating": null,
@@ -854,6 +1773,189 @@
           "King's Express",
           "Fire 'N Flames",
           "Wild Intent"
+        ]
+      }
+    },
+    {
+      "key": "DREAMLAND",
+      "name": "DREAMLAND",
+      "rating": null,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "E J Muller",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 9.3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 54,
+          "jockey": "E J Muller",
+          "trainer": "Vaughan Marshall",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 7,
+        "beats": [],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES",
+          "BEWARE",
+          "THE US OF A",
+          "KING REGENT",
+          "DANCE VARIETY",
+          "DUMBLEDORE"
+        ]
+      }
+    },
+    {
+      "key": "DUMBLEDORE",
+      "name": "DUMBLEDORE",
+      "rating": null,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 3.8,
+          "wonBy": null,
+          "beaten": [
+            "DREAMLAND"
+          ],
+          "weight": 55.5,
+          "jockey": "M Michel",
+          "trainer": "Vaughan Marshall",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 6,
+        "beats": [
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES",
+          "BEWARE",
+          "THE US OF A",
+          "KING REGENT",
+          "DANCE VARIETY"
+        ]
+      }
+    },
+    {
+      "key": "EDICTAL CITATION",
+      "name": "EDICTAL CITATION",
+      "rating": null,
+      "trainer": "Greg Ennion",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 7.15,
+          "wonBy": null,
+          "beaten": [
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "C Orffer",
+          "trainer": "Greg Ennion",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY"
         ]
       }
     },
@@ -968,6 +2070,69 @@
           "Euphrates"
         ],
         "losesTo": []
+      }
+    },
+    {
+      "key": "EPERNAY",
+      "name": "EPERNAY",
+      "rating": null,
+      "trainer": "Ashley Fortune",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "E J Muller",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 10.15,
+          "wonBy": null,
+          "beaten": [
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 55,
+          "jockey": "E J Muller",
+          "trainer": "Ashley Fortune",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI"
+        ]
       }
     },
     {
@@ -1324,6 +2489,203 @@
       }
     },
     {
+      "key": "FREQUENT TRAVELLER",
+      "name": "FREQUENT TRAVELLER",
+      "rating": null,
+      "trainer": "Greg Ennion",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 3.05,
+          "wonBy": null,
+          "beaten": [
+            "QUIET PLACE",
+            "ONSSILVERJET",
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Greg Ennion",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES"
+        ]
+      }
+    },
+    {
+      "key": "GIMME PERFECT",
+      "name": "GIMME PERFECT",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "O Noach",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 12,
+          "marginBehindWinner": 6.05,
+          "wonBy": null,
+          "beaten": [
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "O Noach",
+          "trainer": "Candice Bass",
+          "draw": 10
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 6,
+        "beats": [
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT"
+        ]
+      }
+    },
+    {
+      "key": "GLAMOUR GIRL",
+      "name": "GLAMOUR GIRL",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "0",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 12,
+          "field": 12,
+          "marginBehindWinner": 10.95,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Candice Bass",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 11,
+        "beats": [],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY"
+        ]
+      }
+    },
+    {
       "key": "GLASTONBURY FIRE",
       "name": "Glastonbury Fire",
       "rating": null,
@@ -1386,6 +2748,134 @@
           "Pole Position",
           "Parisienne Queen",
           "Wish You Were Here"
+        ]
+      }
+    },
+    {
+      "key": "GOLD GIBOSKI",
+      "name": "GOLD GIBOSKI",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 0.05,
+          "beaten": [
+            "ABSOLUTELY YES",
+            "BEWARE",
+            "THE US OF A",
+            "KING REGENT",
+            "DANCE VARIETY",
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 51,
+          "jockey": "M Mjoka",
+          "trainer": "Justin Snaith",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 0,
+        "beats": [
+          "ABSOLUTELY YES",
+          "BEWARE",
+          "THE US OF A",
+          "KING REGENT",
+          "DANCE VARIETY",
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "GOLD INDEX",
+      "name": "GOLD INDEX",
+      "rating": null,
+      "trainer": "Robert Barrett",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 2.2,
+          "wonBy": null,
+          "beaten": [
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 54.5,
+          "jockey": "G Wright",
+          "trainer": "Robert Barrett",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 5,
+        "beats": [
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "RED DAWN",
+          "SUPERHERO",
+          "MIDWAY"
         ]
       }
     },
@@ -1519,6 +3009,65 @@
       }
     },
     {
+      "key": "HAPPY WINTER",
+      "name": "HAPPY WINTER",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 12.9,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "S Veale",
+          "trainer": "Candice Bass",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME"
+        ]
+      }
+    },
+    {
       "key": "HARTREE",
       "name": "Hartree",
       "rating": null,
@@ -1643,6 +3192,72 @@
       }
     },
     {
+      "key": "HAVOC",
+      "name": "HAVOC",
+      "rating": null,
+      "trainer": "Greg Ennion",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.9,
+          "wonBy": null,
+          "beaten": [
+            "PLATINUM GREY",
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "C Murray",
+          "trainer": "Greg Ennion",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER"
+        ]
+      }
+    },
+    {
       "key": "HAWKBILL",
       "name": "Hawkbill",
       "rating": null,
@@ -1704,6 +3319,65 @@
       }
     },
     {
+      "key": "HURRICANE PAIGE",
+      "name": "HURRICANE PAIGE",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 4.6,
+          "wonBy": null,
+          "beaten": [
+            "PINK BLOSSOM"
+          ],
+          "weight": 56,
+          "jockey": "S Bungane",
+          "trainer": "Candice Bass",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 4,
+        "beats": [
+          "PINK BLOSSOM"
+        ],
+        "losesTo": [
+          "SPANISH WORLD",
+          "ODDS AND EVENS",
+          "MACRO GRAVITY",
+          "NTIBINDI"
+        ]
+      }
+    },
+    {
       "key": "IMPRESSIVE",
       "name": "Impressive",
       "rating": null,
@@ -1760,6 +3434,73 @@
         "losesTo": [
           "Within Reach",
           "Queen Leila"
+        ]
+      }
+    },
+    {
+      "key": "JANE AUSTEN",
+      "name": "JANE AUSTEN",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 12,
+          "marginBehindWinner": 8.35,
+          "wonBy": null,
+          "beaten": [
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "M Mjoka",
+          "trainer": "Michelle Rix",
+          "draw": 11
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 8,
+        "beats": [
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE"
         ]
       }
     },
@@ -1825,6 +3566,69 @@
       }
     },
     {
+      "key": "KING REGENT",
+      "name": "KING REGENT",
+      "rating": null,
+      "trainer": "Glen Kotzen",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 2.85,
+          "wonBy": null,
+          "beaten": [
+            "DANCE VARIETY",
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 55.5,
+          "jockey": "S Bungane",
+          "trainer": "Glen Kotzen",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 4,
+        "beats": [
+          "DANCE VARIETY",
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES",
+          "BEWARE",
+          "THE US OF A"
+        ]
+      }
+    },
+    {
       "key": "KINGS EXPRESS",
       "name": "King's Express",
       "rating": null,
@@ -1881,6 +3685,65 @@
         "losesTo": [
           "The Equator",
           "Hawkbill"
+        ]
+      }
+    },
+    {
+      "key": "LADY AMBER",
+      "name": "LADY AMBER",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 30.8,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56.5,
+          "jockey": "M Mjoka",
+          "trainer": "Michelle Rix",
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY"
         ]
       }
     },
@@ -1948,6 +3811,268 @@
       }
     },
     {
+      "key": "LIEFLING",
+      "name": "LIEFLING",
+      "rating": null,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 2.5,
+          "beaten": [
+            "WHATWILLBEWILLBE",
+            "UP IN FLAMES",
+            "FREQUENT TRAVELLER",
+            "QUIET PLACE",
+            "ONSSILVERJET",
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 56.5,
+          "jockey": "C Murray",
+          "trainer": "James Crawford",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "LIFELONG DANCE",
+      "name": "LIFELONG DANCE",
+      "rating": null,
+      "trainer": "Des A McLachlan",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 6.95,
+          "wonBy": null,
+          "beaten": [
+            "MONTESSORI",
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 53,
+          "jockey": "M Mjoka",
+          "trainer": "Des A McLachlan",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE"
+        ]
+      }
+    },
+    {
+      "key": "LOVERS LANE",
+      "name": "LOVERS LANE",
+      "rating": null,
+      "trainer": "Paul Reeves",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 0.1,
+          "wonBy": null,
+          "beaten": [
+            "TYPICALLY FRENCH",
+            "AVIGNON",
+            "COMMANDING",
+            "ONE MAGIC",
+            "OZARK",
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 53.5,
+          "jockey": "S Bungane",
+          "trainer": "Paul Reeves",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST"
+        ]
+      }
+    },
+    {
+      "key": "MACRO GRAVITY",
+      "name": "MACRO GRAVITY",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "NTIBINDI",
+            "HURRICANE PAIGE",
+            "PINK BLOSSOM"
+          ],
+          "weight": 56,
+          "jockey": "S Veale",
+          "trainer": "Candice Bass",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 2,
+        "beats": [
+          "NTIBINDI",
+          "HURRICANE PAIGE",
+          "PINK BLOSSOM"
+        ],
+        "losesTo": [
+          "SPANISH WORLD",
+          "ODDS AND EVENS"
+        ]
+      }
+    },
+    {
       "key": "MASTER CHRISTMAS",
       "name": "Master Christmas",
       "rating": null,
@@ -2009,6 +4134,203 @@
       }
     },
     {
+      "key": "MIDWAY",
+      "name": "MIDWAY",
+      "rating": null,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 1.8,
+          "wonBy": null,
+          "beaten": [
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 57,
+          "jockey": "C Murray",
+          "trainer": "James Crawford",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 4,
+        "beats": [
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "RED DAWN",
+          "SUPERHERO"
+        ]
+      }
+    },
+    {
+      "key": "MIND OVER YOU",
+      "name": "MIND OVER YOU",
+      "rating": null,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 12,
+          "marginBehindWinner": 3.75,
+          "wonBy": null,
+          "beaten": [
+            "CAPTAIN'S ELECT",
+            "SYLT",
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "M Michel",
+          "trainer": "James Crawford",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 3,
+        "beats": [
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY"
+        ]
+      }
+    },
+    {
+      "key": "MISTER ED",
+      "name": "MISTER ED",
+      "rating": null,
+      "trainer": "Andries Steyn",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Steyn",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 16.65,
+          "wonBy": null,
+          "beaten": [
+            "PURE AS SNOW"
+          ],
+          "weight": 53.5,
+          "jockey": "K Steyn",
+          "trainer": "Andries Steyn",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY"
+        ]
+      }
+    },
+    {
       "key": "MO MENT",
       "name": "Mo Ment",
       "rating": null,
@@ -2060,6 +4382,658 @@
         ],
         "losesTo": [
           "Enflame"
+        ]
+      }
+    },
+    {
+      "key": "MONTESSORI",
+      "name": "MONTESSORI",
+      "rating": null,
+      "trainer": "Andre Nel",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 7.15,
+          "wonBy": null,
+          "beaten": [
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 61.5,
+          "jockey": "R Fourie",
+          "trainer": "Andre Nel",
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE"
+        ]
+      }
+    },
+    {
+      "key": "MORDECHAI",
+      "name": "MORDECHAI",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.2,
+          "beaten": [
+            "CALIFORNIA CAT",
+            "CRACKER",
+            "HAVOC",
+            "PLATINUM GREY",
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "C Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "MY SUNSHINE",
+      "name": "MY SUNSHINE",
+      "rating": null,
+      "trainer": "Ashley Fortune",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "V Jodhee",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 6.75,
+          "wonBy": null,
+          "beaten": [
+            "LIFELONG DANCE",
+            "MONTESSORI",
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 54.5,
+          "jockey": "V Jodhee",
+          "trainer": "Ashley Fortune",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG"
+        ]
+      }
+    },
+    {
+      "key": "NTIBINDI",
+      "name": "NTIBINDI",
+      "rating": null,
+      "trainer": "Piet / Elbert Steyn",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 4.5,
+          "wonBy": null,
+          "beaten": [
+            "HURRICANE PAIGE",
+            "PINK BLOSSOM"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Piet / Elbert Steyn",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 3,
+        "beats": [
+          "HURRICANE PAIGE",
+          "PINK BLOSSOM"
+        ],
+        "losesTo": [
+          "SPANISH WORLD",
+          "ODDS AND EVENS",
+          "MACRO GRAVITY"
+        ]
+      }
+    },
+    {
+      "key": "OCTOBER FEST",
+      "name": "OCTOBER FEST",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.1,
+          "beaten": [
+            "LOVERS LANE",
+            "TYPICALLY FRENCH",
+            "AVIGNON",
+            "COMMANDING",
+            "ONE MAGIC",
+            "OZARK",
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 61,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Candice Bass",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "ODDS AND EVENS",
+      "name": "ODDS AND EVENS",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "MACRO GRAVITY",
+            "NTIBINDI",
+            "HURRICANE PAIGE",
+            "PINK BLOSSOM"
+          ],
+          "weight": 56,
+          "jockey": "C Murray",
+          "trainer": "Justin Snaith",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 1,
+        "beats": [
+          "MACRO GRAVITY",
+          "NTIBINDI",
+          "HURRICANE PAIGE",
+          "PINK BLOSSOM"
+        ],
+        "losesTo": [
+          "SPANISH WORLD"
+        ]
+      }
+    },
+    {
+      "key": "ONE MAGIC",
+      "name": "ONE MAGIC",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 2.45,
+          "wonBy": null,
+          "beaten": [
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 59.5,
+          "jockey": "C Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING",
+          "OZARK"
+        ]
+      }
+    },
+    {
+      "key": "ONSSILVERJET",
+      "name": "ONSSILVERJET",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 18.3,
+          "wonBy": null,
+          "beaten": [
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 56.5,
+          "jockey": "G Wright",
+          "trainer": "Michelle Rix",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE"
+        ]
+      }
+    },
+    {
+      "key": "ONTHEWINGSOFADOVE",
+      "name": "ONTHEWINGSOFADOVE",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "A Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 12,
+          "marginBehindWinner": 2.25,
+          "wonBy": null,
+          "beaten": [
+            "VIRIDIAN RUBY",
+            "MIND OVER YOU",
+            "CAPTAIN'S ELECT",
+            "SYLT",
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 10,
+        "losses": 1,
+        "beats": [
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS"
+        ]
+      }
+    },
+    {
+      "key": "OZARK",
+      "name": "OZARK",
+      "rating": null,
+      "trainer": "Paul Reeves",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 2.45,
+          "wonBy": null,
+          "beaten": [
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 55.5,
+          "jockey": "G Wright",
+          "trainer": "Paul Reeves",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "ONE MAGIC",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING"
         ]
       }
     },
@@ -2252,6 +5226,127 @@
       }
     },
     {
+      "key": "PINK BLOSSOM",
+      "name": "PINK BLOSSOM",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 5,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Candice Bass",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 5,
+        "beats": [],
+        "losesTo": [
+          "SPANISH WORLD",
+          "ODDS AND EVENS",
+          "MACRO GRAVITY",
+          "NTIBINDI",
+          "HURRICANE PAIGE"
+        ]
+      }
+    },
+    {
+      "key": "PLATINUM GREY",
+      "name": "PLATINUM GREY",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 5.4,
+          "wonBy": null,
+          "beaten": [
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Justin Snaith",
+          "draw": 7
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC"
+        ]
+      }
+    },
+    {
       "key": "POLE POSITION",
       "name": "Pole Position",
       "rating": null,
@@ -2317,6 +5412,195 @@
         ],
         "losesTo": [
           "Whatsdamatterwithu"
+        ]
+      }
+    },
+    {
+      "key": "PRINCE OF TIBET",
+      "name": "PRINCE OF TIBET",
+      "rating": null,
+      "trainer": "Piet / Elbert Steyn",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 3.45,
+          "wonBy": null,
+          "beaten": [
+            "RUN FOR COVER"
+          ],
+          "weight": 58.5,
+          "jockey": "S Veale",
+          "trainer": "Piet / Elbert Steyn",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK"
+        ]
+      }
+    },
+    {
+      "key": "PROTECTOR OF PEACE",
+      "name": "PROTECTOR OF PEACE",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 3,
+          "beaten": [
+            "ROYAL CLINTON",
+            "THE BIG BANG",
+            "MY SUNSHINE",
+            "LIFELONG DANCE",
+            "MONTESSORI",
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 60,
+          "jockey": "S Bungane",
+          "trainer": "Justin Snaith",
+          "draw": 5
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "PURE AS SNOW",
+      "name": "PURE AS SNOW",
+      "rating": null,
+      "trainer": "Andre Nel",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 18.15,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60.5,
+          "jockey": "G Wright",
+          "trainer": "Andre Nel",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON",
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED"
         ]
       }
     },
@@ -2439,6 +5723,71 @@
       }
     },
     {
+      "key": "QUIET PLACE",
+      "name": "QUIET PLACE",
+      "rating": null,
+      "trainer": "Des A McLachlan",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 4.3,
+          "wonBy": null,
+          "beaten": [
+            "ONSSILVERJET",
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 60,
+          "jockey": "M Michel",
+          "trainer": "Des A McLachlan",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER"
+        ]
+      }
+    },
+    {
       "key": "RAFES ORACLE",
       "name": "Rafe's Oracle",
       "rating": null,
@@ -2497,6 +5846,71 @@
           "Snowblade",
           "Angle Of Attack",
           "Hartree"
+        ]
+      }
+    },
+    {
+      "key": "RED DAWN",
+      "name": "RED DAWN",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "A Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 1,
+          "wonBy": null,
+          "beaten": [
+            "SUPERHERO",
+            "MIDWAY",
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 61.5,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 2,
+        "beats": [
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT"
         ]
       }
     },
@@ -2564,6 +5978,74 @@
       }
     },
     {
+      "key": "ROYAL CLINTON",
+      "name": "ROYAL CLINTON",
+      "rating": null,
+      "trainer": "Paul Reeves",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [
+            "THE BIG BANG",
+            "MY SUNSHINE",
+            "LIFELONG DANCE",
+            "MONTESSORI",
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 57,
+          "jockey": "C Murray",
+          "trainer": "Paul Reeves",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "THE BIG BANG",
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE"
+        ]
+      }
+    },
+    {
       "key": "RUMBA ERUPTA",
       "name": "Rumba Erupta",
       "rating": null,
@@ -2626,6 +6108,65 @@
       }
     },
     {
+      "key": "RUN FOR COVER",
+      "name": "RUN FOR COVER",
+      "rating": null,
+      "trainer": "Piet Botha",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 6.45,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57.5,
+          "jockey": "C Orffer",
+          "trainer": "Piet Botha",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE",
+          "TYPICALLY FRENCH",
+          "AVIGNON",
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET"
+        ]
+      }
+    },
+    {
       "key": "SCARLETT HEART",
       "name": "Scarlett Heart",
       "rating": null,
@@ -2681,6 +6222,69 @@
           "Got The Feeling",
           "Copper Eagle",
           "World Of Royalty"
+        ]
+      }
+    },
+    {
+      "key": "SCOTLAND YARD",
+      "name": "SCOTLAND YARD",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "O Noach",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 11.15,
+          "wonBy": null,
+          "beaten": [
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "O Noach",
+          "trainer": "Candice Bass",
+          "draw": 3
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "VISIONARY FLAME",
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION"
         ]
       }
     },
@@ -2921,6 +6525,64 @@
       }
     },
     {
+      "key": "SMART HORSE",
+      "name": "SMART HORSE",
+      "rating": null,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57,
+          "jockey": "M Michel",
+          "trainer": "James Crawford",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 7,
+        "beats": [],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "RED DAWN",
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER"
+        ]
+      }
+    },
+    {
       "key": "SNOWBLADE",
       "name": "Snowblade",
       "rating": null,
@@ -2983,6 +6645,68 @@
           "Spirit Of Gabz",
           "Dear Doc"
         ]
+      }
+    },
+    {
+      "key": "SPANISH WORLD",
+      "name": "SPANISH WORLD",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1400,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "ODDS AND EVENS",
+            "MACRO GRAVITY",
+            "NTIBINDI",
+            "HURRICANE PAIGE",
+            "PINK BLOSSOM"
+          ],
+          "weight": 56,
+          "jockey": "C Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 2
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 0,
+        "beats": [
+          "ODDS AND EVENS",
+          "MACRO GRAVITY",
+          "NTIBINDI",
+          "HURRICANE PAIGE",
+          "PINK BLOSSOM"
+        ],
+        "losesTo": []
       }
     },
     {
@@ -3240,6 +6964,70 @@
       }
     },
     {
+      "key": "SUPERHERO",
+      "name": "SUPERHERO",
+      "rating": null,
+      "trainer": "Andre Nel",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 1.4,
+          "wonBy": null,
+          "beaten": [
+            "MIDWAY",
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 60.5,
+          "jockey": "C Zackey",
+          "trainer": "Andre Nel",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 3,
+        "beats": [
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "RED DAWN"
+        ]
+      }
+    },
+    {
       "key": "SURPRISE PARTY",
       "name": "Surprise Party",
       "rating": null,
@@ -3292,6 +7080,76 @@
           "Copper Eagle",
           "World Of Royalty",
           "Scarlett Heart"
+        ]
+      }
+    },
+    {
+      "key": "SYLT",
+      "name": "SYLT",
+      "rating": null,
+      "trainer": "Robert Barrett",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "B Plaatjies",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 12,
+          "marginBehindWinner": 5.75,
+          "wonBy": null,
+          "beaten": [
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "B Plaatjies",
+          "trainer": "Robert Barrett",
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 5,
+        "beats": [
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT"
         ]
       }
     },
@@ -3358,6 +7216,73 @@
           "Quantum Theory"
         ],
         "losesTo": []
+      }
+    },
+    {
+      "key": "THE BIG BANG",
+      "name": "THE BIG BANG",
+      "rating": null,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "A Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 4.5,
+          "wonBy": null,
+          "beaten": [
+            "MY SUNSHINE",
+            "LIFELONG DANCE",
+            "MONTESSORI",
+            "EPERNAY",
+            "MISTER ED",
+            "PURE AS SNOW"
+          ],
+          "weight": 60.5,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "MY SUNSHINE",
+          "LIFELONG DANCE",
+          "MONTESSORI",
+          "EPERNAY",
+          "MISTER ED",
+          "PURE AS SNOW"
+        ],
+        "losesTo": [
+          "PROTECTOR OF PEACE",
+          "ROYAL CLINTON"
+        ]
       }
     },
     {
@@ -3485,6 +7410,70 @@
       }
     },
     {
+      "key": "THE US OF A",
+      "name": "THE US OF A",
+      "rating": null,
+      "trainer": "Patrick Kruyer",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 2.8,
+          "wonBy": null,
+          "beaten": [
+            "KING REGENT",
+            "DANCE VARIETY",
+            "DUMBLEDORE",
+            "DREAMLAND"
+          ],
+          "weight": 58.5,
+          "jockey": "R Fourie",
+          "trainer": "Patrick Kruyer",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 3,
+        "beats": [
+          "KING REGENT",
+          "DANCE VARIETY",
+          "DUMBLEDORE",
+          "DREAMLAND"
+        ],
+        "losesTo": [
+          "GOLD GIBOSKI",
+          "ABSOLUTELY YES",
+          "BEWARE"
+        ]
+      }
+    },
+    {
       "key": "TOP SHELF TEDDY",
       "name": "Top Shelf Teddy",
       "rating": null,
@@ -3536,6 +7525,201 @@
           "After Hours",
           "Sunset Warrior",
           "Utsaah"
+        ]
+      }
+    },
+    {
+      "key": "TYPICALLY FRENCH",
+      "name": "TYPICALLY FRENCH",
+      "rating": null,
+      "trainer": "Paul Reeves",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "E J Muller",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 1.35,
+          "wonBy": null,
+          "beaten": [
+            "AVIGNON",
+            "COMMANDING",
+            "ONE MAGIC",
+            "OZARK",
+            "PRINCE OF TIBET",
+            "RUN FOR COVER"
+          ],
+          "weight": 52,
+          "jockey": "E J Muller",
+          "trainer": "Paul Reeves",
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "AVIGNON",
+          "COMMANDING",
+          "ONE MAGIC",
+          "OZARK",
+          "PRINCE OF TIBET",
+          "RUN FOR COVER"
+        ],
+        "losesTo": [
+          "OCTOBER FEST",
+          "LOVERS LANE"
+        ]
+      }
+    },
+    {
+      "key": "UNCUT GEM",
+      "name": "UNCUT GEM",
+      "rating": null,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "0",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 10,
+          "field": 12,
+          "marginBehindWinner": 10.35,
+          "wonBy": null,
+          "beaten": [
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "S Veale",
+          "trainer": "Vaughan Marshall",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 9,
+        "beats": [
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN"
+        ]
+      }
+    },
+    {
+      "key": "UNDOUBTED THE BOY",
+      "name": "UNDOUBTED THE BOY",
+      "rating": null,
+      "trainer": "Greg Ennion",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "K Steyn",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 23.3,
+          "wonBy": null,
+          "beaten": [
+            "LADY AMBER"
+          ],
+          "weight": 60,
+          "jockey": "K Steyn",
+          "trainer": "Greg Ennion",
+          "draw": 6
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE"
         ]
       }
     },
@@ -3595,6 +7779,73 @@
       }
     },
     {
+      "key": "UP IN FLAMES",
+      "name": "UP IN FLAMES",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "J P v'd Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [
+            "FREQUENT TRAVELLER",
+            "QUIET PLACE",
+            "ONSSILVERJET",
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 56.5,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Michelle Rix",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE"
+        ]
+      }
+    },
+    {
       "key": "UTSAAH",
       "name": "Utsaah",
       "rating": null,
@@ -3649,6 +7900,141 @@
           "Harun Al Rashid",
           "After Hours",
           "Sunset Warrior"
+        ]
+      }
+    },
+    {
+      "key": "VIRIDIAN RUBY",
+      "name": "VIRIDIAN RUBY",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 12,
+          "marginBehindWinner": 3.25,
+          "wonBy": null,
+          "beaten": [
+            "MIND OVER YOU",
+            "CAPTAIN'S ELECT",
+            "SYLT",
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "C Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 8
+        }
+      ],
+      "h2h": {
+        "wins": 9,
+        "losses": 2,
+        "beats": [
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": [
+          "WORLD OF SECRETS",
+          "ONTHEWINGSOFADOVE"
+        ]
+      }
+    },
+    {
+      "key": "VISIONARY FLAME",
+      "name": "VISIONARY FLAME",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "S Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 11.65,
+          "wonBy": null,
+          "beaten": [
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "S Bungane",
+          "trainer": "Michelle Rix",
+          "draw": 9
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "HAPPY WINTER"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "HAVOC",
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD"
         ]
       }
     },
@@ -3779,6 +8165,74 @@
           "Field Of Dreams"
         ],
         "losesTo": []
+      }
+    },
+    {
+      "key": "WHATWILLBEWILLBE",
+      "name": "WHATWILLBEWILLBE",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "UP IN FLAMES",
+            "FREQUENT TRAVELLER",
+            "QUIET PLACE",
+            "ONSSILVERJET",
+            "ARKANSAS STATE",
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 60,
+          "jockey": "C Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 4
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "ARKANSAS STATE",
+          "UNDOUBTED THE BOY",
+          "LADY AMBER"
+        ],
+        "losesTo": [
+          "LIEFLING"
+        ]
       }
     },
     {
@@ -4086,6 +8540,80 @@
           "Got The Feeling",
           "Copper Eagle"
         ]
+      }
+    },
+    {
+      "key": "WORLD OF SECRETS",
+      "name": "WORLD OF SECRETS",
+      "rating": null,
+      "trainer": "Paul Reeves",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1000,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 12,
+          "marginBehindWinner": 0,
+          "wonBy": 2.25,
+          "beaten": [
+            "ONTHEWINGSOFADOVE",
+            "VIRIDIAN RUBY",
+            "MIND OVER YOU",
+            "CAPTAIN'S ELECT",
+            "SYLT",
+            "GIMME PERFECT",
+            "BURSTURBUBBLE",
+            "JANE AUSTEN",
+            "UNCUT GEM",
+            "CLOUDY DAY",
+            "GLAMOUR GIRL"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Paul Reeves",
+          "draw": 1
+        }
+      ],
+      "h2h": {
+        "wins": 11,
+        "losses": 0,
+        "beats": [
+          "ONTHEWINGSOFADOVE",
+          "VIRIDIAN RUBY",
+          "MIND OVER YOU",
+          "CAPTAIN'S ELECT",
+          "SYLT",
+          "GIMME PERFECT",
+          "BURSTURBUBBLE",
+          "JANE AUSTEN",
+          "UNCUT GEM",
+          "CLOUDY DAY",
+          "GLAMOUR GIRL"
+        ],
+        "losesTo": []
       }
     },
     {

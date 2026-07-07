@@ -1,10 +1,10 @@
 {
-  "settled": 8,
+  "settled": 16,
   "scratched": 2,
-  "topPickWins": 5,
-  "topPickPlaces": 6,
-  "winPct": 62.5,
-  "placePct": 75,
+  "topPickWins": 8,
+  "topPickPlaces": 10,
+  "winPct": 50,
+  "placePct": 62.5,
   "history": [
     {
       "id": "2026-07-05-turffontein-r1",
@@ -69,6 +69,70 @@
       "race": 8,
       "won": true,
       "placed": true
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r1",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 1,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r2",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 2,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r3",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 3,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r4",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 4,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r5",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 5,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r6",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 6,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r7",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 7,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-07-hollywoodbets-durbanville-r8",
+      "date": "2026-07-07",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 8,
+      "won": true,
+      "placed": true
     }
   ],
   "calibration": [
@@ -82,19 +146,19 @@
     },
     {
       "tier": "55–70",
-      "n": 7,
-      "wins": 5,
-      "places": 5,
-      "winPct": 71,
-      "placePct": 71
+      "n": 13,
+      "wins": 8,
+      "places": 9,
+      "winPct": 62,
+      "placePct": 69
     },
     {
       "tier": "below 55",
-      "n": 1,
+      "n": 3,
       "wins": 0,
       "places": 1,
       "winPct": 0,
-      "placePct": 100
+      "placePct": 33
     }
   ]
 }

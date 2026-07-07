@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T06:24:37.119Z",
+  "generated": "2026-07-07T19:02:11.925Z",
   "count": 18,
   "days": [
     {
@@ -9,7 +9,7 @@
         "HOLLYWOODBETS DURBANVILLE"
       ],
       "circuit": "Cape",
-      "settled": 0
+      "settled": 8
     },
     {
       "date": "2026-07-05",
@@ -40,8 +40,14 @@
         "pWin": 27.7,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "GOLD GIBOSKI",
+        "topPick": "GOLD GIBOSKI",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r7.json",
@@ -61,8 +67,14 @@
         "pWin": 23.5,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "OCTOBER FEST",
+        "topPick": "PRINCE OF TIBET",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r6.json",
@@ -82,8 +94,14 @@
         "pWin": 26.1,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "BATON ROUGE",
+        "topPick": "SUPERHERO",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r5.json",
@@ -103,8 +121,14 @@
         "pWin": 25.9,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "PROTECTOR OF PEACE",
+        "topPick": "PROTECTOR OF PEACE",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r4.json",
@@ -124,8 +148,14 @@
         "pWin": 27.8,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "LIEFLING",
+        "topPick": "LIEFLING",
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r3.json",
@@ -145,8 +175,14 @@
         "pWin": 24.7,
         "modelRank": 2
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "SPANISH WORLD",
+        "topPick": "NTIBINDI",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r2.json",
@@ -166,8 +202,14 @@
         "pWin": 28.5,
         "modelRank": 3
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "MORDECHAI",
+        "topPick": "PLATINUM GREY",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r1.json",
@@ -187,8 +229,14 @@
         "pWin": 31.9,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "WORLD OF SECRETS",
+        "topPick": "ONTHEWINGSOFADOVE",
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-05-turffontein-r10.json",

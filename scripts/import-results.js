@@ -17,6 +17,7 @@ const fs = require('fs');
 const path = require('path');
 const fb = require('./lib/formbook');
 const { classify } = require('./lib/parse-racecard');
+const { normalizeName } = require('./lib/names');
 const { syncDashboard } = require('./lib/sync-dashboard');
 const { autoPush } = require('./lib/autopush');
 
@@ -70,6 +71,79 @@ function parse(text, date, track) {
   });
 }
 
+// ---------------------------------------------------------------------------
+// Computaform results grid (tab-separated):
+//   id  no  Horse  ACS  SH  Trainer  Jockey  Wgt  MR  Dr  OB  SP  FP  Len  ...
+// Richer than Raceform — includes trainer + finishing lengths. Races are split
+// where FP (finishing position) resets to 1; race number/track/distance are
+// recovered by matching the field to that day's predictions.
+// ---------------------------------------------------------------------------
+function looksComputaform(text) {
+  return /\bS\.800\b/i.test(text) || /\bFP\b[\t ]+Len\b/i.test(text) || /\t\d(?:b|ch|gr|br|bl|ro)[FGCHM]\t/i.test(text);
+}
+function cleanJockey(s) {
+  return String(s || '')
+    .replace(/^[#*+\s]+/, '')
+    .replace(/[-+]\s*\d+(?:\.\d+)?\s*kg/gi, '')
+    .replace(/\s+[-+]\d+(?:\.\d+)?\b/g, '')
+    .replace(/\s+/g, ' ').trim();
+}
+function buildPredIndex(date) {
+  const dir = path.join(fb.ROOT, 'data', 'predictions');
+  if (!fs.existsSync(dir)) return [];
+  const idx = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.json')) continue;
+    let p; try { p = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); } catch { continue; }
+    if (p.date !== date) continue;
+    idx.push({ race: p.race, track: p.track, distance: p.distance, going: p.going, classLabel: p.classLabel,
+      names: new Set((p.ranked || []).map((r) => normalizeName(r.name))) });
+  }
+  return idx;
+}
+function matchRace(finishers, index) {
+  let best = null, score = 0;
+  for (const cand of index) {
+    const overlap = finishers.reduce((n, f) => n + (cand.names.has(normalizeName(f.name)) ? 1 : 0), 0);
+    if (overlap > score) { score = overlap; best = cand; }
+  }
+  return score >= 2 ? best : null;
+}
+function parseComputaform(text, date, fallbackTrack, index) {
+  const rows = [];
+  for (const raw of text.split(/\r?\n/)) {
+    if (!raw.trim()) continue;
+    if (/\bHorse\b/i.test(raw) && /\bJockey\b/i.test(raw)) continue; // header
+    let c = raw.split('\t');
+    if (c.length < 14) c = raw.split(/\t| {2,}/); // space fallback
+    if (c.length < 14) continue;
+    const horse = (c[2] || '').trim();
+    const fp = parseInt(c[13], 10);
+    const len = parseFloat(c[14]);
+    if (!horse || !Number.isFinite(fp)) continue;
+    rows.push({ horse, fp, len: Number.isFinite(len) ? len : 0,
+      jockey: cleanJockey(c[7]), trainer: (c[6] || '').trim(),
+      weight: parseFloat(c[8]) || null, draw: parseInt(c[10], 10) || null });
+  }
+  const blocks = []; let cur = null;
+  for (const r of rows) { if (r.fp === 1) { if (cur) blocks.push(cur); cur = []; } if (cur) cur.push(r); }
+  if (cur) blocks.push(cur);
+
+  return blocks.map((b, i) => {
+    b.sort((x, y) => x.fp - y.fp);
+    const finishers = b.map((row, j) => {
+      const prev = j > 0 ? b[j - 1].len : 0;
+      let gap = row.fp === 1 ? 0 : Math.max(0, (row.len || 0) - (prev || 0));
+      if (!isFinite(gap) || gap > 25) gap = 25;
+      return { name: row.horse, finish: row.fp, marginLengths: +gap.toFixed(2),
+        jockey: row.jockey, trainer: row.trainer, weight: row.weight, draw: row.draw };
+    });
+    const m = matchRace(finishers, index);
+    return { date, track: m ? m.track : fallbackTrack, race: m ? m.race : (i + 1),
+      distance: m ? m.distance : null, going: m ? m.going : null, classLabel: m ? m.classLabel : null, finishers };
+  });
+}
+
 function main() {
   const args = process.argv.slice(2);
   const opt = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
@@ -79,7 +153,10 @@ function main() {
   const track = opt('--track', 'Turffontein');
   if (!file || !fs.existsSync(file)) { console.error('Usage: import-results.js <results.txt> --date YYYY-MM-DD --track <Track> [--no-push]'); process.exit(1); }
 
-  const races = parse(fs.readFileSync(file, 'utf8'), date, track);
+  const text = fs.readFileSync(file, 'utf8');
+  const races = looksComputaform(text)
+    ? parseComputaform(text, date, track, buildPredIndex(date))
+    : parse(text, date, track);
   if (!races.length) { console.error('No races parsed — check the results format.'); process.exit(1); }
 
   const book = fb.load();
