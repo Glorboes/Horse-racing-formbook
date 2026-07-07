@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": null,
-  "generated": "2026-07-06T11:35:28.222Z",
+  "generated": "2026-07-07T06:24:37.089Z",
   "settled": false,
   "marketPriced": true,
   "ranked": [
@@ -63,6 +63,9 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Reliable — placed in 5 of 7 career starts."
+      ],
       "combo": null,
       "jockeyRec": {
         "starts": 6,
@@ -76,10 +79,10 @@
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: recent form, class/rating.",
-        "Up against it on: weight.",
-        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides).",
-        "Career 7 starts, 1 win, 5 placed (from the card — no logged runs in our DB yet)."
+        "Reliable — placed in 5 of 7 career starts.",
+        "Why it can win: strong recent form; top-rated in the field (MR 69).",
+        "Against it: top-weight (60kg).",
+        "Jockey C Zackey: 0-6 (0% strike over 6 logged rides)."
       ],
       "_strengths": [
         "form",
@@ -87,6 +90,13 @@
       ],
       "_concerns": [
         "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 69)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
       ],
       "marketRank": 1,
       "rank": 1,
@@ -147,21 +157,29 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 27 starts, 3 wins, 12 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: class/rating, weight.",
-        "Model/market disagree: model rank 2 vs market rank 5 (6/1).",
-        "Career 27 starts, 3 wins, 12 placed (from the card — no logged runs in our DB yet)."
+        "Career 27 starts, 3 wins, 12 placed (from the card).",
+        "Why it can win: well-rated (MR 68); carries 57kg.",
+        "Model/market disagree: model rank 2 vs market rank 5 (6/1)."
       ],
       "_strengths": [
         "rating",
         "weight"
       ],
       "_concerns": [],
+      "_strReasons": [
+        "well-rated (MR 68)",
+        "carries 57kg"
+      ],
+      "_conReasons": [],
       "marketRank": 5,
       "rank": 2,
       "marketDisagree": true,
@@ -221,15 +239,18 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 40 starts, 3 wins, 9 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: weight.",
-        "Up against it on: recent form, class/rating.",
-        "Career 40 starts, 3 wins, 9 placed (from the card — no logged runs in our DB yet)."
+        "Career 40 starts, 3 wins, 9 placed (from the card).",
+        "Why it can win: well-in at the weights (54kg).",
+        "Against it: patchy recent form; up in class."
       ],
       "_strengths": [
         "weight"
@@ -237,6 +258,13 @@
       "_concerns": [
         "form",
         "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
       ],
       "marketRank": 2,
       "rank": 3,
@@ -297,15 +325,18 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 15 starts, 1 win, 3 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: weight.",
-        "Up against it on: recent form, class/rating.",
-        "Career 15 starts, 1 win, 3 placed (from the card — no logged runs in our DB yet)."
+        "Career 15 starts, 1 win, 3 placed (from the card).",
+        "Why it can win: carries 57kg.",
+        "Against it: patchy recent form; up in class."
       ],
       "_strengths": [
         "weight"
@@ -313,6 +344,13 @@
       "_concerns": [
         "form",
         "rating"
+      ],
+      "_strReasons": [
+        "carries 57kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
       ],
       "marketRank": 3,
       "rank": 4,
@@ -373,15 +411,18 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 19 starts, 2 wins, 5 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw.",
-        "Up against it on: weight, class/rating.",
-        "Career 19 starts, 2 wins, 5 placed (from the card — no logged runs in our DB yet)."
+        "Career 19 starts, 2 wins, 5 placed (from the card).",
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: top-weight (61kg); up in class."
       ],
       "_strengths": [
         "draw"
@@ -389,6 +430,13 @@
       "_concerns": [
         "weight",
         "rating"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "up in class"
       ],
       "marketRank": 6,
       "rank": 5,
@@ -449,15 +497,18 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 37 starts, 3 wins, 12 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw.",
-        "Up against it on: class/rating, recent form.",
-        "Career 37 starts, 3 wins, 12 placed (from the card — no logged runs in our DB yet)."
+        "Career 37 starts, 3 wins, 12 placed (from the card).",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: lower-rated (MR 67); patchy recent form."
       ],
       "_strengths": [
         "draw"
@@ -465,6 +516,13 @@
       "_concerns": [
         "rating",
         "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 67)",
+        "patchy recent form"
       ],
       "marketRank": 4,
       "rank": 6,
@@ -525,19 +583,27 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 20 starts, 2 wins, 6 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Up against it on: weight, class/rating.",
-        "Career 20 starts, 2 wins, 6 placed (from the card — no logged runs in our DB yet)."
+        "Career 20 starts, 2 wins, 6 placed (from the card).",
+        "Against it: top-weight (61kg); up in class."
       ],
       "_strengths": [],
       "_concerns": [
         "weight",
         "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "up in class"
       ],
       "marketRank": 8,
       "rank": 7,
@@ -598,21 +664,30 @@
         "beats": [],
         "losesTo": []
       },
+      "recentForm": [
+        "Career 33 starts, 4 wins, 11 placed (from the card)."
+      ],
       "combo": null,
       "jockeyRec": null,
       "trainerRec": null,
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Advantages over this field: the draw.",
-        "Up against it on: class/rating.",
-        "Career 33 starts, 4 wins, 11 placed (from the card — no logged runs in our DB yet)."
+        "Career 33 starts, 4 wins, 11 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 66)."
       ],
       "_strengths": [
         "draw"
       ],
       "_concerns": [
         "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 66)"
       ],
       "marketRank": 7,
       "rank": 8,

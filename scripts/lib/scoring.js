@@ -202,8 +202,10 @@ function scoreRace(fb, race) {
       factors: Object.fromEntries(Object.entries(f).map(([k, v]) => [k, +v.toFixed(3)])),
       contrib,
       knownRuns: r.knownRuns,
+      _runs: r.runs || [],
       career: r.careerStats ?? null,
       h2h: h2hRec ? { record: h2hRec.record, wins: h2hRec.wins, losses: h2hRec.losses, meetings, smallSample: meetings > 0 && meetings < H2H_MIN_SAMPLE, beats: h2hRec.beats, losesTo: h2hRec.losesTo } : null,
+      recentForm: formNarrative(r.runs, r.careerStats, race),
       combo: comboRecord(fb, r.jockey, r.trainer),
       jockeyRec: jockeyRecord(fb, r.jockey),
       trainerRec: trainerRecord(fb, r.trainer),
@@ -230,13 +232,23 @@ function scoreRace(fb, race) {
       (s._rel = s._rel || {})[k] = { frac, spread };
     }
   }
+  const ratings = scored.map((s) => s.rating).filter((x) => x != null);
+  const weights = scored.map((s) => s.weight).filter((x) => x != null);
+  const ctx = {
+    maxRating: ratings.length ? Math.max(...ratings) : null,
+    minWeight: weights.length ? Math.min(...weights) : null,
+    maxWeight: weights.length ? Math.max(...weights) : null,
+    fieldSize: scored.length, distance: race.distance, track: race.track, going: race.going,
+  };
   for (const s of scored) {
     const rel = fkeys.map((k) => ({ k, ...s._rel[k], v: s.factors[k] }));
     s._strengths = rel.filter((r) => r.spread >= 0.10 && r.frac >= 0.70 && r.v >= 0.5)
       .sort((a, b) => b.frac - a.frac).slice(0, 3).map((r) => r.k);
     s._concerns = rel.filter((r) => r.spread >= 0.10 && r.frac <= 0.30 && r.v <= 0.55)
       .sort((a, b) => a.frac - b.frac).slice(0, 2).map((r) => r.k);
-    delete s._rel;
+    s._strReasons = s._strengths.map((k) => strengthReason(k, s, ctx));
+    s._conReasons = s._concerns.map((k) => concernReason(k, s, ctx));
+    delete s._rel; delete s._runs;
   }
 
   // market rank (shortest odds = 1) vs model rank; flag big disagreements
@@ -266,19 +278,112 @@ function classMovement(fb, key, race) {
   return { from: prev.classLabel, to: race.classLabel, direction: dir };
 }
 
+// Concrete, data-backed "why it can win" — drawn from the horse's actual
+// logged runs (with margins) or, failing that, its career record off the card.
+function fmtLen(x) {
+  if (x == null) return '';
+  if (x <= 0.15) return 'a nose';
+  if (x < 0.4) return 'a head';
+  if (x < 0.75) return 'half a length';
+  return `${(+x).toFixed(x % 1 ? 2 : 0)}L`;
+}
+function placeWord(n) { return ({ 1: '1st', 2: '2nd', 3: '3rd' }[n] || `${n}th`); }
+function formNarrative(runs, career, race) {
+  const lines = [];
+  if (runs && runs.length) {
+    const sorted = [...runs].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    const recent = sorted.slice(0, 6);
+    const last = sorted[0];
+    if (last.finish === 1) {
+      lines.push(`Won last start${last.wonBy != null ? ` by ${fmtLen(last.wonBy)}` : ''}${last.distance ? ` over ${last.distance}m` : ''}${last.track ? ` at ${last.track}` : ''}.`);
+    } else if (last.marginBehindWinner != null && last.marginBehindWinner <= 1.5) {
+      lines.push(`Beaten only ${fmtLen(last.marginBehindWinner)} into ${placeWord(last.finish)} last start — right there.`);
+    } else {
+      lines.push(`${placeWord(last.finish)} of ${last.field || '?'} last start.`);
+    }
+    const wins = recent.filter((r) => r.finish === 1).length;
+    const places = recent.filter((r) => r.finish <= 3).length;
+    if (wins >= 2) lines.push(`In form — ${wins} wins from last ${recent.length}.`);
+    else if (recent.length >= 3 && places >= Math.ceil(recent.length * 0.6)) lines.push(`Consistent — placed in ${places} of last ${recent.length}.`);
+    if (race.track && race.distance) {
+      const cd = recent.some((r) => r.finish === 1 && r.track === race.track && Math.abs((r.distance || 0) - race.distance) <= 100);
+      if (cd) lines.push(`Course-and-distance winner — has won here over ${race.distance}m.`);
+    }
+    const bigWin = Math.max(0, ...recent.filter((r) => r.finish === 1 && r.wonBy != null).map((r) => r.wonBy));
+    if (bigWin >= 2.5) lines.push(`Won by ${fmtLen(bigWin)} recently — has a telling turn of foot.`);
+  } else if (career && career.starts > 0) {
+    const wr = career.wins / career.starts;
+    const placed = career.wins + (career.seconds || 0) + (career.thirds || 0);
+    if (career.starts >= 4 && wr >= 0.30) lines.push(`Proven winner — ${career.wins} from ${career.starts} (${Math.round(wr * 100)}%) per the card.`);
+    else if (career.starts >= 4 && placed / career.starts >= 0.6) lines.push(`Reliable — placed in ${placed} of ${career.starts} career starts.`);
+    else lines.push(`Career ${career.starts} start${career.starts === 1 ? '' : 's'}, ${career.wins} win${career.wins === 1 ? '' : 's'}${placed > career.wins ? `, ${placed} placed` : ''} (from the card).`);
+  }
+  return [...new Set(lines)].slice(0, 3);
+}
+
+const LABEL = {
+  form: 'recent form', rating: 'class/rating', distance: 'distance suitability',
+  going: 'going suitability', draw: 'the draw', jockey: 'jockey record',
+  trainer: 'trainer record', weight: 'weight', headToHead: 'head-to-head vs this field',
+  recencyMargin: 'recent winning margins',
+};
+
+// Explain WHY a factor is an advantage for this horse, with real evidence.
+function strengthReason(k, s, ctx) {
+  const runs = s._runs || [];
+  switch (k) {
+    case 'form': return 'strong recent form';
+    case 'recencyMargin': return 'hitting the line hard lately';
+    case 'rating': return s.rating != null
+      ? (s.rating >= ctx.maxRating ? `top-rated in the field (MR ${s.rating})` : `well-rated (MR ${s.rating})`)
+      : 'higher class';
+    case 'distance': {
+      const at = runs.filter((r) => ctx.distance && Math.abs((r.distance || 0) - ctx.distance) <= 150);
+      if (at.some((r) => r.finish === 1)) return `has won at ${ctx.distance}m`;
+      if (at.some((r) => r.finish <= 3)) return 'placed at this trip before';
+      return 'suited to this distance';
+    }
+    case 'going': {
+      const g = (ctx.going || '').toLowerCase().split(' ')[0];
+      const at = runs.filter((r) => g && String(r.going || '').toLowerCase().includes(g));
+      return at.some((r) => r.finish <= 3) ? `handles the ${ctx.going} going` : 'acts on the going';
+    }
+    case 'draw': return s.draw != null
+      ? `drawn ${s.draw}${s.draw <= Math.ceil(ctx.fieldSize / 3) ? ' — a handy low draw' : ''}`
+      : 'well drawn';
+    case 'jockey': return s.jockeyRec && s.jockeyRec.starts >= 3 ? `${s.jockeyRec.winPct}%-strike jockey booked` : 'good jockey booking';
+    case 'trainer': return s.trainerRec && s.trainerRec.starts >= 3 ? `stable in form (${s.trainerRec.winPct}%)` : 'in-form stable';
+    case 'weight': return (s.weight != null && ctx.minWeight != null && s.weight <= ctx.minWeight + 1)
+      ? `well-in at the weights (${s.weight}kg)` : `carries ${s.weight ?? '?'}kg`;
+    case 'headToHead': return s.h2h && s.h2h.beats.length ? `has beaten ${[...new Set(s.h2h.beats)].slice(0, 2).join(', ')}` : 'strong vs this field';
+    default: return LABEL[k] || k;
+  }
+}
+
+// Explain WHY a factor is a concern.
+function concernReason(k, s, ctx) {
+  switch (k) {
+    case 'form': return 'patchy recent form';
+    case 'recencyMargin': return 'well beaten lately';
+    case 'rating': return s.rating != null ? `lower-rated (MR ${s.rating})` : 'up in class';
+    case 'distance': return 'unproven at this trip';
+    case 'going': return 'questions on the going';
+    case 'draw': return s.draw != null ? `drawn wide (${s.draw})` : 'awkward draw';
+    case 'jockey': return 'lightly-supported jockey booking';
+    case 'trainer': return 'stable out of form';
+    case 'weight': return (s.weight != null && ctx.maxWeight != null && s.weight >= ctx.maxWeight - 1) ? `top-weight (${s.weight}kg)` : `carries ${s.weight ?? '?'}kg`;
+    case 'headToHead': return s.h2h && s.h2h.losesTo.length ? `beaten by ${[...new Set(s.h2h.losesTo)].slice(0, 2).join(', ')} before` : 'outclassed by this field';
+    default: return LABEL[k] || k;
+  }
+}
+
 // Human-readable, glass-box reasoning: top contributing factors + caveats.
 function buildReasoning(s) {
-  const label = {
-    form: 'recent form', rating: 'class/rating', distance: 'distance suitability',
-    going: 'going suitability', draw: 'the draw', jockey: 'jockey record',
-    trainer: 'trainer record', weight: 'weight', headToHead: 'head-to-head vs this field',
-    recencyMargin: 'recent winning margins',
-  };
   const notes = [];
-  const strong = s._strengths || [];
-  const weak = s._concerns || [];
-  if (strong.length) notes.push('Advantages over this field: ' + strong.map((k) => label[k]).join(', ') + '.');
-  if (weak.length) notes.push('Up against it on: ' + weak.map((k) => label[k]).join(', ') + '.');
+  // lead with concrete, data-backed evidence (margins / recent form / career)
+  if (s.recentForm && s.recentForm.length) notes.push(...s.recentForm);
+  if (s._strReasons && s._strReasons.length) notes.push('Why it can win: ' + s._strReasons.join('; ') + '.');
+  if (s._conReasons && s._conReasons.length) notes.push('Against it: ' + s._conReasons.join('; ') + '.');
 
   if (s.classMove && s.classMove.from && s.classMove.to && s.classMove.from !== s.classMove.to) {
     const verb = s.classMove.direction === 'up' ? 'Rising' : s.classMove.direction === 'down' ? 'Dropping' : 'Moving';
@@ -303,16 +408,9 @@ function buildReasoning(s) {
   if (s.marketDisagree) {
     notes.push(`Model/market disagree: model rank ${s.rank} vs market rank ${s.marketRank}${s.odds ? ` (${s.odds})` : ''}.`);
   }
-  if (!s.knownRuns) {
-    if (s.career && s.career.starts > 0) {
-      const c = s.career;
-      const places = (c.wins || 0) + (c.seconds || 0) + (c.thirds || 0);
-      notes.push(`Career ${c.starts} start${c.starts === 1 ? '' : 's'}, ${c.wins} win${c.wins === 1 ? '' : 's'}${places ? `, ${places} placed` : ''} (from the card — no logged runs in our DB yet).`);
-    } else if (s.career && s.career.starts === 0) {
-      notes.push('Unraced — first career start.');
-    } else {
-      notes.push('No form data — scored on today\'s racecard only.');
-    }
+  if (!s.knownRuns && (!s.recentForm || !s.recentForm.length)) {
+    if (s.career && s.career.starts === 0) notes.push('Unraced — first career start.');
+    else notes.push('No form data — scored on today\'s racecard only.');
   }
   return notes;
 }

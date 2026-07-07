@@ -59,6 +59,9 @@ function logResult(fb, result) {
   });
 
   const predId = result.predictionId || makePredId(date, track, race);
+  // winning margin = how far the runner-up finished behind the winner
+  const runnerUp = enriched.find((f) => f.finish === 2);
+  const winMargin = runnerUp ? +runnerUp.cumBehind.toFixed(2) : null;
 
   // Results feeds (e.g. Raceform) give the jockey but not the trainer. The
   // racecard we predicted from DOES have trainers, so cross-fill from it.
@@ -90,6 +93,7 @@ function logResult(fb, result) {
       finish: f.finish,
       field: enriched.length,
       marginBehindWinner: +f.cumBehind.toFixed(2),
+      wonBy: f.finish === 1 ? winMargin : null, // lengths the winner won by
       beaten,
       weight: f.weight ?? null,
       jockey,
