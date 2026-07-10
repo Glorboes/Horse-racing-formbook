@@ -1,0 +1,635 @@
+{
+  "id": "2026-07-14-hollywoodbets-durbanville-r5",
+  "date": "2026-07-14",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 5,
+  "time": null,
+  "distance": 2000,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Stakes",
+  "generated": "2026-07-10T21:13:01.828Z",
+  "settled": false,
+  "marketPriced": false,
+  "ranked": [
+    {
+      "name": "GLENALMOND",
+      "key": "GLENALMOND",
+      "draw": 3,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "M Rix",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.8,
+      "factors": {
+        "form": 0.403,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.25,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "places": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 1 win (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 1 win (from the card).",
+        "Why it can win: drawn 3; well-in at the weights (58.5kg)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 3",
+        "well-in at the weights (58.5kg)"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.3497,
+      "pPlace": 0.6274,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "draw": 7,
+      "rating": null,
+      "jockey": "C Zackey",
+      "trainer": "D A McLachlan",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.4,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.69,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 2.4,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 20,
+        "wins": 3,
+        "places": 8
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 20 starts, 3 wins, 11 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 20 starts, 3 wins, 11 placed (from the card).",
+        "Why it can win: carries 60kg.",
+        "Against it: drawn wide (7).",
+        "Jockey C Zackey: 2-12 (17% strike over 12 logged rides)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "draw"
+      ],
+      "_strReasons": [
+        "carries 60kg"
+      ],
+      "_conReasons": [
+        "drawn wide (7)"
+      ],
+      "rank": 2,
+      "pWin": 0.2157,
+      "pPlace": 0.4436,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "draw": 4,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.7,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.7,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 6 starts, 1 win, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 6 starts, 1 win, 3 placed (from the card).",
+        "Why it can win: drawn 4.",
+        "Jockey C Murray: 1-6 (17% strike over 6 logged rides)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 4"
+      ],
+      "_conReasons": [],
+      "rank": 3,
+      "pWin": 0.2086,
+      "pPlace": 0.4314,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LANDSEER",
+      "key": "LANDSEER",
+      "draw": 6,
+      "rating": null,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "weight": 62,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.9,
+      "factors": {
+        "form": 0.432,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.222,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.78,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 1.33,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 13,
+        "wins": 1,
+        "places": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 13 starts, 1 win, 6 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 13 starts, 1 win, 6 placed (from the card).",
+        "Against it: top-weight (62kg)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (62kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.1308,
+      "pPlace": 0.2853,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HEAVENLY PRINCE",
+      "key": "HEAVENLY PRINCE",
+      "draw": 8,
+      "rating": null,
+      "jockey": "S Bungane",
+      "trainer": "C Bass",
+      "weight": 63,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44,
+      "factors": {
+        "form": 0.468,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.3,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.42,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 1.8,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 2,
+        "places": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 10 starts, 2 wins, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 10 starts, 2 wins, 3 placed (from the card).",
+        "Against it: drawn wide (8); top-weight (63kg).",
+        "Jockey S Bungane: 1-6 (17% strike over 6 logged rides)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (8)",
+        "top-weight (63kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.0953,
+      "pPlace": 0.2122,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": 3,
+      "name": "GLENALMOND",
+      "rank": 1,
+      "score": 51.8,
+      "rating": null,
+      "draw": 3,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "M Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.403,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "DOUBLE DASH",
+      "rank": 2,
+      "score": 48.9,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.4,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.667,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "MASTER COINER",
+      "rank": 3,
+      "score": 48.7,
+      "rating": null,
+      "draw": 4,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "LANDSEER",
+      "rank": 4,
+      "score": 45.9,
+      "rating": null,
+      "draw": 6,
+      "weight": 62,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.432,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.222,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "HEAVENLY PRINCE",
+      "rank": 5,
+      "score": 44,
+      "rating": null,
+      "draw": 8,
+      "weight": 63,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "S Bungane",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.468,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.3,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "GLENALMOND",
+      "key": "GLENALMOND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANDSEER",
+      "key": "LANDSEER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HEAVENLY PRINCE",
+      "key": "HEAVENLY PRINCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "GLENALMOND",
+  "places": 2
+}

@@ -48,7 +48,7 @@ function formScore(runs, limit = 6, career = null) {
   if (!recent.length) {
     if (career && career.starts > 0) {
       const winRate = career.wins / career.starts;
-      const placeRate = (career.wins + (career.seconds || 0) + (career.thirds || 0)) / career.starts;
+      const placeRate = (career.wins + (career.seconds || 0) + (career.thirds || 0) + (career.places || 0)) / career.starts;
       return clamp01(0.32 + 0.5 * winRate + 0.16 * placeRate);
     }
     return 0.4; // truly unknown / unraced -> neutral-ish
@@ -313,7 +313,7 @@ function formNarrative(runs, career, race) {
     if (bigWin >= 2.5) lines.push(`Won by ${fmtLen(bigWin)} recently — has a telling turn of foot.`);
   } else if (career && career.starts > 0) {
     const wr = career.wins / career.starts;
-    const placed = career.wins + (career.seconds || 0) + (career.thirds || 0);
+    const placed = career.wins + (career.seconds || 0) + (career.thirds || 0) + (career.places || 0);
     if (career.starts >= 4 && wr >= 0.30) lines.push(`Proven winner — ${career.wins} from ${career.starts} (${Math.round(wr * 100)}%) per the card.`);
     else if (career.starts >= 4 && placed / career.starts >= 0.6) lines.push(`Reliable — placed in ${placed} of ${career.starts} career starts.`);
     else lines.push(`Career ${career.starts} start${career.starts === 1 ? '' : 's'}, ${career.wins} win${career.wins === 1 ? '' : 's'}${placed > career.wins ? `, ${placed} placed` : ''} (from the card).`);

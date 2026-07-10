@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-07T19:10:52.641Z",
-  "count": 18,
+  "generated": "2026-07-10T21:13:01.948Z",
+  "count": 27,
   "days": [
+    {
+      "date": "2026-07-14",
+      "races": 9,
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "circuit": "Cape",
+      "settled": 0
+    },
     {
       "date": "2026-07-07",
       "races": 8,
@@ -22,6 +31,195 @@
     }
   ],
   "predictions": [
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r9.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r9",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 9,
+      "time": null,
+      "distance": 1400,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "FORT YUKON",
+      "mostLikely": {
+        "name": "FORT YUKON",
+        "pWin": 25.3,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r8.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r8",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": 1600,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 4,
+      "topPick": "KATSU",
+      "mostLikely": {
+        "name": "KATSU",
+        "pWin": 28.6,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r7.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r7",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": 1250,
+      "going": null,
+      "classLabel": null,
+      "runners": 4,
+      "topPick": "VIVO PER LEI",
+      "mostLikely": {
+        "name": "VIVO PER LEI",
+        "pWin": 37.5,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r6.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r6",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 5,
+      "topPick": "GIVE IT LALDY",
+      "mostLikely": {
+        "name": "GIVE IT LALDY",
+        "pWin": 34.7,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r5.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r5",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": 2000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 5,
+      "topPick": "GLENALMOND",
+      "mostLikely": {
+        "name": "GLENALMOND",
+        "pWin": 35,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r4.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r4",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": 2000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 3,
+      "topPick": "PHANTOM MAN",
+      "mostLikely": {
+        "name": "PHANTOM MAN",
+        "pWin": 56.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r3.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r3",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": 1000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 4,
+      "topPick": "RUBY REX",
+      "mostLikely": {
+        "name": "RUBY REX",
+        "pWin": 31.7,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r2.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r2",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 7,
+      "topPick": "COSMIC DAN",
+      "mostLikely": {
+        "name": "COSMIC DAN",
+        "pWin": 28.5,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r1.json",
+      "id": "2026-07-14-hollywoodbets-durbanville-r1",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": 1600,
+      "going": null,
+      "classLabel": "Maiden Juvenile Plate",
+      "runners": 7,
+      "topPick": "SWAY IN STYLE",
+      "mostLikely": {
+        "name": "SWAY IN STYLE",
+        "pWin": 24.8,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
     {
       "file": "data/predictions/2026-07-07-hollywoodbets-durbanville-r8.json",
       "id": "2026-07-07-hollywoodbets-durbanville-r8",

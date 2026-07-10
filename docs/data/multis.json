@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T19:10:52.644Z",
+  "generated": "2026-07-10T21:13:01.951Z",
   "days": {
     "2026-07-05": {
       "bankers": [
@@ -1102,6 +1102,266 @@
             "time": "14:35",
             "selection": "LIEFLING",
             "prob": 27.8
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-07-14": {
+      "bankers": [
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": null,
+          "selection": "PHANTOM MAN",
+          "pWin": 56.1,
+          "pPlace": 0,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": null,
+          "selection": "VIVO PER LEI",
+          "pWin": 37.5,
+          "pPlace": 0,
+          "confidence": "strong"
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": null,
+          "selection": "GLENALMOND",
+          "pWin": 35,
+          "pPlace": 62.7,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0736,
+          "combinedPct": 7.4,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "PHANTOM MAN",
+              "prob": 56.1
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "VIVO PER LEI",
+              "prob": 37.5
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GLENALMOND",
+              "prob": 35
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0255,
+          "combinedPct": 2.6,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "PHANTOM MAN",
+              "prob": 56.1
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "VIVO PER LEI",
+              "prob": 37.5
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GLENALMOND",
+              "prob": 35
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GIVE IT LALDY",
+              "prob": 34.7
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0081,
+          "combinedPct": 0.8,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "PHANTOM MAN",
+              "prob": 56.1
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "VIVO PER LEI",
+              "prob": 37.5
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GLENALMOND",
+              "prob": 35
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GIVE IT LALDY",
+              "prob": 34.7
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "RUBY REX",
+              "prob": 31.7
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.0979,
+          "combinedPct": 9.8,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GLENALMOND",
+              "prob": 62.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GIVE IT LALDY",
+              "prob": 62.5
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "COSMIC DAN",
+              "prob": 53
+            },
+            {
+              "race": 9,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 47.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.0456,
+          "combinedPct": 4.6,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GLENALMOND",
+              "prob": 62.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "GIVE IT LALDY",
+              "prob": 62.5
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "COSMIC DAN",
+              "prob": 53
+            },
+            {
+              "race": 9,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 47.1
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": null,
+              "selection": "SWAY IN STYLE",
+              "prob": 46.6
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0736,
+        "combinedPct": 7.4,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 4,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": null,
+            "selection": "PHANTOM MAN",
+            "prob": 56.1
+          },
+          {
+            "race": 7,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": null,
+            "selection": "VIVO PER LEI",
+            "prob": 37.5
+          },
+          {
+            "race": 5,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": null,
+            "selection": "GLENALMOND",
+            "prob": 35
           }
         ]
       },

@@ -1,0 +1,661 @@
+{
+  "id": "2026-07-14-hollywoodbets-durbanville-r6",
+  "date": "2026-07-14",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 6,
+  "time": null,
+  "distance": 1250,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Stakes",
+  "generated": "2026-07-10T21:13:01.830Z",
+  "settled": false,
+  "marketPriced": false,
+  "ranked": [
+    {
+      "name": "GIVE IT LALDY",
+      "key": "GIVE IT LALDY",
+      "draw": 1,
+      "rating": null,
+      "jockey": "G Lerena",
+      "trainer": "L V Woodruff",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.2,
+      "factors": {
+        "form": 0.648,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.575,
+        "trainer": 0.5,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 11.66,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 3.45,
+        "trainer": 3,
+        "weight": 2.25,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 2,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Proven winner — 2 from 5 (40%) per the card."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 2,
+        "places": 4,
+        "winPct": 33,
+        "placePct": 67,
+        "record": "2-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Proven winner — 2 from 5 (40%) per the card.",
+        "Why it can win: strong recent form; drawn 1 — a handy low draw; 33%-strike jockey booked.",
+        "Against it: carries 57kg.",
+        "Jockey G Lerena: 2-6 (33% strike over 6 logged rides)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 1 — a handy low draw",
+        "33%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 1,
+      "pWin": 0.3467,
+      "pPlace": 0.6255,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHESGOTCLASS",
+      "key": "SHESGOTCLASS",
+      "draw": 6,
+      "rating": null,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.1,
+      "factors": {
+        "form": 0.537,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.67,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3,
+        "jockey": 2.6,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 3,
+        "places": 8
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 11 of 15 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 20,
+        "record": "0-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 11 of 15 career starts.",
+        "Why it can win: well-in at the weights (54.5kg); drawn 6.",
+        "Against it: lightly-supported jockey booking.",
+        "Jockey M Michel: 0-5 (0% strike over 5 logged rides)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54.5kg)",
+        "drawn 6"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.2443,
+      "pPlace": 0.4915,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "draw": 7,
+      "rating": null,
+      "jockey": "R Fourie",
+      "trainer": "P P Kruyer",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.2,
+      "factors": {
+        "form": 0.525,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.4,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.45,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 2.4,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 2,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 2 wins, 4 placed (from the card).",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "Jockey R Fourie: 1-6 (17% strike over 6 logged rides)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.178,
+      "pPlace": 0.3771,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IGNITE THE FIRE",
+      "key": "IGNITE THE FIRE",
+      "draw": 9,
+      "rating": null,
+      "jockey": "A Fortune",
+      "trainer": "P P Kruyer",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.1,
+      "factors": {
+        "form": 0.531,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.2,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.57,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 1.2,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 2,
+        "places": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 7 starts, 2 wins, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 7 starts, 2 wins, 3 placed (from the card).",
+        "Against it: drawn wide (9); patchy recent form."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (9)",
+        "patchy recent form"
+      ],
+      "rank": 4,
+      "pWin": 0.1482,
+      "pPlace": 0.3202,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OBJET D’ ART",
+      "key": "OBJET D ART",
+      "draw": 8,
+      "rating": null,
+      "jockey": "C Zackey",
+      "trainer": "A N Marcus",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.6,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.3,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 10,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 1.8,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 2,
+        "places": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 7 of 9 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 7 of 9 career starts.",
+        "Why it can win: strong recent form.",
+        "Against it: top-weight (58.5kg); drawn wide (8).",
+        "Jockey C Zackey: 2-12 (17% strike over 12 logged rides)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "draw"
+      ],
+      "_strReasons": [
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (58.5kg)",
+        "drawn wide (8)"
+      ],
+      "rank": 5,
+      "pWin": 0.0827,
+      "pPlace": 0.1856,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": 1,
+      "name": "GIVE IT LALDY",
+      "rank": 1,
+      "score": 54.2,
+      "rating": null,
+      "draw": 1,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "G Lerena",
+      "trainer": "L V Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.648,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.575,
+        "trainer": 0.5,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "SHESGOTCLASS",
+      "rank": 2,
+      "score": 52.1,
+      "rating": null,
+      "draw": 6,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.537,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "FAST TRAIN",
+      "rank": 3,
+      "score": 50.2,
+      "rating": null,
+      "draw": 7,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "P P Kruyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.525,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.4,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "IGNITE THE FIRE",
+      "rank": 4,
+      "score": 49.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "P P Kruyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.531,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.2,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "OBJET D’ ART",
+      "rank": 5,
+      "score": 45.6,
+      "rating": null,
+      "draw": 8,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.3,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "GIVE IT LALDY",
+      "key": "GIVE IT LALDY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHESGOTCLASS",
+      "key": "SHESGOTCLASS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OBJET D’ ART",
+      "key": "OBJET D ART",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IGNITE THE FIRE",
+      "key": "IGNITE THE FIRE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "GIVE IT LALDY",
+  "places": 2
+}

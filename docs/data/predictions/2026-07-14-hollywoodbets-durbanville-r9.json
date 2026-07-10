@@ -1,0 +1,887 @@
+{
+  "id": "2026-07-14-hollywoodbets-durbanville-r9",
+  "date": "2026-07-14",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 9,
+  "time": null,
+  "distance": 1400,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": null,
+  "generated": "2026-07-10T21:13:01.836Z",
+  "settled": false,
+  "marketPriced": false,
+  "ranked": [
+    {
+      "name": "FORT YUKON",
+      "key": "FORT YUKON",
+      "draw": 1,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "A N Marcus",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.3,
+      "factors": {
+        "form": 0.466,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.39,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 3.07,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 1,
+        "places": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 6 of 10 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 6 of 10 career starts.",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (56kg).",
+        "Against it: patchy recent form.",
+        "Jockey C Murray: 1-6 (17% strike over 6 logged rides)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 1,
+      "pWin": 0.2525,
+      "pPlace": 0.4708,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CEDAR POINT",
+      "key": "CEDAR POINT",
+      "draw": 4,
+      "rating": null,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.5,
+      "factors": {
+        "form": 0.502,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.518,
+        "trainer": 0.5,
+        "weight": 0.8,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.04,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 3.11,
+        "trainer": 3,
+        "weight": 4.8,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "places": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 6 of 8 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 6 of 8 career starts.",
+        "Jockey C Zackey: 2-12 (17% strike over 12 logged rides)."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.1871,
+      "pPlace": 0.3689,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DIAMOND ROCK",
+      "key": "DIAMOND ROCK",
+      "draw": 6,
+      "rating": null,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.7,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.47,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 2.6,
+        "trainer": 3,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 24,
+        "wins": 2,
+        "places": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 24 starts, 2 wins, 8 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 20,
+        "record": "0-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 24 starts, 2 wins, 8 placed (from the card).",
+        "Why it can win: well-in at the weights (56kg).",
+        "Against it: patchy recent form.",
+        "Jockey M Michel: 0-5 (0% strike over 5 logged rides)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.1386,
+      "pPlace": 0.2829,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GOLD DUST",
+      "key": "GOLD DUST",
+      "draw": 5,
+      "rating": null,
+      "jockey": "S Bungane",
+      "trainer": "M Rix",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.2,
+      "factors": {
+        "form": 0.47,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.46,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 3.07,
+        "trainer": 3,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 2,
+        "places": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 12 starts, 2 wins, 5 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 12 starts, 2 wins, 5 placed (from the card).",
+        "Jockey S Bungane: 1-6 (17% strike over 6 logged rides)."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 4,
+      "pWin": 0.1275,
+      "pPlace": 0.2622,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MIAMI SUMMER",
+      "key": "MIAMI SUMMER",
+      "draw": 3,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.4,
+      "factors": {
+        "form": 0.516,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.2,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 1.2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 3 of 5 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 3 of 5 career starts.",
+        "Why it can win: strong recent form; drawn 3 — a handy low draw.",
+        "Against it: top-weight (60kg)."
+      ],
+      "_strengths": [
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.1116,
+      "pPlace": 0.2317,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IN MOTION",
+      "key": "IN MOTION",
+      "draw": 8,
+      "rating": null,
+      "jockey": "V Jodhee",
+      "trainer": "J S Snaith",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.69,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3,
+        "jockey": 2.8,
+        "trainer": 3,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "places": 4
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 5 of 8 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 5 of 8 career starts.",
+        "Against it: drawn wide (8)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (8)"
+      ],
+      "rank": 6,
+      "pWin": 0.1027,
+      "pPlace": 0.2144,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CLARK GRISWOLD",
+      "key": "CLARK GRISWOLD",
+      "draw": 7,
+      "rating": null,
+      "jockey": "A Fortune",
+      "trainer": "C Bass",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.4,
+      "factors": {
+        "form": 0.567,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 10.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 3,
+        "trainer": 3,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 6,
+        "wins": 2,
+        "places": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Proven winner — 2 from 6 (33%) per the card."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Proven winner — 2 from 6 (33%) per the card.",
+        "Why it can win: strong recent form.",
+        "Against it: top-weight (61kg)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.08,
+      "pPlace": 0.1691,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": 1,
+      "name": "FORT YUKON",
+      "rank": 1,
+      "score": 54.3,
+      "rating": null,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.466,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "CEDAR POINT",
+      "rank": 2,
+      "score": 52.5,
+      "rating": null,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.502,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.518,
+        "trainer": 0.5,
+        "weight": 0.8,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "DIAMOND ROCK",
+      "rank": 3,
+      "score": 50.7,
+      "rating": null,
+      "draw": 6,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.415,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "GOLD DUST",
+      "rank": 4,
+      "score": 50.2,
+      "rating": null,
+      "draw": 5,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "S Bungane",
+      "trainer": "M Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.47,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "MIAMI SUMMER",
+      "rank": 5,
+      "score": 49.4,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.516,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.2,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "IN MOTION",
+      "rank": 6,
+      "score": 48.9,
+      "rating": null,
+      "draw": 8,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "V Jodhee",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.483,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.5,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "CLARK GRISWOLD",
+      "rank": 7,
+      "score": 47.4,
+      "rating": null,
+      "draw": 7,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.567,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "FORT YUKON",
+      "key": "FORT YUKON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MIAMI SUMMER",
+      "key": "MIAMI SUMMER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CEDAR POINT",
+      "key": "CEDAR POINT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GOLD DUST",
+      "key": "GOLD DUST",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DIAMOND ROCK",
+      "key": "DIAMOND ROCK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CLARK GRISWOLD",
+      "key": "CLARK GRISWOLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IN MOTION",
+      "key": "IN MOTION",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "FORT YUKON",
+  "places": 2
+}

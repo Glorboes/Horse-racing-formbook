@@ -84,13 +84,66 @@ async function parsePdf(file) {
   fs.mkdirSync(reviewDir, { recursive: true });
   const stub = path.join(reviewDir, path.basename(file, '.pdf') + '.parsed.json');
 
-  if (!parsed || !parsed.races.length) {
-    fs.writeFileSync(stub, JSON.stringify({ error: 'Could not locate the "FIELDS, RATINGS" section — is this a TAB Computaform card?', textStart: text.slice(0, 400) }, null, 2) + '\n');
+  // fall back to the compact "form guide" export if there's no FIELDS section
+  const usable = (parsed && parsed.races.length) ? parsed : parseCompactCard(text);
+
+  if (!usable || !usable.races.length) {
+    fs.writeFileSync(stub, JSON.stringify({ error: 'Unrecognised Computaform layout — no "FIELDS, RATINGS" section and no compact "No Horse … Trainer Draw Jockey" grid.', textStart: text.slice(0, 400) }, null, 2) + '\n');
     throw new Error(`Could not parse Computaform PDF — wrote diagnostic to ${stub}. Try the .txt fallback.`);
   }
-  const races = parsed.races.map(normalizeRace);
-  fs.writeFileSync(stub, JSON.stringify({ date: parsed.date, track: parsed.track, races }, null, 2) + '\n');
+  const parsedResult = usable;
+  const races = parsedResult.races.map(normalizeRace);
+  fs.writeFileSync(stub, JSON.stringify({ date: parsedResult.date, track: parsedResult.track, races }, null, 2) + '\n');
   return { races, review: stub };
+}
+
+// --- Compact "form guide" export: no FIELDS section; a 4-ish page card with
+//     "No Horse  Age,Colour,Sex; Wins,Places,Runs Trainer Draw Jockey Wgt" rows.
+//     Carries career W-P-R, trainer, draw, jockey, weight (no MR/odds).
+const COMPACT_A = /^(\d{1,2})\s+([A-Z][A-Za-z'’ .\-]+?)\s+\d[A-Za-z]{2,3}\s+(\d+)-(\d+)-(\d+)\b([\s\S]*)$/;
+const COMPACT_DBW = /(\d{1,2})\s+([#*]?\s*[A-Z][A-Za-z'’ .\-]+?)\s+(\d{2}(?:\.\d)?)(?:\s|$)/; // draw jockey weight
+function parseCompactCard(text) {
+  const dm = text.match(/-\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);
+  const date = dm && MONTHS[dm[2].toLowerCase()] ? `${dm[3]}-${MONTHS[dm[2].toLowerCase()]}-${String(dm[1]).padStart(2, '0')}` : null;
+  const tk = text.match(/([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)\s*\(SA\)/);
+  const track = tk ? tk[1].trim() : null;
+
+  const heads = [...text.matchAll(/RACE\s*(\d+):([^\n]*)/g)];
+  const races = [];
+  for (let i = 0; i < heads.length; i++) {
+    const block = text.slice(heads[i].index, i + 1 < heads.length ? heads[i + 1].index : text.length);
+    const dist = (block.match(/Stake:[\s\S]{0,40}?(\d{3,4})m/) || block.match(/(\d{3,4})m/) || [])[1];
+    const cls = classify(heads[i][2] || '');
+    const runners = parseCompactRunners(block);
+    if (runners.length) {
+      races.push({ date, track, race: +heads[i][1], distance: dist ? +dist : null,
+        going: null, surface: 'Turf', classLabel: cls.label, classType: cls.type, classRank: cls.rank, runners });
+    }
+  }
+  return { date, track, races };
+}
+function parseCompactRunners(block) {
+  const lines = block.split(/\r?\n/);
+  const idx = [];
+  lines.forEach((l, k) => { if (COMPACT_A.test(l)) idx.push(k); });
+  const runners = [];
+  for (let n = 0; n < idx.length; n++) {
+    const seg = lines.slice(idx[n], n + 1 < idx.length ? idx[n + 1] : lines.length).join(' ');
+    const a = seg.match(COMPACT_A);
+    if (!a) continue;
+    const tail = a[6] || '';
+    const b = tail.match(COMPACT_DBW);
+    let trainer = null, draw = null, jockey = null, weight = null;
+    if (b) {
+      draw = +b[1]; jockey = b[2].replace(/^[#*]\s*/, '').replace(/\s+/g, ' ').trim(); weight = +b[3];
+      trainer = tail.slice(0, b.index).replace(/[+]/g, ' ').replace(/\s+/g, ' ').trim() || null;
+    } else {
+      trainer = tail.replace(/[+]/g, ' ').replace(/\s+/g, ' ').trim().split(/\s{2,}/)[0] || null;
+    }
+    runners.push({ no: +a[1], name: a[2].trim().replace(/\s+/g, ' '), draw, jockey, weight, trainer,
+      careerStats: { starts: +a[5], wins: +a[3], places: +a[4] } });
+  }
+  return runners;
 }
 
 // --- TAB Computaform "FIELDS, RATINGS FOR <TRACK> <course> <Day D Month YYYY>" ---
