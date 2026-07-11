@@ -19,8 +19,9 @@ const DEFAULT_WEIGHTS = {
   distance: 10,      // 3. proven at today's distance
   going: 8,          // 4. suited to today's going/surface
   draw: 6,           // 5. barrier draw
-  jockey: 6,         // 6. jockey strike
-  trainer: 6,        // 7. trainer strike
+  jockey: 3,         // 6. jockey strike (deliberately light — a support signal,
+                     //    not a driver; the horse's own form should lead)
+  trainer: 5,        // 7. trainer strike
   weight: 6,         // 8. weight carried
   headToHead: 12,    // NEW: H2H vs today's actual field
   recencyMargin: 12, // NEW: recency-weighted winning/beaten margins
@@ -389,16 +390,12 @@ function buildReasoning(s) {
     const verb = s.classMove.direction === 'up' ? 'Rising' : s.classMove.direction === 'down' ? 'Dropping' : 'Moving';
     notes.push(`${verb} in class: ${s.classMove.from} → ${s.classMove.to} since last run.`);
   }
-  if (s.jockey && s.jockeyRec && s.jockeyRec.starts >= 3) {
-    notes.push(`Jockey ${s.jockey}: ${s.jockeyRec.record} (${s.jockeyRec.winPct}% strike over ${s.jockeyRec.starts} logged rides).`);
-  }
-  if (s.partnership && s.partnership.starts > 0) {
-    notes.push(`With ${s.jockey} aboard: ${s.partnership.record} together${s.partnership.starts < 3 ? ' (few rides)' : ''}.`);
-  } else if (s.partnership && s.partnership.newPartnership && s.knownRuns > 0) {
-    notes.push(`New partnership — first ride for ${s.jockey} on this horse.`);
-  }
-  if (s.combo) {
-    notes.push(`Jockey/trainer combo: ${s.combo.record} (${s.combo.winPct}% win).`);
+  // One jockey line at most, and only when there's a real signal — kept as a
+  // minor supporting note so it doesn't dominate the reasoning.
+  if (s.partnership && s.partnership.starts >= 2 && s.partnership.wins > 0) {
+    notes.push(`Winning partnership: ${s.jockey} ${s.partnership.record} on this horse.`);
+  } else if (s.jockey && s.jockeyRec && s.jockeyRec.starts >= 10 && s.jockeyRec.winPct >= 18) {
+    notes.push(`Jockey ${s.jockey} in form (${s.jockeyRec.winPct}% strike).`);
   }
   if (s.h2h && (s.h2h.wins || s.h2h.losses)) {
     const tag = s.h2h.smallSample ? ' ⚠ small sample' : '';

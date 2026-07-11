@@ -18,8 +18,8 @@ inspectable factors. No hidden model. Weights live in one place
 | 3 | `distance` | 10 | Record at ~today's distance (±200m) |
 | 4 | `going` | 8 | Record on today's going/surface |
 | 5 | `draw` | 6 | Barrier draw (mild inside bias for SA turf) |
-| 6 | `jockey` | 6 | Jockey's real strike rate across the DB (shrunk toward the field base-rate while the sample is small) |
-| 7 | `trainer` | 6 | Trainer's real strike rate across the DB (same shrinkage; trainer cross-filled from the racecard when results omit it) |
+| 6 | `jockey` | 3 | Jockey's real strike rate across the DB (shrunk toward the field base-rate while the sample is small). Deliberately light — a supporting signal, not a driver. |
+| 7 | `trainer` | 5 | Trainer's real strike rate across the DB (same shrinkage; trainer cross-filled from the racecard when results omit it) |
 | 8 | `weight` | 6 | Weight carried vs the field |
 | + | **`headToHead`** | 12 | **NEW.** Standing vs the horses *actually in today's field*, recency-weighted, margin-scaled |
 | + | **`recencyMargin`** | 12 | **NEW.** Recency-weighted winning/beaten margins (how far, how recently) |
