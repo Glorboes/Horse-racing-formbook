@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Maiden Plate",
-  "generated": "2026-07-11T20:01:59.824Z",
+  "generated": "2026-07-15T17:05:10.040Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -76,20 +76,22 @@
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Why it can win: drawn 1 — a handy low draw.",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (56kg).",
         "Unraced — first career start."
       ],
       "_strengths": [
-        "draw"
+        "draw",
+        "weight"
       ],
       "_concerns": [],
       "_strReasons": [
-        "drawn 1 — a handy low draw"
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (56kg)"
       ],
       "_conReasons": [],
       "rank": 1,
-      "pWin": 0.2954,
-      "pPlace": 0.5465,
+      "pWin": 0.2691,
+      "pPlace": 0.6883,
       "pMarket": null,
       "edge": null
     },
@@ -103,13 +105,13 @@
       "weight": 56,
       "odds": null,
       "oddsDecimal": null,
-      "score": 52.1,
+      "score": 52.2,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.857,
+        "draw": 0.875,
         "jockey": 0.467,
         "trainer": 0.5,
         "weight": 1,
@@ -121,7 +123,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 5.14,
+        "draw": 5.25,
         "jockey": 1.4,
         "trainer": 2.5,
         "weight": 6,
@@ -159,15 +161,22 @@
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Career 4 starts, 0 wins, 2 placed (from the card)."
+        "Career 4 starts, 0 wins, 2 placed (from the card).",
+        "Why it can win: drawn 3 — a handy low draw; well-in at the weights (56kg)."
       ],
-      "_strengths": [],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
       "_concerns": [],
-      "_strReasons": [],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "well-in at the weights (56kg)"
+      ],
       "_conReasons": [],
       "rank": 2,
-      "pWin": 0.2543,
-      "pPlace": 0.4903,
+      "pWin": 0.2355,
+      "pPlace": 0.6402,
       "pMarket": null,
       "edge": null
     },
@@ -181,14 +190,14 @@
       "weight": 56,
       "odds": null,
       "oddsDecimal": null,
-      "score": 49.9,
+      "score": 50.1,
       "factors": {
         "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.714,
-        "jockey": 0.512,
+        "draw": 0.75,
+        "jockey": 0.525,
         "trainer": 0.5,
         "weight": 1,
         "headToHead": 0.5,
@@ -199,8 +208,8 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 4.29,
-        "jockey": 1.54,
+        "draw": 4.5,
+        "jockey": 1.58,
         "trainer": 2.5,
         "weight": 6,
         "headToHead": 6,
@@ -237,15 +246,20 @@
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Career 2 starts, 0 wins (from the card)."
+        "Career 2 starts, 0 wins (from the card).",
+        "Why it can win: well-in at the weights (56kg)."
       ],
-      "_strengths": [],
+      "_strengths": [
+        "weight"
+      ],
       "_concerns": [],
-      "_strReasons": [],
+      "_strReasons": [
+        "well-in at the weights (56kg)"
+      ],
       "_conReasons": [],
       "rank": 3,
-      "pWin": 0.1762,
-      "pPlace": 0.3622,
+      "pWin": 0.166,
+      "pPlace": 0.5095,
       "pMarket": null,
       "edge": null
     },
@@ -265,7 +279,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.929,
+        "draw": 0.938,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -277,7 +291,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 5.57,
+        "draw": 5.63,
         "jockey": 1.5,
         "trainer": 2.5,
         "weight": 0,
@@ -325,8 +339,84 @@
         "top-weight (60kg)"
       ],
       "rank": 4,
-      "pWin": 0.0846,
-      "pPlace": 0.1842,
+      "pWin": 0.0771,
+      "pPlace": 0.2687,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BORN OF FIRE",
+      "key": "BORN OF FIRE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "A Mosaheb",
+      "trainer": "G S Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45,
+      "factors": {
+        "form": 0.36,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.48,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 0 wins, 2 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 0 wins, 2 placed (from the card).",
+        "Against it: top-weight (60kg)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.0709,
+      "pPlace": 0.2491,
       "pMarket": null,
       "edge": null
     },
@@ -340,13 +430,13 @@
       "weight": 60,
       "odds": null,
       "oddsDecimal": null,
-      "score": 44.5,
+      "score": 44.8,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.643,
+        "draw": 0.688,
         "jockey": 0.454,
         "trainer": 0.5,
         "weight": 0,
@@ -358,7 +448,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3.86,
+        "draw": 4.13,
         "jockey": 1.36,
         "trainer": 2.5,
         "weight": 0,
@@ -407,9 +497,9 @@
       "_conReasons": [
         "top-weight (60kg)"
       ],
-      "rank": 5,
-      "pWin": 0.0716,
-      "pPlace": 0.157,
+      "rank": 6,
+      "pWin": 0.0686,
+      "pPlace": 0.2417,
       "pMarket": null,
       "edge": null
     },
@@ -423,13 +513,13 @@
       "weight": 60,
       "odds": null,
       "oddsDecimal": null,
-      "score": 44.2,
+      "score": 44.5,
       "factors": {
         "form": 0.4,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.571,
+        "draw": 0.625,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -441,7 +531,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3.43,
+        "draw": 3.75,
         "jockey": 1.5,
         "trainer": 2.5,
         "weight": 0,
@@ -483,9 +573,9 @@
       "_conReasons": [
         "top-weight (60kg)"
       ],
-      "rank": 6,
-      "pWin": 0.0682,
-      "pPlace": 0.1497,
+      "rank": 7,
+      "pWin": 0.0653,
+      "pPlace": 0.2308,
       "pMarket": null,
       "edge": null
     },
@@ -499,13 +589,13 @@
       "weight": 60,
       "odds": null,
       "oddsDecimal": null,
-      "score": 42.3,
+      "score": 42.6,
       "factors": {
         "form": 0.32,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.563,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -517,7 +607,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3,
+        "draw": 3.38,
         "jockey": 1.5,
         "trainer": 2.5,
         "weight": 0,
@@ -549,21 +639,19 @@
       "classMove": null,
       "reasoning": [
         "Career 2 starts, 0 wins (from the card).",
-        "Against it: drawn wide (8); top-weight (60kg)."
+        "Against it: top-weight (60kg)."
       ],
       "_strengths": [],
       "_concerns": [
-        "draw",
         "weight"
       ],
       "_strReasons": [],
       "_conReasons": [
-        "drawn wide (8)",
         "top-weight (60kg)"
       ],
-      "rank": 7,
-      "pWin": 0.0497,
-      "pPlace": 0.1101,
+      "rank": 8,
+      "pWin": 0.0475,
+      "pPlace": 0.1717,
       "pMarket": null,
       "edge": null
     }
@@ -601,7 +689,7 @@
       "no": 3,
       "name": "LE CONCIERGE",
       "rank": 2,
-      "score": 52.1,
+      "score": 52.2,
       "rating": null,
       "draw": 3,
       "weight": 56,
@@ -617,7 +705,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.857,
+        "draw": 0.875,
         "jockey": 0.467,
         "trainer": 0.5,
         "weight": 1,
@@ -629,7 +717,7 @@
       "no": 5,
       "name": "RUMBO RUSSI",
       "rank": 3,
-      "score": 49.9,
+      "score": 50.1,
       "rating": null,
       "draw": 5,
       "weight": 56,
@@ -645,8 +733,8 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.714,
-        "jockey": 0.512,
+        "draw": 0.75,
+        "jockey": 0.525,
         "trainer": 0.5,
         "weight": 1,
         "headToHead": 0.5,
@@ -673,7 +761,35 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.929,
+        "draw": 0.938,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "BORN OF FIRE",
+      "rank": 5,
+      "score": 45,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "A Mosaheb",
+      "trainer": "G S Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.36,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -684,8 +800,8 @@
     {
       "no": 6,
       "name": "LE TISSIER",
-      "rank": 5,
-      "score": 44.5,
+      "rank": 6,
+      "score": 44.8,
       "rating": null,
       "draw": 6,
       "weight": 60,
@@ -701,7 +817,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.643,
+        "draw": 0.688,
         "jockey": 0.454,
         "trainer": 0.5,
         "weight": 0,
@@ -712,8 +828,8 @@
     {
       "no": 7,
       "name": "FRACTAL",
-      "rank": 6,
-      "score": 44.2,
+      "rank": 7,
+      "score": 44.5,
       "rating": null,
       "draw": 7,
       "weight": 60,
@@ -729,7 +845,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.571,
+        "draw": 0.625,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -740,8 +856,8 @@
     {
       "no": 8,
       "name": "GIMME MORE APACHE",
-      "rank": 7,
-      "score": 42.3,
+      "rank": 8,
+      "score": 42.6,
       "rating": null,
       "draw": 8,
       "weight": 60,
@@ -757,7 +873,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.563,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -794,6 +910,18 @@
     {
       "name": "LE CONCIERGE",
       "key": "LE CONCIERGE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BORN OF FIRE",
+      "key": "BORN OF FIRE",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -853,5 +981,5 @@
     }
   ],
   "strongest": "COSMIC DAN",
-  "places": 2
+  "places": 3
 }

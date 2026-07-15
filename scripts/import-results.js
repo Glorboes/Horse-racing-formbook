@@ -121,9 +121,11 @@ function parseComputaform(text, date, fallbackTrack, index) {
     const fp = parseInt(c[13], 10);
     const len = parseFloat(c[14]);
     if (!horse || !Number.isFinite(fp)) continue;
+    const mr = parseInt(c[9], 10);
     rows.push({ horse, fp, len: Number.isFinite(len) ? len : 0,
       jockey: cleanJockey(c[7]), trainer: (c[6] || '').trim(),
-      weight: parseFloat(c[8]) || null, draw: parseInt(c[10], 10) || null });
+      weight: parseFloat(c[8]) || null, draw: parseInt(c[10], 10) || null,
+      rating: Number.isFinite(mr) && mr > 0 ? mr : null });
   }
   const blocks = []; let cur = null;
   for (const r of rows) { if (r.fp === 1) { if (cur) blocks.push(cur); cur = []; } if (cur) cur.push(r); }
@@ -136,7 +138,7 @@ function parseComputaform(text, date, fallbackTrack, index) {
       let gap = row.fp === 1 ? 0 : Math.max(0, (row.len || 0) - (prev || 0));
       if (!isFinite(gap) || gap > 25) gap = 25;
       return { name: row.horse, finish: row.fp, marginLengths: +gap.toFixed(2),
-        jockey: row.jockey, trainer: row.trainer, weight: row.weight, draw: row.draw };
+        jockey: row.jockey, trainer: row.trainer, weight: row.weight, draw: row.draw, rating: row.rating };
     });
     const m = matchRace(finishers, index);
     return { date, track: m ? m.track : fallbackTrack, race: m ? m.race : (i + 1),

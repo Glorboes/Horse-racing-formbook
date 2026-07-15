@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Stakes",
-  "generated": "2026-07-11T20:01:59.830Z",
+  "generated": "2026-07-15T17:05:10.067Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -22,16 +22,16 @@
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
-      "score": 54.1,
+      "score": 55.4,
       "factors": {
         "form": 0.648,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.575,
+        "jockey": 0.65,
         "trainer": 0.5,
-        "weight": 0.375,
+        "weight": 0.545,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -41,9 +41,9 @@
         "distance": 5,
         "going": 4,
         "draw": 6,
-        "jockey": 1.72,
+        "jockey": 1.95,
         "trainer": 2.5,
-        "weight": 2.25,
+        "weight": 3.27,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -79,28 +79,23 @@
       "classMove": null,
       "reasoning": [
         "Proven winner — 2 from 5 (40%) per the card.",
-        "Why it can win: strong recent form; drawn 1 — a handy low draw; 33%-strike jockey booked.",
-        "Against it: carries 57kg."
+        "Why it can win: strong recent form; drawn 1 — a handy low draw; 33%-strike jockey booked."
       ],
       "_strengths": [
         "form",
         "draw",
         "jockey"
       ],
-      "_concerns": [
-        "weight"
-      ],
+      "_concerns": [],
       "_strReasons": [
         "strong recent form",
         "drawn 1 — a handy low draw",
         "33%-strike jockey booked"
       ],
-      "_conReasons": [
-        "carries 57kg"
-      ],
+      "_conReasons": [],
       "rank": 1,
-      "pWin": 0.3404,
-      "pPlace": 0.619,
+      "pWin": 0.2136,
+      "pPlace": 0.5659,
       "pMarket": null,
       "edge": null
     },
@@ -114,13 +109,13 @@
       "weight": 54.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 52.4,
+      "score": 53.8,
       "factors": {
         "form": 0.537,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.722,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -132,7 +127,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3,
+        "draw": 4.33,
         "jockey": 1.3,
         "trainer": 2.5,
         "weight": 6,
@@ -171,26 +166,26 @@
       "classMove": null,
       "reasoning": [
         "Reliable — placed in 11 of 15 career starts.",
-        "Why it can win: well-in at the weights (54.5kg); drawn 6.",
+        "Why it can win: well-in at the weights (54.5kg); strong recent form.",
         "Against it: lightly-supported jockey booking."
       ],
       "_strengths": [
         "weight",
-        "draw"
+        "form"
       ],
       "_concerns": [
         "jockey"
       ],
       "_strReasons": [
         "well-in at the weights (54.5kg)",
-        "drawn 6"
+        "strong recent form"
       ],
       "_conReasons": [
         "lightly-supported jockey booking"
       ],
       "rank": 2,
-      "pWin": 0.2564,
-      "pPlace": 0.5102,
+      "pWin": 0.1636,
+      "pPlace": 0.469,
       "pMarket": null,
       "edge": null
     },
@@ -204,16 +199,16 @@
       "weight": 55.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 50.2,
+      "score": 52.4,
       "factors": {
         "form": 0.525,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.4,
-        "jockey": 0.5,
+        "draw": 0.667,
+        "jockey": 0.537,
         "trainer": 0.5,
-        "weight": 0.75,
+        "weight": 0.818,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -222,10 +217,10 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 2.4,
-        "jockey": 1.5,
+        "draw": 4,
+        "jockey": 1.61,
         "trainer": 2.5,
-        "weight": 4.5,
+        "weight": 4.91,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -261,21 +256,19 @@
       "classMove": null,
       "reasoning": [
         "Career 8 starts, 2 wins, 4 placed (from the card).",
-        "Against it: patchy recent form; lightly-supported jockey booking."
+        "Why it can win: well-in at the weights (55.5kg)."
       ],
-      "_strengths": [],
-      "_concerns": [
-        "form",
-        "jockey"
+      "_strengths": [
+        "weight"
       ],
-      "_strReasons": [],
-      "_conReasons": [
-        "patchy recent form",
-        "lightly-supported jockey booking"
+      "_concerns": [],
+      "_strReasons": [
+        "well-in at the weights (55.5kg)"
       ],
+      "_conReasons": [],
       "rank": 3,
-      "pWin": 0.1777,
-      "pPlace": 0.3765,
+      "pWin": 0.1295,
+      "pPlace": 0.3904,
       "pMarket": null,
       "edge": null
     },
@@ -289,16 +282,16 @@
       "weight": 55.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 49,
+      "score": 51.7,
       "factors": {
         "form": 0.531,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.2,
+        "draw": 0.556,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.75,
+        "weight": 0.818,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -307,10 +300,10 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 1.2,
+        "draw": 3.33,
         "jockey": 1.5,
         "trainer": 2.5,
-        "weight": 4.5,
+        "weight": 4.91,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -339,21 +332,102 @@
       "classMove": null,
       "reasoning": [
         "Career 7 starts, 2 wins, 3 placed (from the card).",
-        "Against it: drawn wide (9); patchy recent form."
+        "Why it can win: well-in at the weights (55.5kg).",
+        "Against it: lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (55.5kg)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.1153,
+      "pPlace": 0.3543,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPIRIT",
+      "key": "SPIRIT",
+      "draw": 5,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "P/E Steyn",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.7,
+      "factors": {
+        "form": 0.495,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.545,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.92,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3.27,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 13,
+        "wins": 2,
+        "places": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 8 of 13 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 8 of 13 career starts.",
+        "Against it: patchy recent form; lightly-supported jockey booking."
       ],
       "_strengths": [],
       "_concerns": [
-        "draw",
-        "form"
+        "form",
+        "jockey"
       ],
       "_strReasons": [],
       "_conReasons": [
-        "drawn wide (9)",
-        "patchy recent form"
+        "patchy recent form",
+        "lightly-supported jockey booking"
       ],
-      "rank": 4,
-      "pWin": 0.1455,
-      "pPlace": 0.3149,
+      "rank": 5,
+      "pWin": 0.0976,
+      "pPlace": 0.3071,
       "pMarket": null,
       "edge": null
     },
@@ -367,16 +441,16 @@
       "weight": 58.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 45.4,
+      "score": 49.2,
       "factors": {
         "form": 0.556,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.3,
-        "jockey": 0.5,
+        "draw": 0.611,
+        "jockey": 0.555,
         "trainer": 0.5,
-        "weight": 0,
+        "weight": 0.273,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       },
@@ -385,10 +459,10 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 1.8,
-        "jockey": 1.5,
+        "draw": 3.67,
+        "jockey": 1.66,
         "trainer": 2.5,
-        "weight": 0,
+        "weight": 1.64,
         "headToHead": 6,
         "recencyMargin": 4.8
       },
@@ -424,26 +498,282 @@
       "classMove": null,
       "reasoning": [
         "Reliable — placed in 7 of 9 career starts.",
-        "Why it can win: strong recent form.",
-        "Against it: top-weight (58.5kg); drawn wide (8)."
+        "Why it can win: strong recent form; 17%-strike jockey booked.",
+        "Against it: carries 58.5kg."
       ],
       "_strengths": [
-        "form"
+        "form",
+        "jockey"
       ],
       "_concerns": [
-        "weight",
-        "draw"
+        "weight"
       ],
       "_strReasons": [
-        "strong recent form"
+        "strong recent form",
+        "17%-strike jockey booked"
       ],
       "_conReasons": [
-        "top-weight (58.5kg)",
-        "drawn wide (8)"
+        "carries 58.5kg"
       ],
-      "rank": 5,
-      "pWin": 0.0799,
-      "pPlace": 0.1795,
+      "rank": 6,
+      "pWin": 0.076,
+      "pPlace": 0.2458,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "draw": 3,
+      "rating": null,
+      "jockey": "M Yeni",
+      "trainer": "C Bass",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.455,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.19,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 12,
+        "wins": 1,
+        "places": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 12 starts, 1 win, 7 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 12 starts, 1 win, 7 placed (from the card).",
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; carries 58.5kg."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "carries 58.5kg"
+      ],
+      "rank": 7,
+      "pWin": 0.0723,
+      "pPlace": 0.2348,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HANDSOME PRINCE",
+      "key": "HANDSOME PRINCE",
+      "draw": 2,
+      "rating": null,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.8,
+      "factors": {
+        "form": 0.44,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.92,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.3,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 23,
+        "wins": 2,
+        "places": 9
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 23 starts, 2 wins, 11 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 23 starts, 2 wins, 11 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0711,
+      "pPlace": 0.2313,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "draw": 4,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "A N Marcus",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.9,
+      "factors": {
+        "form": 0.506,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.537,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.1,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.61,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 29,
+        "wins": 5,
+        "places": 13
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 18 of 29 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 18 of 29 career starts.",
+        "Against it: top-weight (60kg)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0612,
+      "pPlace": 0.2014,
       "pMarket": null,
       "edge": null
     }
@@ -453,7 +783,7 @@
       "no": 1,
       "name": "GIVE IT LALDY",
       "rank": 1,
-      "score": 54.1,
+      "score": 55.4,
       "rating": null,
       "draw": 1,
       "weight": 57,
@@ -470,9 +800,9 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.575,
+        "jockey": 0.65,
         "trainer": 0.5,
-        "weight": 0.375,
+        "weight": 0.545,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
@@ -481,7 +811,7 @@
       "no": 6,
       "name": "SHESGOTCLASS",
       "rank": 2,
-      "score": 52.4,
+      "score": 53.8,
       "rating": null,
       "draw": 6,
       "weight": 54.5,
@@ -497,7 +827,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.722,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -509,7 +839,7 @@
       "no": 7,
       "name": "FAST TRAIN",
       "rank": 3,
-      "score": 50.2,
+      "score": 52.4,
       "rating": null,
       "draw": 7,
       "weight": 55.5,
@@ -525,10 +855,10 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.4,
-        "jockey": 0.5,
+        "draw": 0.667,
+        "jockey": 0.537,
         "trainer": 0.5,
-        "weight": 0.75,
+        "weight": 0.818,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
@@ -537,7 +867,7 @@
       "no": 9,
       "name": "IGNITE THE FIRE",
       "rank": 4,
-      "score": 49,
+      "score": 51.7,
       "rating": null,
       "draw": 9,
       "weight": 55.5,
@@ -553,10 +883,38 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.2,
+        "draw": 0.556,
         "jockey": 0.5,
         "trainer": 0.5,
-        "weight": 0.75,
+        "weight": 0.818,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "SPIRIT",
+      "rank": 5,
+      "score": 50.7,
+      "rating": null,
+      "draw": 5,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "P/E Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.495,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.545,
         "headToHead": 0.5,
         "recencyMargin": 0.4
       }
@@ -564,8 +922,8 @@
     {
       "no": 8,
       "name": "OBJET D’ ART",
-      "rank": 5,
-      "score": 45.4,
+      "rank": 6,
+      "score": 49.2,
       "rating": null,
       "draw": 8,
       "weight": 58.5,
@@ -581,8 +939,92 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.3,
+        "draw": 0.611,
+        "jockey": 0.555,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "CHURCHILLIAN",
+      "rank": 7,
+      "score": 48.9,
+      "rating": null,
+      "draw": 3,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "M Yeni",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.455,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
         "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "HANDSOME PRINCE",
+      "rank": 8,
+      "score": 48.8,
+      "rating": null,
+      "draw": 2,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.44,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "OLIVER",
+      "rank": 9,
+      "score": 47.9,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.506,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.537,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -594,6 +1036,54 @@
     {
       "name": "GIVE IT LALDY",
       "key": "GIVE IT LALDY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HANDSOME PRINCE",
+      "key": "HANDSOME PRINCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPIRIT",
+      "key": "SPIRIT",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -653,5 +1143,5 @@
     }
   ],
   "strongest": "GIVE IT LALDY",
-  "places": 2
+  "places": 3
 }

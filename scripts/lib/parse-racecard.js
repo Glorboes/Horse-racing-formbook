@@ -100,7 +100,8 @@ async function parsePdf(file) {
 // --- Compact "form guide" export: no FIELDS section; a 4-ish page card with
 //     "No Horse  Age,Colour,Sex; Wins,Places,Runs Trainer Draw Jockey Wgt" rows.
 //     Carries career W-P-R, trainer, draw, jockey, weight (no MR/odds).
-const COMPACT_A = /^(\d{1,2})\s+([A-Z][A-Za-z'’ .\-]+?)\s+\d[A-Za-z]{2,3}\s+(\d+)-(\d+)-(\d+)\b([\s\S]*)$/;
+// name may carry Computaform annotation symbols (< § > † ‡ °) before the ACS token
+const COMPACT_A = /^(\d{1,2})\s+([A-Z][A-Za-z'’ .\-]+?)[^\w\s]*\s+\d[A-Za-z]{2,3}\s+(\d+)-(\d+)-(\d+)\b([\s\S]*)$/;
 const COMPACT_DBW = /(\d{1,2})\s+([#*]?\s*[A-Z][A-Za-z'’ .\-]+?)\s+(\d{2}(?:\.\d)?)(?:\s|$)/; // draw jockey weight
 function parseCompactCard(text) {
   const dm = text.match(/-\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);

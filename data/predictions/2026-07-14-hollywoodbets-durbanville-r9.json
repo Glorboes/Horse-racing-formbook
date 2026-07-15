@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": null,
-  "generated": "2026-07-11T20:01:59.835Z",
+  "generated": "2026-07-15T17:05:10.091Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -22,14 +22,14 @@
       "weight": 56,
       "odds": null,
       "oddsDecimal": null,
-      "score": 54.4,
+      "score": 54.5,
       "factors": {
         "form": 0.466,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.512,
+        "jockey": 0.537,
         "trainer": 0.5,
         "weight": 1,
         "headToHead": 0.5,
@@ -41,7 +41,7 @@
         "distance": 5,
         "going": 4,
         "draw": 6,
-        "jockey": 1.54,
+        "jockey": 1.61,
         "trainer": 2.5,
         "weight": 6,
         "headToHead": 6,
@@ -97,8 +97,8 @@
         "patchy recent form"
       ],
       "rank": 1,
-      "pWin": 0.2542,
-      "pPlace": 0.4735,
+      "pWin": 0.1935,
+      "pPlace": 0.5251,
       "pMarket": null,
       "edge": null
     },
@@ -112,14 +112,14 @@
       "weight": 57,
       "odds": null,
       "oddsDecimal": null,
-      "score": 52.5,
+      "score": 52.9,
       "factors": {
         "form": 0.502,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.786,
-        "jockey": 0.518,
+        "draw": 0.833,
+        "jockey": 0.555,
         "trainer": 0.5,
         "weight": 0.8,
         "headToHead": 0.5,
@@ -130,8 +130,8 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 4.71,
-        "jockey": 1.55,
+        "draw": 5,
+        "jockey": 1.66,
         "trainer": 2.5,
         "weight": 4.8,
         "headToHead": 6,
@@ -168,15 +168,107 @@
       "partnership": null,
       "classMove": null,
       "reasoning": [
-        "Reliable — placed in 6 of 8 career starts."
+        "Reliable — placed in 6 of 8 career starts.",
+        "Why it can win: 17%-strike jockey booked; well-in at the weights (57kg)."
       ],
-      "_strengths": [],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
       "_concerns": [],
-      "_strReasons": [],
+      "_strReasons": [
+        "17%-strike jockey booked",
+        "well-in at the weights (57kg)"
+      ],
       "_conReasons": [],
       "rank": 2,
-      "pWin": 0.1852,
-      "pPlace": 0.366,
+      "pWin": 0.1482,
+      "pPlace": 0.4309,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "draw": 2,
+      "rating": null,
+      "jockey": "R Fourie",
+      "trainer": "J Crawford",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.4,
+      "factors": {
+        "form": 0.505,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.537,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.1,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.61,
+        "trainer": 2.5,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 3,
+        "places": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 15 starts, 3 wins, 8 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 15 starts, 3 wins, 8 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw; strong recent form."
+      ],
+      "_strengths": [
+        "draw",
+        "form"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "strong recent form"
+      ],
+      "_conReasons": [],
+      "rank": 3,
+      "pWin": 0.1363,
+      "pPlace": 0.4033,
       "pMarket": null,
       "edge": null
     },
@@ -190,13 +282,13 @@
       "weight": 56,
       "odds": null,
       "oddsDecimal": null,
-      "score": 51,
+      "score": 51.5,
       "factors": {
         "form": 0.415,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.643,
+        "draw": 0.722,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -208,7 +300,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3.86,
+        "draw": 4.33,
         "jockey": 1.3,
         "trainer": 2.5,
         "weight": 6,
@@ -248,23 +340,25 @@
       "reasoning": [
         "Career 24 starts, 2 wins, 8 placed (from the card).",
         "Why it can win: well-in at the weights (56kg).",
-        "Against it: patchy recent form."
+        "Against it: patchy recent form; lightly-supported jockey booking."
       ],
       "_strengths": [
         "weight"
       ],
       "_concerns": [
-        "form"
+        "form",
+        "jockey"
       ],
       "_strReasons": [
         "well-in at the weights (56kg)"
       ],
       "_conReasons": [
-        "patchy recent form"
+        "patchy recent form",
+        "lightly-supported jockey booking"
       ],
-      "rank": 3,
-      "pWin": 0.1443,
-      "pPlace": 0.2935,
+      "rank": 4,
+      "pWin": 0.1173,
+      "pPlace": 0.3564,
       "pMarket": null,
       "edge": null
     },
@@ -278,14 +372,14 @@
       "weight": 58,
       "odds": null,
       "oddsDecimal": null,
-      "score": 50.2,
+      "score": 50.7,
       "factors": {
         "form": 0.47,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.714,
-        "jockey": 0.512,
+        "draw": 0.778,
+        "jockey": 0.537,
         "trainer": 0.5,
         "weight": 0.6,
         "headToHead": 0.5,
@@ -296,8 +390,8 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 4.29,
-        "jockey": 1.54,
+        "draw": 4.67,
+        "jockey": 1.61,
         "trainer": 2.5,
         "weight": 3.6,
         "headToHead": 6,
@@ -340,9 +434,9 @@
       "_concerns": [],
       "_strReasons": [],
       "_conReasons": [],
-      "rank": 4,
-      "pWin": 0.1263,
-      "pPlace": 0.2599,
+      "rank": 5,
+      "pWin": 0.1027,
+      "pPlace": 0.3181,
       "pMarket": null,
       "edge": null
     },
@@ -356,13 +450,13 @@
       "weight": 60,
       "odds": null,
       "oddsDecimal": null,
-      "score": 49.4,
+      "score": 49.6,
       "factors": {
         "form": 0.516,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.857,
+        "draw": 0.889,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0.2,
@@ -374,7 +468,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 5.14,
+        "draw": 5.33,
         "jockey": 1.5,
         "trainer": 2.5,
         "weight": 1.2,
@@ -423,9 +517,9 @@
       "_conReasons": [
         "top-weight (60kg)"
       ],
-      "rank": 5,
-      "pWin": 0.1105,
-      "pPlace": 0.2297,
+      "rank": 6,
+      "pWin": 0.0855,
+      "pPlace": 0.2707,
       "pMarket": null,
       "edge": null
     },
@@ -439,13 +533,13 @@
       "weight": 58,
       "odds": null,
       "oddsDecimal": null,
-      "score": 48.9,
+      "score": 49.6,
       "factors": {
         "form": 0.483,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.611,
         "jockey": 0.467,
         "trainer": 0.5,
         "weight": 0.6,
@@ -457,7 +551,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3,
+        "draw": 3.67,
         "jockey": 1.4,
         "trainer": 2.5,
         "weight": 3.6,
@@ -496,19 +590,104 @@
       "classMove": null,
       "reasoning": [
         "Reliable — placed in 5 of 8 career starts.",
-        "Against it: drawn wide (8)."
+        "Against it: lightly-supported jockey booking."
       ],
       "_strengths": [],
       "_concerns": [
-        "draw"
+        "jockey"
       ],
       "_strReasons": [],
       "_conReasons": [
-        "drawn wide (8)"
+        "lightly-supported jockey booking"
       ],
-      "rank": 6,
-      "pWin": 0.1017,
-      "pPlace": 0.2125,
+      "rank": 7,
+      "pWin": 0.0855,
+      "pPlace": 0.2707,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "draw": 9,
+      "rating": null,
+      "jockey": "O Noach",
+      "trainer": "V H Marshall",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.1,
+      "factors": {
+        "form": 0.418,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.52,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.4,
+        "trainer": 2.5,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 1,
+        "places": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 10 starts, 1 win, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 10 starts, 1 win, 3 placed (from the card).",
+        "Against it: patchy recent form; lightly-supported jockey booking."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0666,
+      "pPlace": 0.2157,
       "pMarket": null,
       "edge": null
     },
@@ -522,13 +701,13 @@
       "weight": 61,
       "odds": null,
       "oddsDecimal": null,
-      "score": 47.3,
+      "score": 47.9,
       "factors": {
         "form": 0.567,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.571,
+        "draw": 0.667,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -540,7 +719,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3.43,
+        "draw": 4,
         "jockey": 1.5,
         "trainer": 2.5,
         "weight": 0,
@@ -587,9 +766,9 @@
       "_conReasons": [
         "top-weight (61kg)"
       ],
-      "rank": 7,
-      "pWin": 0.0779,
-      "pPlace": 0.165,
+      "rank": 9,
+      "pWin": 0.0644,
+      "pPlace": 0.2092,
       "pMarket": null,
       "edge": null
     }
@@ -599,7 +778,7 @@
       "no": 1,
       "name": "FORT YUKON",
       "rank": 1,
-      "score": 54.4,
+      "score": 54.5,
       "rating": null,
       "draw": 1,
       "weight": 56,
@@ -616,7 +795,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.512,
+        "jockey": 0.537,
         "trainer": 0.5,
         "weight": 1,
         "headToHead": 0.5,
@@ -627,7 +806,7 @@
       "no": 4,
       "name": "CEDAR POINT",
       "rank": 2,
-      "score": 52.5,
+      "score": 52.9,
       "rating": null,
       "draw": 4,
       "weight": 57,
@@ -643,8 +822,8 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.786,
-        "jockey": 0.518,
+        "draw": 0.833,
+        "jockey": 0.555,
         "trainer": 0.5,
         "weight": 0.8,
         "headToHead": 0.5,
@@ -652,10 +831,38 @@
       }
     },
     {
+      "no": 2,
+      "name": "SIGNOR DANTE",
+      "rank": 3,
+      "score": 52.4,
+      "rating": null,
+      "draw": 2,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "J Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.505,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.537,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 6,
       "name": "DIAMOND ROCK",
-      "rank": 3,
-      "score": 51,
+      "rank": 4,
+      "score": 51.5,
       "rating": null,
       "draw": 6,
       "weight": 56,
@@ -671,7 +878,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.643,
+        "draw": 0.722,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -682,8 +889,8 @@
     {
       "no": 5,
       "name": "GOLD DUST",
-      "rank": 4,
-      "score": 50.2,
+      "rank": 5,
+      "score": 50.7,
       "rating": null,
       "draw": 5,
       "weight": 58,
@@ -699,8 +906,8 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.714,
-        "jockey": 0.512,
+        "draw": 0.778,
+        "jockey": 0.537,
         "trainer": 0.5,
         "weight": 0.6,
         "headToHead": 0.5,
@@ -710,8 +917,8 @@
     {
       "no": 3,
       "name": "MIAMI SUMMER",
-      "rank": 5,
-      "score": 49.4,
+      "rank": 6,
+      "score": 49.6,
       "rating": null,
       "draw": 3,
       "weight": 60,
@@ -727,7 +934,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.857,
+        "draw": 0.889,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0.2,
@@ -738,8 +945,8 @@
     {
       "no": 8,
       "name": "IN MOTION",
-      "rank": 6,
-      "score": 48.9,
+      "rank": 7,
+      "score": 49.6,
       "rating": null,
       "draw": 8,
       "weight": 58,
@@ -755,7 +962,35 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.611,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "MAN OF CONSEQUENCE",
+      "rank": 8,
+      "score": 48.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "O Noach",
+      "trainer": "V H Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.418,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
         "jockey": 0.467,
         "trainer": 0.5,
         "weight": 0.6,
@@ -766,8 +1001,8 @@
     {
       "no": 7,
       "name": "CLARK GRISWOLD",
-      "rank": 7,
-      "score": 47.3,
+      "rank": 9,
+      "score": 47.9,
       "rating": null,
       "draw": 7,
       "weight": 61,
@@ -783,7 +1018,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.571,
+        "draw": 0.667,
         "jockey": 0.5,
         "trainer": 0.5,
         "weight": 0,
@@ -796,6 +1031,18 @@
     {
       "name": "FORT YUKON",
       "key": "FORT YUKON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -876,8 +1123,20 @@
       "losesTo": [],
       "record": "0-0",
       "smallSample": false
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "FORT YUKON",
-  "places": 2
+  "places": 3
 }

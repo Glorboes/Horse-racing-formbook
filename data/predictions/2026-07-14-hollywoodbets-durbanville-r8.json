@@ -8,7 +8,7 @@
   "going": null,
   "surface": "Turf",
   "classLabel": "Stakes",
-  "generated": "2026-07-11T20:01:59.833Z",
+  "generated": "2026-07-15T17:05:10.087Z",
   "settled": false,
   "marketPriced": false,
   "ranked": [
@@ -22,13 +22,13 @@
       "weight": 54,
       "odds": null,
       "oddsDecimal": null,
-      "score": 51.5,
+      "score": 53.1,
       "factors": {
         "form": 0.527,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.375,
+        "draw": 0.643,
         "jockey": 0.454,
         "trainer": 0.5,
         "weight": 1,
@@ -40,7 +40,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 2.25,
+        "draw": 3.86,
         "jockey": 1.36,
         "trainer": 2.5,
         "weight": 6,
@@ -79,90 +79,24 @@
       "classMove": null,
       "reasoning": [
         "Reliable — placed in 16 of 22 career starts.",
-        "Against it: drawn wide (6)."
+        "Why it can win: well-in at the weights (54kg).",
+        "Against it: lightly-supported jockey booking."
       ],
-      "_strengths": [],
+      "_strengths": [
+        "weight"
+      ],
       "_concerns": [
-        "draw"
+        "jockey"
       ],
-      "_strReasons": [],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
       "_conReasons": [
-        "drawn wide (6)"
+        "lightly-supported jockey booking"
       ],
       "rank": 1,
-      "pWin": 0.2913,
-      "pPlace": null,
-      "pMarket": null,
-      "edge": null
-    },
-    {
-      "name": "IN A TIMELY MANNER",
-      "key": "IN A TIMELY MANNER",
-      "draw": 3,
-      "rating": null,
-      "jockey": "J P v’d Merwe",
-      "trainer": "J S Snaith",
-      "weight": 57,
-      "odds": null,
-      "oddsDecimal": null,
-      "score": 51.2,
-      "factors": {
-        "form": 0.516,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.75,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.6,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      },
-      "contrib": {
-        "form": 9.29,
-        "rating": 8,
-        "distance": 5,
-        "going": 4,
-        "draw": 4.5,
-        "jockey": 1.5,
-        "trainer": 2.5,
-        "weight": 3.6,
-        "headToHead": 6,
-        "recencyMargin": 4.8
-      },
-      "knownRuns": 0,
-      "career": {
-        "starts": 10,
-        "wins": 2,
-        "places": 4
-      },
-      "h2h": {
-        "record": "0-0",
-        "wins": 0,
-        "losses": 0,
-        "meetings": 0,
-        "smallSample": false,
-        "beats": [],
-        "losesTo": []
-      },
-      "recentForm": [
-        "Reliable — placed in 6 of 10 career starts."
-      ],
-      "combo": null,
-      "jockeyRec": null,
-      "trainerRec": null,
-      "partnership": null,
-      "classMove": null,
-      "reasoning": [
-        "Reliable — placed in 6 of 10 career starts."
-      ],
-      "_strengths": [],
-      "_concerns": [],
-      "_strReasons": [],
-      "_conReasons": [],
-      "rank": 2,
-      "pWin": 0.2771,
-      "pPlace": null,
+      "pWin": 0.1903,
+      "pPlace": 0.3704,
       "pMarket": null,
       "edge": null
     },
@@ -176,13 +110,13 @@
       "weight": 54,
       "odds": null,
       "oddsDecimal": null,
-      "score": 51.2,
+      "score": 52.5,
       "factors": {
         "form": 0.473,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.714,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -194,7 +128,7 @@
         "rating": 8,
         "distance": 5,
         "going": 4,
-        "draw": 3,
+        "draw": 4.29,
         "jockey": 1.3,
         "trainer": 2.5,
         "weight": 6,
@@ -233,19 +167,339 @@
       "classMove": null,
       "reasoning": [
         "Career 16 starts, 2 wins, 9 placed (from the card).",
+        "Why it can win: well-in at the weights (54kg).",
         "Against it: lightly-supported jockey booking."
       ],
-      "_strengths": [],
+      "_strengths": [
+        "weight"
+      ],
       "_concerns": [
         "jockey"
       ],
-      "_strReasons": [],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
       "_conReasons": [
         "lightly-supported jockey booking"
       ],
+      "rank": 2,
+      "pWin": 0.1722,
+      "pPlace": 0.3399,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOMBERS IN THE SKY",
+      "key": "BOMBERS IN THE SKY",
+      "draw": 2,
+      "rating": null,
+      "jockey": "S Bungane",
+      "trainer": "G S Kotzen",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52,
+      "factors": {
+        "form": 0.428,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.8,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.7,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.54,
+        "trainer": 2.5,
+        "weight": 4.8,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 18,
+        "wins": 1,
+        "places": 8
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 18 starts, 1 win, 9 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 18 starts, 1 win, 9 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [],
       "rank": 3,
-      "pWin": 0.2771,
-      "pPlace": null,
+      "pWin": 0.1585,
+      "pPlace": 0.3158,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IN A TIMELY MANNER",
+      "key": "IN A TIMELY MANNER",
+      "draw": 3,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.9,
+      "factors": {
+        "form": 0.516,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 6 of 10 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 6 of 10 career starts."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 4,
+      "pWin": 0.1558,
+      "pPlace": 0.3112,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IT IS MY TIME",
+      "key": "IT IS MY TIME",
+      "draw": 4,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.4,
+      "factors": {
+        "form": 0.509,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.17,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.54,
+        "trainer": 2.5,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 19,
+        "wins": 4,
+        "places": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 19 starts, 4 wins, 10 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 19 starts, 4 wins, 10 placed (from the card)."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 5,
+      "pWin": 0.1434,
+      "pPlace": 0.2888,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SOHO HEARTTHROB",
+      "key": "SOHO HEARTTHROB",
+      "draw": 7,
+      "rating": null,
+      "jockey": "C Zackey",
+      "trainer": "D Kannemeyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.3,
+      "factors": {
+        "form": 0.467,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.518,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.41,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.55,
+        "trainer": 2.5,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 11,
+        "wins": 1,
+        "places": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 7 of 11 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 7 of 11 career starts.",
+        "Why it can win: 17%-strike jockey booked."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [],
+      "rank": 6,
+      "pWin": 0.101,
+      "pPlace": 0.209,
       "pMarket": null,
       "edge": null
     },
@@ -259,14 +513,14 @@
       "weight": 61.5,
       "odds": null,
       "oddsDecimal": null,
-      "score": 47.7,
+      "score": 47.8,
       "factors": {
         "form": 0.438,
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.546,
+        "jockey": 0.562,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -278,7 +532,7 @@
         "distance": 5,
         "going": 4,
         "draw": 6,
-        "jockey": 1.64,
+        "jockey": 1.68,
         "trainer": 2.5,
         "weight": 0,
         "headToHead": 6,
@@ -333,9 +587,9 @@
       "_conReasons": [
         "top-weight (61.5kg)"
       ],
-      "rank": 4,
-      "pWin": 0.1546,
-      "pPlace": null,
+      "rank": 7,
+      "pWin": 0.0787,
+      "pPlace": 0.1649,
       "pMarket": null,
       "edge": null
     }
@@ -345,7 +599,7 @@
       "no": 6,
       "name": "KATSU",
       "rank": 1,
-      "score": 51.5,
+      "score": 53.1,
       "rating": null,
       "draw": 6,
       "weight": 54,
@@ -361,7 +615,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.375,
+        "draw": 0.643,
         "jockey": 0.454,
         "trainer": 0.5,
         "weight": 1,
@@ -370,38 +624,10 @@
       }
     },
     {
-      "no": 3,
-      "name": "IN A TIMELY MANNER",
-      "rank": 2,
-      "score": 51.2,
-      "rating": null,
-      "draw": 3,
-      "weight": 57,
-      "odds": null,
-      "marketRank": null,
-      "marketDisagree": false,
-      "jockey": "J P v’d Merwe",
-      "trainer": "J S Snaith",
-      "lastFive": "—",
-      "runsKnown": 0,
-      "factors": {
-        "form": 0.516,
-        "rating": 0.5,
-        "distance": 0.5,
-        "going": 0.5,
-        "draw": 0.75,
-        "jockey": 0.5,
-        "trainer": 0.5,
-        "weight": 0.6,
-        "headToHead": 0.5,
-        "recencyMargin": 0.4
-      }
-    },
-    {
       "no": 5,
       "name": "DUBBELOSIX",
-      "rank": 3,
-      "score": 51.2,
+      "rank": 2,
+      "score": 52.5,
       "rating": null,
       "draw": 5,
       "weight": 54,
@@ -417,7 +643,7 @@
         "rating": 0.5,
         "distance": 0.5,
         "going": 0.5,
-        "draw": 0.5,
+        "draw": 0.714,
         "jockey": 0.433,
         "trainer": 0.5,
         "weight": 1,
@@ -426,10 +652,122 @@
       }
     },
     {
+      "no": 2,
+      "name": "BOMBERS IN THE SKY",
+      "rank": 3,
+      "score": 52,
+      "rating": null,
+      "draw": 2,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "S Bungane",
+      "trainer": "G S Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.428,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.8,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "IN A TIMELY MANNER",
+      "rank": 4,
+      "score": 51.9,
+      "rating": null,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.516,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "IT IS MY TIME",
+      "rank": 5,
+      "score": 51.4,
+      "rating": null,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.509,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.512,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "SOHO HEARTTHROB",
+      "rank": 6,
+      "score": 49.3,
+      "rating": null,
+      "draw": 7,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "D Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.467,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.518,
+        "trainer": 0.5,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
       "no": 1,
       "name": "BILLY BOWLEGS",
-      "rank": 4,
-      "score": 47.7,
+      "rank": 7,
+      "score": 47.8,
       "rating": null,
       "draw": 1,
       "weight": 61.5,
@@ -446,7 +784,7 @@
         "distance": 0.5,
         "going": 0.5,
         "draw": 1,
-        "jockey": 0.546,
+        "jockey": 0.562,
         "trainer": 0.5,
         "weight": 0,
         "headToHead": 0.5,
@@ -468,8 +806,32 @@
       "smallSample": false
     },
     {
+      "name": "BOMBERS IN THE SKY",
+      "key": "BOMBERS IN THE SKY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
       "name": "IN A TIMELY MANNER",
       "key": "IN A TIMELY MANNER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IT IS MY TIME",
+      "key": "IT IS MY TIME",
       "points": 0,
       "wins": 0,
       "losses": 0,
@@ -502,8 +864,20 @@
       "losesTo": [],
       "record": "0-0",
       "smallSample": false
+    },
+    {
+      "name": "SOHO HEARTTHROB",
+      "key": "SOHO HEARTTHROB",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
     }
   ],
   "strongest": "BILLY BOWLEGS",
-  "places": 0
+  "places": 2
 }

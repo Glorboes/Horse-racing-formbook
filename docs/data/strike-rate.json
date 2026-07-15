@@ -1,10 +1,10 @@
 {
-  "settled": 16,
+  "settled": 25,
   "scratched": 2,
   "topPickWins": 10,
-  "topPickPlaces": 12,
-  "winPct": 62.5,
-  "placePct": 75,
+  "topPickPlaces": 14,
+  "winPct": 40,
+  "placePct": 56,
   "history": [
     {
       "id": "2026-07-05-turffontein-r1",
@@ -133,6 +133,78 @@
       "race": 8,
       "won": true,
       "placed": true
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r1",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 1,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r2",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 2,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r3",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 3,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r4",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 4,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r5",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 5,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r6",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 6,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r7",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 7,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r8",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 8,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-14-hollywoodbets-durbanville-r9",
+      "date": "2026-07-14",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 9,
+      "won": false,
+      "placed": false
     }
   ],
   "calibration": [
@@ -145,17 +217,17 @@
     },
     {
       "tier": "25–40%",
-      "n": 12,
+      "n": 13,
       "wins": 7,
-      "expectedPct": 30,
-      "winPct": 58
+      "expectedPct": 29,
+      "winPct": 54
     },
     {
       "tier": "15–25%",
-      "n": 3,
+      "n": 11,
       "wins": 2,
-      "expectedPct": 23,
-      "winPct": 67
+      "expectedPct": 22,
+      "winPct": 18
     },
     {
       "tier": "under 15%",
