@@ -1,0 +1,1441 @@
+{
+  "id": "2026-07-18-hollywoodbets-durbanville-r5",
+  "date": "2026-07-18",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 5,
+  "time": "14:45",
+  "distance": 1500,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": null,
+  "generated": "2026-07-15T16:26:38.611Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "GIVEN TO FLY",
+      "key": "GIVEN TO FLY",
+      "draw": 11,
+      "rating": 54,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
+      "weight": 63,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 53.8,
+      "factors": {
+        "form": 0.484,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.454,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.71,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.36,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 10,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 10 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 100,
+        "record": "0-3"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 10 starts, 2 wins, 4 placed (from the card).",
+        "Why it can win: top-rated in the field (MR 54).",
+        "Against it: drawn wide (11); top-weight (63kg).",
+        "Model/market disagree: model rank 1 vs market rank 4 (5/1)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 54)"
+      ],
+      "_conReasons": [
+        "drawn wide (11)",
+        "top-weight (63kg)"
+      ],
+      "marketRank": 4,
+      "rank": 1,
+      "marketDisagree": true,
+      "pWin": 0.1555,
+      "pPlace": 0.4349,
+      "pMarket": 0.1247,
+      "edge": 0.0614
+    },
+    {
+      "name": "PLAYFUL JOULES",
+      "key": "PLAYFUL JOULES",
+      "draw": 3,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 51,
+      "odds": "20/1",
+      "oddsDecimal": 20,
+      "score": 52.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (51kg); drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; up in class.",
+        "Model/market disagree: model rank 2 vs market rank 10 (20/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (51kg)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 10,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.094,
+      "pPlace": 0.2861,
+      "pMarket": 0.0356,
+      "edge": 0.1168
+    },
+    {
+      "name": "MON PAPILLON",
+      "key": "MON PAPILLON",
+      "draw": 2,
+      "rating": 53,
+      "jockey": "R Fourie",
+      "trainer": "P D Reeves",
+      "weight": 61,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 52.2,
+      "factors": {
+        "form": 0.484,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.71,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.69,
+        "trainer": 2.5,
+        "weight": 1,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 5,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 5 starts, 1 win, 2 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 5 starts, 1 win, 2 placed (from the card).",
+        "Why it can win: well-rated (MR 53); drawn 2 — a handy low draw; 17%-strike jockey booked.",
+        "Against it: carries 61kg."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 53)",
+        "drawn 2 — a handy low draw",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "carries 61kg"
+      ],
+      "marketRank": 1,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.1461,
+      "pPlace": 0.4144,
+      "pMarket": 0.1497,
+      "edge": -0.0071
+    },
+    {
+      "name": "BLACK PATH",
+      "key": "BLACK PATH",
+      "draw": 1,
+      "rating": null,
+      "jockey": "K Steyn",
+      "trainer": "P D Wrensch",
+      "weight": 52,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 51.7,
+      "factors": {
+        "form": 0.36,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.47,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.4,
+        "trainer": 2.5,
+        "weight": 5.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 62,
+        "wins": 3,
+        "seconds": 2,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 62 starts, 3 wins, 6 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 62 starts, 3 wins, 6 placed (from the card).",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (52kg).",
+        "Against it: patchy recent form; up in class.",
+        "Model/market disagree: model rank 4 vs market rank 8 (14/1)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (52kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 8,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0905,
+      "pPlace": 0.2767,
+      "pMarket": 0.0499,
+      "edge": 0.0813
+    },
+    {
+      "name": "MONEY EXTRACTOR",
+      "key": "MONEY EXTRACTOR",
+      "draw": 5,
+      "rating": null,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "weight": 57,
+      "odds": "20/1",
+      "oddsDecimal": 20,
+      "score": 48.8,
+      "factors": {
+        "form": 0.41,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.38,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 1.3,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 20,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 20 starts, 2 wins, 5 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 20,
+        "record": "0-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 20 starts, 2 wins, 5 placed (from the card).",
+        "Why it can win: carries 57kg.",
+        "Against it: lightly-supported jockey booking; up in class.",
+        "Model/market disagree: model rank 5 vs market rank 11 (20/1)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 57kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "up in class"
+      ],
+      "marketRank": 11,
+      "rank": 5,
+      "marketDisagree": true,
+      "pWin": 0.0583,
+      "pPlace": 0.1852,
+      "pMarket": 0.0356,
+      "edge": 0.0453
+    },
+    {
+      "name": "ELUSIVE GIFT",
+      "key": "ELUSIVE GIFT",
+      "draw": 4,
+      "rating": null,
+      "jockey": "A Fortune",
+      "trainer": "G W Ennion",
+      "weight": 59,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 48.3,
+      "factors": {
+        "form": 0.409,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.36,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 11,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 11 starts, 1 win, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 11 starts, 1 win, 3 placed (from the card).",
+        "Why it can win: drawn 4 — a handy low draw.",
+        "Against it: up in class."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class"
+      ],
+      "marketRank": 5,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.084,
+      "pPlace": 0.2588,
+      "pMarket": 0.0936,
+      "edge": -0.0191
+    },
+    {
+      "name": "PRINCESS OF BAYEUX",
+      "key": "PRINCESS OF BAYEUX",
+      "draw": 6,
+      "rating": null,
+      "jockey": "K de Melo",
+      "trainer": "R J Barrett",
+      "weight": 61,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 47.9,
+      "factors": {
+        "form": 0.412,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.873,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.42,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 2.62,
+        "trainer": 2.5,
+        "weight": 1,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 25,
+        "wins": 3,
+        "seconds": 0,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 25 starts, 3 wins, 5 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 3,
+        "places": 4,
+        "winPct": 60,
+        "placePct": 80,
+        "record": "3-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 25 starts, 3 wins, 5 placed (from the card).",
+        "Why it can win: 60%-strike jockey booked.",
+        "Against it: up in class; carries 61kg.",
+        "Model/market disagree: model rank 7 vs market rank 2 (4/1)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "60%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 61kg"
+      ],
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1097,
+      "pPlace": 0.327,
+      "pMarket": 0.1497,
+      "edge": -0.08
+    },
+    {
+      "name": "MEG’S LEGACY",
+      "key": "MEGS LEGACY",
+      "draw": 9,
+      "rating": null,
+      "jockey": "C Zackey",
+      "trainer": "A N Marcus",
+      "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 47,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.591,
+        "trainer": 0.5,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.73,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.77,
+        "trainer": 2.5,
+        "weight": 1.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 2,
+        "seconds": 0,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 15 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 15 starts, 2 wins, 4 placed (from the card).",
+        "Why it can win: 17%-strike jockey booked.",
+        "Against it: up in class.",
+        "Model/market disagree: model rank 8 vs market rank 3 (4/1)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "up in class"
+      ],
+      "marketRank": 3,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.1048,
+      "pPlace": 0.3145,
+      "pMarket": 0.1497,
+      "edge": -0.0897
+    },
+    {
+      "name": "LITTLE NIMBUS",
+      "key": "LITTLE NIMBUS",
+      "draw": 7,
+      "rating": null,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "weight": 62,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 45.5,
+      "factors": {
+        "form": 0.403,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.25,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.27,
+        "trainer": 2.5,
+        "weight": 0.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 1 win (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 1 win (from the card).",
+        "Against it: lightly-supported jockey booking; top-weight (62kg)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (62kg)"
+      ],
+      "marketRank": 9,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0483,
+      "pPlace": 0.1552,
+      "pMarket": 0.0499,
+      "edge": -0.0032
+    },
+    {
+      "name": "LA PATRONA",
+      "key": "LA PATRONA",
+      "draw": 10,
+      "rating": 52,
+      "jockey": null,
+      "trainer": null,
+      "weight": 58,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 44.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.417,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; lower-rated (MR 52).",
+        "Model/market disagree: model rank 10 vs market rank 7 (10/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 52)"
+      ],
+      "marketRank": 7,
+      "rank": 10,
+      "marketDisagree": true,
+      "pWin": 0.0525,
+      "pPlace": 0.168,
+      "pMarket": 0.068,
+      "edge": -0.0311
+    },
+    {
+      "name": "MISS ATTITUDE",
+      "key": "MISS ATTITUDE",
+      "draw": 8,
+      "rating": 51,
+      "jockey": "J P v’d Merwe",
+      "trainer": "A N Marcus",
+      "weight": 57,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 40.1,
+      "factors": {
+        "form": 0.422,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.6,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 1 win, 2 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 1 win, 2 placed (from the card).",
+        "Why it can win: carries 57kg.",
+        "Against it: lower-rated (MR 51).",
+        "Model/market disagree: model rank 11 vs market rank 6 (7/1)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 57kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 51)"
+      ],
+      "marketRank": 6,
+      "rank": 11,
+      "marketDisagree": true,
+      "pWin": 0.0563,
+      "pPlace": 0.1792,
+      "pMarket": 0.0936,
+      "edge": -0.0746
+    }
+  ],
+  "comparison": [
+    {
+      "no": 11,
+      "name": "GIVEN TO FLY",
+      "rank": 1,
+      "score": 53.8,
+      "rating": 54,
+      "draw": 11,
+      "weight": 63,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": true,
+      "jockey": "A Domeyer",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.484,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.454,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "PLAYFUL JOULES",
+      "rank": 2,
+      "score": 52.6,
+      "rating": null,
+      "draw": 3,
+      "weight": 51,
+      "odds": "20/1",
+      "marketRank": 10,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "MON PAPILLON",
+      "rank": 3,
+      "score": 52.2,
+      "rating": 53,
+      "draw": 2,
+      "weight": 61,
+      "odds": "4/1",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "P D Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.484,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 1,
+      "name": "BLACK PATH",
+      "rank": 4,
+      "score": 51.7,
+      "rating": null,
+      "draw": 1,
+      "weight": 52,
+      "odds": "14/1",
+      "marketRank": 8,
+      "marketDisagree": true,
+      "jockey": "K Steyn",
+      "trainer": "P D Wrensch",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.36,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "MONEY EXTRACTOR",
+      "rank": 5,
+      "score": 48.8,
+      "rating": null,
+      "draw": 5,
+      "weight": 57,
+      "odds": "20/1",
+      "marketRank": 11,
+      "marketDisagree": true,
+      "jockey": "M Michel",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.41,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "ELUSIVE GIFT",
+      "rank": 6,
+      "score": 48.3,
+      "rating": null,
+      "draw": 4,
+      "weight": 59,
+      "odds": "7/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "G W Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.409,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "PRINCESS OF BAYEUX",
+      "rank": 7,
+      "score": 47.9,
+      "rating": null,
+      "draw": 6,
+      "weight": 61,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": "K de Melo",
+      "trainer": "R J Barrett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.412,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.873,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "MEG’S LEGACY",
+      "rank": 8,
+      "score": 47,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": true,
+      "jockey": "C Zackey",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.591,
+        "trainer": 0.5,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "LITTLE NIMBUS",
+      "rank": 9,
+      "score": 45.5,
+      "rating": null,
+      "draw": 7,
+      "weight": 62,
+      "odds": "14/1",
+      "marketRank": 9,
+      "marketDisagree": false,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.403,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 10,
+      "name": "LA PATRONA",
+      "rank": 10,
+      "score": 44.1,
+      "rating": 52,
+      "draw": 10,
+      "weight": 58,
+      "odds": "10/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.417,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "MISS ATTITUDE",
+      "rank": 11,
+      "score": 40.1,
+      "rating": 51,
+      "draw": 8,
+      "weight": 57,
+      "odds": "7/1",
+      "marketRank": 6,
+      "marketDisagree": true,
+      "jockey": "J P v’d Merwe",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.422,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "BLACK PATH",
+      "key": "BLACK PATH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MON PAPILLON",
+      "key": "MON PAPILLON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PLAYFUL JOULES",
+      "key": "PLAYFUL JOULES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ELUSIVE GIFT",
+      "key": "ELUSIVE GIFT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MONEY EXTRACTOR",
+      "key": "MONEY EXTRACTOR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PRINCESS OF BAYEUX",
+      "key": "PRINCESS OF BAYEUX",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LITTLE NIMBUS",
+      "key": "LITTLE NIMBUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS ATTITUDE",
+      "key": "MISS ATTITUDE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MEG’S LEGACY",
+      "key": "MEGS LEGACY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LA PATRONA",
+      "key": "LA PATRONA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIVEN TO FLY",
+      "key": "GIVEN TO FLY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "BLACK PATH",
+  "places": 3
+}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T20:01:59.862Z",
+  "generated": "2026-07-15T16:26:38.640Z",
   "days": {
     "2026-07-05": {
       "bankers": [
@@ -1362,6 +1362,553 @@
             "time": null,
             "selection": "GLENALMOND",
             "prob": 35.9
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-07-18": {
+      "bankers": [
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:00",
+          "selection": "PEACH COBBLER",
+          "pWin": 32.7,
+          "pPlace": 74.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:20",
+          "selection": "CORK BAY",
+          "pWin": 30.9,
+          "pPlace": 71.4,
+          "confidence": "strong"
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:25",
+          "selection": "JULIET OF VERONA",
+          "pWin": 26.4,
+          "pPlace": 63.7,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0266,
+          "combinedPct": 2.7,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 32.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 30.9
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 26.4
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0069,
+          "combinedPct": 0.7,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 32.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 30.9
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 26.4
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:35",
+              "selection": "MASTERONTHEMOON",
+              "prob": 26.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0012,
+          "combinedPct": 0.1,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 32.7
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 30.9
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 26.4
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:35",
+              "selection": "MASTERONTHEMOON",
+              "prob": 26.1
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:55",
+              "selection": "HERITAGE RIDGE",
+              "prob": 16.8
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.2212,
+          "combinedPct": 22.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 74.6
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 71.4
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:35",
+              "selection": "MASTERONTHEMOON",
+              "prob": 65.3
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 63.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.102,
+          "combinedPct": 10.2,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 74.6
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 71.4
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:35",
+              "selection": "MASTERONTHEMOON",
+              "prob": 65.3
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 63.7
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:55",
+              "selection": "HERITAGE RIDGE",
+              "prob": 46.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.0451,
+          "combinedPct": 4.5,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:00",
+              "selection": "PEACH COBBLER",
+              "prob": 74.6
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:20",
+              "selection": "CORK BAY",
+              "prob": 71.4
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:35",
+              "selection": "MASTERONTHEMOON",
+              "prob": 65.3
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:25",
+              "selection": "JULIET OF VERONA",
+              "prob": 63.7
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:55",
+              "selection": "HERITAGE RIDGE",
+              "prob": 46.1
+            },
+            {
+              "race": 8,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "16:30",
+              "selection": "ALL ABOUT AL",
+              "prob": 44.2
+            }
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "race": 6,
+          "selection": "CORK BAY",
+          "edgePts": 18,
+          "pWin": 30.9
+        },
+        {
+          "race": 2,
+          "selection": "PEACH COBBLER",
+          "edgePts": 14.6,
+          "pWin": 32.7
+        },
+        {
+          "race": 1,
+          "selection": "JULIET OF VERONA",
+          "edgePts": 8.2,
+          "pWin": 26.4
+        },
+        {
+          "race": 8,
+          "selection": "ALL ABOUT AL",
+          "edgePts": 7.6,
+          "pWin": 15.9
+        },
+        {
+          "race": 5,
+          "selection": "GIVEN TO FLY",
+          "edgePts": 6.1,
+          "pWin": 15.6
+        }
+      ],
+      "valuePicks": [
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:20",
+          "name": "CORK BAY",
+          "odds": "5/2",
+          "edgePts": 18,
+          "marketPct": 21.9,
+          "modelPct": 39.9,
+          "winPct": 30.9,
+          "modelRank": 1
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:00",
+          "name": "PEACH COBBLER",
+          "odds": "2/1",
+          "edgePts": 14.6,
+          "marketPct": 25.4,
+          "modelPct": 40,
+          "winPct": 32.7,
+          "modelRank": 1
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:35",
+          "name": "O’FELLOW",
+          "odds": "20/1",
+          "edgePts": 13,
+          "marketPct": 3.7,
+          "modelPct": 16.7,
+          "winPct": 10.2,
+          "modelRank": 2
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:30",
+          "name": "SARDINIA BAY",
+          "odds": "7/1",
+          "edgePts": 13,
+          "marketPct": 9.1,
+          "modelPct": 22.1,
+          "winPct": 15.6,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:45",
+          "name": "PLAYFUL JOULES",
+          "odds": "20/1",
+          "edgePts": 11.7,
+          "marketPct": 3.6,
+          "modelPct": 15.2,
+          "winPct": 9.4,
+          "modelRank": 2
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:35",
+          "name": "EL DOURO",
+          "odds": "50/1",
+          "edgePts": 11.3,
+          "marketPct": 1.5,
+          "modelPct": 12.8,
+          "winPct": 7.2,
+          "modelRank": 3
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:55",
+          "name": "PEACE OF MIND",
+          "odds": "7/1",
+          "edgePts": 9.2,
+          "marketPct": 9.2,
+          "modelPct": 18.4,
+          "winPct": 13.8,
+          "modelRank": 1
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:25",
+          "name": "JULIET OF VERONA",
+          "odds": "2/1",
+          "edgePts": 8.2,
+          "marketPct": 22.3,
+          "modelPct": 30.5,
+          "winPct": 26.4,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:45",
+          "name": "BLACK PATH",
+          "odds": "14/1",
+          "edgePts": 8.1,
+          "marketPct": 5,
+          "modelPct": 13.1,
+          "winPct": 9,
+          "modelRank": 4
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:00",
+          "name": "MAC D",
+          "odds": "33/1",
+          "edgePts": 8,
+          "marketPct": 2.2,
+          "modelPct": 10.2,
+          "winPct": 6.2,
+          "modelRank": 3
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:35",
+          "name": "DIVINE STATE",
+          "odds": "33/1",
+          "edgePts": 7.8,
+          "marketPct": 2.3,
+          "modelPct": 10.1,
+          "winPct": 6.2,
+          "modelRank": 6
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:30",
+          "name": "ALL ABOUT AL",
+          "odds": "5/1",
+          "edgePts": 7.6,
+          "marketPct": 12.1,
+          "modelPct": 19.6,
+          "winPct": 15.9,
+          "modelRank": 2
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:10",
+          "name": "APRICITY",
+          "odds": "20/1",
+          "edgePts": 7.2,
+          "marketPct": 3.2,
+          "modelPct": 10.4,
+          "winPct": 6.8,
+          "modelRank": 2
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:55",
+          "name": "EASY MONEY",
+          "odds": "14/1",
+          "edgePts": 7,
+          "marketPct": 4.9,
+          "modelPct": 11.9,
+          "winPct": 8.4,
+          "modelRank": 3
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:35",
+          "name": "BORN TO MASTER",
+          "odds": "14/1",
+          "edgePts": 6.8,
+          "marketPct": 5.2,
+          "modelPct": 12,
+          "winPct": 8.6,
+          "modelRank": 4
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:30",
+          "name": "KELP FOREST",
+          "odds": "10/1",
+          "edgePts": 6.4,
+          "marketPct": 6.6,
+          "modelPct": 13,
+          "winPct": 9.8,
+          "modelRank": 3
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:45",
+          "name": "GIVEN TO FLY",
+          "odds": "5/1",
+          "edgePts": 6.1,
+          "marketPct": 12.5,
+          "modelPct": 18.6,
+          "winPct": 15.6,
+          "modelRank": 1
+        }
+      ],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0266,
+        "combinedPct": 2.7,
+        "confidence": "longshot",
+        "selections": [
+          {
+            "race": 2,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "13:00",
+            "selection": "PEACH COBBLER",
+            "prob": 32.7
+          },
+          {
+            "race": 6,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "15:20",
+            "selection": "CORK BAY",
+            "prob": 30.9
+          },
+          {
+            "race": 1,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "12:25",
+            "selection": "JULIET OF VERONA",
+            "prob": 26.4
           }
         ]
       },

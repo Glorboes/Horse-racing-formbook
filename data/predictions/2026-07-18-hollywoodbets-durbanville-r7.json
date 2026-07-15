@@ -1,0 +1,1449 @@
+{
+  "id": "2026-07-18-hollywoodbets-durbanville-r7",
+  "date": "2026-07-18",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 7,
+  "time": "15:55",
+  "distance": 1000,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Stakes",
+  "generated": "2026-07-15T16:26:38.615Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "PEACE OF MIND",
+      "key": "PEACE OF MIND",
+      "draw": 4,
+      "rating": 54,
+      "jockey": null,
+      "trainer": null,
+      "weight": 62,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 55.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.143,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0.86,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 54); drawn 4 — a handy low draw.",
+        "Against it: top-weight (62kg); lightly-supported jockey booking.",
+        "Model/market disagree: model rank 1 vs market rank 4 (7/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 54)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (62kg)",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 4,
+      "rank": 1,
+      "marketDisagree": true,
+      "pWin": 0.1379,
+      "pPlace": 0.3948,
+      "pMarket": 0.0917,
+      "edge": 0.0923
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "draw": 6,
+      "rating": 53,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "weight": 57,
+      "odds": "3/1",
+      "oddsDecimal": 3,
+      "score": 54.1,
+      "factors": {
+        "form": 0.44,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.92,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 1.3,
+        "trainer": 2.5,
+        "weight": 5.14,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 23,
+        "wins": 2,
+        "seconds": 3,
+        "thirds": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 23 starts, 2 wins, 11 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 23 starts, 2 wins, 11 placed (from the card).",
+        "Why it can win: well-rated (MR 53).",
+        "Against it: lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-rated (MR 53)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 1,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.1683,
+      "pPlace": 0.4612,
+      "pMarket": 0.1834,
+      "edge": -0.0302
+    },
+    {
+      "name": "EASY MONEY",
+      "key": "EASY MONEY",
+      "draw": 5,
+      "rating": null,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
+      "weight": 56,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 52.6,
+      "factors": {
+        "form": 0.413,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.623,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.43,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 1.87,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 46,
+        "wins": 5,
+        "seconds": 4,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 46 starts, 5 wins, 11 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "placePct": 33,
+        "record": "1-3"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 46 starts, 5 wins, 11 placed (from the card).",
+        "Why it can win: 33%-strike jockey booked; well-in at the weights (56kg).",
+        "Against it: up in class.",
+        "Model/market disagree: model rank 3 vs market rank 10 (14/1)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "up in class"
+      ],
+      "marketRank": 10,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.0841,
+      "pPlace": 0.2587,
+      "pMarket": 0.0489,
+      "edge": 0.0704
+    },
+    {
+      "name": "TRUE HORIZON",
+      "key": "TRUE HORIZON",
+      "draw": 10,
+      "rating": null,
+      "jockey": "K de Melo",
+      "trainer": "A N Marcus",
+      "weight": 56,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 52.2,
+      "factors": {
+        "form": 0.425,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.873,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.66,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 2.62,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 34,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 6
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 34 starts, 3 wins, 13 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 3,
+        "places": 4,
+        "winPct": 60,
+        "placePct": 80,
+        "record": "3-5"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 34 starts, 3 wins, 13 placed (from the card).",
+        "Why it can win: 60%-strike jockey booked; well-in at the weights (56kg).",
+        "Against it: up in class."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "60%-strike jockey booked",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "up in class"
+      ],
+      "marketRank": 5,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.0892,
+      "pPlace": 0.2725,
+      "pMarket": 0.0667,
+      "edge": 0.0449
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "draw": 8,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 56,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 51.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56kg).",
+        "Against it: up in class; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "up in class",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0798,
+      "pPlace": 0.2467,
+      "pMarket": 0.0667,
+      "edge": 0.0262
+    },
+    {
+      "name": "GRAVITY",
+      "key": "GRAVITY",
+      "draw": 1,
+      "rating": null,
+      "jockey": "K Steyn",
+      "trainer": "P Botha",
+      "weight": 60,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 49.6,
+      "factors": {
+        "form": 0.409,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.36,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.4,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 42,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 7
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 42 starts, 3 wins, 14 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 42 starts, 3 wins, 14 placed (from the card).",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: up in class; lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 7,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.0695,
+      "pPlace": 0.2177,
+      "pMarket": 0.0667,
+      "edge": 0.0057
+    },
+    {
+      "name": "HIAWATHA GOLDBERG",
+      "key": "HIAWATHA GOLDBERG",
+      "draw": 11,
+      "rating": null,
+      "jockey": "R Fourie",
+      "trainer": "R J Barrett",
+      "weight": 57,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 49.3,
+      "factors": {
+        "form": 0.382,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.88,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.69,
+        "trainer": 2.5,
+        "weight": 5.14,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 34,
+        "wins": 2,
+        "seconds": 3,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 34 starts, 2 wins, 7 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 34 starts, 2 wins, 7 placed (from the card).",
+        "Against it: drawn wide (11); up in class.",
+        "Model/market disagree: model rank 7 vs market rank 2 (4/1)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (11)",
+        "up in class"
+      ],
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1078,
+      "pPlace": 0.3216,
+      "pMarket": 0.1467,
+      "edge": -0.0779
+    },
+    {
+      "name": "COUNTRY TIME",
+      "key": "COUNTRY TIME",
+      "draw": 7,
+      "rating": 52,
+      "jockey": "C Zackey",
+      "trainer": "P D Reeves",
+      "weight": 57,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 48.8,
+      "factors": {
+        "form": 0.441,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.591,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.95,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.77,
+        "trainer": 2.5,
+        "weight": 5.14,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 43,
+        "wins": 5,
+        "seconds": 9,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 43 starts, 5 wins, 17 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "2-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 43 starts, 5 wins, 17 placed (from the card).",
+        "Why it can win: 17%-strike jockey booked.",
+        "Against it: lower-rated (MR 52)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 52)"
+      ],
+      "marketRank": 8,
+      "rank": 8,
+      "marketDisagree": false,
+      "pWin": 0.065,
+      "pPlace": 0.2046,
+      "pMarket": 0.0667,
+      "edge": -0.0034
+    },
+    {
+      "name": "GALACTUS",
+      "key": "GALACTUS",
+      "draw": 3,
+      "rating": null,
+      "jockey": "M Mjoka",
+      "trainer": "JMT Stewart",
+      "weight": 60,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 48.7,
+      "factors": {
+        "form": 0.366,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.6,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.58,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.8,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 18,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 18 starts, 1 win, 2 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 1,
+        "places": 1,
+        "winPct": 25,
+        "placePct": 25,
+        "record": "1-4"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 18 starts, 1 win, 2 placed (from the card).",
+        "Why it can win: drawn 3 — a handy low draw; 25%-strike jockey booked.",
+        "Against it: up in class; carries 60kg."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 60kg"
+      ],
+      "marketRank": 9,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0645,
+      "pPlace": 0.2031,
+      "pMarket": 0.0667,
+      "edge": -0.0044
+    },
+    {
+      "name": "LOVE SHACK",
+      "key": "LOVE SHACK",
+      "draw": 9,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "P D Reeves",
+      "weight": 59,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 48.5,
+      "factors": {
+        "form": 0.404,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.28,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.69,
+        "trainer": 2.5,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 27,
+        "wins": 2,
+        "seconds": 3,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 27 starts, 2 wins, 8 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 27 starts, 2 wins, 8 placed (from the card).",
+        "Against it: up in class."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class"
+      ],
+      "marketRank": 11,
+      "rank": 10,
+      "marketDisagree": false,
+      "pWin": 0.0546,
+      "pPlace": 0.1739,
+      "pMarket": 0.0489,
+      "edge": 0.0113
+    },
+    {
+      "name": "BARNEY MCGREW",
+      "key": "BARNEY MCGREW",
+      "draw": 2,
+      "rating": 51,
+      "jockey": "S Veale",
+      "trainer": "A D Steyn",
+      "weight": 63,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 38.7,
+      "factors": {
+        "form": 0.438,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.89,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.27,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 51,
+        "wins": 6,
+        "seconds": 8,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 51 starts, 6 wins, 19 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 51 starts, 6 wins, 19 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 51); lightly-supported jockey booking.",
+        "Model/market disagree: model rank 11 vs market rank 3 (4/1)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 51)",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 3,
+      "rank": 11,
+      "marketDisagree": true,
+      "pWin": 0.0793,
+      "pPlace": 0.2452,
+      "pMarket": 0.1467,
+      "edge": -0.135
+    }
+  ],
+  "comparison": [
+    {
+      "no": 4,
+      "name": "PEACE OF MIND",
+      "rank": 1,
+      "score": 55.2,
+      "rating": 54,
+      "draw": 4,
+      "weight": 62,
+      "odds": "7/1",
+      "marketRank": 4,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.143,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "HERITAGE RIDGE",
+      "rank": 2,
+      "score": 54.1,
+      "rating": 53,
+      "draw": 6,
+      "weight": 57,
+      "odds": "3/1",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "G Wright",
+      "trainer": "M Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.44,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.433,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "EASY MONEY",
+      "rank": 3,
+      "score": 52.6,
+      "rating": null,
+      "draw": 5,
+      "weight": 56,
+      "odds": "14/1",
+      "marketRank": 10,
+      "marketDisagree": true,
+      "jockey": "B Plaatjies",
+      "trainer": "P Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.413,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.623,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 10,
+      "name": "TRUE HORIZON",
+      "rank": 4,
+      "score": 52.2,
+      "rating": null,
+      "draw": 10,
+      "weight": 56,
+      "odds": "10/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": "K de Melo",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.425,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.873,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "SHIFTING PATH",
+      "rank": 5,
+      "score": 51.1,
+      "rating": null,
+      "draw": 8,
+      "weight": 56,
+      "odds": "10/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 1,
+      "name": "GRAVITY",
+      "rank": 6,
+      "score": 49.6,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": "10/1",
+      "marketRank": 7,
+      "marketDisagree": false,
+      "jockey": "K Steyn",
+      "trainer": "P Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.409,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 11,
+      "name": "HIAWATHA GOLDBERG",
+      "rank": 7,
+      "score": 49.3,
+      "rating": null,
+      "draw": 11,
+      "weight": 57,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": "R Fourie",
+      "trainer": "R J Barrett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.382,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "COUNTRY TIME",
+      "rank": 8,
+      "score": 48.8,
+      "rating": 52,
+      "draw": 7,
+      "weight": 57,
+      "odds": "10/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": "C Zackey",
+      "trainer": "P D Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.441,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.591,
+        "trainer": 0.5,
+        "weight": 0.857,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "GALACTUS",
+      "rank": 9,
+      "score": 48.7,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": "10/1",
+      "marketRank": 9,
+      "marketDisagree": false,
+      "jockey": "M Mjoka",
+      "trainer": "JMT Stewart",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.366,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.6,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "LOVE SHACK",
+      "rank": 10,
+      "score": 48.5,
+      "rating": null,
+      "draw": 9,
+      "weight": 59,
+      "odds": "14/1",
+      "marketRank": 11,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "P D Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.404,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.563,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "BARNEY MCGREW",
+      "rank": 11,
+      "score": 38.7,
+      "rating": 51,
+      "draw": 2,
+      "weight": 63,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": true,
+      "jockey": "S Veale",
+      "trainer": "A D Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.438,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "GRAVITY",
+      "key": "GRAVITY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BARNEY MCGREW",
+      "key": "BARNEY MCGREW",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GALACTUS",
+      "key": "GALACTUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PEACE OF MIND",
+      "key": "PEACE OF MIND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "EASY MONEY",
+      "key": "EASY MONEY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "COUNTRY TIME",
+      "key": "COUNTRY TIME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LOVE SHACK",
+      "key": "LOVE SHACK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TRUE HORIZON",
+      "key": "TRUE HORIZON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HIAWATHA GOLDBERG",
+      "key": "HIAWATHA GOLDBERG",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "GRAVITY",
+  "places": 3
+}

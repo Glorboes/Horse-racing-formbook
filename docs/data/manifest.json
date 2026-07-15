@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-11T20:01:59.860Z",
-  "count": 27,
+  "generated": "2026-07-15T16:26:38.638Z",
+  "count": 35,
   "days": [
+    {
+      "date": "2026-07-18",
+      "races": 8,
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "circuit": "Cape",
+      "settled": 0
+    },
     {
       "date": "2026-07-14",
       "races": 9,
@@ -31,6 +40,174 @@
     }
   ],
   "predictions": [
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r8.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r8",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 8,
+      "time": "16:30",
+      "distance": 1000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 11,
+      "topPick": "SARDINIA BAY",
+      "mostLikely": {
+        "name": "ALL ABOUT AL",
+        "pWin": 15.9,
+        "modelRank": 2
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r7.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r7",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 7,
+      "time": "15:55",
+      "distance": 1000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 11,
+      "topPick": "PEACE OF MIND",
+      "mostLikely": {
+        "name": "HERITAGE RIDGE",
+        "pWin": 16.8,
+        "modelRank": 2
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r6.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r6",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 6,
+      "time": "15:20",
+      "distance": 1250,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "CORK BAY",
+      "mostLikely": {
+        "name": "CORK BAY",
+        "pWin": 30.9,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r5.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r5",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 5,
+      "time": "14:45",
+      "distance": 1500,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "GIVEN TO FLY",
+      "mostLikely": {
+        "name": "GIVEN TO FLY",
+        "pWin": 15.6,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r4.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r4",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 4,
+      "time": "14:10",
+      "distance": 1500,
+      "going": null,
+      "classLabel": null,
+      "runners": 14,
+      "topPick": "AMAYAH",
+      "mostLikely": {
+        "name": "AMAYAH",
+        "pWin": 13.4,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r3.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r3",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 3,
+      "time": "13:35",
+      "distance": 1600,
+      "going": null,
+      "classLabel": "Maiden",
+      "runners": 9,
+      "topPick": "MASTERONTHEMOON",
+      "mostLikely": {
+        "name": "MASTERONTHEMOON",
+        "pWin": 26.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r2.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r2",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 2,
+      "time": "13:00",
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 10,
+      "topPick": "PEACH COBBLER",
+      "mostLikely": {
+        "name": "PEACH COBBLER",
+        "pWin": 32.7,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r1.json",
+      "id": "2026-07-18-hollywoodbets-durbanville-r1",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 1,
+      "time": "12:25",
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Maiden Juvenile Plate",
+      "runners": 13,
+      "topPick": "JULIET OF VERONA",
+      "mostLikely": {
+        "name": "JULIET OF VERONA",
+        "pWin": 26.4,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
     {
       "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r9.json",
       "id": "2026-07-14-hollywoodbets-durbanville-r9",
