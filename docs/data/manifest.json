@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T16:01:37.072Z",
+  "generated": "2026-07-22T16:03:02.377Z",
   "count": 42,
   "days": [
     {
@@ -18,7 +18,7 @@
         "HOLLYWOODBETS DURBANVILLE"
       ],
       "circuit": "Cape",
-      "settled": 0
+      "settled": 8
     },
     {
       "date": "2026-07-14",
@@ -214,8 +214,16 @@
         "pWin": 15.9,
         "modelRank": 2
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "ALL ABOUT AL",
+        "topPick": "ALL ABOUT AL",
+        "pickPWin": 0.1586,
+        "pickScore": 56.5,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r7.json",
@@ -235,8 +243,16 @@
         "pWin": 16.8,
         "modelRank": 2
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "PEACE OF MIND",
+        "topPick": "HERITAGE RIDGE",
+        "pickPWin": 0.1683,
+        "pickScore": 54.1,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r6.json",
@@ -256,8 +272,16 @@
         "pWin": 30.9,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "LYRICAL GANGSTER",
+        "topPick": "CORK BAY",
+        "pickPWin": 0.3087,
+        "pickScore": 59,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r5.json",
@@ -277,8 +301,16 @@
         "pWin": 15.6,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "MONEY EXTRACTOR",
+        "topPick": "GIVEN TO FLY",
+        "pickPWin": 0.1555,
+        "pickScore": 53.8,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r4.json",
@@ -298,8 +330,16 @@
         "pWin": 13.4,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "LADY VERITAS",
+        "topPick": "AMAYAH",
+        "pickPWin": 0.1343,
+        "pickScore": 55.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r3.json",
@@ -319,8 +359,16 @@
         "pWin": 26.1,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "READY FOR THE ROAD",
+        "topPick": "MASTERONTHEMOON",
+        "pickPWin": 0.2605,
+        "pickScore": 53.7,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r2.json",
@@ -340,8 +388,16 @@
         "pWin": 32.7,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "CROWN CHASER",
+        "topPick": "PEACH COBBLER",
+        "pickPWin": 0.3269,
+        "pickScore": 58.6,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r1.json",
@@ -361,8 +417,16 @@
         "pWin": 26.4,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "JULIET OF VERONA",
+        "topPick": "JULIET OF VERONA",
+        "pickPWin": 0.264,
+        "pickScore": 58.2,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-14-hollywoodbets-durbanville-r9.json",

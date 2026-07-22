@@ -1,10 +1,10 @@
 {
-  "settled": 25,
+  "settled": 33,
   "scratched": 2,
-  "topPickWins": 10,
-  "topPickPlaces": 14,
-  "winPct": 40,
-  "placePct": 56,
+  "topPickWins": 12,
+  "topPickPlaces": 18,
+  "winPct": 36.4,
+  "placePct": 54.5,
   "history": [
     {
       "id": "2026-07-05-turffontein-r1",
@@ -205,6 +205,70 @@
       "race": 9,
       "won": false,
       "placed": false
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r1",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 1,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r2",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 2,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r3",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 3,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r4",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 4,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r5",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 5,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r6",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 6,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r7",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 7,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-18-hollywoodbets-durbanville-r8",
+      "date": "2026-07-18",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 8,
+      "won": true,
+      "placed": true
     }
   ],
   "calibration": [
@@ -217,24 +281,24 @@
     },
     {
       "tier": "25–40%",
-      "n": 13,
-      "wins": 7,
+      "n": 17,
+      "wins": 8,
       "expectedPct": 29,
-      "winPct": 54
+      "winPct": 47
     },
     {
       "tier": "15–25%",
-      "n": 11,
-      "wins": 2,
-      "expectedPct": 22,
-      "winPct": 18
+      "n": 14,
+      "wins": 3,
+      "expectedPct": 21,
+      "winPct": 21
     },
     {
       "tier": "under 15%",
-      "n": 0,
+      "n": 1,
       "wins": 0,
-      "expectedPct": null,
-      "winPct": null
+      "expectedPct": 13,
+      "winPct": 0
     }
   ]
 }
