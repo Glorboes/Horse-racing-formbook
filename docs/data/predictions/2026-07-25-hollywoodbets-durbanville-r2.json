@@ -1,0 +1,1152 @@
+{
+  "id": "2026-07-25-hollywoodbets-durbanville-r2",
+  "date": "2026-07-25",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 2,
+  "time": "12:50",
+  "distance": 1250,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Maiden Plate",
+  "generated": "2026-07-22T16:01:37.022Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "LE TISSIER",
+      "key": "LE TISSIER",
+      "draw": 2,
+      "rating": 35,
+      "jockey": null,
+      "trainer": null,
+      "weight": 57,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 65.3,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.6,
+        "distance": 0.814,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.821
+      },
+      "contrib": {
+        "form": 12.86,
+        "rating": 9.6,
+        "distance": 8.14,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 9.85
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Why it can win: strong recent form; placed at this trip before; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "form",
+        "distance",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "placed at this trip before",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 2,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.3907,
+      "pPlace": 0.8601,
+      "pMarket": 0.1574,
+      "edge": 0.4667
+    },
+    {
+      "name": "LANDMAN",
+      "key": "LANDMAN",
+      "draw": 8,
+      "rating": 37,
+      "jockey": "R Fourie",
+      "trainer": "J S Snaith",
+      "weight": 57,
+      "odds": "8/10",
+      "oddsDecimal": 0.8,
+      "score": 57.3,
+      "factors": {
+        "form": 0.48,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.622,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.64,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.87,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 1 start, 0 wins, 1 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 3,
+        "places": 5,
+        "winPct": 23,
+        "placePct": 38,
+        "record": "3-13"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 1 start, 0 wins, 1 placed (from the card).",
+        "Why it can win: top-rated in the field (MR 37); 23%-strike jockey booked.",
+        "Against it: unproven at this trip; well beaten lately.",
+        "Jockey R Fourie in form (23% strike)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 37)",
+        "23%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 1,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.3008,
+      "pPlace": 0.7933,
+      "pMarket": 0.4371,
+      "edge": -0.2726
+    },
+    {
+      "name": "DARK FORTUNE",
+      "key": "DARK FORTUNE",
+      "draw": 1,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 53,
+      "odds": "80/1",
+      "oddsDecimal": 80,
+      "score": 53.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (53kg).",
+        "Against it: unproven at this trip; well beaten lately.",
+        "Model/market disagree: model rank 3 vs market rank 9 (80/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (53kg)"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 9,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.0457,
+      "pPlace": 0.2001,
+      "pMarket": 0.0097,
+      "edge": 0.072
+    },
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "draw": 3,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 57,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 48.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: unproven at this trip; well beaten lately.",
+        "Model/market disagree: model rank 4 vs market rank 7 (25/1).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 7,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0354,
+      "pPlace": 0.1568,
+      "pMarket": 0.0303,
+      "edge": 0.0103
+    },
+    {
+      "name": "FOURTH OF JULY",
+      "key": "FOURTH OF JULY",
+      "draw": 6,
+      "rating": null,
+      "jockey": "G Wright",
+      "trainer": "G W Ennion",
+      "weight": 57,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 47.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.28,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: unproven at this trip; lightly-supported jockey booking.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "distance",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "unproven at this trip",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0426,
+      "pPlace": 0.187,
+      "pMarket": 0.0525,
+      "edge": -0.0198
+    },
+    {
+      "name": "AUTOCORRECT",
+      "key": "AUTOCORRECT",
+      "draw": 5,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "G S Kotzen",
+      "weight": 57,
+      "odds": "12/1",
+      "oddsDecimal": 12,
+      "score": 46.7,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 5.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 1 start, 0 wins (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 1 start, 0 wins (from the card).",
+        "Against it: patchy recent form; unproven at this trip."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "distance"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "unproven at this trip"
+      ],
+      "marketRank": 5,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.0443,
+      "pPlace": 0.1943,
+      "pMarket": 0.0605,
+      "edge": -0.0324
+    },
+    {
+      "name": "MAGIC ROCK",
+      "key": "MAGIC ROCK",
+      "draw": 9,
+      "rating": null,
+      "jockey": "C Bantam",
+      "trainer": "L V Woodruff",
+      "weight": 60,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 44.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: unproven at this trip; top-weight (60kg).",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "distance",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "unproven at this trip",
+        "top-weight (60kg)"
+      ],
+      "marketRank": 8,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0207,
+      "pPlace": 0.093,
+      "pMarket": 0.0231,
+      "edge": -0.0049
+    },
+    {
+      "name": "SICILY",
+      "key": "SICILY",
+      "draw": 4,
+      "rating": 32,
+      "jockey": "B Plaatjies",
+      "trainer": "L V Woodruff",
+      "weight": 60,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 37,
+      "factors": {
+        "form": 0.367,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.537,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.61,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.61,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 17,
+        "wins": 0,
+        "seconds": 3,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 17 starts, 0 wins, 5 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 17 starts, 0 wins, 5 placed (from the card).",
+        "Why it can win: 17%-strike jockey booked.",
+        "Against it: lower-rated (MR 32); unproven at this trip.",
+        "Model/market disagree: model rank 8 vs market rank 4 (7/1)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "rating",
+        "distance"
+      ],
+      "_strReasons": [
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 32)",
+        "unproven at this trip"
+      ],
+      "marketRank": 4,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.052,
+      "pPlace": 0.2259,
+      "pMarket": 0.0983,
+      "edge": -0.0928
+    },
+    {
+      "name": "RACHETTU",
+      "key": "RACHETTU",
+      "draw": 7,
+      "rating": 32,
+      "jockey": "S Veale",
+      "trainer": "J S Snaith",
+      "weight": 60,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 35.8,
+      "factors": {
+        "form": 0.38,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.84,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.28,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 8 starts, 0 wins, 3 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 8 starts, 0 wins, 3 placed (from the card).",
+        "Against it: lower-rated (MR 32); unproven at this trip.",
+        "Model/market disagree: model rank 9 vs market rank 3 (5/1)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "distance"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 32)",
+        "unproven at this trip"
+      ],
+      "marketRank": 3,
+      "rank": 9,
+      "marketDisagree": true,
+      "pWin": 0.0678,
+      "pPlace": 0.2894,
+      "pMarket": 0.1311,
+      "edge": -0.1266
+    }
+  ],
+  "comparison": [
+    {
+      "no": 2,
+      "name": "LE TISSIER",
+      "rank": 1,
+      "score": 65.3,
+      "rating": 35,
+      "draw": 2,
+      "weight": 57,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.6,
+        "distance": 0.814,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.821
+      }
+    },
+    {
+      "no": 8,
+      "name": "LANDMAN",
+      "rank": 2,
+      "score": 57.3,
+      "rating": 37,
+      "draw": 8,
+      "weight": 57,
+      "odds": "8/10",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.48,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.622,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 1,
+      "name": "DARK FORTUNE",
+      "rank": 3,
+      "score": 53.1,
+      "rating": null,
+      "draw": 1,
+      "weight": 53,
+      "odds": "80/1",
+      "marketRank": 9,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "WILD STREAK",
+      "rank": 4,
+      "score": 48.9,
+      "rating": null,
+      "draw": 3,
+      "weight": 57,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "FOURTH OF JULY",
+      "rank": 5,
+      "score": 47.6,
+      "rating": null,
+      "draw": 6,
+      "weight": 57,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "G Wright",
+      "trainer": "G W Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "AUTOCORRECT",
+      "rank": 6,
+      "score": 46.7,
+      "rating": null,
+      "draw": 5,
+      "weight": 57,
+      "odds": "12/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "G S Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.32,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "MAGIC ROCK",
+      "rank": 7,
+      "score": 44.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": "33/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": "C Bantam",
+      "trainer": "L V Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "SICILY",
+      "rank": 8,
+      "score": 37,
+      "rating": 32,
+      "draw": 4,
+      "weight": 60,
+      "odds": "7/1",
+      "marketRank": 4,
+      "marketDisagree": true,
+      "jockey": "B Plaatjies",
+      "trainer": "L V Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.367,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.537,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "RACHETTU",
+      "rank": 9,
+      "score": 35.8,
+      "rating": 32,
+      "draw": 7,
+      "weight": 60,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": true,
+      "jockey": "S Veale",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.38,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "DARK FORTUNE",
+      "key": "DARK FORTUNE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LE TISSIER",
+      "key": "LE TISSIER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SICILY",
+      "key": "SICILY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "AUTOCORRECT",
+      "key": "AUTOCORRECT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FOURTH OF JULY",
+      "key": "FOURTH OF JULY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RACHETTU",
+      "key": "RACHETTU",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANDMAN",
+      "key": "LANDMAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MAGIC ROCK",
+      "key": "MAGIC ROCK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "DARK FORTUNE",
+  "places": 3
+}

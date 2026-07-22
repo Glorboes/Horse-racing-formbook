@@ -1,0 +1,928 @@
+{
+  "id": "2026-07-25-hollywoodbets-durbanville-r6",
+  "date": "2026-07-25",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 6,
+  "time": "15:15",
+  "distance": 1400,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": null,
+  "generated": "2026-07-22T16:01:37.037Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "DEVIL A SAINT",
+      "key": "DEVIL A SAINT",
+      "draw": 3,
+      "rating": 58,
+      "jockey": "S Veale",
+      "trainer": "D A McLachlan",
+      "weight": 59,
+      "odds": "35/2",
+      "oddsDecimal": 17.5,
+      "score": 76,
+      "factors": {
+        "form": 0.857,
+        "rating": 1,
+        "distance": 0.907,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.958
+      },
+      "contrib": {
+        "form": 15.43,
+        "rating": 16,
+        "distance": 9.07,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.27,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 11.5
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 38,
+        "wins": 3,
+        "seconds": 5,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; top-rated in the field (MR 58); suited to this distance.",
+        "Against it: lightly-supported jockey booking.",
+        "Model/market disagree: model rank 1 vs market rank 7 (35/2)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "distance"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 58)",
+        "suited to this distance"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 7,
+      "rank": 1,
+      "marketDisagree": true,
+      "pWin": 0.4935,
+      "pPlace": 0.7715,
+      "pMarket": 0.0524,
+      "edge": 0.882
+    },
+    {
+      "name": "ONE MAGIC",
+      "key": "ONE MAGIC",
+      "draw": 5,
+      "rating": 56,
+      "jockey": "R Fourie",
+      "trainer": "J S Snaith",
+      "weight": 59,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
+      "score": 52.8,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.5,
+        "distance": 0.594,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.57,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.796
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 8,
+        "distance": 5.94,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.71,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 9.55
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 2,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 3,
+        "places": 5,
+        "winPct": 23,
+        "placePct": 38,
+        "record": "3-13"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Why it can win: 23%-strike jockey booked; suited to this distance; hitting the line hard lately.",
+        "Against it: patchy recent form; lower-rated (MR 56).",
+        "Jockey R Fourie in form (23% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "distance",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "23%-strike jockey booked",
+        "suited to this distance",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 56)"
+      ],
+      "marketRank": 1,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.1484,
+      "pPlace": 0.3507,
+      "pMarket": 0.2772,
+      "edge": -0.2577
+    },
+    {
+      "name": "MELA STRENGTH",
+      "key": "MELA STRENGTH",
+      "draw": 6,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 51,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 50.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (51kg).",
+        "Against it: unproven at this trip; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (51kg)"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 5,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.0512,
+      "pPlace": 0.1272,
+      "pMarket": 0.0882,
+      "edge": -0.074
+    },
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "draw": 2,
+      "rating": 56,
+      "jockey": null,
+      "trainer": null,
+      "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 49.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: unproven at this trip; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 3,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.0866,
+      "pPlace": 0.2115,
+      "pMarket": 0.1617,
+      "edge": -0.1502
+    },
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "draw": 1,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 49.5,
+      "factors": {
+        "form": 0.374,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 6.74,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 21,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 21 starts, 1 win, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 21 starts, 1 win, 4 placed (from the card).",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: patchy recent form; unproven at this trip."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "distance"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "unproven at this trip"
+      ],
+      "marketRank": 4,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0865,
+      "pPlace": 0.2113,
+      "pMarket": 0.1617,
+      "edge": -0.1504
+    },
+    {
+      "name": "FORTUNE ONE",
+      "key": "FORTUNE ONE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "J Solomons",
+      "trainer": "C Bass",
+      "weight": 61,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 47.2,
+      "factors": {
+        "form": 0.437,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.87,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.45,
+        "trainer": 2.5,
+        "weight": 1,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 7 starts, 1 win, 2 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 7 starts, 1 win, 2 placed (from the card).",
+        "Against it: unproven at this trip; well beaten lately."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "distance",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "unproven at this trip",
+        "well beaten lately"
+      ],
+      "marketRank": 6,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.0362,
+      "pPlace": 0.0905,
+      "pMarket": 0.0647,
+      "edge": -0.057
+    },
+    {
+      "name": "THOMAS JENKINS",
+      "key": "THOMAS JENKINS",
+      "draw": 7,
+      "rating": 54,
+      "jockey": "A Fortune",
+      "trainer": "A B Fortune",
+      "weight": 63,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 36.4,
+      "factors": {
+        "form": 0.437,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.87,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.33,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 14,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 14 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 14 starts, 2 wins, 4 placed (from the card).",
+        "Against it: lower-rated (MR 54); unproven at this trip.",
+        "Model/market disagree: model rank 7 vs market rank 2 (4/1)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "distance"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 54)",
+        "unproven at this trip"
+      ],
+      "marketRank": 2,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.0977,
+      "pPlace": 0.2373,
+      "pMarket": 0.194,
+      "edge": -0.1928
+    }
+  ],
+  "comparison": [
+    {
+      "no": 3,
+      "name": "DEVIL A SAINT",
+      "rank": 1,
+      "score": 76,
+      "rating": 58,
+      "draw": 3,
+      "weight": 59,
+      "odds": "35/2",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "S Veale",
+      "trainer": "D A McLachlan",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.857,
+        "rating": 1,
+        "distance": 0.907,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.958
+      }
+    },
+    {
+      "no": 5,
+      "name": "ONE MAGIC",
+      "rank": 2,
+      "score": 52.8,
+      "rating": 56,
+      "draw": 5,
+      "weight": 59,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "R Fourie",
+      "trainer": "J S Snaith",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.5,
+        "distance": 0.594,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.57,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.796
+      }
+    },
+    {
+      "no": 6,
+      "name": "MELA STRENGTH",
+      "rank": 3,
+      "score": 50.9,
+      "rating": null,
+      "draw": 6,
+      "weight": 51,
+      "odds": "10/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "NOON DAY GUN",
+      "rank": 4,
+      "score": 49.6,
+      "rating": 56,
+      "draw": 2,
+      "weight": 57,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 1,
+      "name": "JET A ONE",
+      "rank": 5,
+      "score": 49.5,
+      "rating": null,
+      "draw": 1,
+      "weight": 57,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.374,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "FORTUNE ONE",
+      "rank": 6,
+      "score": 47.2,
+      "rating": null,
+      "draw": 4,
+      "weight": 61,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "J Solomons",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.437,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "THOMAS JENKINS",
+      "rank": 7,
+      "score": 36.4,
+      "rating": 54,
+      "draw": 7,
+      "weight": 63,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": "A Fortune",
+      "trainer": "A B Fortune",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.437,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DEVIL A SAINT",
+      "key": "DEVIL A SAINT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORTUNE ONE",
+      "key": "FORTUNE ONE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ONE MAGIC",
+      "key": "ONE MAGIC",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MELA STRENGTH",
+      "key": "MELA STRENGTH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THOMAS JENKINS",
+      "key": "THOMAS JENKINS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "JET A ONE",
+  "places": 2
+}

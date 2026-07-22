@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T17:13:35.985Z",
+  "generated": "2026-07-22T16:01:37.075Z",
   "days": {
     "2026-07-05": {
       "bankers": [
@@ -1960,6 +1960,493 @@
             "time": "12:25",
             "selection": "JULIET OF VERONA",
             "prob": 26.4
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-07-25": {
+      "bankers": [
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:15",
+          "selection": "DEVIL A SAINT",
+          "pWin": 49.4,
+          "pPlace": 77.1,
+          "confidence": "strong"
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:15",
+          "selection": "MERRIMENT",
+          "pWin": 42,
+          "pPlace": 85.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:00",
+          "selection": "UP IN FLAMES",
+          "pWin": 41.9,
+          "pPlace": 85.2,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0868,
+          "combinedPct": 8.7,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:15",
+              "selection": "DEVIL A SAINT",
+              "prob": 49.4
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 42
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 41.9
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0339,
+          "combinedPct": 3.4,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:15",
+              "selection": "DEVIL A SAINT",
+              "prob": 49.4
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 42
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 41.9
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "LE TISSIER",
+              "prob": 39.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0125,
+          "combinedPct": 1.2,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:15",
+              "selection": "DEVIL A SAINT",
+              "prob": 49.4
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 42
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 41.9
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "LE TISSIER",
+              "prob": 39.1
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:50",
+              "selection": "BLUE LAGOON",
+              "prob": 36.7
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.5022,
+          "combinedPct": 50.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "LE TISSIER",
+              "prob": 86
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 85.6
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 85.2
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:50",
+              "selection": "BLUE LAGOON",
+              "prob": 80.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.3875,
+          "combinedPct": 38.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "LE TISSIER",
+              "prob": 86
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 85.6
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 85.2
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:50",
+              "selection": "BLUE LAGOON",
+              "prob": 80.1
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:15",
+              "selection": "DEVIL A SAINT",
+              "prob": 77.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.2311,
+          "combinedPct": 23.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:50",
+              "selection": "LE TISSIER",
+              "prob": 86
+            },
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:15",
+              "selection": "MERRIMENT",
+              "prob": 85.6
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:00",
+              "selection": "UP IN FLAMES",
+              "prob": 85.2
+            },
+            {
+              "race": 7,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:50",
+              "selection": "BLUE LAGOON",
+              "prob": 80.1
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:15",
+              "selection": "DEVIL A SAINT",
+              "prob": 77.1
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:40",
+              "selection": "DIAMOND ROCK",
+              "prob": 59.7
+            }
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "race": 6,
+          "selection": "DEVIL A SAINT",
+          "edgePts": 88.2,
+          "pWin": 49.4
+        },
+        {
+          "race": 2,
+          "selection": "LE TISSIER",
+          "edgePts": 46.7,
+          "pWin": 39.1
+        },
+        {
+          "race": 4,
+          "selection": "UP IN FLAMES",
+          "edgePts": 40.9,
+          "pWin": 41.9
+        },
+        {
+          "race": 5,
+          "selection": "DIAMOND ROCK",
+          "edgePts": 40.4,
+          "pWin": 23.1
+        },
+        {
+          "race": 7,
+          "selection": "BLUE LAGOON",
+          "edgePts": 25.1,
+          "pWin": 36.7
+        }
+      ],
+      "valuePicks": [
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:15",
+          "name": "DEVIL A SAINT",
+          "odds": "35/2",
+          "edgePts": 88.2,
+          "marketPct": 5.2,
+          "modelPct": 93.4,
+          "winPct": 49.4,
+          "modelRank": 1
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:50",
+          "name": "LE TISSIER",
+          "odds": "4/1",
+          "edgePts": 46.7,
+          "marketPct": 15.7,
+          "modelPct": 62.4,
+          "winPct": 39.1,
+          "modelRank": 1
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:00",
+          "name": "UP IN FLAMES",
+          "odds": "5/2",
+          "edgePts": 40.9,
+          "marketPct": 21.4,
+          "modelPct": 62.3,
+          "winPct": 41.9,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:40",
+          "name": "DIAMOND ROCK",
+          "odds": "25/1",
+          "edgePts": 40.4,
+          "marketPct": 2.9,
+          "modelPct": 43.3,
+          "winPct": 23.1,
+          "modelRank": 1
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:50",
+          "name": "BLUE LAGOON",
+          "odds": "5/2",
+          "edgePts": 25.1,
+          "marketPct": 24.2,
+          "modelPct": 49.3,
+          "winPct": 36.7,
+          "modelRank": 1
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:25",
+          "name": "MY SUNSHINE",
+          "odds": "10/1",
+          "edgePts": 21.5,
+          "marketPct": 7.1,
+          "modelPct": 28.5,
+          "winPct": 17.8,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:40",
+          "name": "SPIRIT",
+          "odds": "10/1",
+          "edgePts": 17.8,
+          "marketPct": 6.8,
+          "modelPct": 24.6,
+          "winPct": 15.7,
+          "modelRank": 2
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:25",
+          "name": "HAVOC",
+          "odds": "10/1",
+          "edgePts": 14.1,
+          "marketPct": 7.1,
+          "modelPct": 21.1,
+          "winPct": 14.1,
+          "modelRank": 2
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:15",
+          "name": "NIGHT FEVER",
+          "odds": "25/1",
+          "edgePts": 9.1,
+          "marketPct": 2.9,
+          "modelPct": 12.1,
+          "winPct": 7.5,
+          "modelRank": 2
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:50",
+          "name": "MALIBU BLITZ",
+          "odds": "25/1",
+          "edgePts": 8.5,
+          "marketPct": 3.3,
+          "modelPct": 11.8,
+          "winPct": 7.5,
+          "modelRank": 2
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:50",
+          "name": "DARK FORTUNE",
+          "odds": "80/1",
+          "edgePts": 7.2,
+          "marketPct": 1,
+          "modelPct": 8.2,
+          "winPct": 4.6,
+          "modelRank": 3
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:15",
+          "name": "LEONISTA",
+          "odds": "20/1",
+          "edgePts": 6.6,
+          "marketPct": 3.7,
+          "modelPct": 10.2,
+          "winPct": 6.9,
+          "modelRank": 4
+        }
+      ],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0868,
+        "combinedPct": 8.7,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 6,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "15:15",
+            "selection": "DEVIL A SAINT",
+            "prob": 49.4
+          },
+          {
+            "race": 1,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "12:15",
+            "selection": "MERRIMENT",
+            "prob": 42
+          },
+          {
+            "race": 4,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "14:00",
+            "selection": "UP IN FLAMES",
+            "prob": 41.9
           }
         ]
       },

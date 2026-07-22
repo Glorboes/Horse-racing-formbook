@@ -1,7 +1,16 @@
 {
-  "generated": "2026-07-15T17:13:35.982Z",
-  "count": 35,
+  "generated": "2026-07-22T16:01:37.072Z",
+  "count": 42,
   "days": [
+    {
+      "date": "2026-07-25",
+      "races": 7,
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "circuit": "Cape",
+      "settled": 0
+    },
     {
       "date": "2026-07-18",
       "races": 8,
@@ -40,6 +49,153 @@
     }
   ],
   "predictions": [
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r7.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r7",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 7,
+      "time": "15:50",
+      "distance": 1250,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "BLUE LAGOON",
+      "mostLikely": {
+        "name": "BLUE LAGOON",
+        "pWin": 36.7,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r6.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r6",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 6,
+      "time": "15:15",
+      "distance": 1400,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "DEVIL A SAINT",
+      "mostLikely": {
+        "name": "DEVIL A SAINT",
+        "pWin": 49.4,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r5.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r5",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 5,
+      "time": "14:40",
+      "distance": 1600,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "DIAMOND ROCK",
+      "mostLikely": {
+        "name": "DIAMOND ROCK",
+        "pWin": 23.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r4.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r4",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 4,
+      "time": "14:00",
+      "distance": 2000,
+      "going": null,
+      "classLabel": "Maiden",
+      "runners": 8,
+      "topPick": "UP IN FLAMES",
+      "mostLikely": {
+        "name": "UP IN FLAMES",
+        "pWin": 41.9,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r3.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r3",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 3,
+      "time": "13:25",
+      "distance": 1500,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 9,
+      "topPick": "MY SUNSHINE",
+      "mostLikely": {
+        "name": "ROYAL INFLUENCER",
+        "pWin": 20.7,
+        "modelRank": 4
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r2.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r2",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 2,
+      "time": "12:50",
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 9,
+      "topPick": "LE TISSIER",
+      "mostLikely": {
+        "name": "LE TISSIER",
+        "pWin": 39.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r1.json",
+      "id": "2026-07-25-hollywoodbets-durbanville-r1",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 1,
+      "time": "12:15",
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Maiden Juvenile Plate",
+      "runners": 8,
+      "topPick": "MERRIMENT",
+      "mostLikely": {
+        "name": "MERRIMENT",
+        "pWin": 42,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r8.json",
       "id": "2026-07-18-hollywoodbets-durbanville-r8",

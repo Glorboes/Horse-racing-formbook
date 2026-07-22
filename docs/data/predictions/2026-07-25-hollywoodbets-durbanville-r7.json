@@ -1,0 +1,1045 @@
+{
+  "id": "2026-07-25-hollywoodbets-durbanville-r7",
+  "date": "2026-07-25",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 7,
+  "time": "15:50",
+  "distance": 1250,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": null,
+  "generated": "2026-07-22T16:01:37.040Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "BLUE LAGOON",
+      "key": "BLUE LAGOON",
+      "draw": 1,
+      "rating": 61,
+      "jockey": "A Fortune",
+      "trainer": "W A Nel",
+      "weight": 58,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
+      "score": 59.9,
+      "factors": {
+        "form": 0.565,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 10.17,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.33,
+        "trainer": 2.5,
+        "weight": 1.71,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 8,
+        "wins": 2,
+        "seconds": 4,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Reliable — placed in 6 of 8 career starts."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Reliable — placed in 6 of 8 career starts.",
+        "Why it can win: strong recent form; top-rated in the field (MR 61); drawn 1 — a handy low draw."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 61)",
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.3673,
+      "pPlace": 0.801,
+      "pMarket": 0.2416,
+      "edge": 0.2513
+    },
+    {
+      "name": "MALIBU BLITZ",
+      "key": "MALIBU BLITZ",
+      "draw": 6,
+      "rating": null,
+      "jockey": "O Noach",
+      "trainer": "A E Sands",
+      "weight": 53,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 51.3,
+      "factors": {
+        "form": 0.414,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.46,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.33,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 1,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 7 starts, 1 win (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-4"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 7 starts, 1 win (from the card).",
+        "Why it can win: well-in at the weights (53kg).",
+        "Against it: patchy recent form; up in class.",
+        "Model/market disagree: model rank 2 vs market rank 7 (25/1)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 7,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.075,
+      "pPlace": 0.2728,
+      "pMarket": 0.0325,
+      "edge": 0.0851
+    },
+    {
+      "name": "CLIFFSCAPE",
+      "key": "CLIFFSCAPE",
+      "draw": 3,
+      "rating": 59,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "weight": 58,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 51.2,
+      "factors": {
+        "form": 0.502,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.04,
+        "rating": 9.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.27,
+        "trainer": 2.5,
+        "weight": 1.71,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 9,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 9 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 9 starts, 2 wins, 4 placed (from the card).",
+        "Why it can win: well-rated (MR 59); strong recent form; drawn 3 — a handy low draw."
+      ],
+      "_strengths": [
+        "rating",
+        "form",
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "well-rated (MR 59)",
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "marketRank": 4,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.0963,
+      "pPlace": 0.34,
+      "pMarket": 0.0769,
+      "edge": 0.0388
+    },
+    {
+      "name": "ALL IS GREEN",
+      "key": "ALL IS GREEN",
+      "draw": 4,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 55,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 50.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 4.29,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 55kg.",
+        "Against it: patchy recent form; up in class.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 55kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 6,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.0771,
+      "pPlace": 0.2796,
+      "pMarket": 0.0564,
+      "edge": 0.0415
+    },
+    {
+      "name": "MISS WILLIAM",
+      "key": "MISS WILLIAM",
+      "draw": 2,
+      "rating": null,
+      "jockey": "G Wright",
+      "trainer": "J Crawford",
+      "weight": 60,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 47.4,
+      "factors": {
+        "form": 0.461,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.3,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.27,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 15,
+        "wins": 2,
+        "seconds": 3,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 15 starts, 2 wins, 7 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 15 starts, 2 wins, 7 placed (from the card).",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: top-weight (60kg); up in class.",
+        "Model/market disagree: model rank 5 vs market rank 8 (25/1)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "up in class"
+      ],
+      "marketRank": 8,
+      "rank": 5,
+      "marketDisagree": true,
+      "pWin": 0.047,
+      "pPlace": 0.1767,
+      "pMarket": 0.0325,
+      "edge": 0.0289
+    },
+    {
+      "name": "GIRL LIKE US",
+      "key": "GIRL LIKE US",
+      "draw": 7,
+      "rating": 58,
+      "jockey": null,
+      "trainer": null,
+      "weight": 56,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.4,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 56kg.",
+        "Against it: patchy recent form; lower-rated (MR 58).",
+        "Model/market disagree: model rank 6 vs market rank 2 (5/2).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 56kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 58)"
+      ],
+      "marketRank": 2,
+      "rank": 6,
+      "marketDisagree": true,
+      "pWin": 0.1468,
+      "pPlace": 0.4798,
+      "pMarket": 0.2416,
+      "edge": -0.1897
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "draw": 8,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "A N Marcus",
+      "weight": 60,
+      "odds": "5/2",
+      "oddsDecimal": 2.5,
+      "score": 45.2,
+      "factors": {
+        "form": 0.457,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.22,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 25,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 25 starts, 3 wins, 12 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 25 starts, 3 wins, 12 placed (from the card).",
+        "Against it: top-weight (60kg); up in class.",
+        "Model/market disagree: model rank 7 vs market rank 3 (5/2)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "up in class"
+      ],
+      "marketRank": 3,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1421,
+      "pPlace": 0.4681,
+      "pMarket": 0.2416,
+      "edge": -0.1991
+    },
+    {
+      "name": "WYZE DECLARATION",
+      "key": "WYZE DECLARATION",
+      "draw": 5,
+      "rating": 56,
+      "jockey": "J Solomons",
+      "trainer": "C Bass",
+      "weight": 59,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 40.7,
+      "factors": {
+        "form": 0.554,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 0.143,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 9.98,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.45,
+        "trainer": 2.5,
+        "weight": 0.86,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 7,
+        "wins": 2,
+        "seconds": 0,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 7 starts, 2 wins, 4 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 7 starts, 2 wins, 4 placed (from the card).",
+        "Why it can win: strong recent form.",
+        "Against it: lower-rated (MR 56); top-weight (59kg).",
+        "Model/market disagree: model rank 8 vs market rank 5 (10/1)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 56)",
+        "top-weight (59kg)"
+      ],
+      "marketRank": 5,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.0485,
+      "pPlace": 0.1821,
+      "pMarket": 0.0769,
+      "edge": -0.0568
+    }
+  ],
+  "comparison": [
+    {
+      "no": 1,
+      "name": "BLUE LAGOON",
+      "rank": 1,
+      "score": 59.9,
+      "rating": 61,
+      "draw": 1,
+      "weight": 58,
+      "odds": "5/2",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "W A Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.565,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 6,
+      "name": "MALIBU BLITZ",
+      "rank": 2,
+      "score": 51.3,
+      "rating": null,
+      "draw": 6,
+      "weight": 53,
+      "odds": "25/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "O Noach",
+      "trainer": "A E Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.414,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.443,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 3,
+      "name": "CLIFFSCAPE",
+      "rank": 3,
+      "score": 51.2,
+      "rating": 59,
+      "draw": 3,
+      "weight": 58,
+      "odds": "10/1",
+      "marketRank": 4,
+      "marketDisagree": false,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.502,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "ALL IS GREEN",
+      "rank": 4,
+      "score": 50.2,
+      "rating": null,
+      "draw": 4,
+      "weight": 55,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 2,
+      "name": "MISS WILLIAM",
+      "rank": 5,
+      "score": 47.4,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": "25/1",
+      "marketRank": 8,
+      "marketDisagree": true,
+      "jockey": "G Wright",
+      "trainer": "J Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.461,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.425,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "GIRL LIKE US",
+      "rank": 6,
+      "score": 46.4,
+      "rating": 58,
+      "draw": 7,
+      "weight": 56,
+      "odds": "5/2",
+      "marketRank": 2,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "MY ONLY WEAKNESS",
+      "rank": 7,
+      "score": 45.2,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": "5/2",
+      "marketRank": 3,
+      "marketDisagree": true,
+      "jockey": "J P v’d Merwe",
+      "trainer": "A N Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.457,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "WYZE DECLARATION",
+      "rank": 8,
+      "score": 40.7,
+      "rating": 56,
+      "draw": 5,
+      "weight": 59,
+      "odds": "10/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "J Solomons",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.554,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 0.143,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "BLUE LAGOON",
+      "key": "BLUE LAGOON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS WILLIAM",
+      "key": "MISS WILLIAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CLIFFSCAPE",
+      "key": "CLIFFSCAPE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ALL IS GREEN",
+      "key": "ALL IS GREEN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WYZE DECLARATION",
+      "key": "WYZE DECLARATION",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MALIBU BLITZ",
+      "key": "MALIBU BLITZ",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIRL LIKE US",
+      "key": "GIRL LIKE US",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "BLUE LAGOON",
+  "places": 3
+}
