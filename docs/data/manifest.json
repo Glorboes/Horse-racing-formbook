@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T16:03:02.377Z",
+  "generated": "2026-07-26T12:46:32.169Z",
   "count": 42,
   "days": [
     {
@@ -9,7 +9,7 @@
         "HOLLYWOODBETS DURBANVILLE"
       ],
       "circuit": "Cape",
-      "settled": 0
+      "settled": 7
     },
     {
       "date": "2026-07-18",
@@ -67,8 +67,16 @@
         "pWin": 36.7,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "CLIFFSCAPE",
+        "topPick": "BLUE LAGOON",
+        "pickPWin": 0.3673,
+        "pickScore": 59.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r6.json",
@@ -88,8 +96,16 @@
         "pWin": 49.4,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "ONE MAGIC",
+        "topPick": "DEVIL A SAINT",
+        "pickPWin": 0.4935,
+        "pickScore": 76,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r5.json",
@@ -109,8 +125,16 @@
         "pWin": 23.1,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "BOURBON KING",
+        "topPick": "DIAMOND ROCK",
+        "pickPWin": 0.231,
+        "pickScore": 60.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r4.json",
@@ -130,8 +154,16 @@
         "pWin": 41.9,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "ROYAL CELEB",
+        "topPick": "UP IN FLAMES",
+        "pickPWin": 0.4185,
+        "pickScore": 64.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r3.json",
@@ -151,8 +183,16 @@
         "pWin": 20.7,
         "modelRank": 4
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "ROYAL INFLUENCER",
+        "topPick": "ROYAL INFLUENCER",
+        "pickPWin": 0.2066,
+        "pickScore": 54.6,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r2.json",
@@ -172,8 +212,16 @@
         "pWin": 39.1,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "RACHETTU",
+        "topPick": "LE TISSIER",
+        "pickPWin": 0.3907,
+        "pickScore": 65.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-25-hollywoodbets-durbanville-r1.json",
@@ -193,8 +241,16 @@
         "pWin": 42,
         "modelRank": 1
       },
-      "settled": false,
-      "result": null
+      "settled": true,
+      "result": {
+        "winner": "MERRIMENT",
+        "topPick": "MERRIMENT",
+        "pickPWin": 0.4204,
+        "pickScore": 57,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "file": "data/predictions/2026-07-18-hollywoodbets-durbanville-r8.json",

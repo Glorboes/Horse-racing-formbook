@@ -1,10 +1,10 @@
 {
-  "settled": 33,
+  "settled": 40,
   "scratched": 2,
-  "topPickWins": 12,
-  "topPickPlaces": 18,
-  "winPct": 36.4,
-  "placePct": 54.5,
+  "topPickWins": 14,
+  "topPickPlaces": 23,
+  "winPct": 35,
+  "placePct": 57.5,
   "history": [
     {
       "id": "2026-07-05-turffontein-r1",
@@ -269,29 +269,85 @@
       "race": 8,
       "won": true,
       "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r1",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 1,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r2",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 2,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r3",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 3,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r4",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 4,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r5",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 5,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r6",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 6,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-07-25-hollywoodbets-durbanville-r7",
+      "date": "2026-07-25",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "race": 7,
+      "won": false,
+      "placed": false
     }
   ],
   "calibration": [
     {
       "tier": "40%+",
-      "n": 1,
-      "wins": 1,
-      "expectedPct": 43,
-      "winPct": 100
+      "n": 4,
+      "wins": 2,
+      "expectedPct": 44,
+      "winPct": 50
     },
     {
       "tier": "25–40%",
-      "n": 17,
+      "n": 19,
       "wins": 8,
-      "expectedPct": 29,
-      "winPct": 47
+      "expectedPct": 30,
+      "winPct": 42
     },
     {
       "tier": "15–25%",
-      "n": 14,
-      "wins": 3,
+      "n": 16,
+      "wins": 4,
       "expectedPct": 21,
-      "winPct": 21
+      "winPct": 25
     },
     {
       "tier": "under 15%",

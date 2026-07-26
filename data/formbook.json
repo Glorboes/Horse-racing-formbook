@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updated": "2026-07-22T16:03:02.321Z",
+    "updated": "2026-07-26T12:46:32.055Z",
     "tracks": [
       "Turffontein",
       "Vaal",
@@ -2281,6 +2281,30 @@
           "jockey": "O Noach",
           "trainer": "Candice Bass",
           "draw": 10
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 6.3,
+          "wonBy": null,
+          "beaten": [
+            "LEONISTA",
+            "EVANA",
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "O Noach",
+          "trainer": "Candice Bass",
+          "draw": 5
         }
       ],
       "trainer": "Candice Bass"
@@ -2559,6 +2583,33 @@
           "jockey": "C Murray",
           "trainer": "Greg Ennion",
           "draw": 8
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 2.25,
+          "wonBy": null,
+          "beaten": [
+            "MONTESSORI",
+            "MADRA RUA",
+            "GROOVE MASTER",
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 56,
+          "jockey": "S Veale",
+          "trainer": "Greg Ennion",
+          "draw": 7
         }
       ],
       "trainer": "Greg Ennion"
@@ -2954,7 +3005,7 @@
     },
     "UP IN FLAMES": {
       "name": "UP IN FLAMES",
-      "rating": null,
+      "rating": 67,
       "runs": [
         {
           "date": "2026-07-07",
@@ -2981,6 +3032,28 @@
           "jockey": "J P v'd Merwe",
           "trainer": "Michelle Rix",
           "draw": 1
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 7,
+          "wonBy": null,
+          "beaten": [
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 58.5,
+          "jockey": "G Wright",
+          "trainer": "Michelle Rix",
+          "draw": 8
         }
       ],
       "trainer": "Michelle Rix"
@@ -3019,7 +3092,7 @@
     },
     "QUIET PLACE": {
       "name": "QUIET PLACE",
-      "rating": null,
+      "rating": 65,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3044,6 +3117,31 @@
           "jockey": "M Michel",
           "trainer": "Des A McLachlan",
           "draw": 2
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 3.25,
+          "wonBy": null,
+          "beaten": [
+            "WIZARDING WORLD",
+            "CONDITIONALLY",
+            "UP IN FLAMES",
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Des A McLachlan",
+          "draw": 6
         }
       ],
       "trainer": "Des A McLachlan"
@@ -3232,7 +3330,7 @@
     },
     "THE BIG BANG": {
       "name": "THE BIG BANG",
-      "rating": null,
+      "rating": 71,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3259,13 +3357,35 @@
           "jockey": "A Domeyer",
           "trainer": "Candice Bass",
           "draw": 6
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 7.3,
+          "wonBy": null,
+          "beaten": [
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 60,
+          "jockey": "B Plaatjies",
+          "trainer": "Candice Bass",
+          "draw": 5
         }
       ],
       "trainer": "Candice Bass"
     },
     "MY SUNSHINE": {
       "name": "MY SUNSHINE",
-      "rating": null,
+      "rating": 63,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3291,6 +3411,29 @@
           "jockey": "V Jodhee",
           "trainer": "Ashley Fortune",
           "draw": 1
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 6.3,
+          "wonBy": null,
+          "beaten": [
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 57,
+          "jockey": "S Bungane",
+          "trainer": "Ashley Fortune",
+          "draw": 2
         }
       ],
       "trainer": "Ashley Fortune"
@@ -3328,7 +3471,7 @@
     },
     "MONTESSORI": {
       "name": "MONTESSORI",
-      "rating": null,
+      "rating": 74,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3352,13 +3495,39 @@
           "jockey": "R Fourie",
           "trainer": "Andre Nel",
           "draw": 9
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 3.75,
+          "wonBy": null,
+          "beaten": [
+            "MADRA RUA",
+            "GROOVE MASTER",
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 60,
+          "jockey": "A Fortune",
+          "trainer": "Andre Nel",
+          "draw": 8
         }
       ],
       "trainer": "Andre Nel"
     },
     "EPERNAY": {
       "name": "EPERNAY",
-      "rating": null,
+      "rating": 62,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3381,6 +3550,25 @@
           "jockey": "E J Muller",
           "trainer": "Ashley Fortune",
           "draw": 8
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 16.55,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57,
+          "jockey": "C Bantam",
+          "trainer": "Ashley Fortune",
+          "draw": 1
         }
       ],
       "trainer": "Ashley Fortune"
@@ -3475,7 +3663,7 @@
     },
     "DEVIL A SAINT": {
       "name": "DEVIL A SAINT",
-      "rating": null,
+      "rating": 69,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3502,6 +3690,31 @@
           "jockey": "S Veale",
           "trainer": "Des A McLachlan",
           "draw": 1
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 0.1,
+          "wonBy": null,
+          "beaten": [
+            "JET A ONE",
+            "NOON DAY GUN",
+            "FORTUNE ONE",
+            "MELA STRENGTH",
+            "THOMAS JENKINS"
+          ],
+          "weight": 59.5,
+          "jockey": "S Veale",
+          "trainer": "Des A McLachlan",
+          "draw": 3
         }
       ],
       "trainer": "Des A McLachlan"
@@ -3849,7 +4062,7 @@
     },
     "ONE MAGIC": {
       "name": "ONE MAGIC",
-      "rating": null,
+      "rating": 87,
       "runs": [
         {
           "date": "2026-07-07",
@@ -3872,6 +4085,32 @@
           "jockey": "C Zackey",
           "trainer": "Justin Snaith",
           "draw": 6
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "wonBy": 0.1,
+          "beaten": [
+            "DEVIL A SAINT",
+            "JET A ONE",
+            "NOON DAY GUN",
+            "FORTUNE ONE",
+            "MELA STRENGTH",
+            "THOMAS JENKINS"
+          ],
+          "weight": 59.5,
+          "jockey": "R Fourie",
+          "trainer": "Justin Snaith",
+          "draw": 5
         }
       ],
       "trainer": "Justin Snaith"
@@ -4480,7 +4719,7 @@
     },
     "LE TISSIER": {
       "name": "LE TISSIER",
-      "rating": null,
+      "rating": 68,
       "runs": [
         {
           "date": "2026-07-14",
@@ -4506,6 +4745,32 @@
           "jockey": "B Marx-Jacobson",
           "trainer": "Andries Steyn",
           "draw": 6
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 1.75,
+          "wonBy": null,
+          "beaten": [
+            "LANDMAN",
+            "SICILY",
+            "MAGIC ROCK",
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 60,
+          "jockey": "S Bungane",
+          "trainer": "Andries Steyn",
+          "draw": 2
         }
       ],
       "trainer": "Andries Steyn"
@@ -5047,7 +5312,7 @@
     },
     "NOBLE HERO": {
       "name": "NOBLE HERO",
-      "rating": 78,
+      "rating": 77,
       "runs": [
         {
           "date": "2026-07-14",
@@ -5067,6 +5332,31 @@
           "jockey": "C Murray",
           "trainer": "Des A McLachlan",
           "draw": 7
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 11,
+          "marginBehindWinner": 3.05,
+          "wonBy": null,
+          "beaten": [
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 57.5,
+          "jockey": "G Wright",
+          "trainer": "Des A McLachlan",
+          "draw": 9
         }
       ],
       "trainer": "Des A McLachlan"
@@ -5510,6 +5800,29 @@
           "jockey": "J P v'd Merwe",
           "trainer": "Piet Steyn",
           "draw": 5
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 11,
+          "marginBehindWinner": 4.8,
+          "wonBy": null,
+          "beaten": [
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 63.5,
+          "jockey": "A Arries",
+          "trainer": "Piet / Elbert Steyn",
+          "draw": 10
         }
       ],
       "trainer": "Piet Steyn"
@@ -6089,7 +6402,7 @@
     },
     "BOMBERS IN THE SKY": {
       "name": "BOMBERS IN THE SKY",
-      "rating": 84,
+      "rating": 82,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6106,6 +6419,33 @@
           "wonBy": null,
           "beaten": [],
           "weight": 55.5,
+          "jockey": "S Bungane",
+          "trainer": "Glen Kotzen",
+          "draw": 2
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 11,
+          "marginBehindWinner": 2,
+          "wonBy": null,
+          "beaten": [
+            "MARCUS AURELIUS",
+            "NOBLE HERO",
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 60,
           "jockey": "S Bungane",
           "trainer": "Glen Kotzen",
           "draw": 2
@@ -6316,7 +6656,7 @@
     },
     "DIAMOND ROCK": {
       "name": "DIAMOND ROCK",
-      "rating": 74,
+      "rating": 70,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6340,6 +6680,34 @@
           "jockey": "M Michel",
           "trainer": "Des A McLachlan",
           "draw": 6
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 11,
+          "marginBehindWinner": 1.5,
+          "wonBy": null,
+          "beaten": [
+            "BOMBERS IN THE SKY",
+            "MARCUS AURELIUS",
+            "NOBLE HERO",
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 54,
+          "jockey": "J Solomons",
+          "trainer": "Des A McLachlan",
+          "draw": 5
         }
       ],
       "trainer": "Des A McLachlan"
@@ -6397,6 +6765,25 @@
           "jockey": "V Jodhee",
           "trainer": "Justin Snaith",
           "draw": 8
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 11,
+          "field": 11,
+          "marginBehindWinner": 5.3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 58,
+          "jockey": "M Mjoka",
+          "trainer": "Justin Snaith",
+          "draw": 11
         }
       ],
       "trainer": "Justin Snaith"
@@ -7297,6 +7684,32 @@
           ],
           "weight": 53,
           "jockey": "S Bungane",
+          "trainer": "Justin Snaith",
+          "draw": 4
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 1.75,
+          "wonBy": null,
+          "beaten": [
+            "QUIET PLACE",
+            "WIZARDING WORLD",
+            "CONDITIONALLY",
+            "UP IN FLAMES",
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 55,
+          "jockey": "S Veale",
           "trainer": "Justin Snaith",
           "draw": 4
         }
@@ -9280,6 +9693,1354 @@
         }
       ],
       "trainer": "Justin Snaith"
+    },
+    "MERRIMENT": {
+      "name": "MERRIMENT",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "MISS ARIZONA",
+            "VERSE FOR SUZANNE",
+            "GIMME PERFECT",
+            "LEONISTA",
+            "EVANA",
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 8
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "MISS ARIZONA": {
+      "name": "MISS ARIZONA",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "VERSE FOR SUZANNE",
+            "GIMME PERFECT",
+            "LEONISTA",
+            "EVANA",
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "S Veale",
+          "trainer": "Justin Snaith",
+          "draw": 6
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "VERSE FOR SUZANNE": {
+      "name": "VERSE FOR SUZANNE",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 0.8,
+          "wonBy": null,
+          "beaten": [
+            "GIMME PERFECT",
+            "LEONISTA",
+            "EVANA",
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "Justin Snaith",
+          "draw": 7
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "LEONISTA": {
+      "name": "LEONISTA",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 8.3,
+          "wonBy": null,
+          "beaten": [
+            "EVANA",
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "B Plaatjies",
+          "trainer": "Justin Snaith",
+          "draw": 1
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "EVANA": {
+      "name": "EVANA",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 9.3,
+          "wonBy": null,
+          "beaten": [
+            "COLORADO COLUMBINE",
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "A Fortune",
+          "trainer": "Eric Sands",
+          "draw": 3
+        }
+      ],
+      "trainer": "Eric Sands"
+    },
+    "COLORADO COLUMBINE": {
+      "name": "COLORADO COLUMBINE",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 16.8,
+          "wonBy": null,
+          "beaten": [
+            "NIGHT FEVER"
+          ],
+          "weight": 60,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Eric Sands",
+          "draw": 4
+        }
+      ],
+      "trainer": "Eric Sands"
+    },
+    "NIGHT FEVER": {
+      "name": "NIGHT FEVER",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 1,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 18.05,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "J Solomons",
+          "trainer": "Candice Bass",
+          "draw": 2
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "RACHETTU": {
+      "name": "RACHETTU",
+      "rating": 72,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "FOURTH OF JULY",
+            "LE TISSIER",
+            "LANDMAN",
+            "SICILY",
+            "MAGIC ROCK",
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 60,
+          "jockey": "S Veale",
+          "trainer": "Justin Snaith",
+          "draw": 7
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "FOURTH OF JULY": {
+      "name": "FOURTH OF JULY",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "LE TISSIER",
+            "LANDMAN",
+            "SICILY",
+            "MAGIC ROCK",
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 57,
+          "jockey": "G Wright",
+          "trainer": "Greg Ennion",
+          "draw": 6
+        }
+      ],
+      "trainer": "Greg Ennion"
+    },
+    "LANDMAN": {
+      "name": "LANDMAN",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "SICILY",
+            "MAGIC ROCK",
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 57,
+          "jockey": "R Fourie",
+          "trainer": "Justin Snaith",
+          "draw": 8
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "SICILY": {
+      "name": "SICILY",
+      "rating": 62,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 3.5,
+          "wonBy": null,
+          "beaten": [
+            "MAGIC ROCK",
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 60,
+          "jockey": "B Plaatjies",
+          "trainer": "Lucinda Woodruff",
+          "draw": 4
+        }
+      ],
+      "trainer": "Lucinda Woodruff"
+    },
+    "MAGIC ROCK": {
+      "name": "MAGIC ROCK",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 3.8,
+          "wonBy": null,
+          "beaten": [
+            "DARK FORTUNE",
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 60,
+          "jockey": "C Bantam",
+          "trainer": "Lucinda Woodruff",
+          "draw": 9
+        }
+      ],
+      "trainer": "Lucinda Woodruff"
+    },
+    "DARK FORTUNE": {
+      "name": "DARK FORTUNE",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 4.2,
+          "wonBy": null,
+          "beaten": [
+            "WILD STREAK",
+            "AUTOCORRECT"
+          ],
+          "weight": 57,
+          "jockey": "E J Muller",
+          "trainer": "Piet / Elbert Steyn",
+          "draw": 1
+        }
+      ],
+      "trainer": "Piet / Elbert Steyn"
+    },
+    "WILD STREAK": {
+      "name": "WILD STREAK",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 6.45,
+          "wonBy": null,
+          "beaten": [
+            "AUTOCORRECT"
+          ],
+          "weight": 57,
+          "jockey": "A Arries",
+          "trainer": "Piet / Elbert Steyn",
+          "draw": 3
+        }
+      ],
+      "trainer": "Piet / Elbert Steyn"
+    },
+    "AUTOCORRECT": {
+      "name": "AUTOCORRECT",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 6.85,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Glen Kotzen",
+          "draw": 5
+        }
+      ],
+      "trainer": "Glen Kotzen"
+    },
+    "ROYAL INFLUENCER": {
+      "name": "ROYAL INFLUENCER",
+      "rating": 72,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 2.25,
+          "beaten": [
+            "HAVOC",
+            "MONTESSORI",
+            "MADRA RUA",
+            "GROOVE MASTER",
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 60,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Justin Snaith",
+          "draw": 3
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "MADRA RUA": {
+      "name": "MADRA RUA",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 4.05,
+          "wonBy": null,
+          "beaten": [
+            "GROOVE MASTER",
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 60,
+          "jockey": "R Fourie",
+          "trainer": "James Crawford",
+          "draw": 4
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "GROOVE MASTER": {
+      "name": "GROOVE MASTER",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 5.8,
+          "wonBy": null,
+          "beaten": [
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 56,
+          "jockey": "O Noach",
+          "trainer": "Candice Bass",
+          "draw": 6
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "THE MUFFIN MAN": {
+      "name": "THE MUFFIN MAN",
+      "rating": 62,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 8.05,
+          "wonBy": null,
+          "beaten": [
+            "EPERNAY"
+          ],
+          "weight": 60,
+          "jockey": "J Solomons",
+          "trainer": "James Crawford",
+          "draw": 9
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "ROYAL CELEB": {
+      "name": "ROYAL CELEB",
+      "rating": 56,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 1.75,
+          "beaten": [
+            "O'FELLOW",
+            "QUIET PLACE",
+            "WIZARDING WORLD",
+            "CONDITIONALLY",
+            "UP IN FLAMES",
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 55.5,
+          "jockey": "B Plaatjies",
+          "trainer": "Greg Ennion",
+          "draw": 1
+        }
+      ],
+      "trainer": "Greg Ennion"
+    },
+    "WIZARDING WORLD": {
+      "name": "WIZARDING WORLD",
+      "rating": 50,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 4,
+          "wonBy": null,
+          "beaten": [
+            "CONDITIONALLY",
+            "UP IN FLAMES",
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 54.5,
+          "jockey": "V Jodhee",
+          "trainer": "Vaughan Marshall",
+          "draw": 3
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "CONDITIONALLY": {
+      "name": "CONDITIONALLY",
+      "rating": 58,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 4.75,
+          "wonBy": null,
+          "beaten": [
+            "UP IN FLAMES",
+            "SPARKLING SKY",
+            "ECHO FOXTROT"
+          ],
+          "weight": 56.5,
+          "jockey": "O Noach",
+          "trainer": "Vaughan Marshall",
+          "draw": 5
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "SPARKLING SKY": {
+      "name": "SPARKLING SKY",
+      "rating": 70,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 10.25,
+          "wonBy": null,
+          "beaten": [
+            "ECHO FOXTROT"
+          ],
+          "weight": 60,
+          "jockey": "M Mjoka",
+          "trainer": "Michelle Rix",
+          "draw": 2
+        }
+      ],
+      "trainer": "Michelle Rix"
+    },
+    "ECHO FOXTROT": {
+      "name": "ECHO FOXTROT",
+      "rating": 57,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 10.25,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Adam Marcus",
+          "draw": 7
+        }
+      ],
+      "trainer": "Adam Marcus"
+    },
+    "BOURBON KING": {
+      "name": "BOURBON KING",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 11,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "CAPTAINS ALLIANCE",
+            "DIAMOND ROCK",
+            "BOMBERS IN THE SKY",
+            "MARCUS AURELIUS",
+            "NOBLE HERO",
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 56,
+          "jockey": "A Fortune",
+          "trainer": "Andre Nel",
+          "draw": 3
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "CAPTAINS ALLIANCE": {
+      "name": "CAPTAINS ALLIANCE",
+      "rating": 79,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 11,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "DIAMOND ROCK",
+            "BOMBERS IN THE SKY",
+            "MARCUS AURELIUS",
+            "NOBLE HERO",
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 57.5,
+          "jockey": "S Veale",
+          "trainer": "Vaughan Marshall",
+          "draw": 6
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "MARCUS AURELIUS": {
+      "name": "MARCUS AURELIUS",
+      "rating": 88,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 11,
+          "marginBehindWinner": 2.75,
+          "wonBy": null,
+          "beaten": [
+            "NOBLE HERO",
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 62,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 7
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "YAMAZAKI": {
+      "name": "YAMAZAKI",
+      "rating": 86,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 11,
+          "marginBehindWinner": 4.05,
+          "wonBy": null,
+          "beaten": [
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 61,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Justin Snaith",
+          "draw": 4
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "GROOVEJET": {
+      "name": "GROOVEJET",
+      "rating": 80,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 11,
+          "marginBehindWinner": 5.3,
+          "wonBy": null,
+          "beaten": [
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 59,
+          "jockey": "O Noach",
+          "trainer": "Justin Snaith",
+          "draw": 1
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "MUTINY IN HEAVEN": {
+      "name": "MUTINY IN HEAVEN",
+      "rating": 78,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 10,
+          "field": 11,
+          "marginBehindWinner": 5.3,
+          "wonBy": null,
+          "beaten": [
+            "IN MOTION"
+          ],
+          "weight": 57,
+          "jockey": "R Fourie",
+          "trainer": "James Crawford",
+          "draw": 8
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "JET A ONE": {
+      "name": "JET A ONE",
+      "rating": 64,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 0.85,
+          "wonBy": null,
+          "beaten": [
+            "NOON DAY GUN",
+            "FORTUNE ONE",
+            "MELA STRENGTH",
+            "THOMAS JENKINS"
+          ],
+          "weight": 57,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Des A McLachlan",
+          "draw": 1
+        }
+      ],
+      "trainer": "Des A McLachlan"
+    },
+    "NOON DAY GUN": {
+      "name": "NOON DAY GUN",
+      "rating": 69,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 2.1,
+          "wonBy": null,
+          "beaten": [
+            "FORTUNE ONE",
+            "MELA STRENGTH",
+            "THOMAS JENKINS"
+          ],
+          "weight": 59.5,
+          "jockey": "S Bungane",
+          "trainer": "Paul Reeves",
+          "draw": 2
+        }
+      ],
+      "trainer": "Paul Reeves"
+    },
+    "FORTUNE ONE": {
+      "name": "FORTUNE ONE",
+      "rating": 75,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 2.3,
+          "wonBy": null,
+          "beaten": [
+            "MELA STRENGTH",
+            "THOMAS JENKINS"
+          ],
+          "weight": 61.5,
+          "jockey": "J Solomons",
+          "trainer": "Candice Bass",
+          "draw": 4
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "MELA STRENGTH": {
+      "name": "MELA STRENGTH",
+      "rating": 60,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 7,
+          "marginBehindWinner": 3.3,
+          "wonBy": null,
+          "beaten": [
+            "THOMAS JENKINS"
+          ],
+          "weight": 55,
+          "jockey": "E J Muller",
+          "trainer": "Peter D Wrensch",
+          "draw": 6
+        }
+      ],
+      "trainer": "Peter D Wrensch"
+    },
+    "THOMAS JENKINS": {
+      "name": "THOMAS JENKINS",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 4.3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 63,
+          "jockey": "A Fortune",
+          "trainer": "Ashley Fortune",
+          "draw": 7
+        }
+      ],
+      "trainer": "Ashley Fortune"
+    },
+    "CLIFFSCAPE": {
+      "name": "CLIFFSCAPE",
+      "rating": 81,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.5,
+          "beaten": [
+            "MY ONLY WEAKNESS",
+            "WYZE DECLARATION",
+            "MISS WILLIAM",
+            "STAR WORLD",
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 58.5,
+          "jockey": "S Veale",
+          "trainer": "Candice Bass",
+          "draw": 3
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "MY ONLY WEAKNESS": {
+      "name": "MY ONLY WEAKNESS",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 0.5,
+          "wonBy": null,
+          "beaten": [
+            "WYZE DECLARATION",
+            "MISS WILLIAM",
+            "STAR WORLD",
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 60,
+          "jockey": "J P v'd Merwe",
+          "trainer": "Adam Marcus",
+          "draw": 7
+        }
+      ],
+      "trainer": "Adam Marcus"
+    },
+    "WYZE DECLARATION": {
+      "name": "WYZE DECLARATION",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 1,
+          "wonBy": null,
+          "beaten": [
+            "MISS WILLIAM",
+            "STAR WORLD",
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 59,
+          "jockey": "J Solomons",
+          "trainer": "Candice Bass",
+          "draw": 5
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "MISS WILLIAM": {
+      "name": "MISS WILLIAM",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "STAR WORLD",
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 60,
+          "jockey": "G Wright",
+          "trainer": "James Crawford",
+          "draw": 2
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "STAR WORLD": {
+      "name": "STAR WORLD",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 2.55,
+          "wonBy": null,
+          "beaten": [
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 59,
+          "jockey": "R Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 8
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "BLUE LAGOON": {
+      "name": "BLUE LAGOON",
+      "rating": 81,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 2.65,
+          "wonBy": null,
+          "beaten": [
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 58.5,
+          "jockey": "A Fortune",
+          "trainer": "Andre Nel",
+          "draw": 1
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "ALL IS GREEN": {
+      "name": "ALL IS GREEN",
+      "rating": 72,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 6.65,
+          "wonBy": null,
+          "beaten": [
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 55,
+          "jockey": "A Arries",
+          "trainer": "Greg Ennion",
+          "draw": 4
+        }
+      ],
+      "trainer": "Greg Ennion"
+    },
+    "MALIBU BLITZ": {
+      "name": "MALIBU BLITZ",
+      "rating": 70,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 8.9,
+          "wonBy": null,
+          "beaten": [
+            "GIRL LIKE US"
+          ],
+          "weight": 53,
+          "jockey": "O Noach",
+          "trainer": "Eric Sands",
+          "draw": 6
+        }
+      ],
+      "trainer": "Eric Sands"
+    },
+    "GIRL LIKE US": {
+      "name": "GIRL LIKE US",
+      "rating": 80,
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 8.9,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 59,
+          "jockey": "S Bungane",
+          "trainer": "Paul Reeves",
+          "draw": 7
+        }
+      ],
+      "trainer": "Paul Reeves"
     }
   },
   "headToHead": {
@@ -13109,6 +14870,15 @@
         "going": null,
         "marginLengths": 1.3,
         "winner": "UP IN FLAMES"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3.75,
+        "winner": "QUIET PLACE"
       }
     ],
     "ONSSILVERJET|UP IN FLAMES": [
@@ -13494,6 +15264,15 @@
         "going": null,
         "marginLengths": 2.25,
         "winner": "THE BIG BANG"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "MY SUNSHINE"
       }
     ],
     "LIFELONG DANCE|THE BIG BANG": [
@@ -13516,6 +15295,15 @@
         "going": null,
         "marginLengths": 2.65,
         "winner": "THE BIG BANG"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 3.55,
+        "winner": "MONTESSORI"
       }
     ],
     "EPERNAY|THE BIG BANG": [
@@ -13526,6 +15314,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 5.65,
+        "winner": "THE BIG BANG"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 9.25,
         "winner": "THE BIG BANG"
       }
     ],
@@ -13571,6 +15368,15 @@
         "going": null,
         "marginLengths": 0.4,
         "winner": "MY SUNSHINE"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "MONTESSORI"
       }
     ],
     "EPERNAY|MY SUNSHINE": [
@@ -13581,6 +15387,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 3.4,
+        "winner": "MY SUNSHINE"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 10.25,
         "winner": "MY SUNSHINE"
       }
     ],
@@ -13658,6 +15473,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 3,
+        "winner": "MONTESSORI"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 12.8,
         "winner": "MONTESSORI"
       }
     ],
@@ -17585,6 +19409,15 @@
         "distance": 1400,
         "going": null,
         "marginLengths": 18,
+        "winner": "DIAMOND ROCK"
+      },
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.8,
         "winner": "DIAMOND ROCK"
       }
     ],
@@ -22691,6 +24524,2558 @@
         "marginLengths": 0,
         "winner": "TANNERON"
       }
+    ],
+    "MERRIMENT|MISS ARIZONA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "MERRIMENT|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.8,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "GIMME PERFECT|MERRIMENT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.3,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "LEONISTA|MERRIMENT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.3,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "EVANA|MERRIMENT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 9.3,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "COLORADO COLUMBINE|MERRIMENT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 16.8,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "MERRIMENT|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 18.05,
+        "winner": "MERRIMENT"
+      }
+    ],
+    "MISS ARIZONA|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "GIMME PERFECT|MISS ARIZONA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 5.8,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "LEONISTA|MISS ARIZONA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 7.8,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "EVANA|MISS ARIZONA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.8,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "COLORADO COLUMBINE|MISS ARIZONA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 16.3,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "MISS ARIZONA|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 17.55,
+        "winner": "MISS ARIZONA"
+      }
+    ],
+    "GIMME PERFECT|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 5.5,
+        "winner": "VERSE FOR SUZANNE"
+      }
+    ],
+    "LEONISTA|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 7.5,
+        "winner": "VERSE FOR SUZANNE"
+      }
+    ],
+    "EVANA|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.5,
+        "winner": "VERSE FOR SUZANNE"
+      }
+    ],
+    "COLORADO COLUMBINE|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 16,
+        "winner": "VERSE FOR SUZANNE"
+      }
+    ],
+    "NIGHT FEVER|VERSE FOR SUZANNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 17.25,
+        "winner": "VERSE FOR SUZANNE"
+      }
+    ],
+    "GIMME PERFECT|LEONISTA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "GIMME PERFECT"
+      }
+    ],
+    "EVANA|GIMME PERFECT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "GIMME PERFECT"
+      }
+    ],
+    "COLORADO COLUMBINE|GIMME PERFECT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 10.5,
+        "winner": "GIMME PERFECT"
+      }
+    ],
+    "GIMME PERFECT|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 11.75,
+        "winner": "GIMME PERFECT"
+      }
+    ],
+    "EVANA|LEONISTA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "LEONISTA"
+      }
+    ],
+    "COLORADO COLUMBINE|LEONISTA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.5,
+        "winner": "LEONISTA"
+      }
+    ],
+    "LEONISTA|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 9.75,
+        "winner": "LEONISTA"
+      }
+    ],
+    "COLORADO COLUMBINE|EVANA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 7.5,
+        "winner": "EVANA"
+      }
+    ],
+    "EVANA|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.75,
+        "winner": "EVANA"
+      }
+    ],
+    "COLORADO COLUMBINE|NIGHT FEVER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 1,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "COLORADO COLUMBINE"
+      }
+    ],
+    "FOURTH OF JULY|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "RACHETTU"
+      }
+    ],
+    "LE TISSIER|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "RACHETTU"
+      }
+    ],
+    "LANDMAN|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.5,
+        "winner": "RACHETTU"
+      }
+    ],
+    "RACHETTU|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "RACHETTU"
+      }
+    ],
+    "MAGIC ROCK|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "RACHETTU"
+      }
+    ],
+    "DARK FORTUNE|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4.2,
+        "winner": "RACHETTU"
+      }
+    ],
+    "RACHETTU|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.45,
+        "winner": "RACHETTU"
+      }
+    ],
+    "AUTOCORRECT|RACHETTU": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.85,
+        "winner": "RACHETTU"
+      }
+    ],
+    "FOURTH OF JULY|LE TISSIER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "FOURTH OF JULY|LANDMAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "FOURTH OF JULY|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "FOURTH OF JULY|MAGIC ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "DARK FORTUNE|FOURTH OF JULY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.7,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "FOURTH OF JULY|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 5.95,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "AUTOCORRECT|FOURTH OF JULY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.35,
+        "winner": "FOURTH OF JULY"
+      }
+    ],
+    "LANDMAN|LE TISSIER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "LE TISSIER|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "LE TISSIER|MAGIC ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.05,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "DARK FORTUNE|LE TISSIER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.45,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "LE TISSIER|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4.7,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "AUTOCORRECT|LE TISSIER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 5.1,
+        "winner": "LE TISSIER"
+      }
+    ],
+    "LANDMAN|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "LANDMAN"
+      }
+    ],
+    "LANDMAN|MAGIC ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.3,
+        "winner": "LANDMAN"
+      }
+    ],
+    "DARK FORTUNE|LANDMAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.7,
+        "winner": "LANDMAN"
+      }
+    ],
+    "LANDMAN|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.95,
+        "winner": "LANDMAN"
+      }
+    ],
+    "AUTOCORRECT|LANDMAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4.35,
+        "winner": "LANDMAN"
+      }
+    ],
+    "MAGIC ROCK|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "SICILY"
+      }
+    ],
+    "DARK FORTUNE|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.7,
+        "winner": "SICILY"
+      }
+    ],
+    "SICILY|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.95,
+        "winner": "SICILY"
+      }
+    ],
+    "AUTOCORRECT|SICILY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.35,
+        "winner": "SICILY"
+      }
+    ],
+    "DARK FORTUNE|MAGIC ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "MAGIC ROCK"
+      }
+    ],
+    "MAGIC ROCK|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.65,
+        "winner": "MAGIC ROCK"
+      }
+    ],
+    "AUTOCORRECT|MAGIC ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 3.05,
+        "winner": "MAGIC ROCK"
+      }
+    ],
+    "DARK FORTUNE|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "DARK FORTUNE"
+      }
+    ],
+    "AUTOCORRECT|DARK FORTUNE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.65,
+        "winner": "DARK FORTUNE"
+      }
+    ],
+    "AUTOCORRECT|WILD STREAK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 2,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "WILD STREAK"
+      }
+    ],
+    "HAVOC|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "MONTESSORI|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 3.75,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "MADRA RUA|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 4.05,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "GROOVE MASTER|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 5.8,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "MY SUNSHINE|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 6.3,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "ROYAL INFLUENCER|THE BIG BANG": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 7.3,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "ROYAL INFLUENCER|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 8.05,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "EPERNAY|ROYAL INFLUENCER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 16.55,
+        "winner": "ROYAL INFLUENCER"
+      }
+    ],
+    "HAVOC|MONTESSORI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "HAVOC"
+      }
+    ],
+    "HAVOC|MADRA RUA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "HAVOC"
+      }
+    ],
+    "GROOVE MASTER|HAVOC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 3.55,
+        "winner": "HAVOC"
+      }
+    ],
+    "HAVOC|MY SUNSHINE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 4.05,
+        "winner": "HAVOC"
+      }
+    ],
+    "HAVOC|THE BIG BANG": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 5.05,
+        "winner": "HAVOC"
+      }
+    ],
+    "HAVOC|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 5.8,
+        "winner": "HAVOC"
+      }
+    ],
+    "EPERNAY|HAVOC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 14.3,
+        "winner": "HAVOC"
+      }
+    ],
+    "MADRA RUA|MONTESSORI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "MONTESSORI"
+      }
+    ],
+    "GROOVE MASTER|MONTESSORI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 2.05,
+        "winner": "MONTESSORI"
+      }
+    ],
+    "MONTESSORI|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 4.3,
+        "winner": "MONTESSORI"
+      }
+    ],
+    "GROOVE MASTER|MADRA RUA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "MADRA RUA"
+      }
+    ],
+    "MADRA RUA|MY SUNSHINE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "MADRA RUA"
+      }
+    ],
+    "MADRA RUA|THE BIG BANG": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 3.25,
+        "winner": "MADRA RUA"
+      }
+    ],
+    "MADRA RUA|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "MADRA RUA"
+      }
+    ],
+    "EPERNAY|MADRA RUA": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 12.5,
+        "winner": "MADRA RUA"
+      }
+    ],
+    "GROOVE MASTER|MY SUNSHINE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "GROOVE MASTER"
+      }
+    ],
+    "GROOVE MASTER|THE BIG BANG": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "GROOVE MASTER"
+      }
+    ],
+    "GROOVE MASTER|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "GROOVE MASTER"
+      }
+    ],
+    "EPERNAY|GROOVE MASTER": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 10.75,
+        "winner": "GROOVE MASTER"
+      }
+    ],
+    "MY SUNSHINE|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "MY SUNSHINE"
+      }
+    ],
+    "THE BIG BANG|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "THE BIG BANG"
+      }
+    ],
+    "EPERNAY|THE MUFFIN MAN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 3,
+        "distance": 1500,
+        "going": null,
+        "marginLengths": 8.5,
+        "winner": "THE MUFFIN MAN"
+      }
+    ],
+    "OFELLOW|ROYAL CELEB": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "QUIET PLACE|ROYAL CELEB": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3.25,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "ROYAL CELEB|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "CONDITIONALLY|ROYAL CELEB": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 4.75,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "ROYAL CELEB|UP IN FLAMES": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 7,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "ROYAL CELEB|SPARKLING SKY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 10.25,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "ECHO FOXTROT|ROYAL CELEB": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 10.25,
+        "winner": "ROYAL CELEB"
+      }
+    ],
+    "OFELLOW|QUIET PLACE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "OFELLOW|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "CONDITIONALLY|OFELLOW": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "OFELLOW|UP IN FLAMES": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 5.25,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "OFELLOW|SPARKLING SKY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 8.5,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "ECHO FOXTROT|OFELLOW": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 8.5,
+        "winner": "O'FELLOW"
+      }
+    ],
+    "QUIET PLACE|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "QUIET PLACE"
+      }
+    ],
+    "CONDITIONALLY|QUIET PLACE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "QUIET PLACE"
+      }
+    ],
+    "QUIET PLACE|SPARKLING SKY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 7,
+        "winner": "QUIET PLACE"
+      }
+    ],
+    "ECHO FOXTROT|QUIET PLACE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 7,
+        "winner": "QUIET PLACE"
+      }
+    ],
+    "CONDITIONALLY|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "WIZARDING WORLD"
+      }
+    ],
+    "UP IN FLAMES|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "WIZARDING WORLD"
+      }
+    ],
+    "SPARKLING SKY|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "WIZARDING WORLD"
+      }
+    ],
+    "ECHO FOXTROT|WIZARDING WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "WIZARDING WORLD"
+      }
+    ],
+    "CONDITIONALLY|UP IN FLAMES": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "CONDITIONALLY"
+      }
+    ],
+    "CONDITIONALLY|SPARKLING SKY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 5.5,
+        "winner": "CONDITIONALLY"
+      }
+    ],
+    "CONDITIONALLY|ECHO FOXTROT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 5.5,
+        "winner": "CONDITIONALLY"
+      }
+    ],
+    "SPARKLING SKY|UP IN FLAMES": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3.25,
+        "winner": "UP IN FLAMES"
+      }
+    ],
+    "ECHO FOXTROT|UP IN FLAMES": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 3.25,
+        "winner": "UP IN FLAMES"
+      }
+    ],
+    "ECHO FOXTROT|SPARKLING SKY": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 4,
+        "distance": 2000,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "SPARKLING SKY"
+      }
+    ],
+    "BOURBON KING|CAPTAINS ALLIANCE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|DIAMOND ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOMBERS IN THE SKY|BOURBON KING": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.75,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.05,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.05,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.8,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|GROOVEJET": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 5.3,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 5.3,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "BOURBON KING|IN MOTION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 5.3,
+        "winner": "BOURBON KING"
+      }
+    ],
+    "CAPTAINS ALLIANCE|DIAMOND ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "BOMBERS IN THE SKY|CAPTAINS ALLIANCE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.55,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.3,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|GROOVEJET": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.8,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.8,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "CAPTAINS ALLIANCE|IN MOTION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 4.8,
+        "winner": "CAPTAINS ALLIANCE"
+      }
+    ],
+    "BOMBERS IN THE SKY|DIAMOND ROCK": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.55,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|GROOVEJET": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "DIAMOND ROCK|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "DIAMOND ROCK"
+      }
+    ],
+    "BOMBERS IN THE SKY|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.05,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.05,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.8,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|GROOVEJET": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "BOMBERS IN THE SKY|IN MOTION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "BOMBERS IN THE SKY"
+      }
+    ],
+    "MARCUS AURELIUS|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "MARCUS AURELIUS|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.3,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "MARCUS AURELIUS|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.05,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "GROOVEJET|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "MARCUS AURELIUS|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "IN MOTION|MARCUS AURELIUS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "NOBLE HERO|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "NOBLE HERO"
+      }
+    ],
+    "NOBLE HERO|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "NOBLE HERO"
+      }
+    ],
+    "GROOVEJET|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "NOBLE HERO"
+      }
+    ],
+    "MUTINY IN HEAVEN|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "NOBLE HERO"
+      }
+    ],
+    "IN MOTION|NOBLE HERO": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "NOBLE HERO"
+      }
+    ],
+    "SPIRIT|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "YAMAZAKI"
+      }
+    ],
+    "GROOVEJET|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "YAMAZAKI"
+      }
+    ],
+    "MUTINY IN HEAVEN|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "YAMAZAKI"
+      }
+    ],
+    "IN MOTION|YAMAZAKI": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "YAMAZAKI"
+      }
+    ],
+    "GROOVEJET|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "SPIRIT"
+      }
+    ],
+    "MUTINY IN HEAVEN|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "SPIRIT"
+      }
+    ],
+    "IN MOTION|SPIRIT": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "SPIRIT"
+      }
+    ],
+    "GROOVEJET|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "GROOVEJET"
+      }
+    ],
+    "GROOVEJET|IN MOTION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "GROOVEJET"
+      }
+    ],
+    "IN MOTION|MUTINY IN HEAVEN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 5,
+        "distance": 1600,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "MUTINY IN HEAVEN"
+      }
+    ],
+    "DEVIL A SAINT|ONE MAGIC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 0.1,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "JET A ONE|ONE MAGIC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 0.85,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "NOON DAY GUN|ONE MAGIC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2.1,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "FORTUNE ONE|ONE MAGIC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2.3,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "MELA STRENGTH|ONE MAGIC": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 3.3,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "ONE MAGIC|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 4.3,
+        "winner": "ONE MAGIC"
+      }
+    ],
+    "DEVIL A SAINT|JET A ONE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "DEVIL A SAINT"
+      }
+    ],
+    "DEVIL A SAINT|NOON DAY GUN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "DEVIL A SAINT"
+      }
+    ],
+    "DEVIL A SAINT|FORTUNE ONE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2.2,
+        "winner": "DEVIL A SAINT"
+      }
+    ],
+    "DEVIL A SAINT|MELA STRENGTH": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 3.2,
+        "winner": "DEVIL A SAINT"
+      }
+    ],
+    "DEVIL A SAINT|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 4.2,
+        "winner": "DEVIL A SAINT"
+      }
+    ],
+    "JET A ONE|NOON DAY GUN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "JET A ONE"
+      }
+    ],
+    "FORTUNE ONE|JET A ONE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 1.45,
+        "winner": "JET A ONE"
+      }
+    ],
+    "JET A ONE|MELA STRENGTH": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2.45,
+        "winner": "JET A ONE"
+      }
+    ],
+    "JET A ONE|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 3.45,
+        "winner": "JET A ONE"
+      }
+    ],
+    "FORTUNE ONE|NOON DAY GUN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 0.2,
+        "winner": "NOON DAY GUN"
+      }
+    ],
+    "MELA STRENGTH|NOON DAY GUN": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 1.2,
+        "winner": "NOON DAY GUN"
+      }
+    ],
+    "NOON DAY GUN|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2.2,
+        "winner": "NOON DAY GUN"
+      }
+    ],
+    "FORTUNE ONE|MELA STRENGTH": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "FORTUNE ONE"
+      }
+    ],
+    "FORTUNE ONE|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "FORTUNE ONE"
+      }
+    ],
+    "MELA STRENGTH|THOMAS JENKINS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 6,
+        "distance": 1400,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "MELA STRENGTH"
+      }
+    ],
+    "CLIFFSCAPE|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "CLIFFSCAPE|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "CLIFFSCAPE|MISS WILLIAM": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.5,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "CLIFFSCAPE|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "BLUE LAGOON|CLIFFSCAPE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.65,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "ALL IS GREEN|CLIFFSCAPE": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.65,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "CLIFFSCAPE|MALIBU BLITZ": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.9,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "CLIFFSCAPE|GIRL LIKE US": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.9,
+        "winner": "CLIFFSCAPE"
+      }
+    ],
+    "MY ONLY WEAKNESS|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "MISS WILLIAM|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "MY ONLY WEAKNESS|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.05,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "BLUE LAGOON|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.15,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "ALL IS GREEN|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.15,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "MALIBU BLITZ|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.4,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "GIRL LIKE US|MY ONLY WEAKNESS": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 8.4,
+        "winner": "MY ONLY WEAKNESS"
+      }
+    ],
+    "MISS WILLIAM|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "STAR WORLD|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.55,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "BLUE LAGOON|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 1.65,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "ALL IS GREEN|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 5.65,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "MALIBU BLITZ|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 7.9,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "GIRL LIKE US|WYZE DECLARATION": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 7.9,
+        "winner": "WYZE DECLARATION"
+      }
+    ],
+    "MISS WILLIAM|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "MISS WILLIAM"
+      }
+    ],
+    "BLUE LAGOON|MISS WILLIAM": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.15,
+        "winner": "MISS WILLIAM"
+      }
+    ],
+    "ALL IS GREEN|MISS WILLIAM": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4.15,
+        "winner": "MISS WILLIAM"
+      }
+    ],
+    "MALIBU BLITZ|MISS WILLIAM": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.4,
+        "winner": "MISS WILLIAM"
+      }
+    ],
+    "GIRL LIKE US|MISS WILLIAM": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.4,
+        "winner": "MISS WILLIAM"
+      }
+    ],
+    "BLUE LAGOON|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0.1,
+        "winner": "STAR WORLD"
+      }
+    ],
+    "ALL IS GREEN|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4.1,
+        "winner": "STAR WORLD"
+      }
+    ],
+    "MALIBU BLITZ|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.35,
+        "winner": "STAR WORLD"
+      }
+    ],
+    "GIRL LIKE US|STAR WORLD": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.35,
+        "winner": "STAR WORLD"
+      }
+    ],
+    "ALL IS GREEN|BLUE LAGOON": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "BLUE LAGOON"
+      }
+    ],
+    "BLUE LAGOON|MALIBU BLITZ": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "BLUE LAGOON"
+      }
+    ],
+    "BLUE LAGOON|GIRL LIKE US": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "BLUE LAGOON"
+      }
+    ],
+    "ALL IS GREEN|MALIBU BLITZ": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "ALL IS GREEN"
+      }
+    ],
+    "ALL IS GREEN|GIRL LIKE US": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "ALL IS GREEN"
+      }
+    ],
+    "GIRL LIKE US|MALIBU BLITZ": [
+      {
+        "date": "2026-07-25",
+        "track": "HOLLYWOODBETS DURBANVILLE",
+        "race": 7,
+        "distance": 1250,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "MALIBU BLITZ"
+      }
     ]
   },
   "predictionsLog": [
@@ -23885,7 +28270,7 @@
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 1,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "MERRIMENT",
@@ -23903,14 +28288,23 @@
           "name": "LEONISTA",
           "score": 48.6
         }
-      ]
+      ],
+      "result": {
+        "winner": "MERRIMENT",
+        "topPick": "MERRIMENT",
+        "pickPWin": 0.4204,
+        "pickScore": 57,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r2",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 2,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "LE TISSIER",
@@ -23928,14 +28322,23 @@
           "name": "WILD STREAK",
           "score": 48.9
         }
-      ]
+      ],
+      "result": {
+        "winner": "RACHETTU",
+        "topPick": "LE TISSIER",
+        "pickPWin": 0.3907,
+        "pickScore": 65.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r3",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 3,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "MY SUNSHINE",
@@ -23953,14 +28356,23 @@
           "name": "ROYAL INFLUENCER",
           "score": 54.6
         }
-      ]
+      ],
+      "result": {
+        "winner": "ROYAL INFLUENCER",
+        "topPick": "ROYAL INFLUENCER",
+        "pickPWin": 0.2066,
+        "pickScore": 54.6,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r4",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 4,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "UP IN FLAMES",
@@ -23978,14 +28390,23 @@
           "name": "ROYAL CELEB",
           "score": 48.6
         }
-      ]
+      ],
+      "result": {
+        "winner": "ROYAL CELEB",
+        "topPick": "UP IN FLAMES",
+        "pickPWin": 0.4185,
+        "pickScore": 64.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r5",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 5,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "DIAMOND ROCK",
@@ -24003,14 +28424,23 @@
           "name": "BOMBERS IN THE SKY",
           "score": 49.1
         }
-      ]
+      ],
+      "result": {
+        "winner": "BOURBON KING",
+        "topPick": "DIAMOND ROCK",
+        "pickPWin": 0.231,
+        "pickScore": 60.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r6",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 6,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "DEVIL A SAINT",
@@ -24028,14 +28458,23 @@
           "name": "NOON DAY GUN",
           "score": 49.6
         }
-      ]
+      ],
+      "result": {
+        "winner": "ONE MAGIC",
+        "topPick": "DEVIL A SAINT",
+        "pickPWin": 0.4935,
+        "pickScore": 76,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true
+      }
     },
     {
       "id": "2026-07-25-hollywoodbets-durbanville-r7",
       "date": "2026-07-25",
       "track": "HOLLYWOODBETS DURBANVILLE",
       "race": 7,
-      "settled": false,
+      "settled": true,
       "ranked": [
         {
           "name": "BLUE LAGOON",
@@ -24053,7 +28492,16 @@
           "name": "ALL IS GREEN",
           "score": 50.2
         }
-      ]
+      ],
+      "result": {
+        "winner": "CLIFFSCAPE",
+        "topPick": "BLUE LAGOON",
+        "pickPWin": 0.3673,
+        "pickScore": 59.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false
+      }
     }
   ]
 }
