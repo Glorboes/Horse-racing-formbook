@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T12:46:32.169Z",
+  "generated": "2026-07-28T05:45:29.024Z",
   "count": 42,
   "days": [
     {
@@ -75,7 +75,73 @@
         "pickScore": 59.9,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "BLUE LAGOON",
+            "pModel": 0.3673,
+            "pClose": 0.2859,
+            "edge": 0.0814,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MALIBU BLITZ",
+            "pModel": 0.075,
+            "pClose": 0.0211,
+            "edge": 0.0539,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CLIFFSCAPE",
+            "pModel": 0.0963,
+            "pClose": 0.1266,
+            "edge": -0.0303,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ALL IS GREEN",
+            "pModel": 0.0771,
+            "pClose": 0.0328,
+            "edge": 0.0443,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MISS WILLIAM",
+            "pModel": 0.047,
+            "pClose": 0.0403,
+            "edge": 0.0067,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIRL LIKE US",
+            "pModel": 0.1468,
+            "pClose": 0.1846,
+            "edge": -0.0378,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MY ONLY WEAKNESS",
+            "pModel": 0.1421,
+            "pClose": 0.0985,
+            "edge": 0.0436,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WYZE DECLARATION",
+            "pModel": 0.0485,
+            "pClose": 0.0739,
+            "edge": -0.0254,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -104,7 +170,65 @@
         "pickScore": 76,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "DEVIL A SAINT",
+            "pModel": 0.4935,
+            "pClose": 0.3168,
+            "edge": 0.1767,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ONE MAGIC",
+            "pModel": 0.1484,
+            "pClose": 0.2092,
+            "edge": -0.0608,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MELA STRENGTH",
+            "pModel": 0.0512,
+            "pClose": 0.0411,
+            "edge": 0.0101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NOON DAY GUN",
+            "pModel": 0.0866,
+            "pClose": 0.0765,
+            "edge": 0.0101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "JET A ONE",
+            "pModel": 0.0865,
+            "pClose": 0.2016,
+            "edge": -0.1151,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FORTUNE ONE",
+            "pModel": 0.0362,
+            "pClose": 0.0317,
+            "edge": 0.0045,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "THOMAS JENKINS",
+            "pModel": 0.0977,
+            "pClose": 0.1232,
+            "edge": -0.0255,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -133,7 +257,97 @@
         "pickScore": 60.9,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "DIAMOND ROCK",
+            "pModel": 0.231,
+            "pClose": 0.0383,
+            "edge": 0.1927,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SPIRIT",
+            "pModel": 0.1571,
+            "pClose": 0.0383,
+            "edge": 0.1188,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAPTAINS ALLIANCE",
+            "pModel": 0.1076,
+            "pClose": 0.0862,
+            "edge": 0.0214,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BOMBERS IN THE SKY",
+            "pModel": 0.0554,
+            "pClose": 0.0295,
+            "edge": 0.0259,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MUTINY IN HEAVEN",
+            "pModel": 0.1055,
+            "pClose": 0.2433,
+            "edge": -0.1378,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "YAMAZAKI",
+            "pModel": 0.0495,
+            "pClose": 0.047,
+            "edge": 0.0025,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GROOVEJET",
+            "pModel": 0.0401,
+            "pClose": 0.0574,
+            "edge": -0.0173,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOURBON KING",
+            "pModel": 0.0885,
+            "pClose": 0.2298,
+            "edge": -0.1413,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "NOBLE HERO",
+            "pModel": 0.0218,
+            "pClose": 0.0152,
+            "edge": 0.0066,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MARCUS AURELIUS",
+            "pModel": 0.1323,
+            "pClose": 0.1951,
+            "edge": -0.0628,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN MOTION",
+            "pModel": 0.0114,
+            "pClose": 0.0199,
+            "edge": -0.0085,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -162,7 +376,73 @@
         "pickScore": 64.2,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "UP IN FLAMES",
+            "pModel": 0.4185,
+            "pClose": 0.0712,
+            "edge": 0.3473,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPARKLING SKY",
+            "pModel": 0.1253,
+            "pClose": 0.0574,
+            "edge": 0.0679,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WIZARDING WORLD",
+            "pModel": 0.0678,
+            "pClose": 0.0861,
+            "edge": -0.0183,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL CELEB",
+            "pModel": 0.0375,
+            "pClose": 0.1291,
+            "edge": -0.0916,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ECHO FOXTROT",
+            "pModel": 0.1287,
+            "pClose": 0.2295,
+            "edge": -0.1008,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "O’FELLOW",
+            "pModel": 0.0817,
+            "pClose": 0.1589,
+            "edge": -0.0772,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "CONDITIONALLY",
+            "pModel": 0.0297,
+            "pClose": 0.0383,
+            "edge": -0.0086,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "QUIET PLACE",
+            "pModel": 0.1107,
+            "pClose": 0.2295,
+            "edge": -0.1188,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -191,7 +471,81 @@
         "pickScore": 54.6,
         "topPickScratched": false,
         "topPickWon": true,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "MY SUNSHINE",
+            "pModel": 0.178,
+            "pClose": 0.016,
+            "edge": 0.162,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HAVOC",
+            "pModel": 0.141,
+            "pClose": 0.0905,
+            "edge": 0.0505,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "THE BIG BANG",
+            "pModel": 0.175,
+            "pClose": 0.0603,
+            "edge": 0.1147,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL INFLUENCER",
+            "pModel": 0.2066,
+            "pClose": 0.3618,
+            "edge": -0.1552,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MADRA RUA",
+            "pModel": 0.1336,
+            "pClose": 0.2554,
+            "edge": -0.1218,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GROOVE MASTER",
+            "pModel": 0.0597,
+            "pClose": 0.0603,
+            "edge": -0.0006,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "THE MUFFIN MAN",
+            "pModel": 0.0365,
+            "pClose": 0.0493,
+            "edge": -0.0128,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EPERNAY",
+            "pModel": 0.0189,
+            "pClose": 0.016,
+            "edge": 0.0029,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MONTESSORI",
+            "pModel": 0.0507,
+            "pClose": 0.0905,
+            "edge": -0.0398,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -220,7 +574,81 @@
         "pickScore": 65.3,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "LE TISSIER",
+            "pModel": 0.3907,
+            "pClose": 0.1051,
+            "edge": 0.2856,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LANDMAN",
+            "pModel": 0.3008,
+            "pClose": 0.5607,
+            "edge": -0.2599,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DARK FORTUNE",
+            "pModel": 0.0457,
+            "pClose": 0.0164,
+            "edge": 0.0293,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WILD STREAK",
+            "pModel": 0.0354,
+            "pClose": 0.0186,
+            "edge": 0.0168,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FOURTH OF JULY",
+            "pModel": 0.0426,
+            "pClose": 0.0243,
+            "edge": 0.0183,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "AUTOCORRECT",
+            "pModel": 0.0443,
+            "pClose": 0.0573,
+            "edge": -0.013,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAGIC ROCK",
+            "pModel": 0.0207,
+            "pClose": 0.0186,
+            "edge": 0.0021,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SICILY",
+            "pModel": 0.052,
+            "pClose": 0.0789,
+            "edge": -0.0269,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RACHETTU",
+            "pModel": 0.0678,
+            "pClose": 0.1202,
+            "edge": -0.0524,
+            "won": true,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -249,7 +677,73 @@
         "pickScore": 57,
         "topPickScratched": false,
         "topPickWon": true,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "MERRIMENT",
+            "pModel": 0.4204,
+            "pClose": 0.4856,
+            "edge": -0.0652,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "NIGHT FEVER",
+            "pModel": 0.0751,
+            "pClose": 0.0233,
+            "edge": 0.0518,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COLORADO COLUMBINE",
+            "pModel": 0.1008,
+            "pClose": 0.0552,
+            "edge": 0.0456,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LEONISTA",
+            "pModel": 0.0694,
+            "pClose": 0.0289,
+            "edge": 0.0405,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "VERSE FOR SUZANNE",
+            "pModel": 0.1742,
+            "pClose": 0.1734,
+            "edge": 0.0008,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GIMME PERFECT",
+            "pModel": 0.0485,
+            "pClose": 0.0233,
+            "edge": 0.0252,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EVANA",
+            "pModel": 0.0846,
+            "pClose": 0.1868,
+            "edge": -0.1022,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MISS ARIZONA",
+            "pModel": 0.027,
+            "pClose": 0.0233,
+            "edge": 0.0037,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -278,7 +772,89 @@
         "pickScore": 56.5,
         "topPickScratched": false,
         "topPickWon": true,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SARDINIA BAY",
+            "pModel": 0.1556,
+            "pClose": 0.184,
+            "edge": -0.0284,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ALL ABOUT AL",
+            "pModel": 0.1586,
+            "pClose": 0.1686,
+            "edge": -0.01,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "KELP FOREST",
+            "pModel": 0.0977,
+            "pClose": 0.0375,
+            "edge": 0.0602,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TANNERON",
+            "pModel": 0.0887,
+            "pClose": 0.046,
+            "edge": 0.0427,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FLYING FINLEY",
+            "pModel": 0.0996,
+            "pClose": 0.1065,
+            "edge": -0.0069,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "NORTH POINT",
+            "pModel": 0.0635,
+            "pClose": 0.0843,
+            "edge": -0.0208,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DEMANDING DAVE",
+            "pModel": 0.0532,
+            "pClose": 0.046,
+            "edge": 0.0072,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ELUSIVE WINTER",
+            "pModel": 0.0538,
+            "pClose": 0.046,
+            "edge": 0.0078,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAGICAL PLACE",
+            "pModel": 0.0528,
+            "pClose": 0.0562,
+            "edge": -0.0034,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TROIS SEPT HUIT",
+            "pModel": 0.0904,
+            "pClose": 0.2249,
+            "edge": -0.1345,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -307,7 +883,89 @@
         "pickScore": 54.1,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PEACE OF MIND",
+            "pModel": 0.1379,
+            "pClose": 0.2237,
+            "edge": -0.0858,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "HERITAGE RIDGE",
+            "pModel": 0.1683,
+            "pClose": 0.1678,
+            "edge": 0.0005,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EASY MONEY",
+            "pModel": 0.0841,
+            "pClose": 0.0458,
+            "edge": 0.0383,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHIFTING PATH",
+            "pModel": 0.0798,
+            "pClose": 0.0839,
+            "edge": -0.0041,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GRAVITY",
+            "pModel": 0.0695,
+            "pClose": 0.0559,
+            "edge": 0.0136,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HIAWATHA GOLDBERG",
+            "pModel": 0.1078,
+            "pClose": 0.1259,
+            "edge": -0.0181,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COUNTRY TIME",
+            "pModel": 0.065,
+            "pClose": 0.0694,
+            "edge": -0.0044,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GALACTUS",
+            "pModel": 0.0645,
+            "pClose": 0.0458,
+            "edge": 0.0187,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVE SHACK",
+            "pModel": 0.0546,
+            "pClose": 0.0559,
+            "edge": -0.0013,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BARNEY MCGREW",
+            "pModel": 0.0793,
+            "pClose": 0.1259,
+            "edge": -0.0466,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -336,7 +994,89 @@
         "pickScore": 59,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "CORK BAY",
+            "pModel": 0.3087,
+            "pClose": 0.3804,
+            "edge": -0.0717,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WORLDLY",
+            "pModel": 0.0747,
+            "pClose": 0.041,
+            "edge": 0.0337,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LYRICAL GANGSTER",
+            "pModel": 0.1129,
+            "pClose": 0.2013,
+            "edge": -0.0884,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "BEHAVE HARRIS",
+            "pModel": 0.0737,
+            "pClose": 0.0615,
+            "edge": 0.0122,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ESCARPMENT",
+            "pModel": 0.0505,
+            "pClose": 0.0135,
+            "edge": 0.037,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SOOTY",
+            "pModel": 0.1406,
+            "pClose": 0.1384,
+            "edge": 0.0022,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MEET THE KING",
+            "pModel": 0.0627,
+            "pClose": 0.041,
+            "edge": 0.0217,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FOLLOW YOUR HEART",
+            "pModel": 0.0507,
+            "pClose": 0.041,
+            "edge": 0.0097,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "JOU LEKKER DING",
+            "pModel": 0.0706,
+            "pClose": 0.041,
+            "edge": 0.0296,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ANOTHER HERO",
+            "pModel": 0.0548,
+            "pClose": 0.041,
+            "edge": 0.0138,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -365,7 +1105,89 @@
         "pickScore": 53.8,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "GIVEN TO FLY",
+            "pModel": 0.1555,
+            "pClose": 0.121,
+            "edge": 0.0345,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PLAYFUL JOULES",
+            "pModel": 0.094,
+            "pClose": 0.0571,
+            "edge": 0.0369,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MON PAPILLON",
+            "pModel": 0.1461,
+            "pClose": 0.2818,
+            "edge": -0.1357,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BLACK PATH",
+            "pModel": 0.0905,
+            "pClose": 0.0198,
+            "edge": 0.0707,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MONEY EXTRACTOR",
+            "pModel": 0.0583,
+            "pClose": 0.0198,
+            "edge": 0.0385,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ELUSIVE GIFT",
+            "pModel": 0.084,
+            "pClose": 0.1469,
+            "edge": -0.0629,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PRINCESS OF BAYEUX",
+            "pModel": 0.1097,
+            "pClose": 0.121,
+            "edge": -0.0113,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MEG’S LEGACY",
+            "pModel": 0.1048,
+            "pClose": 0.1286,
+            "edge": -0.0238,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LITTLE NIMBUS",
+            "pModel": 0.0483,
+            "pClose": 0.0468,
+            "edge": 0.0015,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LA PATRONA",
+            "pModel": 0.0525,
+            "pClose": 0.0571,
+            "edge": -0.0046,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -394,7 +1216,113 @@
         "pickScore": 55.3,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "AMAYAH",
+            "pModel": 0.1343,
+            "pClose": 0.1099,
+            "edge": 0.0244,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "APRICITY",
+            "pModel": 0.0683,
+            "pClose": 0.04,
+            "edge": 0.0283,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WEHAVEASITUATION",
+            "pModel": 0.055,
+            "pClose": 0.0488,
+            "edge": 0.0062,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EISTEDDFOD",
+            "pModel": 0.0646,
+            "pClose": 0.1658,
+            "edge": -0.1012,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "VROOM VROOM",
+            "pModel": 0.0708,
+            "pClose": 0.1172,
+            "edge": -0.0464,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KITUBA",
+            "pModel": 0.0927,
+            "pClose": 0.04,
+            "edge": 0.0527,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SAACHI ONE",
+            "pModel": 0.0751,
+            "pClose": 0.0549,
+            "edge": 0.0202,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOOZY SUSIE",
+            "pModel": 0.0625,
+            "pClose": 0.1658,
+            "edge": -0.1033,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DIAMOND BOMBER",
+            "pModel": 0.0462,
+            "pClose": 0.0129,
+            "edge": 0.0333,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LADY VERITAS",
+            "pModel": 0.0453,
+            "pClose": 0.0549,
+            "edge": -0.0096,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "APRIL FOOLS’ DAY",
+            "pModel": 0.0785,
+            "pClose": 0.04,
+            "edge": 0.0385,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "UNA THE UNICORN",
+            "pModel": 0.0431,
+            "pClose": 0.04,
+            "edge": 0.0031,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MIGHTY MARY",
+            "pModel": 0.0638,
+            "pClose": 0.1099,
+            "edge": -0.0461,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -423,7 +1351,81 @@
         "pickScore": 53.7,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "MASTERONTHEMOON",
+            "pModel": 0.2605,
+            "pClose": 0.3802,
+            "edge": -0.1197,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "O’FELLOW",
+            "pModel": 0.1024,
+            "pClose": 0.0787,
+            "edge": 0.0237,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EL DOURO",
+            "pModel": 0.0718,
+            "pClose": 0.0139,
+            "edge": 0.0579,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BORN TO MASTER",
+            "pModel": 0.0862,
+            "pClose": 0.0634,
+            "edge": 0.0228,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "READY FOR THE ROAD",
+            "pModel": 0.189,
+            "pClose": 0.2684,
+            "edge": -0.0794,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "DIVINE STATE",
+            "pModel": 0.0623,
+            "pClose": 0.0112,
+            "edge": 0.0511,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SEE THE SIGN",
+            "pModel": 0.0515,
+            "pClose": 0.0219,
+            "edge": 0.0296,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FATE OF PACE",
+            "pModel": 0.058,
+            "pClose": 0.0422,
+            "edge": 0.0158,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BIG DEAL",
+            "pModel": 0.1182,
+            "pClose": 0.1201,
+            "edge": -0.0019,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -452,7 +1454,89 @@
         "pickScore": 58.6,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PEACH COBBLER",
+            "pModel": 0.3269,
+            "pClose": 0.2394,
+            "edge": 0.0875,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WINTERWORLDOFLOVE",
+            "pModel": 0.1903,
+            "pClose": 0.2911,
+            "edge": -0.1008,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAC D",
+            "pModel": 0.0622,
+            "pClose": 0.0085,
+            "edge": 0.0537,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CROWN CHASER",
+            "pModel": 0.0592,
+            "pClose": 0.0158,
+            "edge": 0.0434,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "VICTORIA CROSS",
+            "pModel": 0.0488,
+            "pClose": 0.0158,
+            "edge": 0.033,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVE HER MADLY",
+            "pModel": 0.079,
+            "pClose": 0.0598,
+            "edge": 0.0192,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "RUNWAY ROMANCE",
+            "pModel": 0.0563,
+            "pClose": 0.049,
+            "edge": 0.0073,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SIGN OF SPRING",
+            "pModel": 0.0426,
+            "pClose": 0.0308,
+            "edge": 0.0118,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPURIOUS",
+            "pModel": 0.0756,
+            "pClose": 0.2154,
+            "edge": -0.1398,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LANA’S GAL",
+            "pModel": 0.059,
+            "pClose": 0.0743,
+            "edge": -0.0153,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -481,7 +1565,113 @@
         "pickScore": 58.2,
         "topPickScratched": false,
         "topPickWon": true,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "JULIET OF VERONA",
+            "pModel": 0.264,
+            "pClose": 0.3724,
+            "edge": -0.1084,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MARY CASSATT",
+            "pModel": 0.1259,
+            "pClose": 0.1013,
+            "edge": 0.0246,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL EMULATION",
+            "pModel": 0.0406,
+            "pClose": 0.0067,
+            "edge": 0.0339,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ENCHANTED FOREST",
+            "pModel": 0.0977,
+            "pClose": 0.0563,
+            "edge": 0.0414,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SUMMER SUNSHINE",
+            "pModel": 0.0354,
+            "pClose": 0.0067,
+            "edge": 0.0287,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ONE STEP",
+            "pModel": 0.0412,
+            "pClose": 0.0124,
+            "edge": 0.0288,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FROSTY SOVEREIGN",
+            "pModel": 0.0583,
+            "pClose": 0.0289,
+            "edge": 0.0294,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EYE OPENER",
+            "pModel": 0.0697,
+            "pClose": 0.0289,
+            "edge": 0.0408,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SENORITA LOLITA",
+            "pModel": 0.0818,
+            "pClose": 0.211,
+            "edge": -0.1292,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPIRIT OF LIFE",
+            "pModel": 0.0326,
+            "pClose": 0.0099,
+            "edge": 0.0227,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COCO BEACH",
+            "pModel": 0.056,
+            "pClose": 0.0289,
+            "edge": 0.0271,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SABRE WING",
+            "pModel": 0.0475,
+            "pClose": 0.0099,
+            "edge": 0.0376,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "RED FLAG",
+            "pModel": 0.0494,
+            "pClose": 0.1266,
+            "edge": -0.0772,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -510,7 +1700,81 @@
         "pickScore": 54.5,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "FORT YUKON",
+            "pModel": 0.1935,
+            "pClose": 0.1248,
+            "edge": 0.0687,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CEDAR POINT",
+            "pModel": 0.1482,
+            "pClose": 0.1664,
+            "edge": -0.0182,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SIGNOR DANTE",
+            "pModel": 0.1363,
+            "pClose": 0.1884,
+            "edge": -0.0521,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DIAMOND ROCK",
+            "pModel": 0.1173,
+            "pClose": 0.0238,
+            "edge": 0.0935,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GOLD DUST",
+            "pModel": 0.1027,
+            "pClose": 0.0832,
+            "edge": 0.0195,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MIAMI SUMMER",
+            "pModel": 0.0855,
+            "pClose": 0.1331,
+            "edge": -0.0476,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "IN MOTION",
+            "pModel": 0.0855,
+            "pClose": 0.0147,
+            "edge": 0.0708,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAN OF CONSEQUENCE",
+            "pModel": 0.0666,
+            "pClose": 0.0285,
+            "edge": 0.0381,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CLARK GRISWOLD",
+            "pModel": 0.0644,
+            "pClose": 0.1816,
+            "edge": -0.1172,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {
@@ -539,7 +1803,65 @@
         "pickScore": 53.1,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "KATSU",
+            "pModel": 0.1903,
+            "pClose": 0.076,
+            "edge": 0.1143,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DUBBELOSIX",
+            "pModel": 0.1722,
+            "pClose": 0.0689,
+            "edge": 0.1033,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOMBERS IN THE SKY",
+            "pModel": 0.1585,
+            "pClose": 0.0212,
+            "edge": 0.1373,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN A TIMELY MANNER",
+            "pModel": 0.1558,
+            "pClose": 0.3556,
+            "edge": -0.1998,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "IT IS MY TIME",
+            "pModel": 0.1434,
+            "pClose": 0.1696,
+            "edge": -0.0262,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SOHO HEARTTHROB",
+            "pModel": 0.101,
+            "pClose": 0.1103,
+            "edge": -0.0093,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "BILLY BOWLEGS",
+            "pModel": 0.0787,
+            "pClose": 0.0408,
+            "edge": 0.0379,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -568,7 +1890,73 @@
         "pickScore": 53.2,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MISS NEW YORK",
+            "pModel": 0.2288,
+            "pClose": 0.1493,
+            "edge": 0.0795,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TAKE IT AS RED",
+            "pModel": 0.164,
+            "pClose": 0.1607,
+            "edge": 0.0033,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "VIVO PER LEI",
+            "pModel": 0.1435,
+            "pClose": 0.0721,
+            "edge": 0.0714,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CRAZY LITTLE THING",
+            "pModel": 0.1099,
+            "pClose": 0.058,
+            "edge": 0.0519,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WHY NOT JACKIE",
+            "pModel": 0.1028,
+            "pClose": 0.0653,
+            "edge": 0.0375,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FINAL CALL",
+            "pModel": 0.1011,
+            "pClose": 0.1971,
+            "edge": -0.096,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PACIFIC WATERS",
+            "pModel": 0.0749,
+            "pClose": 0.0653,
+            "edge": 0.0096,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SCANDALIZE",
+            "pModel": 0.0749,
+            "pClose": 0.2322,
+            "edge": -0.1573,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -597,7 +1985,81 @@
         "pickScore": 55.4,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "GIVE IT LALDY",
+            "pModel": 0.2136,
+            "pClose": 0.333,
+            "edge": -0.1194,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHESGOTCLASS",
+            "pModel": 0.1636,
+            "pClose": 0.0601,
+            "edge": 0.1035,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FAST TRAIN",
+            "pModel": 0.1295,
+            "pClose": 0.1203,
+            "edge": 0.0092,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IGNITE THE FIRE",
+            "pModel": 0.1153,
+            "pClose": 0.0492,
+            "edge": 0.0661,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPIRIT",
+            "pModel": 0.0976,
+            "pClose": 0.0746,
+            "edge": 0.023,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "OBJET D’ ART",
+            "pModel": 0.076,
+            "pClose": 0.1804,
+            "edge": -0.1044,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "CHURCHILLIAN",
+            "pModel": 0.0723,
+            "pClose": 0.0746,
+            "edge": -0.0023,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "HANDSOME PRINCE",
+            "pModel": 0.0711,
+            "pClose": 0.0676,
+            "edge": 0.0035,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "OLIVER",
+            "pModel": 0.0612,
+            "pClose": 0.0401,
+            "edge": 0.0211,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -626,7 +2088,81 @@
         "pickScore": 52.5,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": true
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "ETOILEFILLANTE",
+            "pModel": 0.1938,
+            "pClose": 0.0851,
+            "edge": 0.1087,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BEER WITH THE BOYS",
+            "pModel": 0.1696,
+            "pClose": 0.1702,
+            "edge": -0.0006,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GLENALMOND",
+            "pModel": 0.1156,
+            "pClose": 0.1361,
+            "edge": -0.0205,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SANSA STARK",
+            "pModel": 0.1137,
+            "pClose": 0.015,
+            "edge": 0.0987,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MASTER COINER",
+            "pModel": 0.1012,
+            "pClose": 0.0972,
+            "edge": 0.004,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DOUBLE DASH",
+            "pModel": 0.1012,
+            "pClose": 0.1361,
+            "edge": -0.0349,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TOTHEMOONANDBACK",
+            "pModel": 0.0713,
+            "pClose": 0.0972,
+            "edge": -0.0259,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LANDSEER",
+            "pModel": 0.0701,
+            "pClose": 0.1926,
+            "edge": -0.1225,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HEAVENLY PRINCE",
+            "pModel": 0.0635,
+            "pClose": 0.0704,
+            "edge": -0.0069,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -655,7 +2191,65 @@
         "pickScore": 54,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "BACKINTHEFASTLANE",
+            "pModel": 0.2305,
+            "pClose": 0.0881,
+            "edge": 0.1424,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PHANTOM MAN",
+            "pModel": 0.2267,
+            "pClose": 0.141,
+            "edge": 0.0857,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BALZI ROSSI",
+            "pModel": 0.1598,
+            "pClose": 0.1058,
+            "edge": 0.054,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TRIP TO CAMELOT",
+            "pModel": 0.1265,
+            "pClose": 0.2488,
+            "edge": -0.1223,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FORT LIAM",
+            "pModel": 0.1089,
+            "pClose": 0.1511,
+            "edge": -0.0422,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "CHANCE ENCOUNTER",
+            "pModel": 0.0953,
+            "pClose": 0.235,
+            "edge": -0.1397,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "NOBLE HERO",
+            "pModel": 0.0523,
+            "pClose": 0.0302,
+            "edge": 0.0221,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -684,7 +2278,65 @@
         "pickScore": 54,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "WILLIAM’S WOMAN",
+            "pModel": 0.2077,
+            "pClose": 0.2463,
+            "edge": -0.0386,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHE’S CHOSEN",
+            "pModel": 0.1788,
+            "pClose": 0.0872,
+            "edge": 0.0916,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUBY REX",
+            "pModel": 0.1758,
+            "pClose": 0.1744,
+            "edge": 0.0014,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BLACK ERIKA",
+            "pModel": 0.1513,
+            "pClose": 0.1495,
+            "edge": 0.0018,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAJOR APOLLO",
+            "pModel": 0.1199,
+            "pClose": 0.0476,
+            "edge": 0.0723,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MOODY BLUE",
+            "pModel": 0.1049,
+            "pClose": 0.1047,
+            "edge": 0.0002,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PALACE GIFT",
+            "pModel": 0.0615,
+            "pClose": 0.1903,
+            "edge": -0.1288,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -713,7 +2365,73 @@
         "pickScore": 53,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "COSMIC DAN",
+            "pModel": 0.2691,
+            "pClose": 0.0491,
+            "edge": 0.22,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LE CONCIERGE",
+            "pModel": 0.2355,
+            "pClose": 0.2843,
+            "edge": -0.0488,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUMBO RUSSI",
+            "pModel": 0.166,
+            "pClose": 0.0675,
+            "edge": 0.0985,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RHYTHM KING",
+            "pModel": 0.0771,
+            "pClose": 0.2401,
+            "edge": -0.163,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BORN OF FIRE",
+            "pModel": 0.0709,
+            "pClose": 0.1662,
+            "edge": -0.0953,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "LE TISSIER",
+            "pModel": 0.0686,
+            "pClose": 0.0491,
+            "edge": 0.0195,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FRACTAL",
+            "pModel": 0.0653,
+            "pClose": 0.1351,
+            "edge": -0.0698,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GIMME MORE APACHE",
+            "pModel": 0.0475,
+            "pClose": 0.0085,
+            "edge": 0.039,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {
@@ -742,7 +2460,65 @@
         "pickScore": 50.9,
         "topPickScratched": false,
         "topPickWon": false,
-        "topPickPlaced": false
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "SWAY IN STYLE",
+            "pModel": 0.244,
+            "pClose": 0.0222,
+            "edge": 0.2218,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MOONSHINE BAY",
+            "pModel": 0.2136,
+            "pClose": 0.1098,
+            "edge": 0.1038,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FLOWER BURST",
+            "pModel": 0.172,
+            "pClose": 0.0091,
+            "edge": 0.1629,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL LIGHT",
+            "pModel": 0.1078,
+            "pClose": 0.3034,
+            "edge": -0.1956,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "GIMMEAGAMBLE",
+            "pModel": 0.096,
+            "pClose": 0.0222,
+            "edge": 0.0738,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WARRIOR OF DESTINY",
+            "pModel": 0.0944,
+            "pClose": 0.3159,
+            "edge": -0.2215,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "YOU MADE ME LOOK",
+            "pModel": 0.0723,
+            "pClose": 0.2175,
+            "edge": -0.1452,
+            "won": false,
+            "placed": true
+          }
+        ]
       }
     },
     {

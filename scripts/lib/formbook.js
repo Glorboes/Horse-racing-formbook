@@ -88,7 +88,7 @@ function logResult(fb, result) {
       .map((o) => o.name);
     const jockey = f.jockey ?? cardJockey[key] ?? null;
     const trainer = f.trainer ?? cardTrainer[key] ?? null;
-    fb.horses[key].runs.push({
+    const run = {
       date, track, race, distance, going,
       classLabel, classType, classRank,
       finish: f.finish,
@@ -100,7 +100,18 @@ function logResult(fb, result) {
       jockey,
       trainer,
       draw: f.draw ?? null,
-    });
+      sp: f.sp ?? null,
+      oddsDecimal: f.oddsDecimal ?? null,
+      time: f.time ?? null,        // finishing time (s)
+      s800: f.s800 ?? null,        // sectional splits — raw, for future speed figures
+      s400: f.s400 ?? null,
+      sDist: f.sDist ?? null,
+    };
+    // idempotent: re-importing the same meeting updates the run in place
+    // (backfilling new fields like SP/sectionals) instead of duplicating it.
+    const existing = fb.horses[key].runs.find((r) => r.date === date && r.track === track && r.race === race);
+    if (existing) { for (const [k, v] of Object.entries(run)) if (v != null) existing[k] = v; }
+    else fb.horses[key].runs.push(run);
     if (trainer && !fb.horses[key].trainer) fb.horses[key].trainer = trainer; // remember stable
     if (f.rating != null) fb.horses[key].rating = f.rating;
   }
@@ -151,6 +162,35 @@ function logResult(fb, result) {
       topPickWon: !scratched && pickKey ? pickKey === normalizeName(winnerName?.name) : false,
       topPickPlaced: !scratched && pickKey ? placed.includes(pickKey) : false,
     };
+  }
+
+  // Closing-line value: compare each runner's model win probability to the
+  // probability implied by its actual starting price (the "closing line"), the
+  // sharpest read the market ever offers. Runs whenever we have both a priced
+  // result and the prediction file — including on re-import — so it backfills.
+  if (pred && predFile && predFile.ranked && predFile.ranked.length) {
+    const priced = enriched.filter((f) => f.oddsDecimal > 0);
+    const rawSum = priced.reduce((s, f) => s + 1 / (f.oddsDecimal + 1), 0);
+    if (priced.length >= 4 && rawSum > 0) {
+      const closeByKey = {};
+      for (const f of priced) closeByKey[normalizeName(f.name)] = (1 / (f.oddsDecimal + 1)) / rawSum; // overround removed
+      const value = [];
+      for (const r of predFile.ranked) {
+        const k = normalizeName(r.name);
+        const pc = closeByKey[k];
+        if (pc == null || r.pWin == null) continue;
+        const fin = enriched.find((f) => normalizeName(f.name) === k);
+        value.push({
+          name: r.name,
+          pModel: +(+r.pWin).toFixed(4),
+          pClose: +pc.toFixed(4),
+          edge: +(r.pWin - pc).toFixed(4),
+          won: fin ? fin.finish === 1 : false,
+          placed: fin ? fin.finish <= 3 : false,
+        });
+      }
+      if (value.length) { pred.result = pred.result || {}; pred.result.value = value; }
+    }
   }
 
   return { pairsAdded, finishers: enriched.length };
@@ -350,10 +390,56 @@ function calibration(fb) {
   }));
 }
 
+// ---------------------------------------------------------------------------
+// Closing Line Value (CLV): the honest edge test. For every priced runner in a
+// settled race we stored the model probability and the probability implied by
+// its starting price. If the model consistently rates horses above their
+// closing price AND they win at the model's rate, there is a real edge — the
+// single best predictor of long-run profitability, measured with no bet placed.
+// ---------------------------------------------------------------------------
+function closingLineValue(fb) {
+  const rows = [];
+  const picks = [];
+  for (const p of fb.predictionsLog) {
+    if (!p.settled || !p.result || !Array.isArray(p.result.value) || !p.result.value.length) continue;
+    for (const v of p.result.value) rows.push(v);
+    picks.push(p.result.value.reduce((a, b) => (b.pModel > a.pModel ? b : a))); // model's top pick
+  }
+  const buckets = [
+    { label: 'model +10pts', min: 0.10, max: Infinity },
+    { label: 'model +3–10pts', min: 0.03, max: 0.10 },
+    { label: 'agree (±3pts)', min: -0.03, max: 0.03 },
+    { label: 'model −3pts+', min: -Infinity, max: -0.03 },
+  ].map((b) => ({ ...b, n: 0, wins: 0, sumModel: 0, sumClose: 0 }));
+  for (const v of rows) {
+    const b = buckets.find((x) => v.edge >= x.min && v.edge < x.max);
+    if (!b) continue;
+    b.n++; if (v.won) b.wins++; b.sumModel += v.pModel; b.sumClose += v.pClose;
+  }
+  const beat = picks.filter((t) => t.edge > 0);
+  const pctOr = (num, den) => (den ? +((num / den) * 100).toFixed(0) : null);
+  return {
+    racesWithPrice: picks.length,
+    runnersWithPrice: rows.length,
+    pickAvgModelPct: pctOr(picks.reduce((s, t) => s + t.pModel, 0), picks.length),
+    pickAvgClosePct: pctOr(picks.reduce((s, t) => s + t.pClose, 0), picks.length),
+    pickWinPct: pctOr(picks.filter((t) => t.won).length, picks.length),
+    beatClosePicks: beat.length,
+    beatCloseWinPct: pctOr(beat.filter((t) => t.won).length, beat.length),
+    buckets: buckets.map((b) => ({
+      label: b.label, n: b.n,
+      avgModelPct: pctOr(b.sumModel, b.n),
+      avgClosePct: pctOr(b.sumClose, b.n),
+      winPct: pctOr(b.wins, b.n),
+    })),
+  };
+}
+
 module.exports = {
   FORMBOOK_PATH, ROOT,
   load, save, ensureHorse,
   logResult, makePredId,
   headToHeadBetween, strongestByHeadToHead,
   strikeRate, comboRecord, jockeyRecord, trainerRecord, horseJockeyRecord, lastRunBefore, calibration,
+  closingLineValue,
 };

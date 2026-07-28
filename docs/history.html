@@ -33,7 +33,7 @@ async function boot(){
 }
 
 function render(sr,m){
-  document.getElementById('body').innerHTML = summaryCard(sr)+calibrationCard(sr)+historyCard(sr,m);
+  document.getElementById('body').innerHTML = summaryCard(sr)+calibrationCard(sr)+clvCard(sr)+historyCard(sr,m);
 }
 
 function summaryCard(sr){
@@ -70,6 +70,32 @@ function calibrationCard(sr){
   return `<section class="card"><h2>🎯 Confidence calibration</h2>
     ${any?rows+`<div class="foot" style="text-align:left;margin-top:8px">Picks grouped by the <b>win probability</b> we gave them. <b>exp</b> = average probability we predicted; the bar = the <b>actual</b> win rate. Well-calibrated = actual ≈ expected in each band (e.g. picks we call 40%+ should win ~40% of the time). Updates as more races settle.</div>`
         :'<div class="empty">Needs settled races. Once outcomes are logged, this checks whether our stated win probabilities match reality.</div>'}
+  </section>`;
+}
+
+// CLOSING LINE VALUE — the honest edge test: model probability vs the price
+// the market actually closed at. This is what tells us if there's money here.
+function clvCard(sr){
+  const c=sr.clv||{};
+  const rows=(c.buckets||[]).filter(b=>b.n>0);
+  const any=rows.length>0;
+  const body=rows.map(b=>{
+    const w=b.winPct==null?0:b.winPct;
+    return `<div class="calrow">
+      <div class="lbl">${esc(b.label)}</div>
+      <div class="track"><div class="fill" style="width:${Math.max(w,b.n?6:0)}%">${b.winPct==null?'':'won '+b.winPct+'%'}</div></div>
+      <div class="n">exp ${b.avgModelPct}% · mkt ${b.avgClosePct}% · ${b.n}</div>
+    </div>`;
+  }).join('');
+  const head = any ? `<div class="kpis" style="margin-bottom:12px">
+      <div class="kpi"><b>${c.pickAvgModelPct}%</b>model says</div>
+      <div class="kpi"><b>${c.pickAvgClosePct}%</b>market says</div>
+      <div class="kpi"><b>${c.pickWinPct}%</b>picks won</div>
+      <div class="kpi"><b>${c.beatClosePicks}/${c.racesWithPrice}</b>beat close</div>
+    </div>` : '';
+  return `<section class="card"><h2>💰 Closing line value — the edge test</h2>
+    ${any?head+body+`<div class="foot" style="text-align:left;margin-top:8px">Every priced runner grouped by how far our model's win% sat <b>above or below the starting price</b>. <b>exp</b> = our probability, <b>mkt</b> = the market's, the bar = how often they actually won. The edge is real only if the "model +" bands win <b>more than the market priced them</b> (and near our own number). ${c.runnersWithPrice} priced runners over ${c.racesWithPrice} races so far — needs a few hundred to trust.</div>`
+        :'<div class="empty">No priced results yet. As meetings with starting prices are logged, this measures whether the model beats the closing market — the honest test of whether there\'s an edge to bet.</div>'}
   </section>`;
 }
 

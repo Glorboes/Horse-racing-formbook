@@ -356,5 +356,44 @@
       "expectedPct": 13,
       "winPct": 0
     }
-  ]
+  ],
+  "clv": {
+    "racesWithPrice": 24,
+    "runnersWithPrice": 216,
+    "pickAvgModelPct": 26,
+    "pickAvgClosePct": 20,
+    "pickWinPct": 17,
+    "beatClosePicks": 16,
+    "beatCloseWinPct": 0,
+    "buckets": [
+      {
+        "label": "model +10pts",
+        "n": 17,
+        "avgModelPct": 24,
+        "avgClosePct": 7,
+        "winPct": 0
+      },
+      {
+        "label": "model +3–10pts",
+        "n": 49,
+        "avgModelPct": 11,
+        "avgClosePct": 6,
+        "winPct": 4
+      },
+      {
+        "label": "agree (±3pts)",
+        "n": 92,
+        "avgModelPct": 8,
+        "avgClosePct": 7,
+        "winPct": 5
+      },
+      {
+        "label": "model −3pts+",
+        "n": 58,
+        "avgModelPct": 12,
+        "avgClosePct": 23,
+        "winPct": 29
+      }
+    ]
+  }
 }

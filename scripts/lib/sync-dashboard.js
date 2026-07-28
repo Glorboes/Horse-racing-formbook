@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { load, strikeRate, calibration } = require('./formbook');
+const { load, strikeRate, calibration, closingLineValue } = require('./formbook');
 const { normalizeName, circuitOf } = require('./names');
 const { buildDayMultis } = require('./multibet');
 
@@ -66,6 +66,7 @@ function syncDashboard() {
 
   const sr = strikeRate(fb);
   sr.calibration = calibration(fb);
+  sr.clv = closingLineValue(fb);
   const horses = buildHorses(fb);
 
   // days index for the calendar view (most recent first)
