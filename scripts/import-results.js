@@ -18,6 +18,8 @@ const path = require('path');
 const fb = require('./lib/formbook');
 const { classify } = require('./lib/parse-racecard');
 const { normalizeName } = require('./lib/names');
+const { scoreRace } = require('./lib/scoring');
+const { annotatePrediction } = require('./lib/multibet');
 const { syncDashboard } = require('./lib/sync-dashboard');
 const { autoPush } = require('./lib/autopush');
 
@@ -160,10 +162,73 @@ function parseComputaform(text, date, fallbackTrack, index) {
   });
 }
 
+// ---------------------------------------------------------------------------
+// Backfill prediction: for an OLD race with no live prediction, reconstruct one
+// from the result grid's pre-race columns (ratings, weights, draws, jockeys) so
+// it can be graded and counts toward strike rate / calibration / CLV / the 200.
+// Two honesty guards:
+//   - "as-of" book view: only runs and head-to-heads dated STRICTLY BEFORE the
+//     race are visible, so pasting meetings out of order can't leak the future.
+//   - no odds fed in: the prediction is pure-model, so the CLV test (model vs
+//     the actual SP) stays a real comparison rather than a circular one.
+// ---------------------------------------------------------------------------
+function bookAsOf(book, date) {
+  const horses = {};
+  for (const [k, h] of Object.entries(book.horses)) {
+    horses[k] = { ...h, runs: (h.runs || []).filter((r) => (r.date || '') < date) };
+  }
+  const headToHead = {};
+  for (const [k, arr] of Object.entries(book.headToHead)) {
+    const f = (arr || []).filter((m) => (m.date || '') < date);
+    if (f.length) headToHead[k] = f;
+  }
+  return { ...book, horses, headToHead };
+}
+
+function backfillPredict(book, race) {
+  const runners = race.finishers.map((f) => ({
+    name: f.name, no: null, rating: f.rating ?? null, weight: f.weight ?? null,
+    draw: f.draw ?? null, jockey: f.jockey ?? null, trainer: f.trainer ?? null,
+  }));
+  const card = {
+    date: race.date, track: race.track, race: race.race,
+    distance: race.distance ?? null, going: race.going ?? null, classLabel: race.classLabel ?? null,
+    runners,
+  };
+  const asOf = bookAsOf(book, race.date);
+  const { ranked, h2h } = scoreRace(asOf, card);
+  const id = fb.makePredId(race.date, race.track || 'unknown', race.race);
+  const comparison = ranked.map((r) => {
+    const known = asOf.horses[r.key] || { runs: [] };
+    const last = (known.runs || []).slice(-5).reverse().map((x) => x.finish).join('');
+    return {
+      no: null, name: r.name, rank: r.rank, score: r.score, rating: r.rating, draw: r.draw,
+      weight: r.weight, odds: null, marketRank: null, marketDisagree: false,
+      jockey: r.jockey, trainer: r.trainer, lastFive: last || '—', runsKnown: r.knownRuns, factors: r.factors,
+    };
+  });
+  const prediction = {
+    id, date: race.date, track: race.track, race: race.race, time: null,
+    distance: race.distance ?? null, going: race.going ?? null, surface: null,
+    classLabel: race.classLabel ?? null, generated: new Date().toISOString(), settled: false,
+    marketPriced: false, backfilled: true,
+    ranked, comparison, headToHead: h2h, strongest: h2h[0] ? h2h[0].name : null,
+  };
+  annotatePrediction(prediction); // pWin = pure model (no market fed in)
+  fs.mkdirSync(path.join(fb.ROOT, 'data', 'predictions'), { recursive: true });
+  fs.writeFileSync(path.join(fb.ROOT, 'data', 'predictions', `${id}.json`), JSON.stringify(prediction, null, 2) + '\n');
+  const logEntry = { id, date: race.date, track: race.track, race: race.race, settled: false,
+    ranked: ranked.slice(0, 4).map((r) => ({ name: r.name, score: r.score })) };
+  const existing = book.predictionsLog.find((p) => p.id === id);
+  if (existing) Object.assign(existing, logEntry); else book.predictionsLog.push(logEntry);
+  return id;
+}
+
 function main() {
   const args = process.argv.slice(2);
   const opt = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
   const noPush = args.includes('--no-push');
+  const noBackfill = args.includes('--no-backfill');
   const file = args.find((a) => !a.startsWith('--') && !/^\d{4}-\d\d-\d\d$/.test(a));
   const date = opt('--date', new Date().toISOString().slice(0, 10));
   const track = opt('--track', 'Turffontein');
@@ -176,20 +241,27 @@ function main() {
   if (!races.length) { console.error('No races parsed — check the results format.'); process.exit(1); }
 
   const book = fb.load();
-  let logged = 0, pairs = 0, settled = 0;
+  let logged = 0, pairs = 0, settled = 0, backfilled = 0;
   for (const r of races) {
+    const id = fb.makePredId(r.date, r.track, r.race);
+    const predPath = path.join(fb.ROOT, 'data', 'predictions', `${id}.json`);
+    // No live prediction for this race? Reconstruct one (walk-forward) before grading.
+    let didBackfill = false;
+    if (!noBackfill && !fs.existsSync(predPath) && r.finishers.length >= 4) {
+      backfillPredict(book, r); didBackfill = true; backfilled++;
+    }
     const out = fb.logResult(book, r);
     logged++; pairs += out.pairsAdded;
-    const lg = book.predictionsLog.find((p) => p.id === fb.makePredId(r.date, r.track, r.race));
+    const lg = book.predictionsLog.find((p) => p.id === id);
     const s = lg && lg.settled ? lg.result : null;
     if (s) settled++;
     const verdict = s ? (s.topPickScratched ? '⊘ scratched (void)' : s.topPickWon ? '✓ WON' : s.topPickPlaced ? '~ placed' : '✗ missed') : '(no prediction)';
-    console.log(`  R${r.race} ${r.classLabel || ''} — winner ${r.finishers[0].name}  | pick ${s ? s.topPick : '?'} ${verdict}`);
+    console.log(`  ${didBackfill ? '↺' : ' '} R${r.race} ${r.classLabel || ''} — winner ${r.finishers[0].name}  | pick ${s ? s.topPick : '?'} ${verdict}`);
   }
   fb.save(book);
 
   const sync = syncDashboard();
-  console.log(`\n✓ ${logged} races logged, ${pairs} head-to-head records, ${settled} predictions settled.`);
+  console.log(`\n✓ ${logged} races logged, ${pairs} head-to-head records, ${settled} predictions settled${backfilled ? ` (${backfilled} backfilled)` : ''}.`);
   console.log(`✓ strike rate now ${sync.strikeRate.winPct}% win / ${sync.strikeRate.placePct}% place over ${sync.strikeRate.settled} settled.`);
   if (!noPush) autoPush(`import-results: ${track} ${date} (${logged} races)`);
 }
