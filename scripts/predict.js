@@ -43,11 +43,14 @@ async function main() {
 
 // Score one race, write its prediction JSON, log it for strike-rate tracking.
 function processRace(book, race) {
-  const { ranked, h2h } = scoreRace(book, race);
+  // Score through a walk-forward view so a back-dated card can't see results
+  // logged for later meetings (no effect on live cards dated today/future).
+  const asOf = fb.bookAsOf(book, race.date);
+  const { ranked, h2h } = scoreRace(asOf, race);
   const id = fb.makePredId(race.date, race.track || 'unknown', race.race);
 
   const comparison = ranked.map((r) => {
-    const known = book.horses[r.key] || { runs: [] };
+    const known = asOf.horses[r.key] || { runs: [] };
     const last = (known.runs || []).slice(-5).reverse().map((x) => x.finish).join('');
     return {
       no: race.runners.find((x) => x.name.trim() === r.name)?.no ?? null,

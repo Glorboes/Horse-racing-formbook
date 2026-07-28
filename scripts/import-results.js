@@ -172,19 +172,6 @@ function parseComputaform(text, date, fallbackTrack, index) {
 //   - no odds fed in: the prediction is pure-model, so the CLV test (model vs
 //     the actual SP) stays a real comparison rather than a circular one.
 // ---------------------------------------------------------------------------
-function bookAsOf(book, date) {
-  const horses = {};
-  for (const [k, h] of Object.entries(book.horses)) {
-    horses[k] = { ...h, runs: (h.runs || []).filter((r) => (r.date || '') < date) };
-  }
-  const headToHead = {};
-  for (const [k, arr] of Object.entries(book.headToHead)) {
-    const f = (arr || []).filter((m) => (m.date || '') < date);
-    if (f.length) headToHead[k] = f;
-  }
-  return { ...book, horses, headToHead };
-}
-
 function backfillPredict(book, race) {
   const runners = race.finishers.map((f) => ({
     name: f.name, no: null, rating: f.rating ?? null, weight: f.weight ?? null,
@@ -195,7 +182,7 @@ function backfillPredict(book, race) {
     distance: race.distance ?? null, going: race.going ?? null, classLabel: race.classLabel ?? null,
     runners,
   };
-  const asOf = bookAsOf(book, race.date);
+  const asOf = fb.bookAsOf(book, race.date);
   const { ranked, h2h } = scoreRace(asOf, card);
   const id = fb.makePredId(race.date, race.track || 'unknown', race.race);
   const comparison = ranked.map((r) => {

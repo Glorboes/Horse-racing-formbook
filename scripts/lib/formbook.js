@@ -200,6 +200,25 @@ function makePredId(date, track, race) {
   return `${date}-${normalizeName(track).toLowerCase().replace(/\s+/g, '-')}-r${race}`;
 }
 
+// Walk-forward view of the book as it stood BEFORE `date`: every run and
+// head-to-head dated on/after `date` is hidden. Predicting a past card through
+// this view can't peek at later results already in the database — essential
+// for honest backfilling once newer meetings are logged. For a live/future
+// card every past run is still visible, so live predictions are unchanged.
+function bookAsOf(fb, date) {
+  if (!date) return fb;
+  const horses = {};
+  for (const [k, h] of Object.entries(fb.horses)) {
+    horses[k] = { ...h, runs: (h.runs || []).filter((r) => (r.date || '') < date) };
+  }
+  const headToHead = {};
+  for (const [k, arr] of Object.entries(fb.headToHead)) {
+    const f = (arr || []).filter((m) => (m.date || '') < date);
+    if (f.length) headToHead[k] = f;
+  }
+  return { ...fb, horses, headToHead };
+}
+
 // ---------------------------------------------------------------------------
 // Head-to-head queries
 // ---------------------------------------------------------------------------
@@ -438,7 +457,7 @@ function closingLineValue(fb) {
 module.exports = {
   FORMBOOK_PATH, ROOT,
   load, save, ensureHorse,
-  logResult, makePredId,
+  logResult, makePredId, bookAsOf,
   headToHeadBetween, strongestByHeadToHead,
   strikeRate, comboRecord, jockeyRecord, trainerRecord, horseJockeyRecord, lastRunBefore, calibration,
   closingLineValue,
