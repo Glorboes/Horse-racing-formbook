@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:17:40.158Z",
+  "generated": "2026-07-28T20:24:08.692Z",
   "days": {
     "2026-03-30": {
       "bankers": [
@@ -4299,6 +4299,317 @@
             "time": null,
             "selection": "SARATOGA SUNRISE",
             "prob": 45.9
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-06-27": {
+      "bankers": [
+        {
+          "race": 5,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "SUPER VIKING",
+          "pWin": 69.6,
+          "pPlace": 94.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "CORK BAY",
+          "pWin": 58.8,
+          "pPlace": 98.7,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "FROM THE ISLAND",
+          "pWin": 51.7,
+          "pPlace": 91.9,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.2117,
+          "combinedPct": 21.2,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 69.6
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 58.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 51.7
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.104,
+          "combinedPct": 10.4,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 69.6
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 58.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 51.7
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACHES AND CREAM",
+              "prob": 49.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0479,
+          "combinedPct": 4.8,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 69.6
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 58.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 51.7
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACHES AND CREAM",
+              "prob": 49.1
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HERITAGE RIDGE",
+              "prob": 46.1
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.7682,
+          "combinedPct": 76.8,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 98.7
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 94.3
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 91.9
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACHES AND CREAM",
+              "prob": 89.9
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.6343,
+          "combinedPct": 63.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 98.7
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 94.3
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 91.9
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACHES AND CREAM",
+              "prob": 89.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "BLACK NIGHTSHADE",
+              "prob": 82.6
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.4997,
+          "combinedPct": 50,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CORK BAY",
+              "prob": 98.7
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 94.3
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 91.9
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACHES AND CREAM",
+              "prob": 89.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "BLACK NIGHTSHADE",
+              "prob": 82.6
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HERITAGE RIDGE",
+              "prob": 78.8
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.2117,
+        "combinedPct": 21.2,
+        "confidence": "fair",
+        "selections": [
+          {
+            "race": 5,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "SUPER VIKING",
+            "prob": 69.6
+          },
+          {
+            "race": 3,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "CORK BAY",
+            "prob": 58.8
+          },
+          {
+            "race": 7,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "FROM THE ISLAND",
+            "prob": 51.7
           }
         ]
       },

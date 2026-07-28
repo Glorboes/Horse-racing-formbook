@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T20:17:40.143Z",
-  "count": 158,
+  "generated": "2026-07-28T20:24:08.677Z",
+  "count": 166,
   "days": [
     {
       "date": "2026-07-25",
@@ -46,6 +46,15 @@
       ],
       "circuit": "Highveld",
       "settled": 10
+    },
+    {
+      "date": "2026-06-27",
+      "races": 8,
+      "tracks": [
+        "Hollywoodbets Durbanville"
+      ],
+      "circuit": "Cape",
+      "settled": 8
     },
     {
       "date": "2026-06-23",
@@ -3383,6 +3392,866 @@
         "topPickScratched": false,
         "topPickWon": true,
         "topPickPlaced": true
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r8.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r8",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "PEACHES AND CREAM",
+      "mostLikely": {
+        "name": "PEACHES AND CREAM",
+        "pWin": 49.1,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "BEFORE SUNRISE",
+        "topPick": "PEACHES AND CREAM",
+        "pickPWin": 0.4912,
+        "pickScore": 73.6,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PEACHES AND CREAM",
+            "pModel": 0.4912,
+            "pClose": 0.2317,
+            "edge": 0.2595,
+            "odds": 3.25,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BEFORE SUNRISE",
+            "pModel": 0.1133,
+            "pClose": 0.1094,
+            "edge": 0.0039,
+            "odds": 8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SPECIAL GLAMOUR",
+            "pModel": 0.0992,
+            "pClose": 0.1231,
+            "edge": -0.0239,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MON PAPILLON",
+            "pModel": 0.0735,
+            "pClose": 0.0365,
+            "edge": 0.037,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MISS ATTITUDE",
+            "pModel": 0.0563,
+            "pClose": 0.0821,
+            "edge": -0.0258,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVEN TO FLY",
+            "pModel": 0.0468,
+            "pClose": 0.0938,
+            "edge": -0.047,
+            "odds": 9.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LA PATRONA",
+            "pModel": 0.0431,
+            "pClose": 0.0616,
+            "edge": -0.0185,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ELUSIVE GIFT",
+            "pModel": 0.0403,
+            "pClose": 0.0679,
+            "edge": -0.0276,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KISSES",
+            "pModel": 0.0197,
+            "pClose": 0.0679,
+            "edge": -0.0482,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PRINCESS OF BAYEUX",
+            "pModel": 0.0143,
+            "pClose": 0.0448,
+            "edge": -0.0305,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PLAYFUL JOULES",
+            "pModel": 0.0012,
+            "pClose": 0.0448,
+            "edge": -0.0436,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MONEY EXTRACTOR",
+            "pModel": 0.001,
+            "pClose": 0.0365,
+            "edge": -0.0355,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r7.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r7",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "FROM THE ISLAND",
+      "mostLikely": {
+        "name": "FROM THE ISLAND",
+        "pWin": 51.7,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "AQUAE CALIDAE",
+        "topPick": "FROM THE ISLAND",
+        "pickPWin": 0.5167,
+        "pickScore": 72.8,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "FROM THE ISLAND",
+            "pModel": 0.5167,
+            "pClose": 0.0628,
+            "edge": 0.4539,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "UNCLE SAM",
+            "pModel": 0.1212,
+            "pClose": 0.0419,
+            "edge": 0.0793,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "AQUAE CALIDAE",
+            "pModel": 0.1009,
+            "pClose": 0.3649,
+            "edge": -0.264,
+            "odds": 2.1,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MAGMA FLOW",
+            "pModel": 0.0826,
+            "pClose": 0.0166,
+            "edge": 0.066,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IT'SGOOD IT'SNICE",
+            "pModel": 0.0509,
+            "pClose": 0.0166,
+            "edge": 0.0343,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KALAHARI KING",
+            "pModel": 0.0469,
+            "pClose": 0.2357,
+            "edge": -0.1888,
+            "odds": 3.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HERO'S JOURNEY",
+            "pModel": 0.0453,
+            "pClose": 0.078,
+            "edge": -0.0327,
+            "odds": 13.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "CAPTAIN'S ANGEL",
+            "pModel": 0.0266,
+            "pClose": 0.0218,
+            "edge": 0.0048,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CATWALK KING",
+            "pModel": 0.0089,
+            "pClose": 0.1616,
+            "edge": -0.1527,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r6.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r6",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "BLACK NIGHTSHADE",
+      "mostLikely": {
+        "name": "BLACK NIGHTSHADE",
+        "pWin": 34.1,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "GRAPES OF WRATH",
+        "topPick": "BLACK NIGHTSHADE",
+        "pickPWin": 0.3411,
+        "pickScore": 67.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "BLACK NIGHTSHADE",
+            "pModel": 0.3411,
+            "pClose": 0.0799,
+            "edge": 0.2612,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ENTICEMENT",
+            "pModel": 0.2701,
+            "pClose": 0.1159,
+            "edge": 0.1542,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FOG IN FINLAND",
+            "pModel": 0.1694,
+            "pClose": 0.0724,
+            "edge": 0.097,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHEZARIPPER",
+            "pModel": 0.1458,
+            "pClose": 0.1159,
+            "edge": 0.0299,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MYSTIC INFERNO",
+            "pModel": 0.0258,
+            "pClose": 0.0644,
+            "edge": -0.0386,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GRAPES OF WRATH",
+            "pModel": 0.0229,
+            "pClose": 0.4407,
+            "edge": -0.4178,
+            "odds": 1.63,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "CHINWAG",
+            "pModel": 0.0173,
+            "pClose": 0.0966,
+            "edge": -0.0793,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FINAL SAY",
+            "pModel": 0.0076,
+            "pClose": 0.0141,
+            "edge": -0.0065,
+            "odds": 81,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r5.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r5",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "SUPER VIKING",
+      "mostLikely": {
+        "name": "SUPER VIKING",
+        "pWin": 69.6,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "SUPER VIKING",
+        "topPick": "SUPER VIKING",
+        "pickPWin": 0.6963,
+        "pickScore": 74.3,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SUPER VIKING",
+            "pModel": 0.6963,
+            "pClose": 0.2922,
+            "edge": 0.4041,
+            "odds": 2.7,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "FORT YUKON",
+            "pModel": 0.1866,
+            "pClose": 0.1663,
+            "edge": 0.0203,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "NOON DAY GUN",
+            "pModel": 0.0798,
+            "pClose": 0.103,
+            "edge": -0.0232,
+            "odds": 9.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "THOMAS JENKINS",
+            "pModel": 0.0207,
+            "pClose": 0.1544,
+            "edge": -0.1337,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORTUNE ONE",
+            "pModel": 0.0099,
+            "pClose": 0.04,
+            "edge": -0.0301,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "JET A ONE",
+            "pModel": 0.0047,
+            "pClose": 0.04,
+            "edge": -0.0353,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVETHATMANABELLS",
+            "pModel": 0.002,
+            "pClose": 0.204,
+            "edge": -0.202,
+            "odds": 4.3,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r4.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r4",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "RAFFISH TREND",
+      "mostLikely": {
+        "name": "RAFFISH TREND",
+        "pWin": 28,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "RAFFISH TREND",
+        "topPick": "RAFFISH TREND",
+        "pickPWin": 0.2795,
+        "pickScore": 66.7,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "RAFFISH TREND",
+            "pModel": 0.2795,
+            "pClose": 0.1232,
+            "edge": 0.1563,
+            "odds": 7.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "GIRL LIKE US",
+            "pModel": 0.2327,
+            "pClose": 0.2868,
+            "edge": -0.0541,
+            "odds": 2.65,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MUSIC OF THE NIGHT",
+            "pModel": 0.1905,
+            "pClose": 0.2326,
+            "edge": -0.0421,
+            "odds": 3.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MEG'S LEGACY",
+            "pModel": 0.1753,
+            "pClose": 0.0582,
+            "edge": 0.1171,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CLIFFSCAPE",
+            "pModel": 0.0564,
+            "pClose": 0.0388,
+            "edge": 0.0176,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIN PALACE",
+            "pModel": 0.0254,
+            "pClose": 0.0388,
+            "edge": -0.0134,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WYZE DECLARATION",
+            "pModel": 0.0182,
+            "pClose": 0.0388,
+            "edge": -0.0206,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LADY LOOK ALIKE",
+            "pModel": 0.0107,
+            "pClose": 0.0654,
+            "edge": -0.0547,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MALIBU BLITZ",
+            "pModel": 0.0098,
+            "pClose": 0.0154,
+            "edge": -0.0056,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WEHAVEASITUATION",
+            "pModel": 0.0013,
+            "pClose": 0.0299,
+            "edge": -0.0286,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ALL IS GREEN",
+            "pModel": 0.0003,
+            "pClose": 0.0722,
+            "edge": -0.0719,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r3.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r3",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "CORK BAY",
+      "mostLikely": {
+        "name": "CORK BAY",
+        "pWin": 58.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "WITCH HAZEL",
+        "topPick": "CORK BAY",
+        "pickPWin": 0.5883,
+        "pickScore": 74.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "CORK BAY",
+            "pModel": 0.5883,
+            "pClose": 0.4029,
+            "edge": 0.1854,
+            "odds": 1.87,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WITCH HAZEL",
+            "pModel": 0.3071,
+            "pClose": 0.2409,
+            "edge": 0.0662,
+            "odds": 3.8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "VOLEGOV",
+            "pModel": 0.0303,
+            "pClose": 0.0526,
+            "edge": -0.0223,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KELP FOREST",
+            "pModel": 0.0248,
+            "pClose": 0.0642,
+            "edge": -0.0394,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LYRICAL GANGSTER",
+            "pModel": 0.019,
+            "pClose": 0.136,
+            "edge": -0.117,
+            "odds": 7.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "IGNITE THE FIRE",
+            "pModel": 0.0169,
+            "pClose": 0.0428,
+            "edge": -0.0259,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "YAMAZAKI",
+            "pModel": 0.0099,
+            "pClose": 0.033,
+            "edge": -0.0231,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SKY ROCKET",
+            "pModel": 0.0036,
+            "pClose": 0.0275,
+            "edge": -0.0239,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r2.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r2",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 6,
+      "topPick": "HERITAGE RIDGE",
+      "mostLikely": {
+        "name": "HERITAGE RIDGE",
+        "pWin": 46.1,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "HERITAGE RIDGE",
+        "topPick": "HERITAGE RIDGE",
+        "pickPWin": 0.4609,
+        "pickScore": 60.1,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "HERITAGE RIDGE",
+            "pModel": 0.4609,
+            "pClose": 0.1661,
+            "edge": 0.2948,
+            "odds": 5.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MAJOR APOLLO",
+            "pModel": 0.289,
+            "pClose": 0.2541,
+            "edge": 0.0349,
+            "odds": 3.25,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BARNEY MCGREW",
+            "pModel": 0.2037,
+            "pClose": 0.216,
+            "edge": -0.0123,
+            "odds": 4,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GALACTUS",
+            "pModel": 0.0197,
+            "pClose": 0.12,
+            "edge": -0.1003,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HIAWATHA GOLDBERG",
+            "pModel": 0.0182,
+            "pClose": 0.2038,
+            "edge": -0.1856,
+            "odds": 4.3,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GRAVITY",
+            "pModel": 0.0086,
+            "pClose": 0.04,
+            "edge": -0.0314,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-06-27-hollywoodbets-durbanville-r1.json",
+      "id": "2026-06-27-hollywoodbets-durbanville-r1",
+      "date": "2026-06-27",
+      "track": "Hollywoodbets Durbanville",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "WILD STREAK",
+      "mostLikely": {
+        "name": "WILD STREAK",
+        "pWin": 29.5,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "MY BONNY BOY",
+        "topPick": "WILD STREAK",
+        "pickPWin": 0.2949,
+        "pickScore": 52.5,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "WILD STREAK",
+            "pModel": 0.2949,
+            "pClose": 0.0361,
+            "edge": 0.2588,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MY BONNY BOY",
+            "pModel": 0.173,
+            "pClose": 0.5265,
+            "edge": -0.3535,
+            "odds": 1.4,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "LANA'S GAL",
+            "pModel": 0.1673,
+            "pClose": 0.1263,
+            "edge": 0.041,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FLOWER BURST",
+            "pModel": 0.124,
+            "pClose": 0.0361,
+            "edge": 0.0879,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LANDMAN",
+            "pModel": 0.0934,
+            "pClose": 0.1805,
+            "edge": -0.0871,
+            "odds": 6,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TEQUILA TANGO",
+            "pModel": 0.0888,
+            "pClose": 0.0702,
+            "edge": 0.0186,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FUN RUN",
+            "pModel": 0.0586,
+            "pClose": 0.0243,
+            "edge": 0.0343,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {

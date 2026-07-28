@@ -1,0 +1,992 @@
+{
+  "id": "2026-06-27-hollywoodbets-durbanville-r1",
+  "date": "2026-06-27",
+  "track": "Hollywoodbets Durbanville",
+  "race": 1,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:24:08.375Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Eduan Muller",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.394,
+        "trainer": 0.452,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.18,
+        "trainer": 2.26,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 1,
+        "places": 6,
+        "winPct": 4,
+        "placePct": 23,
+        "record": "1-26"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 4,
+        "places": 12,
+        "winPct": 10,
+        "record": "4-40"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (56kg).",
+        "Against it: patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 1,
+      "pWin": 0.2949,
+      "pPlace": 0.5351,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MY BONNY BOY",
+      "key": "MY BONNY BOY",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.3,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.424,
+        "trainer": 0.493,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.393
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.27,
+        "trainer": 2.47,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.72
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 85,
+        "wins": 7,
+        "places": 36,
+        "winPct": 8,
+        "placePct": 42,
+        "record": "7-85"
+      },
+      "trainerRec": {
+        "starts": 51,
+        "wins": 7,
+        "places": 19,
+        "winPct": 14,
+        "record": "7-51"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: strong recent form; drawn 2 — a handy low draw.",
+        "Against it: top-weight (60kg); well beaten lately."
+      ],
+      "_strengths": [
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "well beaten lately"
+      ],
+      "rank": 2,
+      "pWin": 0.173,
+      "pPlace": 0.3501,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LANA'S GAL",
+      "key": "LANAS GAL",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.548,
+        "trainer": 0.491,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.64,
+        "trainer": 2.46,
+        "weight": 3.75,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 22,
+        "wins": 5,
+        "places": 9,
+        "winPct": 23,
+        "record": "5-22"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 6,
+        "places": 13,
+        "winPct": 19,
+        "placePct": 41,
+        "record": "6-32"
+      },
+      "trainerRec": {
+        "starts": 154,
+        "wins": 21,
+        "places": 61,
+        "winPct": 14,
+        "record": "21-154"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 19%-strike jockey booked.",
+        "Against it: patchy recent form.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.1673,
+      "pPlace": 0.34,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FLOWER BURST",
+      "key": "FLOWER BURST",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.359,
+        "trainer": 0.425,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.08,
+        "trainer": 2.13,
+        "weight": 3.75,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 1,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 48,
+        "wins": 1,
+        "places": 10,
+        "winPct": 2,
+        "placePct": 21,
+        "record": "1-48"
+      },
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 11,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.124,
+      "pPlace": 0.2592,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LANDMAN",
+      "key": "LANDMAN",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.544,
+        "trainer": 0.491,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.63,
+        "trainer": 2.46,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 14,
+        "wins": 1,
+        "places": 7,
+        "winPct": 7,
+        "record": "1-14"
+      },
+      "jockeyRec": {
+        "starts": 90,
+        "wins": 16,
+        "places": 49,
+        "winPct": 18,
+        "placePct": 54,
+        "record": "16-90"
+      },
+      "trainerRec": {
+        "starts": 154,
+        "wins": 21,
+        "places": 61,
+        "winPct": 14,
+        "record": "21-154"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 18%-strike jockey booked.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Jockey Richard Fourie in form (18% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "18%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0934,
+      "pPlace": 0.1989,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TEQUILA TANGO",
+      "key": "TEQUILA TANGO",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Gareth Wright",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.392,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.18,
+        "trainer": 2.16,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 42,
+        "wins": 2,
+        "places": 13,
+        "winPct": 5,
+        "placePct": 31,
+        "record": "2-42"
+      },
+      "trainerRec": {
+        "starts": 100,
+        "wins": 9,
+        "places": 38,
+        "winPct": 9,
+        "record": "9-100"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0888,
+      "pPlace": 0.1897,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FUN RUN",
+      "key": "FUN RUN",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.8,
+      "factors": {
+        "form": 0.235,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.351,
+        "trainer": 0.425,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.26
+      },
+      "contrib": {
+        "form": 4.22,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.05,
+        "trainer": 2.13,
+        "weight": 3.75,
+        "headToHead": 6,
+        "recencyMargin": 3.11
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": {
+        "starts": 17,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-17"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 3,
+        "record": "0-29"
+      },
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 11,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Against it: patchy recent form; lightly-supported jockey booking."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 7,
+      "pWin": 0.0586,
+      "pPlace": 0.1271,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "WILD STREAK",
+      "rank": 1,
+      "score": 52.5,
+      "rating": null,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.394,
+        "trainer": 0.452,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MY BONNY BOY",
+      "rank": 2,
+      "score": 49.3,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "26",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.424,
+        "trainer": 0.493,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.393
+      }
+    },
+    {
+      "no": null,
+      "name": "LANA'S GAL",
+      "rank": 3,
+      "score": 49.1,
+      "rating": null,
+      "draw": 5,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.548,
+        "trainer": 0.491,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FLOWER BURST",
+      "rank": 4,
+      "score": 47.3,
+      "rating": null,
+      "draw": 7,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.359,
+        "trainer": 0.425,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LANDMAN",
+      "rank": 5,
+      "score": 45.6,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.544,
+        "trainer": 0.491,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TEQUILA TANGO",
+      "rank": 6,
+      "score": 45.3,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.392,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FUN RUN",
+      "rank": 7,
+      "score": 42.8,
+      "rating": null,
+      "draw": 6,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "lastFive": "66",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.235,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.351,
+        "trainer": 0.425,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.26
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "MY BONNY BOY",
+      "key": "MY BONNY BOY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANDMAN",
+      "key": "LANDMAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANA'S GAL",
+      "key": "LANAS GAL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TEQUILA TANGO",
+      "key": "TEQUILA TANGO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FUN RUN",
+      "key": "FUN RUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FLOWER BURST",
+      "key": "FLOWER BURST",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "MY BONNY BOY",
+  "places": 2
+}

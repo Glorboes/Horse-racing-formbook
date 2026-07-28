@@ -1,0 +1,1371 @@
+{
+  "id": "2026-06-27-hollywoodbets-durbanville-r7",
+  "date": "2026-06-27",
+  "track": "Hollywoodbets Durbanville",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:24:08.484Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "FROM THE ISLAND",
+      "key": "FROM THE ISLAND",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 72.8,
+      "factors": {
+        "form": 1,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.605,
+        "trainer": 0.543,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.81,
+        "trainer": 2.71,
+        "weight": 3,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "HERO'S JOURNEY",
+          "UNCLE SAM",
+          "IT'SGOOD IT'SNICE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 0.80L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 22,
+        "wins": 5,
+        "places": 9,
+        "winPct": 23,
+        "record": "5-22"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 6,
+        "places": 13,
+        "winPct": 19,
+        "placePct": 41,
+        "record": "6-32"
+      },
+      "trainerRec": {
+        "starts": 154,
+        "wins": 21,
+        "places": 61,
+        "winPct": 14,
+        "record": "21-154"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 0.80L at Kenilworth.",
+        "Why it can win: strong recent form; has beaten HERO'S JOURNEY, UNCLE SAM; hitting the line hard lately.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Has beaten HERO'S JOURNEY, UNCLE SAM, IT'SGOOD IT'SNICE before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten HERO'S JOURNEY, UNCLE SAM",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.5167,
+      "pPlace": 0.9188,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "UNCLE SAM",
+      "key": "UNCLE SAM",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 64.1,
+      "factors": {
+        "form": 0.829,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.509,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.439,
+        "recencyMargin": 0.959
+      },
+      "contrib": {
+        "form": 14.91,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.53,
+        "trainer": 2.33,
+        "weight": 3,
+        "headToHead": 5.27,
+        "recencyMargin": 11.51
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "HERO'S JOURNEY",
+          "IT'SGOOD IT'SNICE"
+        ],
+        "losesTo": [
+          "FROM THE ISLAND",
+          "IT'SGOOD IT'SNICE"
+        ]
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 33,
+        "wins": 3,
+        "places": 15,
+        "winPct": 9,
+        "record": "3-33"
+      },
+      "jockeyRec": {
+        "starts": 60,
+        "wins": 7,
+        "places": 24,
+        "winPct": 12,
+        "placePct": 40,
+        "record": "7-60"
+      },
+      "trainerRec": {
+        "starts": 100,
+        "wins": 9,
+        "places": 38,
+        "winPct": 9,
+        "record": "9-100"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: drawn 1 — a handy low draw; hitting the line hard lately; strong recent form.",
+        "Against it: stable out of form.",
+        "Has beaten HERO'S JOURNEY, IT'SGOOD IT'SNICE before (H2H 2-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "recencyMargin",
+        "form"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "hitting the line hard lately",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.1212,
+      "pPlace": 0.4863,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "AQUAE CALIDAE",
+      "key": "AQUAE CALIDAE",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 63,
+      "factors": {
+        "form": 0.952,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.658,
+        "trainer": 0.589,
+        "weight": 0.5,
+        "headToHead": 0.184,
+        "recencyMargin": 0.906
+      },
+      "contrib": {
+        "form": 17.14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.97,
+        "trainer": 2.95,
+        "weight": 3,
+        "headToHead": 2.21,
+        "recencyMargin": 10.87
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "KALAHARI KING"
+        ]
+      },
+      "recentForm": [
+        "Won last start by 10L at Kenilworth.",
+        "Won by 10L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 4,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 81,
+        "wins": 17,
+        "places": 40,
+        "winPct": 21,
+        "placePct": 49,
+        "record": "17-81"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 5,
+        "places": 9,
+        "winPct": 18,
+        "record": "5-28"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "newPartnership": false,
+        "record": "1-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 10L at Kenilworth.",
+        "Won by 10L recently — has a telling turn of foot.",
+        "Why it can win: stable in form (18%); strong recent form; drawn 3 — a handy low draw.",
+        "Against it: beaten by KALAHARI KING before.",
+        "Winning partnership: Craig Zackey 1-2 on this horse.",
+        "Beaten by KALAHARI KING in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "stable in form (18%)",
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "beaten by KALAHARI KING before"
+      ],
+      "rank": 3,
+      "pWin": 0.1009,
+      "pPlace": 0.4213,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAGMA FLOW",
+      "key": "MAGMA FLOW",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.8,
+      "factors": {
+        "form": 0.81,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.366,
+        "trainer": 0.453,
+        "weight": 0.5,
+        "headToHead": 0.598,
+        "recencyMargin": 0.85
+      },
+      "contrib": {
+        "form": 14.57,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.1,
+        "trainer": 2.26,
+        "weight": 3,
+        "headToHead": 7.17,
+        "recencyMargin": 10.2
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "KALAHARI KING"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 7 last start.",
+        "Won by 5.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 1,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 48,
+        "wins": 1,
+        "places": 10,
+        "winPct": 2,
+        "placePct": 21,
+        "record": "1-48"
+      },
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 11,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Won by 5.50L recently — has a telling turn of foot.",
+        "Why it can win: has beaten KALAHARI KING.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten KALAHARI KING before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "has beaten KALAHARI KING"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0826,
+      "pPlace": 0.3562,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Gareth Wright",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.9,
+      "factors": {
+        "form": 0.767,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.408,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.367,
+        "recencyMargin": 0.928
+      },
+      "contrib": {
+        "form": 13.8,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.22,
+        "trainer": 2.33,
+        "weight": 3,
+        "headToHead": 4.41,
+        "recencyMargin": 11.13
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "3-3",
+        "wins": 3,
+        "losses": 3,
+        "meetings": 6,
+        "smallSample": false,
+        "beats": [
+          "HERO'S JOURNEY",
+          "UNCLE SAM",
+          "CAPTAIN'S ANGEL"
+        ],
+        "losesTo": [
+          "HERO'S JOURNEY",
+          "FROM THE ISLAND",
+          "UNCLE SAM"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 0.80L into 3rd last start — right there.",
+        "Consistent — placed in 3 of last 3."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 42,
+        "wins": 2,
+        "places": 13,
+        "winPct": 5,
+        "placePct": 31,
+        "record": "2-42"
+      },
+      "trainerRec": {
+        "starts": 100,
+        "wins": 9,
+        "places": 38,
+        "winPct": 9,
+        "record": "9-100"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.80L into 3rd last start — right there.",
+        "Consistent — placed in 3 of last 3.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten HERO'S JOURNEY, UNCLE SAM, CAPTAIN'S ANGEL before (H2H 3-3)."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0509,
+      "pPlace": 0.2306,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KALAHARI KING",
+      "key": "KALAHARI KING",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.4,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.608,
+        "trainer": 0.543,
+        "weight": 0.5,
+        "headToHead": 0.404,
+        "recencyMargin": 0.79
+      },
+      "contrib": {
+        "form": 12.86,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.82,
+        "trainer": 2.71,
+        "weight": 3,
+        "headToHead": 4.85,
+        "recencyMargin": 9.49
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "AQUAE CALIDAE"
+        ],
+        "losesTo": [
+          "MAGMA FLOW"
+        ]
+      },
+      "recentForm": [
+        "4th of 7 last start.",
+        "Won by 2.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 1,
+        "places": 7,
+        "winPct": 7,
+        "record": "1-14"
+      },
+      "jockeyRec": {
+        "starts": 90,
+        "wins": 16,
+        "places": 49,
+        "winPct": 18,
+        "placePct": 54,
+        "record": "16-90"
+      },
+      "trainerRec": {
+        "starts": 154,
+        "wins": 21,
+        "places": 61,
+        "winPct": 14,
+        "record": "21-154"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Won by 2.50L recently — has a telling turn of foot.",
+        "Why it can win: stable in form (14%).",
+        "Jockey Richard Fourie in form (18% strike).",
+        "Has beaten AQUAE CALIDAE before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "stable in form (14%)"
+      ],
+      "_conReasons": [],
+      "rank": 6,
+      "pWin": 0.0469,
+      "pPlace": 0.2134,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.2,
+      "factors": {
+        "form": 0.743,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.821,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.171,
+        "recencyMargin": 0.889
+      },
+      "contrib": {
+        "form": 13.37,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 2.46,
+        "trainer": 2.33,
+        "weight": 3,
+        "headToHead": 2.05,
+        "recencyMargin": 10.67
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-3",
+        "wins": 2,
+        "losses": 3,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "CAPTAIN'S ANGEL",
+          "IT'SGOOD IT'SNICE"
+        ],
+        "losesTo": [
+          "FROM THE ISLAND",
+          "UNCLE SAM",
+          "IT'SGOOD IT'SNICE"
+        ]
+      },
+      "recentForm": [
+        "Won last start by 1L at Kenilworth."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 18,
+        "places": 32,
+        "winPct": 32,
+        "placePct": 57,
+        "record": "18-56"
+      },
+      "trainerRec": {
+        "starts": 100,
+        "wins": 9,
+        "places": 38,
+        "winPct": 9,
+        "record": "9-100"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 1L at Kenilworth.",
+        "Why it can win: 32%-strike jockey booked.",
+        "Against it: beaten by FROM THE ISLAND, UNCLE SAM before; stable out of form.",
+        "Jockey Aldo Domeyer in form (32% strike).",
+        "Has beaten CAPTAIN'S ANGEL, IT'SGOOD IT'SNICE before (H2H 2-3)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "headToHead",
+        "trainer"
+      ],
+      "_strReasons": [
+        "32%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "beaten by FROM THE ISLAND, UNCLE SAM before",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0453,
+      "pPlace": 0.2068,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAPTAIN'S ANGEL",
+      "key": "CAPTAINS ANGEL",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.454,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0.912
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.36,
+        "trainer": 2.33,
+        "weight": 3,
+        "headToHead": 0,
+        "recencyMargin": 10.95
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "HERO'S JOURNEY",
+          "IT'SGOOD IT'SNICE"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1.05L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 85,
+        "wins": 7,
+        "places": 36,
+        "winPct": 8,
+        "placePct": 42,
+        "record": "7-85"
+      },
+      "trainerRec": {
+        "starts": 100,
+        "wins": 9,
+        "places": 38,
+        "winPct": 9,
+        "record": "9-100"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.05L into 3rd last start — right there.",
+        "Against it: beaten by HERO'S JOURNEY, IT'SGOOD IT'SNICE before; lightly-supported jockey booking.",
+        "Beaten by HERO'S JOURNEY, IT'SGOOD IT'SNICE in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "headToHead",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "beaten by HERO'S JOURNEY, IT'SGOOD IT'SNICE before",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0266,
+      "pPlace": 0.1243,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CATWALK KING",
+      "key": "CATWALK KING",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.677,
+        "trainer": 0.406,
+        "weight": 0.5,
+        "headToHead": 0.395,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 2.03,
+        "trainer": 2.03,
+        "weight": 3,
+        "headToHead": 4.74,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 43,
+        "wins": 10,
+        "places": 19,
+        "winPct": 23,
+        "placePct": 44,
+        "record": "10-43"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 1,
+        "places": 6,
+        "winPct": 4,
+        "record": "1-26"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; 23%-strike jockey booked.",
+        "Against it: patchy recent form; stable out of form.",
+        "Jockey Keagan De Melo in form (23% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "23%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 9,
+      "pWin": 0.0089,
+      "pPlace": 0.0423,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "FROM THE ISLAND",
+      "rank": 1,
+      "score": 72.8,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.605,
+        "trainer": 0.543,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "UNCLE SAM",
+      "rank": 2,
+      "score": 64.1,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "13",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.829,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.509,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.439,
+        "recencyMargin": 0.959
+      }
+    },
+    {
+      "no": null,
+      "name": "AQUAE CALIDAE",
+      "rank": 3,
+      "score": 63,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "lastFive": "12",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.952,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.658,
+        "trainer": 0.589,
+        "weight": 0.5,
+        "headToHead": 0.184,
+        "recencyMargin": 0.906
+      }
+    },
+    {
+      "no": null,
+      "name": "MAGMA FLOW",
+      "rank": 4,
+      "score": 61.8,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "lastFive": "31",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.81,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.366,
+        "trainer": 0.453,
+        "weight": 0.5,
+        "headToHead": 0.598,
+        "recencyMargin": 0.85
+      }
+    },
+    {
+      "no": null,
+      "name": "IT'SGOOD IT'SNICE",
+      "rank": 5,
+      "score": 58.9,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "322",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.767,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.408,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.367,
+        "recencyMargin": 0.928
+      }
+    },
+    {
+      "no": null,
+      "name": "KALAHARI KING",
+      "rank": 6,
+      "score": 58.4,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "41",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.608,
+        "trainer": 0.543,
+        "weight": 0.5,
+        "headToHead": 0.404,
+        "recencyMargin": 0.79
+      }
+    },
+    {
+      "no": null,
+      "name": "HERO'S JOURNEY",
+      "rank": 7,
+      "score": 58.2,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "14",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.743,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.821,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0.171,
+        "recencyMargin": 0.889
+      }
+    },
+    {
+      "no": null,
+      "name": "CAPTAIN'S ANGEL",
+      "rank": 8,
+      "score": 55,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.454,
+        "trainer": 0.465,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0.912
+      }
+    },
+    {
+      "no": null,
+      "name": "CATWALK KING",
+      "rank": 9,
+      "score": 48.4,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.677,
+        "trainer": 0.406,
+        "weight": 0.5,
+        "headToHead": 0.395,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "FROM THE ISLAND",
+      "key": "FROM THE ISLAND",
+      "points": 3.025,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "HERO'S JOURNEY",
+        "UNCLE SAM",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "MAGMA FLOW",
+      "key": "MAGMA FLOW",
+      "points": 1.013,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "KALAHARI KING"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "UNCLE SAM",
+      "key": "UNCLE SAM",
+      "points": 0.218,
+      "wins": 2,
+      "losses": 2,
+      "meetings": 4,
+      "beats": [
+        "HERO'S JOURNEY",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "losesTo": [
+        "FROM THE ISLAND",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "record": "2-2",
+      "smallSample": true
+    },
+    {
+      "name": "KALAHARI KING",
+      "key": "KALAHARI KING",
+      "points": 0.042,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "AQUAE CALIDAE"
+      ],
+      "losesTo": [
+        "MAGMA FLOW"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "CATWALK KING",
+      "key": "CATWALK KING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "points": -0.141,
+      "wins": 3,
+      "losses": 3,
+      "meetings": 6,
+      "beats": [
+        "HERO'S JOURNEY",
+        "UNCLE SAM",
+        "CAPTAIN'S ANGEL"
+      ],
+      "losesTo": [
+        "HERO'S JOURNEY",
+        "FROM THE ISLAND",
+        "UNCLE SAM"
+      ],
+      "record": "3-3",
+      "smallSample": false
+    },
+    {
+      "name": "AQUAE CALIDAE",
+      "key": "AQUAE CALIDAE",
+      "points": -1.056,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "KALAHARI KING"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "points": -1.123,
+      "wins": 2,
+      "losses": 3,
+      "meetings": 5,
+      "beats": [
+        "CAPTAIN'S ANGEL",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "losesTo": [
+        "FROM THE ISLAND",
+        "UNCLE SAM",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "record": "2-3",
+      "smallSample": false
+    },
+    {
+      "name": "CAPTAIN'S ANGEL",
+      "key": "CAPTAINS ANGEL",
+      "points": -1.978,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "HERO'S JOURNEY",
+        "IT'SGOOD IT'SNICE"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "FROM THE ISLAND",
+  "places": 3
+}
