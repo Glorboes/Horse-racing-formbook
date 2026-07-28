@@ -54,7 +54,7 @@ function parseMeeting(text) {
   const races = []; let cur = null, pending = null;
   const flush = () => { if (cur && cur.rows.length) races.push(cur); };
   for (const raw of lines) {
-    const line = raw.replace(/ /g, ' ').trim();
+    const line = raw.replace(/[\t ]/g, ' ').trim();
     if (!line) continue;
     if (/^Race\s+\d+/i.test(line)) { flush(); cur = { rows: [] }; pending = null; if (!/Previous Races/i.test(line)) continue; }
     if (/Previous Races/i.test(line)) { if (!cur) cur = { rows: [] }; continue; }

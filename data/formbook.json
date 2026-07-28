@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updated": "2026-07-28T19:16:16.068Z",
+    "updated": "2026-07-28T19:22:02.379Z",
     "tracks": [
       "Turffontein",
       "Vaal",
@@ -2914,6 +2914,34 @@
           "jockey": "S Veale",
           "trainer": "Candice Bass",
           "draw": 1
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 9.7,
+          "wonBy": null,
+          "beaten": [
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Candice Bass",
+          "draw": 8,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Candice Bass"
@@ -4226,7 +4254,7 @@
     },
     "OCTOBER FEST": {
       "name": "OCTOBER FEST",
-      "rating": null,
+      "rating": 75,
       "runs": [
         {
           "date": "2026-07-07",
@@ -4255,6 +4283,35 @@
           "jockey": "J P v'd Merwe",
           "trainer": "Candice Bass",
           "draw": 5
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 10,
+          "marginBehindWinner": 7.5,
+          "wonBy": null,
+          "beaten": [
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 58,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Candice Bass",
+          "draw": 9,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Candice Bass"
@@ -4602,7 +4659,7 @@
     },
     "BEWARE": {
       "name": "BEWARE",
-      "rating": null,
+      "rating": 103,
       "runs": [
         {
           "date": "2026-07-07",
@@ -4628,6 +4685,39 @@
           "jockey": "S Veale",
           "trainer": "Lucinda Woodruff",
           "draw": 3
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 13,
+          "marginBehindWinner": 1.6,
+          "wonBy": null,
+          "beaten": [
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 54.5,
+          "jockey": "Richard Fourie",
+          "trainer": "Lucinda Woodruff",
+          "draw": 6,
+          "sp": "4/1",
+          "oddsDecimal": 5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Lucinda Woodruff"
@@ -4665,7 +4755,7 @@
     },
     "KING REGENT": {
       "name": "KING REGENT",
-      "rating": null,
+      "rating": 106,
       "runs": [
         {
           "date": "2026-07-07",
@@ -4689,13 +4779,45 @@
           "jockey": "S Bungane",
           "trainer": "Glen Kotzen",
           "draw": 2
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 13,
+          "marginBehindWinner": 2.35,
+          "wonBy": null,
+          "beaten": [
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 57,
+          "jockey": "Chad Little",
+          "trainer": "Glen Kotzen",
+          "draw": 12,
+          "sp": "50/1",
+          "oddsDecimal": 51,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Glen Kotzen"
     },
     "DANCE VARIETY": {
       "name": "DANCE VARIETY",
-      "rating": null,
+      "rating": 112,
       "runs": [
         {
           "date": "2026-07-07",
@@ -4718,13 +4840,51 @@
           "jockey": "C Zackey",
           "trainer": "Adam Marcus",
           "draw": 6
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 13,
+          "marginBehindWinner": 0,
+          "wonBy": 0.6,
+          "beaten": [
+            "SARDINIA BAY",
+            "TEFLON MAN",
+            "KAIBOY",
+            "BEWARE",
+            "DEMANDING DAVE",
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 60,
+          "jockey": "Calvin Habib",
+          "trainer": "Adam Marcus",
+          "draw": 4,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Adam Marcus"
     },
     "DUMBLEDORE": {
       "name": "DUMBLEDORE",
-      "rating": null,
+      "rating": 106,
       "runs": [
         {
           "date": "2026-07-07",
@@ -4746,6 +4906,33 @@
           "jockey": "M Michel",
           "trainer": "Vaughan Marshall",
           "draw": 7
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 12,
+          "field": 13,
+          "marginBehindWinner": 4.7,
+          "wonBy": null,
+          "beaten": [
+            "PISTOL PETE"
+          ],
+          "weight": 57,
+          "jockey": "Sean Veale",
+          "trainer": "Vaughan Marshall",
+          "draw": 11,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Vaughan Marshall"
@@ -5546,7 +5733,7 @@
     },
     "WILLIAMS WOMAN": {
       "name": "WILLIAM'S WOMAN",
-      "rating": 71,
+      "rating": 73,
       "runs": [
         {
           "date": "2026-07-14",
@@ -5571,6 +5758,31 @@
           "draw": 1,
           "sp": "9-4",
           "oddsDecimal": 3.25
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 7.8,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 59.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 7,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Michelle Rix"
@@ -6221,7 +6433,7 @@
     },
     "CHURCHILLIAN": {
       "name": "CHURCHILLIAN",
-      "rating": 92,
+      "rating": 96,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6251,6 +6463,36 @@
           "draw": 3,
           "sp": "25-2",
           "oddsDecimal": 13.5
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 13,
+          "marginBehindWinner": 2.4,
+          "wonBy": null,
+          "beaten": [
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 51,
+          "jockey": "Muzi Yeni",
+          "trainer": "Candice Bass",
+          "draw": 2,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Candice Bass"
@@ -6481,7 +6723,7 @@
     },
     "FAST TRAIN": {
       "name": "FAST TRAIN",
-      "rating": 86,
+      "rating": 82,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6503,6 +6745,34 @@
           "draw": 7,
           "sp": "7-1",
           "oddsDecimal": 8
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 2.55,
+          "wonBy": null,
+          "beaten": [
+            "COASTAL COMMANDER",
+            "SAN PEDRO"
+          ],
+          "weight": 57.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Patrick Kruyer",
+          "draw": 3,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Patrick Kruyer"
@@ -6539,13 +6809,45 @@
           "draw": 2,
           "sp": "33-10",
           "oddsDecimal": 4.3
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 3.5,
+          "wonBy": null,
+          "beaten": [
+            "WHY NOT JACKIE",
+            "INNERBLOOM",
+            "LHASA",
+            "PARALEGAL",
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 59.5,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 3,
+          "sp": "17/10",
+          "oddsDecimal": 2.7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Candice Bass"
     },
     "TAKE IT AS RED": {
       "name": "TAKE IT AS RED",
-      "rating": 64,
+      "rating": 71,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6574,6 +6876,33 @@
           "draw": 3,
           "sp": "9-2",
           "oddsDecimal": 5.5
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 6.55,
+          "wonBy": null,
+          "beaten": [
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 58.5,
+          "jockey": "Oswald Noach",
+          "trainer": "Piet/Elbert Steyn",
+          "draw": 8,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Piet Steyn"
@@ -6647,7 +6976,7 @@
     },
     "SCANDALIZE": {
       "name": "SCANDALIZE",
-      "rating": 74,
+      "rating": 71,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6673,6 +7002,36 @@
           "draw": 6,
           "sp": "5-2",
           "oddsDecimal": 3.5
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 5,
+          "wonBy": null,
+          "beaten": [
+            "ROCK THE ROAD",
+            "LOVE HER MADLY",
+            "KIERA ROSE",
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Chad Little",
+          "trainer": "Glen Kotzen",
+          "draw": 3,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Glen Kotzen"
@@ -6710,7 +7069,7 @@
     },
     "WHY NOT JACKIE": {
       "name": "WHY NOT JACKIE",
-      "rating": 64,
+      "rating": 66,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6734,6 +7093,37 @@
           "draw": 8,
           "sp": "14-1",
           "oddsDecimal": 15
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 3.8,
+          "wonBy": null,
+          "beaten": [
+            "INNERBLOOM",
+            "LHASA",
+            "PARALEGAL",
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 58,
+          "jockey": "Craig Zackey",
+          "trainer": "Paul Reeves",
+          "draw": 6,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Paul Reeves"
@@ -6906,7 +7296,7 @@
     },
     "IT IS MY TIME": {
       "name": "IT IS MY TIME",
-      "rating": 88,
+      "rating": 85,
       "runs": [
         {
           "date": "2026-07-14",
@@ -6932,6 +7322,38 @@
           "draw": 4,
           "sp": "9-2",
           "oddsDecimal": 5.5
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "wonBy": 0.6,
+          "beaten": [
+            "SOMMERSTERN",
+            "LOVING PRAGUE (AUS)",
+            "MARCUS AURELIUS",
+            "FAST TRAIN",
+            "COASTAL COMMANDER",
+            "SAN PEDRO"
+          ],
+          "weight": 61.5,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 7,
+          "sp": "3/1",
+          "oddsDecimal": 4,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Des A McLachlan"
@@ -7240,7 +7662,7 @@
     },
     "LOVING PRAGUE": {
       "name": "LOVING PRAGUE",
-      "rating": 82,
+      "rating": 83,
       "runs": [
         {
           "date": "2026-07-14",
@@ -7267,6 +7689,36 @@
           "draw": 9,
           "sp": "16-1",
           "oddsDecimal": 17
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 1,
+          "wonBy": null,
+          "beaten": [
+            "MARCUS AURELIUS",
+            "FAST TRAIN",
+            "COASTAL COMMANDER",
+            "SAN PEDRO"
+          ],
+          "weight": 58,
+          "jockey": "Keagan De Melo",
+          "trainer": "Andre Nel",
+          "draw": 1,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Andre Nel"
@@ -8064,7 +8516,7 @@
     },
     "LOVE HER MADLY": {
       "name": "LOVE HER MADLY",
-      "rating": 68,
+      "rating": 73,
       "runs": [
         {
           "date": "2026-07-18",
@@ -8098,6 +8550,34 @@
           "s800": 46.767,
           "s400": 22.676,
           "sDist": 1256.14
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 6.3,
+          "wonBy": null,
+          "beaten": [
+            "KIERA ROSE",
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Craig Zackey",
+          "trainer": "Paul Reeves",
+          "draw": 2,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Paul Reeves"
@@ -8779,7 +9259,7 @@
     },
     "LADY VERITAS": {
       "name": "LADY VERITAS",
-      "rating": 80,
+      "rating": 81,
       "runs": [
         {
           "date": "2026-07-18",
@@ -8819,13 +9299,41 @@
           "s800": 47.963,
           "s400": 23.304,
           "sDist": 1512.66
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 6,
+          "marginBehindWinner": 5.05,
+          "wonBy": null,
+          "beaten": [
+            "HER WORLD",
+            "SPIRIT OF LEVANA"
+          ],
+          "weight": 56,
+          "jockey": "Muzi Yeni",
+          "trainer": "Greg Ennion",
+          "draw": 5,
+          "sp": "25/2",
+          "oddsDecimal": 13.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Greg Ennion"
     },
     "BOOZY SUSIE": {
       "name": "BOOZY SUSIE",
-      "rating": 79,
+      "rating": 82,
       "runs": [
         {
           "date": "2026-07-18",
@@ -8864,6 +9372,33 @@
           "s800": 47.348,
           "s400": 22.805,
           "sDist": 1513.45
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 10,
+          "marginBehindWinner": 9.65,
+          "wonBy": null,
+          "beaten": [
+            "PEACE OF MIND"
+          ],
+          "weight": 59.5,
+          "jockey": "Sean Veale",
+          "trainer": "James Crawford",
+          "draw": 8,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "James Crawford"
@@ -8984,7 +9519,7 @@
     },
     "EISTEDDFOD": {
       "name": "EISTEDDFOD",
-      "rating": 79,
+      "rating": 81,
       "runs": [
         {
           "date": "2026-07-18",
@@ -9020,13 +9555,45 @@
           "s800": 48.542,
           "s400": 23.727,
           "sDist": 1514.92
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 10,
+          "marginBehindWinner": 6.15,
+          "wonBy": null,
+          "beaten": [
+            "MARITZBURG MEMORY",
+            "SAACHI ONE",
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 59,
+          "jockey": "Craig Zackey",
+          "trainer": "Piet Botha",
+          "draw": 10,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Piet Botha"
     },
     "SAACHI ONE": {
       "name": "SAACHI ONE",
-      "rating": 78,
+      "rating": 81,
       "runs": [
         {
           "date": "2026-07-18",
@@ -9060,6 +9627,36 @@
           "s800": 48.051,
           "s400": 23.387,
           "sDist": 1516.22
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 10,
+          "marginBehindWinner": 7.2,
+          "wonBy": null,
+          "beaten": [
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 59,
+          "jockey": "Chad Little",
+          "trainer": "Lucinda Woodruff",
+          "draw": 1,
+          "sp": "20/1",
+          "oddsDecimal": 21,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Lucinda Woodruff"
@@ -9291,7 +9888,7 @@
     },
     "HAMPSTEAD HEATH": {
       "name": "HAMPSTEAD HEATH",
-      "rating": 77,
+      "rating": 75,
       "runs": [
         {
           "date": "2026-07-18",
@@ -9314,6 +9911,39 @@
           "trainer": "Adam Marcus",
           "draw": 11,
           "time": 0
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 10,
+          "marginBehindWinner": 3.4,
+          "wonBy": null,
+          "beaten": [
+            "EISTEDDFOD",
+            "MARITZBURG MEMORY",
+            "SAACHI ONE",
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 58,
+          "jockey": "Calvin Habib",
+          "trainer": "Adam Marcus",
+          "draw": 6,
+          "sp": "17/2",
+          "oddsDecimal": 9.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Adam Marcus"
@@ -9475,7 +10105,7 @@
     },
     "MEGS LEGACY": {
       "name": "MEG'S LEGACY",
-      "rating": 70,
+      "rating": 66,
       "runs": [
         {
           "date": "2026-07-18",
@@ -9509,6 +10139,39 @@
           "s800": 48.212,
           "s400": 24.038,
           "sDist": 1517.73
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 3.5,
+          "beaten": [
+            "FINAL CALL",
+            "WHY NOT JACKIE",
+            "INNERBLOOM",
+            "LHASA",
+            "PARALEGAL",
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 58,
+          "jockey": "Calvin Habib",
+          "trainer": "Adam Marcus",
+          "draw": 1,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Adam Marcus"
@@ -10264,7 +10927,7 @@
     },
     "PEACE OF MIND": {
       "name": "PEACE OF MIND",
-      "rating": 72,
+      "rating": 74,
       "runs": [
         {
           "date": "2026-07-18",
@@ -10301,6 +10964,31 @@
           "s800": 45.752,
           "s400": 22.464,
           "sDist": 995.66
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 10,
+          "field": 10,
+          "marginBehindWinner": 11.65,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 4,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Ashley Fortune"
@@ -10424,6 +11112,38 @@
           "s800": 46.148,
           "s400": 22.688,
           "sDist": 999.94
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 0.4,
+          "wonBy": null,
+          "beaten": [
+            "FORT RED",
+            "HERITAGE RIDGE",
+            "GALACTUS",
+            "EASY MONEY",
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 57.5,
+          "jockey": "Craig Zackey",
+          "trainer": "Paul Reeves",
+          "draw": 5,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Paul Reeves"
@@ -10501,13 +11221,41 @@
           "s800": 46.207,
           "s400": 22.882,
           "sDist": 998.75
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 2.3,
+          "wonBy": null,
+          "beaten": [
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 56,
+          "jockey": "Gareth Wright",
+          "trainer": "Piet Botha",
+          "draw": 1,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Piet Botha"
     },
     "HERITAGE RIDGE": {
       "name": "HERITAGE RIDGE",
-      "rating": 61,
+      "rating": 59,
       "runs": [
         {
           "date": "2026-07-18",
@@ -10538,6 +11286,36 @@
           "s800": 46.593,
           "s400": 23.134,
           "sDist": 998.37
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 0.95,
+          "wonBy": null,
+          "beaten": [
+            "GALACTUS",
+            "EASY MONEY",
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 56.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 6,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Michelle Rix"
@@ -10580,7 +11358,7 @@
     },
     "GALACTUS": {
       "name": "GALACTUS",
-      "rating": 62,
+      "rating": 64,
       "runs": [
         {
           "date": "2026-07-18",
@@ -10609,6 +11387,35 @@
           "s800": 46.682,
           "s400": 23.443,
           "sDist": 996.71
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 2.2,
+          "wonBy": null,
+          "beaten": [
+            "EASY MONEY",
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 61.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Mike Stewart",
+          "draw": 7,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Mike Stewart"
@@ -10899,6 +11706,43 @@
           "s800": 45.491,
           "s400": 22.567,
           "sDist": 998.08
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 13,
+          "marginBehindWinner": 0.6,
+          "wonBy": null,
+          "beaten": [
+            "TEFLON MAN",
+            "KAIBOY",
+            "BEWARE",
+            "DEMANDING DAVE",
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 54,
+          "jockey": "Keagan De Melo",
+          "trainer": "Greg Ennion",
+          "draw": 10,
+          "sp": "11/2",
+          "oddsDecimal": 6.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Greg Ennion"
@@ -11049,13 +11893,46 @@
           "s800": 45.322,
           "s400": 22.288,
           "sDist": 999.31
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 13,
+          "marginBehindWinner": 1.6,
+          "wonBy": null,
+          "beaten": [
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 55.5,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Mike Stewart",
+          "draw": 9,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Mike Stewart"
     },
     "NORTH POINT": {
       "name": "NORTH POINT",
-      "rating": 100,
+      "rating": 101,
       "runs": [
         {
           "date": "2026-07-18",
@@ -11084,6 +11961,36 @@
           "s800": 46.161,
           "s400": 23.211,
           "sDist": 994.15
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 13,
+          "marginBehindWinner": 2.4,
+          "wonBy": null,
+          "beaten": [
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 52.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "James Crawford",
+          "draw": 3,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "James Crawford"
@@ -12197,7 +13104,7 @@
     },
     "MARCUS AURELIUS": {
       "name": "MARCUS AURELIUS",
-      "rating": 88,
+      "rating": 86,
       "runs": [
         {
           "date": "2026-07-25",
@@ -12230,6 +13137,35 @@
           "s800": 48.803,
           "s400": 24.232,
           "sDist": 1620.24
+        },
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 2.25,
+          "wonBy": null,
+          "beaten": [
+            "FAST TRAIN",
+            "COASTAL COMMANDER",
+            "SAN PEDRO"
+          ],
+          "weight": 59.5,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 5,
+          "sp": "15/4",
+          "oddsDecimal": 4.75,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "trainer": "Candice Bass"
@@ -14781,6 +15717,1318 @@
         }
       ],
       "trainer": "Piet/Elbert Steyn"
+    },
+    "MYSTIC INFERNO": {
+      "name": "MYSTIC INFERNO",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 5,
+          "beaten": [
+            "IN HOT WATER",
+            "SPARKLING STAR",
+            "PEACE GARLAND",
+            "WHAT THE FLUFF",
+            "MACRO GRAVITY",
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Craig Zackey",
+          "trainer": "Eric Sands",
+          "draw": 5,
+          "sp": "25/2",
+          "oddsDecimal": 13.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Eric Sands"
+    },
+    "IN HOT WATER": {
+      "name": "IN HOT WATER",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 5,
+          "wonBy": null,
+          "beaten": [
+            "SPARKLING STAR",
+            "PEACE GARLAND",
+            "WHAT THE FLUFF",
+            "MACRO GRAVITY",
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Richard Fourie",
+          "trainer": "James Crawford",
+          "draw": 6,
+          "sp": "7/1",
+          "oddsDecimal": 8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "SPARKLING STAR": {
+      "name": "SPARKLING STAR",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 5.4,
+          "wonBy": null,
+          "beaten": [
+            "PEACE GARLAND",
+            "WHAT THE FLUFF",
+            "MACRO GRAVITY",
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 2,
+          "sp": "3/10",
+          "oddsDecimal": 1.3,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "PEACE GARLAND": {
+      "name": "PEACE GARLAND",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 5.45,
+          "wonBy": null,
+          "beaten": [
+            "WHAT THE FLUFF",
+            "MACRO GRAVITY",
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Oswald Noach",
+          "trainer": "Vaughan Marshall",
+          "draw": 7,
+          "sp": "25/2",
+          "oddsDecimal": 13.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "WHAT THE FLUFF": {
+      "name": "WHAT THE FLUFF",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 8.45,
+          "wonBy": null,
+          "beaten": [
+            "MACRO GRAVITY",
+            "LA BOHEME",
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Keagan De Melo",
+          "trainer": "Paul Reeves",
+          "draw": 3,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Paul Reeves"
+    },
+    "LA BOHEME": {
+      "name": "LA BOHEME",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 12.45,
+          "wonBy": null,
+          "beaten": [
+            "QUEEN INDRANI"
+          ],
+          "weight": 60,
+          "jockey": "Calvin Habib",
+          "trainer": "Vaughan Marshall",
+          "draw": 4,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "QUEEN INDRANI": {
+      "name": "QUEEN INDRANI",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 37.45,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "Muzi Yeni",
+          "trainer": "Michelle Rix",
+          "draw": 1,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Michelle Rix"
+    },
+    "IONA CASTLE": {
+      "name": "IONA CASTLE",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "wonBy": 4.5,
+          "beaten": [
+            "SWIFT SERENITY",
+            "SCANDALIZE",
+            "ROCK THE ROAD",
+            "LOVE HER MADLY",
+            "KIERA ROSE",
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Sean Veale",
+          "trainer": "James Crawford",
+          "draw": 1,
+          "sp": "2/1",
+          "oddsDecimal": 3,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "SWIFT SERENITY": {
+      "name": "SWIFT SERENITY",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 4.5,
+          "wonBy": null,
+          "beaten": [
+            "SCANDALIZE",
+            "ROCK THE ROAD",
+            "LOVE HER MADLY",
+            "KIERA ROSE",
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 6,
+          "sp": "9/4",
+          "oddsDecimal": 3.25,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Michelle Rix"
+    },
+    "ROCK THE ROAD": {
+      "name": "ROCK THE ROAD",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 6.25,
+          "wonBy": null,
+          "beaten": [
+            "LOVE HER MADLY",
+            "KIERA ROSE",
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Grant Behr",
+          "trainer": "Piet/Elbert Steyn",
+          "draw": 7,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Piet/Elbert Steyn"
+    },
+    "KIERA ROSE": {
+      "name": "KIERA ROSE",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 7,
+          "marginBehindWinner": 8.05,
+          "wonBy": null,
+          "beaten": [
+            "BLUFFTON"
+          ],
+          "weight": 60,
+          "jockey": "Keagan De Melo",
+          "trainer": "Andre Nel",
+          "draw": 4,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "BLUFFTON": {
+      "name": "BLUFFTON",
+      "rating": null,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 15.8,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "Varun Jodhee",
+          "trainer": "Andre Nel",
+          "draw": 5,
+          "sp": "100/1",
+          "oddsDecimal": 101,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "SOMMERSTERN": {
+      "name": "SOMMERSTERN",
+      "rating": 78,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 0.6,
+          "wonBy": null,
+          "beaten": [
+            "LOVING PRAGUE (AUS)",
+            "MARCUS AURELIUS",
+            "FAST TRAIN",
+            "COASTAL COMMANDER",
+            "SAN PEDRO"
+          ],
+          "weight": 58,
+          "jockey": "Chad Little",
+          "trainer": "Lucinda Woodruff",
+          "draw": 2,
+          "sp": "33/10",
+          "oddsDecimal": 4.3,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Lucinda Woodruff"
+    },
+    "COASTAL COMMANDER": {
+      "name": "COASTAL COMMANDER",
+      "rating": 80,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 7,
+          "marginBehindWinner": 3.8,
+          "wonBy": null,
+          "beaten": [
+            "SAN PEDRO"
+          ],
+          "weight": 59,
+          "jockey": "Richard Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 6,
+          "sp": "17/2",
+          "oddsDecimal": 9.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "SAN PEDRO": {
+      "name": "SAN PEDRO",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 21.8,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 57.5,
+          "jockey": "Sifisokuhle Bungane",
+          "trainer": "Vaughan Marshall",
+          "draw": 4,
+          "sp": "40/1",
+          "oddsDecimal": 41,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "PENTOLINA": {
+      "name": "PENTOLINA",
+      "rating": 75,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 6,
+          "marginBehindWinner": 0,
+          "wonBy": 3.5,
+          "beaten": [
+            "SPECIAL GLAMOUR",
+            "BENEATH THE CLOUDS",
+            "LADY VERITAS",
+            "HER WORLD",
+            "SPIRIT OF LEVANA"
+          ],
+          "weight": 56.5,
+          "jockey": "Richard Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 2,
+          "sp": "18/10",
+          "oddsDecimal": 2.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "SPECIAL GLAMOUR": {
+      "name": "SPECIAL GLAMOUR",
+      "rating": 64,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 6,
+          "marginBehindWinner": 3.5,
+          "wonBy": null,
+          "beaten": [
+            "BENEATH THE CLOUDS",
+            "LADY VERITAS",
+            "HER WORLD",
+            "SPIRIT OF LEVANA"
+          ],
+          "weight": 49,
+          "jockey": "Eduan Muller",
+          "trainer": "Andre Nel",
+          "draw": 3,
+          "sp": "11/2",
+          "oddsDecimal": 6.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "BENEATH THE CLOUDS": {
+      "name": "BENEATH THE CLOUDS",
+      "rating": 83,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 6,
+          "marginBehindWinner": 4.75,
+          "wonBy": null,
+          "beaten": [
+            "LADY VERITAS",
+            "HER WORLD",
+            "SPIRIT OF LEVANA"
+          ],
+          "weight": 60.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 6,
+          "sp": "9/4",
+          "oddsDecimal": 3.25,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Michelle Rix"
+    },
+    "HER WORLD": {
+      "name": "HER WORLD",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 6,
+          "marginBehindWinner": 5.15,
+          "wonBy": null,
+          "beaten": [
+            "SPIRIT OF LEVANA"
+          ],
+          "weight": 53.5,
+          "jockey": "Gareth Wright",
+          "trainer": "Ricky Maingard",
+          "draw": 1,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Ricky Maingard"
+    },
+    "SPIRIT OF LEVANA": {
+      "name": "SPIRIT OF LEVANA",
+      "rating": 73,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 6,
+          "marginBehindWinner": 5.65,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 53,
+          "jockey": "Sifisokuhle Bungane",
+          "trainer": "Glen Kotzen",
+          "draw": 4,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Glen Kotzen"
+    },
+    "INNERBLOOM": {
+      "name": "INNERBLOOM",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 4.8,
+          "wonBy": null,
+          "beaten": [
+            "LHASA",
+            "PARALEGAL",
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 61,
+          "jockey": "Chad Little",
+          "trainer": "Lucinda Woodruff",
+          "draw": 2,
+          "sp": "25/2",
+          "oddsDecimal": 13.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Lucinda Woodruff"
+    },
+    "LHASA": {
+      "name": "LHASA",
+      "rating": 67,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 5.3,
+          "wonBy": null,
+          "beaten": [
+            "PARALEGAL",
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 58.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Candice Bass",
+          "draw": 4,
+          "sp": "28/10",
+          "oddsDecimal": 3.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "PARALEGAL": {
+      "name": "PARALEGAL",
+      "rating": 73,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 5.8,
+          "wonBy": null,
+          "beaten": [
+            "TAKE IT AS RED",
+            "WILLIAM'S WOMAN"
+          ],
+          "weight": 55.5,
+          "jockey": "Varun Jodhee",
+          "trainer": "Vaughan Marshall",
+          "draw": 5,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "SLASH N BURN": {
+      "name": "SLASH 'N BURN (IRE)",
+      "rating": 76,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 0.4,
+          "beaten": [
+            "COUNTRY TIME",
+            "FORT RED",
+            "HERITAGE RIDGE",
+            "GALACTUS",
+            "EASY MONEY",
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 62,
+          "jockey": "Richard Fourie",
+          "trainer": "James Crawford",
+          "draw": 2,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "FORT RED": {
+      "name": "FORT RED",
+      "rating": 66,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 0.9,
+          "wonBy": null,
+          "beaten": [
+            "HERITAGE RIDGE",
+            "GALACTUS",
+            "EASY MONEY",
+            "DU MAURIER",
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 61.5,
+          "jockey": "Calvin Habib",
+          "trainer": "Mike Stewart",
+          "draw": 3,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Mike Stewart"
+    },
+    "DU MAURIER": {
+      "name": "DU MAURIER",
+      "rating": 74,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 5.55,
+          "wonBy": null,
+          "beaten": [
+            "AFRICAN MEMOIR"
+          ],
+          "weight": 61,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 4,
+          "sp": "18/10",
+          "oddsDecimal": 2.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "AFRICAN MEMOIR": {
+      "name": "AFRICAN MEMOIR",
+      "rating": 72,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 9.05,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60.5,
+          "jockey": "Eduan Muller",
+          "trainer": "Andre Nel",
+          "draw": 8,
+          "sp": "11/2",
+          "oddsDecimal": 6.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Andre Nel"
+    },
+    "TEFLON MAN": {
+      "name": "TEFLON MAN",
+      "rating": 106,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 13,
+          "marginBehindWinner": 0.9,
+          "wonBy": null,
+          "beaten": [
+            "KAIBOY",
+            "BEWARE",
+            "DEMANDING DAVE",
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 57,
+          "jockey": "Craig Zackey",
+          "trainer": "Dean Kannemeyer",
+          "draw": 8,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Dean Kannemeyer"
+    },
+    "KAIBOY": {
+      "name": "KAIBOY",
+      "rating": 108,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 13,
+          "marginBehindWinner": 1.2,
+          "wonBy": null,
+          "beaten": [
+            "BEWARE",
+            "DEMANDING DAVE",
+            "KING REGENT",
+            "NORTH POINT",
+            "CHURCHILLIAN",
+            "GEM KING",
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 58.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Candice Bass",
+          "draw": 5,
+          "sp": "33/1",
+          "oddsDecimal": 34,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Candice Bass"
+    },
+    "GEM KING": {
+      "name": "GEM KING",
+      "rating": 110,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 10,
+          "field": 13,
+          "marginBehindWinner": 2.7,
+          "wonBy": null,
+          "beaten": [
+            "THREE TIGERS",
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 60,
+          "jockey": "Grant Behr",
+          "trainer": "Piet/Elbert Steyn",
+          "draw": 13,
+          "sp": "100/1",
+          "oddsDecimal": 101,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Piet/Elbert Steyn"
+    },
+    "THREE TIGERS": {
+      "name": "THREE TIGERS",
+      "rating": 97,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 11,
+          "field": 13,
+          "marginBehindWinner": 3.45,
+          "wonBy": null,
+          "beaten": [
+            "DUMBLEDORE",
+            "PISTOL PETE"
+          ],
+          "weight": 48.5,
+          "jockey": "Sifisokuhle Bungane",
+          "trainer": "Michelle Rix",
+          "draw": 1,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Michelle Rix"
+    },
+    "PISTOL PETE": {
+      "name": "PISTOL PETE",
+      "rating": 119,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 13,
+          "field": 13,
+          "marginBehindWinner": 8.7,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 63,
+          "jockey": "Gareth Wright",
+          "trainer": "James Crawford",
+          "draw": 7,
+          "sp": "50/1",
+          "oddsDecimal": 51,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "WHIRLWIND": {
+      "name": "WHIRLWIND",
+      "rating": 82,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 10,
+          "marginBehindWinner": 0,
+          "wonBy": 3,
+          "beaten": [
+            "CLAIR DE LUNE",
+            "HAMPSTEAD HEATH",
+            "EISTEDDFOD",
+            "MARITZBURG MEMORY",
+            "SAACHI ONE",
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 59.5,
+          "jockey": "Richard Fourie",
+          "trainer": "James Crawford",
+          "draw": 3,
+          "sp": "1/1",
+          "oddsDecimal": 2,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
+    },
+    "CLAIR DE LUNE": {
+      "name": "CLAIR DE LUNE",
+      "rating": 83,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 10,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [
+            "HAMPSTEAD HEATH",
+            "EISTEDDFOD",
+            "MARITZBURG MEMORY",
+            "SAACHI ONE",
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 56,
+          "jockey": "Varun Jodhee",
+          "trainer": "Justin Snaith",
+          "draw": 5,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Justin Snaith"
+    },
+    "MARITZBURG MEMORY": {
+      "name": "MARITZBURG MEMORY",
+      "rating": 75,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 10,
+          "marginBehindWinner": 6.9,
+          "wonBy": null,
+          "beaten": [
+            "SAACHI ONE",
+            "OCTOBER FEST",
+            "RED BERYL",
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 58,
+          "jockey": "Oswald Noach",
+          "trainer": "Vaughan Marshall",
+          "draw": 2,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "Vaughan Marshall"
+    },
+    "RED BERYL": {
+      "name": "RED BERYL",
+      "rating": 77,
+      "runs": [
+        {
+          "date": "2026-04-01",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 10,
+          "marginBehindWinner": 7.9,
+          "wonBy": null,
+          "beaten": [
+            "BOOZY SUSIE",
+            "PEACE OF MIND"
+          ],
+          "weight": 57,
+          "jockey": "Keagan De Melo",
+          "trainer": "James Crawford",
+          "draw": 7,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "trainer": "James Crawford"
     }
   },
   "headToHead": {
@@ -20165,6 +22413,15 @@
         "going": null,
         "marginLengths": 2.3,
         "winner": "BEWARE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "BEWARE"
       }
     ],
     "BEWARE|DANCE VARIETY": [
@@ -20176,6 +22433,15 @@
         "going": null,
         "marginLengths": 2.5,
         "winner": "BEWARE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.6,
+        "winner": "DANCE VARIETY"
       }
     ],
     "BEWARE|DUMBLEDORE": [
@@ -20186,6 +22452,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 3.25,
+        "winner": "BEWARE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.1,
         "winner": "BEWARE"
       }
     ],
@@ -20253,6 +22528,15 @@
         "going": null,
         "marginLengths": 0.2,
         "winner": "KING REGENT"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.35,
+        "winner": "DANCE VARIETY"
       }
     ],
     "DUMBLEDORE|KING REGENT": [
@@ -20263,6 +22547,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 0.95,
+        "winner": "KING REGENT"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.35,
         "winner": "KING REGENT"
       }
     ],
@@ -20285,6 +22578,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 0.75,
+        "winner": "DANCE VARIETY"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.7,
         "winner": "DANCE VARIETY"
       }
     ],
@@ -22121,6 +24423,15 @@
         "going": null,
         "marginLengths": 0.3,
         "winner": "FINAL CALL"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.05,
+        "winner": "FINAL CALL"
       }
     ],
     "FINAL CALL|PACIFIC WATERS": [
@@ -22175,6 +24486,15 @@
         "distance": 1250,
         "going": null,
         "marginLengths": 5.5,
+        "winner": "FINAL CALL"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
         "winner": "FINAL CALL"
       }
     ],
@@ -22242,6 +24562,15 @@
         "going": null,
         "marginLengths": 5.2,
         "winner": "TAKE IT AS RED"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.75,
+        "winner": "WHY NOT JACKIE"
       }
     ],
     "CRAZY LITTLE THING|TAKE IT AS RED": [
@@ -25155,6 +27484,15 @@
         "going": null,
         "marginLengths": 3.25,
         "winner": "BOOZY SUSIE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "EISTEDDFOD"
       }
     ],
     "BOOZY SUSIE|SAACHI ONE": [
@@ -25166,6 +27504,15 @@
         "going": null,
         "marginLengths": 3.35,
         "winner": "BOOZY SUSIE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.45,
+        "winner": "SAACHI ONE"
       }
     ],
     "BOOZY SUSIE|MIGHTY MARY": [
@@ -25243,6 +27590,15 @@
         "going": null,
         "marginLengths": 9.4,
         "winner": "BOOZY SUSIE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "HAMPSTEAD HEATH"
       }
     ],
     "AMAYAH|BOOZY SUSIE": [
@@ -25496,6 +27852,15 @@
         "going": null,
         "marginLengths": 0.1,
         "winner": "EISTEDDFOD"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.05,
+        "winner": "EISTEDDFOD"
       }
     ],
     "EISTEDDFOD|MIGHTY MARY": [
@@ -25573,6 +27938,15 @@
         "going": null,
         "marginLengths": 6.15,
         "winner": "EISTEDDFOD"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.75,
+        "winner": "HAMPSTEAD HEATH"
       }
     ],
     "AMAYAH|EISTEDDFOD": [
@@ -25661,6 +28035,15 @@
         "going": null,
         "marginLengths": 6.05,
         "winner": "SAACHI ONE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "HAMPSTEAD HEATH"
       }
     ],
     "AMAYAH|SAACHI ONE": [
@@ -27408,6 +29791,15 @@
         "going": null,
         "marginLengths": 0.8,
         "winner": "COUNTRY TIME"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.9,
+        "winner": "COUNTRY TIME"
       }
     ],
     "COUNTRY TIME|HERITAGE RIDGE": [
@@ -27418,6 +29810,15 @@
         "distance": 1000,
         "going": null,
         "marginLengths": 1.8,
+        "winner": "COUNTRY TIME"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.55,
         "winner": "COUNTRY TIME"
       }
     ],
@@ -27440,6 +29841,15 @@
         "distance": 1000,
         "going": null,
         "marginLengths": 2.6,
+        "winner": "COUNTRY TIME"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
         "winner": "COUNTRY TIME"
       }
     ],
@@ -27540,6 +29950,15 @@
         "going": null,
         "marginLengths": 1,
         "winner": "EASY MONEY"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.35,
+        "winner": "HERITAGE RIDGE"
       }
     ],
     "EASY MONEY|LOVE SHACK": [
@@ -27562,6 +29981,15 @@
         "going": null,
         "marginLengths": 1.8,
         "winner": "EASY MONEY"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.1,
+        "winner": "GALACTUS"
       }
     ],
     "EASY MONEY|HIAWATHA GOLDBERG": [
@@ -27605,6 +30033,15 @@
         "distance": 1000,
         "going": null,
         "marginLengths": 0.8,
+        "winner": "HERITAGE RIDGE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
         "winner": "HERITAGE RIDGE"
       }
     ],
@@ -28044,6 +30481,15 @@
         "going": null,
         "marginLengths": 2.55,
         "winner": "SARDINIA BAY"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "SARDINIA BAY"
       }
     ],
     "NORTH POINT|SARDINIA BAY": [
@@ -28054,6 +30500,15 @@
         "distance": 1000,
         "going": null,
         "marginLengths": 3.8,
+        "winner": "SARDINIA BAY"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
         "winner": "SARDINIA BAY"
       }
     ],
@@ -28252,6 +30707,15 @@
         "distance": 1000,
         "going": null,
         "marginLengths": 1.25,
+        "winner": "DEMANDING DAVE"
+      },
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.8,
         "winner": "DEMANDING DAVE"
       }
     ],
@@ -34351,6 +36815,2646 @@
         "marginLengths": 2.75,
         "winner": "CAESAR'S RANSOM"
       }
+    ],
+    "IN HOT WATER|MYSTIC INFERNO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "MYSTIC INFERNO|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.4,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "MYSTIC INFERNO|PEACE GARLAND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.45,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "MYSTIC INFERNO|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.45,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "MACRO GRAVITY|MYSTIC INFERNO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 9.7,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "LA BOHEME|MYSTIC INFERNO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 12.45,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "MYSTIC INFERNO|QUEEN INDRANI": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 37.45,
+        "winner": "MYSTIC INFERNO"
+      }
+    ],
+    "IN HOT WATER|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "IN HOT WATER|PEACE GARLAND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.45,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "IN HOT WATER|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.45,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "IN HOT WATER|MACRO GRAVITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.7,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "IN HOT WATER|LA BOHEME": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.45,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "IN HOT WATER|QUEEN INDRANI": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 32.45,
+        "winner": "IN HOT WATER"
+      }
+    ],
+    "PEACE GARLAND|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "SPARKLING STAR"
+      }
+    ],
+    "SPARKLING STAR|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.05,
+        "winner": "SPARKLING STAR"
+      }
+    ],
+    "MACRO GRAVITY|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.3,
+        "winner": "SPARKLING STAR"
+      }
+    ],
+    "LA BOHEME|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.05,
+        "winner": "SPARKLING STAR"
+      }
+    ],
+    "QUEEN INDRANI|SPARKLING STAR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 32.05,
+        "winner": "SPARKLING STAR"
+      }
+    ],
+    "PEACE GARLAND|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "PEACE GARLAND"
+      }
+    ],
+    "MACRO GRAVITY|PEACE GARLAND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.25,
+        "winner": "PEACE GARLAND"
+      }
+    ],
+    "LA BOHEME|PEACE GARLAND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7,
+        "winner": "PEACE GARLAND"
+      }
+    ],
+    "PEACE GARLAND|QUEEN INDRANI": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 32,
+        "winner": "PEACE GARLAND"
+      }
+    ],
+    "MACRO GRAVITY|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "WHAT THE FLUFF"
+      }
+    ],
+    "LA BOHEME|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "WHAT THE FLUFF"
+      }
+    ],
+    "QUEEN INDRANI|WHAT THE FLUFF": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 29,
+        "winner": "WHAT THE FLUFF"
+      }
+    ],
+    "LA BOHEME|MACRO GRAVITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.75,
+        "winner": "MACRO GRAVITY"
+      }
+    ],
+    "MACRO GRAVITY|QUEEN INDRANI": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 27.75,
+        "winner": "MACRO GRAVITY"
+      }
+    ],
+    "LA BOHEME|QUEEN INDRANI": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 1,
+        "distance": null,
+        "going": null,
+        "marginLengths": 25,
+        "winner": "LA BOHEME"
+      }
+    ],
+    "IONA CASTLE|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.5,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "IONA CASTLE|SCANDALIZE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "IONA CASTLE|ROCK THE ROAD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.25,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "IONA CASTLE|LOVE HER MADLY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.3,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "IONA CASTLE|KIERA ROSE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.05,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "BLUFFTON|IONA CASTLE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 15.8,
+        "winner": "IONA CASTLE"
+      }
+    ],
+    "SCANDALIZE|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "SWIFT SERENITY"
+      }
+    ],
+    "ROCK THE ROAD|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "SWIFT SERENITY"
+      }
+    ],
+    "LOVE HER MADLY|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "SWIFT SERENITY"
+      }
+    ],
+    "KIERA ROSE|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.55,
+        "winner": "SWIFT SERENITY"
+      }
+    ],
+    "BLUFFTON|SWIFT SERENITY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 11.3,
+        "winner": "SWIFT SERENITY"
+      }
+    ],
+    "ROCK THE ROAD|SCANDALIZE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "SCANDALIZE"
+      }
+    ],
+    "LOVE HER MADLY|SCANDALIZE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.3,
+        "winner": "SCANDALIZE"
+      }
+    ],
+    "KIERA ROSE|SCANDALIZE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.05,
+        "winner": "SCANDALIZE"
+      }
+    ],
+    "BLUFFTON|SCANDALIZE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 10.8,
+        "winner": "SCANDALIZE"
+      }
+    ],
+    "LOVE HER MADLY|ROCK THE ROAD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "ROCK THE ROAD"
+      }
+    ],
+    "KIERA ROSE|ROCK THE ROAD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "ROCK THE ROAD"
+      }
+    ],
+    "BLUFFTON|ROCK THE ROAD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 9.55,
+        "winner": "ROCK THE ROAD"
+      }
+    ],
+    "KIERA ROSE|LOVE HER MADLY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "LOVE HER MADLY"
+      }
+    ],
+    "BLUFFTON|LOVE HER MADLY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 9.5,
+        "winner": "LOVE HER MADLY"
+      }
+    ],
+    "BLUFFTON|KIERA ROSE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 2,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.75,
+        "winner": "KIERA ROSE"
+      }
+    ],
+    "IT IS MY TIME|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.6,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "IT IS MY TIME|LOVING PRAGUE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "IT IS MY TIME|MARCUS AURELIUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "FAST TRAIN|IT IS MY TIME": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "COASTAL COMMANDER|IT IS MY TIME": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "IT IS MY TIME|SAN PEDRO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 21.8,
+        "winner": "IT IS MY TIME"
+      }
+    ],
+    "LOVING PRAGUE|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "SOMMERSTERN"
+      }
+    ],
+    "MARCUS AURELIUS|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.65,
+        "winner": "SOMMERSTERN"
+      }
+    ],
+    "FAST TRAIN|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.95,
+        "winner": "SOMMERSTERN"
+      }
+    ],
+    "COASTAL COMMANDER|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.2,
+        "winner": "SOMMERSTERN"
+      }
+    ],
+    "SAN PEDRO|SOMMERSTERN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 21.2,
+        "winner": "SOMMERSTERN"
+      }
+    ],
+    "LOVING PRAGUE|MARCUS AURELIUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "LOVING PRAGUE (AUS)"
+      }
+    ],
+    "FAST TRAIN|LOVING PRAGUE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.55,
+        "winner": "LOVING PRAGUE (AUS)"
+      }
+    ],
+    "COASTAL COMMANDER|LOVING PRAGUE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.8,
+        "winner": "LOVING PRAGUE (AUS)"
+      }
+    ],
+    "LOVING PRAGUE|SAN PEDRO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 20.8,
+        "winner": "LOVING PRAGUE (AUS)"
+      }
+    ],
+    "FAST TRAIN|MARCUS AURELIUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "COASTAL COMMANDER|MARCUS AURELIUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.55,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "MARCUS AURELIUS|SAN PEDRO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 19.55,
+        "winner": "MARCUS AURELIUS"
+      }
+    ],
+    "COASTAL COMMANDER|FAST TRAIN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "FAST TRAIN"
+      }
+    ],
+    "FAST TRAIN|SAN PEDRO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 19.25,
+        "winner": "FAST TRAIN"
+      }
+    ],
+    "COASTAL COMMANDER|SAN PEDRO": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 3,
+        "distance": null,
+        "going": null,
+        "marginLengths": 18,
+        "winner": "COASTAL COMMANDER"
+      }
+    ],
+    "PENTOLINA|SPECIAL GLAMOUR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "PENTOLINA"
+      }
+    ],
+    "BENEATH THE CLOUDS|PENTOLINA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.75,
+        "winner": "PENTOLINA"
+      }
+    ],
+    "LADY VERITAS|PENTOLINA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.05,
+        "winner": "PENTOLINA"
+      }
+    ],
+    "HER WORLD|PENTOLINA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.15,
+        "winner": "PENTOLINA"
+      }
+    ],
+    "PENTOLINA|SPIRIT OF LEVANA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.65,
+        "winner": "PENTOLINA"
+      }
+    ],
+    "BENEATH THE CLOUDS|SPECIAL GLAMOUR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "SPECIAL GLAMOUR"
+      }
+    ],
+    "LADY VERITAS|SPECIAL GLAMOUR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.55,
+        "winner": "SPECIAL GLAMOUR"
+      }
+    ],
+    "HER WORLD|SPECIAL GLAMOUR": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.65,
+        "winner": "SPECIAL GLAMOUR"
+      }
+    ],
+    "SPECIAL GLAMOUR|SPIRIT OF LEVANA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.15,
+        "winner": "SPECIAL GLAMOUR"
+      }
+    ],
+    "BENEATH THE CLOUDS|LADY VERITAS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "BENEATH THE CLOUDS"
+      }
+    ],
+    "BENEATH THE CLOUDS|HER WORLD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "BENEATH THE CLOUDS"
+      }
+    ],
+    "BENEATH THE CLOUDS|SPIRIT OF LEVANA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.9,
+        "winner": "BENEATH THE CLOUDS"
+      }
+    ],
+    "HER WORLD|LADY VERITAS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.1,
+        "winner": "LADY VERITAS"
+      }
+    ],
+    "LADY VERITAS|SPIRIT OF LEVANA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.6,
+        "winner": "LADY VERITAS"
+      }
+    ],
+    "HER WORLD|SPIRIT OF LEVANA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 4,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "HER WORLD"
+      }
+    ],
+    "FINAL CALL|MEGS LEGACY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "MEGS LEGACY|WHY NOT JACKIE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "INNERBLOOM|MEGS LEGACY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.8,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "LHASA|MEGS LEGACY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.3,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "MEGS LEGACY|PARALEGAL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.8,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "MEGS LEGACY|TAKE IT AS RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.55,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "MEGS LEGACY|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.8,
+        "winner": "MEG'S LEGACY"
+      }
+    ],
+    "FINAL CALL|INNERBLOOM": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.3,
+        "winner": "FINAL CALL"
+      }
+    ],
+    "FINAL CALL|LHASA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "FINAL CALL"
+      }
+    ],
+    "FINAL CALL|PARALEGAL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.3,
+        "winner": "FINAL CALL"
+      }
+    ],
+    "FINAL CALL|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.3,
+        "winner": "FINAL CALL"
+      }
+    ],
+    "INNERBLOOM|WHY NOT JACKIE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "WHY NOT JACKIE"
+      }
+    ],
+    "LHASA|WHY NOT JACKIE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "WHY NOT JACKIE"
+      }
+    ],
+    "PARALEGAL|WHY NOT JACKIE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "WHY NOT JACKIE"
+      }
+    ],
+    "WHY NOT JACKIE|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "WHY NOT JACKIE"
+      }
+    ],
+    "INNERBLOOM|LHASA": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "INNERBLOOM"
+      }
+    ],
+    "INNERBLOOM|PARALEGAL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "INNERBLOOM"
+      }
+    ],
+    "INNERBLOOM|TAKE IT AS RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "INNERBLOOM"
+      }
+    ],
+    "INNERBLOOM|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "INNERBLOOM"
+      }
+    ],
+    "LHASA|PARALEGAL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "LHASA"
+      }
+    ],
+    "LHASA|TAKE IT AS RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "LHASA"
+      }
+    ],
+    "LHASA|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.5,
+        "winner": "LHASA"
+      }
+    ],
+    "PARALEGAL|TAKE IT AS RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "PARALEGAL"
+      }
+    ],
+    "PARALEGAL|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "PARALEGAL"
+      }
+    ],
+    "TAKE IT AS RED|WILLIAMS WOMAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 5,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "TAKE IT AS RED"
+      }
+    ],
+    "COUNTRY TIME|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "FORT RED|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.9,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "HERITAGE RIDGE|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.95,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "GALACTUS|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.2,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "EASY MONEY|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.3,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "DU MAURIER|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.55,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "AFRICAN MEMOIR|SLASH N BURN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 9.05,
+        "winner": "SLASH 'N BURN (IRE)"
+      }
+    ],
+    "COUNTRY TIME|FORT RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.5,
+        "winner": "COUNTRY TIME"
+      }
+    ],
+    "COUNTRY TIME|DU MAURIER": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.15,
+        "winner": "COUNTRY TIME"
+      }
+    ],
+    "AFRICAN MEMOIR|COUNTRY TIME": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.65,
+        "winner": "COUNTRY TIME"
+      }
+    ],
+    "FORT RED|HERITAGE RIDGE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "FORT RED"
+      }
+    ],
+    "FORT RED|GALACTUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.3,
+        "winner": "FORT RED"
+      }
+    ],
+    "EASY MONEY|FORT RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.4,
+        "winner": "FORT RED"
+      }
+    ],
+    "DU MAURIER|FORT RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.65,
+        "winner": "FORT RED"
+      }
+    ],
+    "AFRICAN MEMOIR|FORT RED": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.15,
+        "winner": "FORT RED"
+      }
+    ],
+    "DU MAURIER|HERITAGE RIDGE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.6,
+        "winner": "HERITAGE RIDGE"
+      }
+    ],
+    "AFRICAN MEMOIR|HERITAGE RIDGE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.1,
+        "winner": "HERITAGE RIDGE"
+      }
+    ],
+    "DU MAURIER|GALACTUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.35,
+        "winner": "GALACTUS"
+      }
+    ],
+    "AFRICAN MEMOIR|GALACTUS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.85,
+        "winner": "GALACTUS"
+      }
+    ],
+    "DU MAURIER|EASY MONEY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.25,
+        "winner": "EASY MONEY"
+      }
+    ],
+    "AFRICAN MEMOIR|EASY MONEY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.75,
+        "winner": "EASY MONEY"
+      }
+    ],
+    "AFRICAN MEMOIR|DU MAURIER": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 6,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "DU MAURIER"
+      }
+    ],
+    "DANCE VARIETY|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.6,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.9,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.2,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|DEMANDING DAVE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.6,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.4,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "CHURCHILLIAN|DANCE VARIETY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.4,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|GEM KING": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.7,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.45,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "DANCE VARIETY|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.7,
+        "winner": "DANCE VARIETY"
+      }
+    ],
+    "SARDINIA BAY|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "KAIBOY|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.6,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "BEWARE|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "KING REGENT|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "CHURCHILLIAN|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "GEM KING|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.1,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "SARDINIA BAY|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.85,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "DUMBLEDORE|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.1,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "PISTOL PETE|SARDINIA BAY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.1,
+        "winner": "SARDINIA BAY"
+      }
+    ],
+    "KAIBOY|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "BEWARE|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.7,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "DEMANDING DAVE|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.7,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "KING REGENT|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.45,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "NORTH POINT|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "CHURCHILLIAN|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "GEM KING|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.8,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "TEFLON MAN|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.55,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "DUMBLEDORE|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.8,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "PISTOL PETE|TEFLON MAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.8,
+        "winner": "TEFLON MAN"
+      }
+    ],
+    "BEWARE|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "KAIBOY"
+      }
+    ],
+    "DEMANDING DAVE|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "KAIBOY"
+      }
+    ],
+    "KAIBOY|KING REGENT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.15,
+        "winner": "KAIBOY"
+      }
+    ],
+    "KAIBOY|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.2,
+        "winner": "KAIBOY"
+      }
+    ],
+    "CHURCHILLIAN|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.2,
+        "winner": "KAIBOY"
+      }
+    ],
+    "GEM KING|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.5,
+        "winner": "KAIBOY"
+      }
+    ],
+    "KAIBOY|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.25,
+        "winner": "KAIBOY"
+      }
+    ],
+    "DUMBLEDORE|KAIBOY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "KAIBOY"
+      }
+    ],
+    "KAIBOY|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.5,
+        "winner": "KAIBOY"
+      }
+    ],
+    "BEWARE|DEMANDING DAVE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "BEWARE|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.8,
+        "winner": "BEWARE"
+      }
+    ],
+    "BEWARE|CHURCHILLIAN": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.8,
+        "winner": "BEWARE"
+      }
+    ],
+    "BEWARE|GEM KING": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.1,
+        "winner": "BEWARE"
+      }
+    ],
+    "BEWARE|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.85,
+        "winner": "BEWARE"
+      }
+    ],
+    "BEWARE|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.1,
+        "winner": "BEWARE"
+      }
+    ],
+    "DEMANDING DAVE|KING REGENT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "CHURCHILLIAN|DEMANDING DAVE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.8,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "DEMANDING DAVE|GEM KING": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.1,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "DEMANDING DAVE|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.85,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "DEMANDING DAVE|DUMBLEDORE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.1,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "DEMANDING DAVE|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.1,
+        "winner": "DEMANDING DAVE"
+      }
+    ],
+    "KING REGENT|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "KING REGENT"
+      }
+    ],
+    "CHURCHILLIAN|KING REGENT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.05,
+        "winner": "KING REGENT"
+      }
+    ],
+    "GEM KING|KING REGENT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.35,
+        "winner": "KING REGENT"
+      }
+    ],
+    "KING REGENT|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.1,
+        "winner": "KING REGENT"
+      }
+    ],
+    "KING REGENT|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.35,
+        "winner": "KING REGENT"
+      }
+    ],
+    "CHURCHILLIAN|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0,
+        "winner": "CHURCHILLIAN"
+      }
+    ],
+    "GEM KING|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "NORTH POINT"
+      }
+    ],
+    "NORTH POINT|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.05,
+        "winner": "NORTH POINT"
+      }
+    ],
+    "DUMBLEDORE|NORTH POINT": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.3,
+        "winner": "NORTH POINT"
+      }
+    ],
+    "NORTH POINT|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.3,
+        "winner": "NORTH POINT"
+      }
+    ],
+    "CHURCHILLIAN|GEM KING": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "CHURCHILLIAN"
+      }
+    ],
+    "CHURCHILLIAN|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.05,
+        "winner": "CHURCHILLIAN"
+      }
+    ],
+    "CHURCHILLIAN|DUMBLEDORE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.3,
+        "winner": "CHURCHILLIAN"
+      }
+    ],
+    "CHURCHILLIAN|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.3,
+        "winner": "CHURCHILLIAN"
+      }
+    ],
+    "GEM KING|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "GEM KING"
+      }
+    ],
+    "DUMBLEDORE|GEM KING": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "GEM KING"
+      }
+    ],
+    "GEM KING|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6,
+        "winner": "GEM KING"
+      }
+    ],
+    "DUMBLEDORE|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.25,
+        "winner": "THREE TIGERS"
+      }
+    ],
+    "PISTOL PETE|THREE TIGERS": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.25,
+        "winner": "THREE TIGERS"
+      }
+    ],
+    "DUMBLEDORE|PISTOL PETE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 7,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4,
+        "winner": "DUMBLEDORE"
+      }
+    ],
+    "CLAIR DE LUNE|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "HAMPSTEAD HEATH|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.4,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "EISTEDDFOD|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.15,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "MARITZBURG MEMORY|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.9,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "SAACHI ONE|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.2,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "OCTOBER FEST|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.5,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "RED BERYL|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 7.9,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "BOOZY SUSIE|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 9.65,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "PEACE OF MIND|WHIRLWIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 11.65,
+        "winner": "WHIRLWIND"
+      }
+    ],
+    "CLAIR DE LUNE|HAMPSTEAD HEATH": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|EISTEDDFOD": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.15,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|MARITZBURG MEMORY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.9,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|SAACHI ONE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.2,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|OCTOBER FEST": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.5,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.9,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "BOOZY SUSIE|CLAIR DE LUNE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 6.65,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "CLAIR DE LUNE|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.65,
+        "winner": "CLAIR DE LUNE"
+      }
+    ],
+    "HAMPSTEAD HEATH|MARITZBURG MEMORY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.5,
+        "winner": "HAMPSTEAD HEATH"
+      }
+    ],
+    "HAMPSTEAD HEATH|OCTOBER FEST": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.1,
+        "winner": "HAMPSTEAD HEATH"
+      }
+    ],
+    "HAMPSTEAD HEATH|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.5,
+        "winner": "HAMPSTEAD HEATH"
+      }
+    ],
+    "HAMPSTEAD HEATH|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 8.25,
+        "winner": "HAMPSTEAD HEATH"
+      }
+    ],
+    "EISTEDDFOD|MARITZBURG MEMORY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.75,
+        "winner": "EISTEDDFOD"
+      }
+    ],
+    "EISTEDDFOD|OCTOBER FEST": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.35,
+        "winner": "EISTEDDFOD"
+      }
+    ],
+    "EISTEDDFOD|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "EISTEDDFOD"
+      }
+    ],
+    "EISTEDDFOD|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 5.5,
+        "winner": "EISTEDDFOD"
+      }
+    ],
+    "MARITZBURG MEMORY|SAACHI ONE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "MARITZBURG MEMORY"
+      }
+    ],
+    "MARITZBURG MEMORY|OCTOBER FEST": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.6,
+        "winner": "MARITZBURG MEMORY"
+      }
+    ],
+    "MARITZBURG MEMORY|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1,
+        "winner": "MARITZBURG MEMORY"
+      }
+    ],
+    "BOOZY SUSIE|MARITZBURG MEMORY": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.75,
+        "winner": "MARITZBURG MEMORY"
+      }
+    ],
+    "MARITZBURG MEMORY|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.75,
+        "winner": "MARITZBURG MEMORY"
+      }
+    ],
+    "OCTOBER FEST|SAACHI ONE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.3,
+        "winner": "SAACHI ONE"
+      }
+    ],
+    "RED BERYL|SAACHI ONE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.7,
+        "winner": "SAACHI ONE"
+      }
+    ],
+    "PEACE OF MIND|SAACHI ONE": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.45,
+        "winner": "SAACHI ONE"
+      }
+    ],
+    "OCTOBER FEST|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 0.4,
+        "winner": "OCTOBER FEST"
+      }
+    ],
+    "BOOZY SUSIE|OCTOBER FEST": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2.15,
+        "winner": "OCTOBER FEST"
+      }
+    ],
+    "OCTOBER FEST|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 4.15,
+        "winner": "OCTOBER FEST"
+      }
+    ],
+    "BOOZY SUSIE|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 1.75,
+        "winner": "RED BERYL"
+      }
+    ],
+    "PEACE OF MIND|RED BERYL": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 3.75,
+        "winner": "RED BERYL"
+      }
+    ],
+    "BOOZY SUSIE|PEACE OF MIND": [
+      {
+        "date": "2026-04-01",
+        "track": "Kenilworth",
+        "race": 8,
+        "distance": null,
+        "going": null,
+        "marginLengths": 2,
+        "winner": "BOOZY SUSIE"
+      }
     ]
   },
   "predictionsLog": [
@@ -38808,6 +43912,897 @@
             "pClose": 0.0104,
             "edge": 0.0003,
             "odds": 101,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r1",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 1,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "SPARKLING STAR",
+          "score": 50.5
+        },
+        {
+          "name": "QUEEN INDRANI",
+          "score": 49.7
+        },
+        {
+          "name": "WHAT THE FLUFF",
+          "score": 49.5
+        },
+        {
+          "name": "LA BOHEME",
+          "score": 49.1
+        }
+      ],
+      "result": {
+        "winner": "MYSTIC INFERNO",
+        "topPick": "SPARKLING STAR",
+        "pickPWin": 0.1642,
+        "pickScore": 50.5,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SPARKLING STAR",
+            "pModel": 0.1642,
+            "pClose": 0.5684,
+            "edge": -0.4042,
+            "odds": 1.3,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "QUEEN INDRANI",
+            "pModel": 0.1437,
+            "pClose": 0.0192,
+            "edge": 0.1245,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WHAT THE FLUFF",
+            "pModel": 0.139,
+            "pClose": 0.0484,
+            "edge": 0.0906,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LA BOHEME",
+            "pModel": 0.13,
+            "pClose": 0.0192,
+            "edge": 0.1108,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN HOT WATER",
+            "pModel": 0.1119,
+            "pClose": 0.1452,
+            "edge": -0.0333,
+            "odds": 8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MYSTIC INFERNO",
+            "pModel": 0.1083,
+            "pClose": 0.0902,
+            "edge": 0.0181,
+            "odds": 13.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PEACE GARLAND",
+            "pModel": 0.1065,
+            "pClose": 0.0902,
+            "edge": 0.0163,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MACRO GRAVITY",
+            "pModel": 0.0963,
+            "pClose": 0.0192,
+            "edge": 0.0771,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r2",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 2,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "IONA CASTLE",
+          "score": 55.6
+        },
+        {
+          "name": "SWIFT SERENITY",
+          "score": 52.7
+        },
+        {
+          "name": "BLUFFTON",
+          "score": 51.3
+        },
+        {
+          "name": "KIERA ROSE",
+          "score": 45.6
+        }
+      ],
+      "result": {
+        "winner": "IONA CASTLE",
+        "topPick": "IONA CASTLE",
+        "pickPWin": 0.3784,
+        "pickScore": 55.6,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "IONA CASTLE",
+            "pModel": 0.3784,
+            "pClose": 0.2778,
+            "edge": 0.1006,
+            "odds": 3,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SWIFT SERENITY",
+            "pModel": 0.2334,
+            "pClose": 0.2615,
+            "edge": -0.0281,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BLUFFTON",
+            "pModel": 0.1848,
+            "pClose": 0.0109,
+            "edge": 0.1739,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KIERA ROSE",
+            "pModel": 0.0715,
+            "pClose": 0.202,
+            "edge": -0.1305,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVE HER MADLY",
+            "pModel": 0.0605,
+            "pClose": 0.0926,
+            "edge": -0.0321,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROCK THE ROAD",
+            "pModel": 0.0538,
+            "pClose": 0.0163,
+            "edge": 0.0375,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SCANDALIZE",
+            "pModel": 0.0176,
+            "pClose": 0.1389,
+            "edge": -0.1213,
+            "odds": 7,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r3",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 3,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "MARCUS AURELIUS",
+          "score": 57.3
+        },
+        {
+          "name": "LOVING PRAGUE (AUS)",
+          "score": 54.5
+        },
+        {
+          "name": "SAN PEDRO",
+          "score": 52
+        },
+        {
+          "name": "FAST TRAIN",
+          "score": 51.8
+        }
+      ],
+      "result": {
+        "winner": "IT IS MY TIME",
+        "topPick": "MARCUS AURELIUS",
+        "pickPWin": 0.3372,
+        "pickScore": 57.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MARCUS AURELIUS",
+            "pModel": 0.3372,
+            "pClose": 0.1832,
+            "edge": 0.154,
+            "odds": 4.75,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVING PRAGUE (AUS)",
+            "pModel": 0.2114,
+            "pClose": 0.1316,
+            "edge": 0.0798,
+            "odds": 7,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SAN PEDRO",
+            "pModel": 0.1394,
+            "pClose": 0.0251,
+            "edge": 0.1143,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FAST TRAIN",
+            "pModel": 0.1348,
+            "pClose": 0.1505,
+            "edge": -0.0157,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IT IS MY TIME",
+            "pModel": 0.1033,
+            "pClose": 0.2106,
+            "edge": -0.1073,
+            "odds": 4,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "COASTAL COMMANDER",
+            "pModel": 0.0413,
+            "pClose": 0.1003,
+            "edge": -0.059,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SOMMERSTERN",
+            "pModel": 0.0327,
+            "pClose": 0.1987,
+            "edge": -0.166,
+            "odds": 4.3,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r4",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 4,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "LADY VERITAS",
+          "score": 53.2
+        },
+        {
+          "name": "HER WORLD",
+          "score": 52.8
+        },
+        {
+          "name": "BENEATH THE CLOUDS",
+          "score": 52.3
+        },
+        {
+          "name": "PENTOLINA",
+          "score": 50.1
+        }
+      ],
+      "result": {
+        "winner": "PENTOLINA",
+        "topPick": "LADY VERITAS",
+        "pickPWin": 0.2466,
+        "pickScore": 53.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "LADY VERITAS",
+            "pModel": 0.2466,
+            "pClose": 0.0759,
+            "edge": 0.1707,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HER WORLD",
+            "pModel": 0.2307,
+            "pClose": 0.0917,
+            "edge": 0.139,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BENEATH THE CLOUDS",
+            "pModel": 0.2123,
+            "pClose": 0.2588,
+            "edge": -0.0465,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PENTOLINA",
+            "pModel": 0.1471,
+            "pClose": 0.2895,
+            "edge": -0.1424,
+            "odds": 2.8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SPIRIT OF LEVANA",
+            "pModel": 0.1127,
+            "pClose": 0.1375,
+            "edge": -0.0248,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPECIAL GLAMOUR",
+            "pModel": 0.0506,
+            "pClose": 0.1467,
+            "edge": -0.0961,
+            "odds": 6.5,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r5",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 5,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "PARALEGAL",
+          "score": 55.3
+        },
+        {
+          "name": "INNERBLOOM",
+          "score": 54.6
+        },
+        {
+          "name": "FINAL CALL",
+          "score": 52.1
+        },
+        {
+          "name": "WILLIAM'S WOMAN",
+          "score": 49.3
+        }
+      ],
+      "result": {
+        "winner": "MEG'S LEGACY",
+        "topPick": "PARALEGAL",
+        "pickPWin": 0.297,
+        "pickScore": 55.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PARALEGAL",
+            "pModel": 0.297,
+            "pClose": 0.0398,
+            "edge": 0.2572,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "INNERBLOOM",
+            "pModel": 0.2643,
+            "pClose": 0.0742,
+            "edge": 0.1901,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FINAL CALL",
+            "pModel": 0.1743,
+            "pClose": 0.2907,
+            "edge": -0.1164,
+            "odds": 2.7,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WILLIAM'S WOMAN",
+            "pModel": 0.1093,
+            "pClose": 0.1537,
+            "edge": -0.0444,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TAKE IT AS RED",
+            "pModel": 0.0697,
+            "pClose": 0.0158,
+            "edge": 0.0539,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LHASA",
+            "pModel": 0.0324,
+            "pClose": 0.2241,
+            "edge": -0.1917,
+            "odds": 3.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MEG'S LEGACY",
+            "pModel": 0.0303,
+            "pClose": 0.1345,
+            "edge": -0.1042,
+            "odds": 7,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "WHY NOT JACKIE",
+            "pModel": 0.0228,
+            "pClose": 0.0672,
+            "edge": -0.0444,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r6",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 6,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "SLASH 'N BURN (IRE)",
+          "score": 54.9
+        },
+        {
+          "name": "DU MAURIER",
+          "score": 54.2
+        },
+        {
+          "name": "AFRICAN MEMOIR",
+          "score": 50.4
+        },
+        {
+          "name": "FORT RED",
+          "score": 45.4
+        }
+      ],
+      "result": {
+        "winner": "SLASH 'N BURN (IRE)",
+        "topPick": "SLASH 'N BURN (IRE)",
+        "pickPWin": 0.312,
+        "pickScore": 54.9,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SLASH 'N BURN (IRE)",
+            "pModel": 0.312,
+            "pClose": 0.1308,
+            "edge": 0.1812,
+            "odds": 7,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "DU MAURIER",
+            "pModel": 0.2776,
+            "pClose": 0.2753,
+            "edge": 0.0023,
+            "odds": 2.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "AFRICAN MEMOIR",
+            "pModel": 0.1474,
+            "pClose": 0.1395,
+            "edge": 0.0079,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORT RED",
+            "pModel": 0.0641,
+            "pClose": 0.1494,
+            "edge": -0.0853,
+            "odds": 6,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "COUNTRY TIME",
+            "pModel": 0.063,
+            "pClose": 0.1308,
+            "edge": -0.0678,
+            "odds": 7,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "EASY MONEY",
+            "pModel": 0.058,
+            "pClose": 0.0581,
+            "edge": -0.0001,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HERITAGE RIDGE",
+            "pModel": 0.0422,
+            "pClose": 0.0581,
+            "edge": -0.0159,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GALACTUS",
+            "pModel": 0.0357,
+            "pClose": 0.0581,
+            "edge": -0.0224,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r7",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 7,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "PISTOL PETE",
+          "score": 54.6
+        },
+        {
+          "name": "DANCE VARIETY",
+          "score": 50.4
+        },
+        {
+          "name": "KAIBOY",
+          "score": 48.9
+        },
+        {
+          "name": "DUMBLEDORE",
+          "score": 47.9
+        }
+      ],
+      "result": {
+        "winner": "DANCE VARIETY",
+        "topPick": "PISTOL PETE",
+        "pickPWin": 0.2352,
+        "pickScore": 54.6,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PISTOL PETE",
+            "pModel": 0.2352,
+            "pClose": 0.0191,
+            "edge": 0.2161,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DANCE VARIETY",
+            "pModel": 0.1168,
+            "pClose": 0.062,
+            "edge": 0.0548,
+            "odds": 15,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "KAIBOY",
+            "pModel": 0.091,
+            "pClose": 0.0283,
+            "edge": 0.0627,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DUMBLEDORE",
+            "pModel": 0.077,
+            "pClose": 0.0367,
+            "edge": 0.0403,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GEM KING",
+            "pModel": 0.0641,
+            "pClose": 0.0097,
+            "edge": 0.0544,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TEFLON MAN",
+            "pModel": 0.06,
+            "pClose": 0.124,
+            "edge": -0.064,
+            "odds": 7,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BEWARE",
+            "pModel": 0.06,
+            "pClose": 0.1653,
+            "edge": -0.1053,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NORTH POINT",
+            "pModel": 0.06,
+            "pClose": 0.124,
+            "edge": -0.064,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SARDINIA BAY",
+            "pModel": 0.0552,
+            "pClose": 0.1323,
+            "edge": -0.0771,
+            "odds": 6.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "KING REGENT",
+            "pModel": 0.0499,
+            "pClose": 0.0191,
+            "edge": 0.0308,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "THREE TIGERS",
+            "pModel": 0.0491,
+            "pClose": 0.0551,
+            "edge": -0.006,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHURCHILLIAN",
+            "pModel": 0.0416,
+            "pClose": 0.0827,
+            "edge": -0.0411,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DEMANDING DAVE",
+            "pModel": 0.0402,
+            "pClose": 0.1417,
+            "edge": -0.1015,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-01-kenilworth-r8",
+      "date": "2026-04-01",
+      "track": "Kenilworth",
+      "race": 8,
+      "settled": true,
+      "ranked": [
+        {
+          "name": "CLAIR DE LUNE",
+          "score": 60.3
+        },
+        {
+          "name": "WHIRLWIND",
+          "score": 53
+        },
+        {
+          "name": "SAACHI ONE",
+          "score": 52.3
+        },
+        {
+          "name": "BOOZY SUSIE",
+          "score": 52.1
+        }
+      ],
+      "result": {
+        "winner": "WHIRLWIND",
+        "topPick": "CLAIR DE LUNE",
+        "pickPWin": 0.4421,
+        "pickScore": 60.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "CLAIR DE LUNE",
+            "pModel": 0.4421,
+            "pClose": 0.0602,
+            "edge": 0.3819,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WHIRLWIND",
+            "pModel": 0.131,
+            "pClose": 0.3611,
+            "edge": -0.2301,
+            "odds": 2,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SAACHI ONE",
+            "pModel": 0.1165,
+            "pClose": 0.0492,
+            "edge": 0.0673,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOOZY SUSIE",
+            "pModel": 0.1127,
+            "pClose": 0.0602,
+            "edge": 0.0525,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EISTEDDFOD",
+            "pModel": 0.0695,
+            "pClose": 0.0602,
+            "edge": 0.0093,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RED BERYL",
+            "pModel": 0.049,
+            "pClose": 0.0401,
+            "edge": 0.0089,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MARITZBURG MEMORY",
+            "pModel": 0.026,
+            "pClose": 0.0401,
+            "edge": -0.0141,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HAMPSTEAD HEATH",
+            "pModel": 0.0183,
+            "pClose": 0.1032,
+            "edge": -0.0849,
+            "odds": 9.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "OCTOBER FEST",
+            "pModel": 0.0174,
+            "pClose": 0.0903,
+            "edge": -0.0729,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PEACE OF MIND",
+            "pModel": 0.0174,
+            "pClose": 0.1354,
+            "edge": -0.118,
+            "odds": 7,
             "won": false,
             "placed": false
           }

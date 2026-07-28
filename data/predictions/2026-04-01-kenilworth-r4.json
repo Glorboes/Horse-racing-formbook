@@ -1,0 +1,808 @@
+{
+  "id": "2026-04-01-kenilworth-r4",
+  "date": "2026-04-01",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:22:02.349Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "LADY VERITAS",
+      "key": "LADY VERITAS",
+      "draw": 5,
+      "rating": 81,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.895,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.454,
+        "trainer": 0.411,
+        "weight": 0.391,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 14.32,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.36,
+        "trainer": 2.06,
+        "weight": 2.35,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 81).",
+        "Against it: stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 81)"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.2466,
+      "pPlace": 0.474,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HER WORLD",
+      "key": "HER WORLD",
+      "draw": 1,
+      "rating": 76,
+      "jockey": "Gareth Wright",
+      "trainer": "Ricky Maingard",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.632,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.529,
+        "trainer": 0.467,
+        "weight": 0.609,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.11,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.59,
+        "trainer": 2.33,
+        "weight": 3.65,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 1,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 75,
+        "record": "1-4"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.2307,
+      "pPlace": 0.4498,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BENEATH THE CLOUDS",
+      "key": "BENEATH THE CLOUDS",
+      "draw": 6,
+      "rating": 83,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.454,
+        "trainer": 0.467,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.36,
+        "trainer": 2.33,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 83).",
+        "Against it: top-weight (60.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 83)"
+      ],
+      "_conReasons": [
+        "top-weight (60.5kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.2123,
+      "pPlace": 0.4203,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PENTOLINA",
+      "key": "PENTOLINA",
+      "draw": 2,
+      "rating": 75,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.579,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.5,
+        "trainer": 0.544,
+        "weight": 0.348,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.26,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.5,
+        "trainer": 2.72,
+        "weight": 2.09,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 6,
+        "winPct": 25,
+        "record": "2-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (25%); drawn 2 — a handy low draw.",
+        "Against it: carries 56.5kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (25%)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "carries 56.5kg"
+      ],
+      "rank": 4,
+      "pWin": 0.1471,
+      "pPlace": 0.3055,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPIRIT OF LEVANA",
+      "key": "SPIRIT OF LEVANA",
+      "draw": 4,
+      "rating": 73,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.474,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.443,
+        "trainer": 0.454,
+        "weight": 0.652,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.58,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.33,
+        "trainer": 2.27,
+        "weight": 3.91,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 53kg.",
+        "Against it: lower-rated (MR 73); stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "carries 53kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 73)",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.1127,
+      "pPlace": 0.2392,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPECIAL GLAMOUR",
+      "key": "SPECIAL GLAMOUR",
+      "draw": 3,
+      "rating": 64,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "weight": 49,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.45,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (49kg); stable in form (17%).",
+        "Against it: lower-rated (MR 64).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (49kg)",
+        "stable in form (17%)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 64)"
+      ],
+      "rank": 6,
+      "pWin": 0.0506,
+      "pPlace": 0.1112,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "LADY VERITAS",
+      "rank": 1,
+      "score": 53.2,
+      "rating": 81,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.895,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.454,
+        "trainer": 0.411,
+        "weight": 0.391,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "HER WORLD",
+      "rank": 2,
+      "score": 52.8,
+      "rating": 76,
+      "draw": 1,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.632,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.529,
+        "trainer": 0.467,
+        "weight": 0.609,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BENEATH THE CLOUDS",
+      "rank": 3,
+      "score": 52.3,
+      "rating": 83,
+      "draw": 6,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.454,
+        "trainer": 0.467,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "PENTOLINA",
+      "rank": 4,
+      "score": 50.1,
+      "rating": 75,
+      "draw": 2,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.579,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.5,
+        "trainer": 0.544,
+        "weight": 0.348,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SPIRIT OF LEVANA",
+      "rank": 5,
+      "score": 48.5,
+      "rating": 73,
+      "draw": 4,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.474,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.443,
+        "trainer": 0.454,
+        "weight": 0.652,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SPECIAL GLAMOUR",
+      "rank": 6,
+      "score": 43.7,
+      "rating": 64,
+      "draw": 3,
+      "weight": 49,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.482,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PENTOLINA",
+      "key": "PENTOLINA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPECIAL GLAMOUR",
+      "key": "SPECIAL GLAMOUR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BENEATH THE CLOUDS",
+      "key": "BENEATH THE CLOUDS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LADY VERITAS",
+      "key": "LADY VERITAS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HER WORLD",
+      "key": "HER WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPIRIT OF LEVANA",
+      "key": "SPIRIT OF LEVANA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "PENTOLINA",
+  "places": 2
+}

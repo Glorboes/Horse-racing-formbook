@@ -1,0 +1,1091 @@
+{
+  "id": "2026-04-01-kenilworth-r6",
+  "date": "2026-04-01",
+  "track": "Kenilworth",
+  "race": 6,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:22:02.362Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SLASH 'N BURN (IRE)",
+      "key": "SLASH N BURN",
+      "draw": 2,
+      "rating": 76,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 62,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.5,
+        "trainer": 0.525,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.5,
+        "trainer": 2.63,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 76); drawn 2 — a handy low draw; good jockey booking.",
+        "Against it: top-weight (62kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 76)",
+        "drawn 2 — a handy low draw",
+        "good jockey booking"
+      ],
+      "_conReasons": [
+        "top-weight (62kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.312,
+      "pPlace": 0.767,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DU MAURIER",
+      "key": "DU MAURIER",
+      "draw": 4,
+      "rating": 74,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.889,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.7,
+        "trainer": 0.56,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 14.22,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 2.1,
+        "trainer": 2.8,
+        "weight": 1,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 2,
+        "places": 4,
+        "winPct": 40,
+        "record": "2-5"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 3,
+        "places": 5,
+        "winPct": 43,
+        "placePct": 71,
+        "record": "3-7"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 43%-strike jockey booked; well-rated (MR 74).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "rating"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "43%-strike jockey booked",
+        "well-rated (MR 74)"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.2776,
+      "pPlace": 0.7294,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "AFRICAN MEMOIR",
+      "key": "AFRICAN MEMOIR",
+      "draw": 8,
+      "rating": 72,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.482,
+        "trainer": 0.525,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.45,
+        "trainer": 2.63,
+        "weight": 1.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 72).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "well-rated (MR 72)"
+      ],
+      "_conReasons": [],
+      "rank": 3,
+      "pWin": 0.1474,
+      "pPlace": 0.4972,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FORT RED",
+      "key": "FORT RED",
+      "draw": 3,
+      "rating": 66,
+      "jockey": "Calvin Habib",
+      "trainer": "Mike Stewart",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.444,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.443,
+        "trainer": 0.482,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.11,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.33,
+        "trainer": 2.41,
+        "weight": 0.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: top-weight (61.5kg); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.0641,
+      "pPlace": 0.2426,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "COUNTRY TIME",
+      "key": "COUNTRY TIME",
+      "draw": 5,
+      "rating": 62,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.418,
+        "trainer": 0.54,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.56,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.25,
+        "trainer": 2.7,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 1,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 57.5kg.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 62).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 57.5kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 62)"
+      ],
+      "rank": 5,
+      "pWin": 0.063,
+      "pPlace": 0.2389,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "EASY MONEY",
+      "key": "EASY MONEY",
+      "draw": 1,
+      "rating": 58,
+      "jockey": "Gareth Wright",
+      "trainer": "Piet Botha",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.557,
+        "trainer": 0.467,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.67,
+        "trainer": 2.33,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 1,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 75,
+        "record": "1-4"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (56kg); 25%-strike jockey booked.",
+        "Against it: lower-rated (MR 58).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (56kg)",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 58)"
+      ],
+      "rank": 6,
+      "pWin": 0.058,
+      "pPlace": 0.2211,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "draw": 6,
+      "rating": 59,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.056,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.454,
+        "trainer": 0.467,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.36,
+        "trainer": 2.33,
+        "weight": 5.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56.5kg).",
+        "Against it: lower-rated (MR 59).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 59)"
+      ],
+      "rank": 7,
+      "pWin": 0.0422,
+      "pPlace": 0.164,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GALACTUS",
+      "key": "GALACTUS",
+      "draw": 7,
+      "rating": 64,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Mike Stewart",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 41.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.425,
+        "trainer": 0.482,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.27,
+        "trainer": 2.41,
+        "weight": 0.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; top-weight (61.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (61.5kg)"
+      ],
+      "rank": 8,
+      "pWin": 0.0357,
+      "pPlace": 0.1398,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SLASH 'N BURN (IRE)",
+      "rank": 1,
+      "score": 54.9,
+      "rating": 76,
+      "draw": 2,
+      "weight": 62,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.5,
+        "trainer": 0.525,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DU MAURIER",
+      "rank": 2,
+      "score": 54.2,
+      "rating": 74,
+      "draw": 4,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.889,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.7,
+        "trainer": 0.56,
+        "weight": 0.167,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "AFRICAN MEMOIR",
+      "rank": 3,
+      "score": 50.4,
+      "rating": 72,
+      "draw": 8,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.482,
+        "trainer": 0.525,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FORT RED",
+      "rank": 4,
+      "score": 45.4,
+      "rating": 66,
+      "draw": 3,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Mike Stewart",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.444,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.443,
+        "trainer": 0.482,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "COUNTRY TIME",
+      "rank": 5,
+      "score": 45.3,
+      "rating": 62,
+      "draw": 5,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.418,
+        "trainer": 0.54,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "EASY MONEY",
+      "rank": 6,
+      "score": 44.8,
+      "rating": 58,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.557,
+        "trainer": 0.467,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "HERITAGE RIDGE",
+      "rank": 7,
+      "score": 42.9,
+      "rating": 59,
+      "draw": 6,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.056,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.454,
+        "trainer": 0.467,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GALACTUS",
+      "rank": 8,
+      "score": 41.9,
+      "rating": 64,
+      "draw": 7,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Mike Stewart",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.425,
+        "trainer": 0.482,
+        "weight": 0.083,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SLASH 'N BURN (IRE)",
+      "key": "SLASH N BURN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "COUNTRY TIME",
+      "key": "COUNTRY TIME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORT RED",
+      "key": "FORT RED",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GALACTUS",
+      "key": "GALACTUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "EASY MONEY",
+      "key": "EASY MONEY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DU MAURIER",
+      "key": "DU MAURIER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "AFRICAN MEMOIR",
+      "key": "AFRICAN MEMOIR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "SLASH 'N BURN (IRE)",
+  "places": 3
+}

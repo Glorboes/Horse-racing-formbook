@@ -1,0 +1,1747 @@
+{
+  "id": "2026-04-01-kenilworth-r7",
+  "date": "2026-04-01",
+  "track": "Kenilworth",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:22:02.371Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "PISTOL PETE",
+      "key": "PISTOL PETE",
+      "draw": 7,
+      "rating": 119,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "weight": 63,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.629,
+        "trainer": 0.587,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.62,
+        "jockey": 1.89,
+        "trainer": 2.94,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 3,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 1,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 75,
+        "record": "1-4"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 119); 25%-strike jockey booked.",
+        "Against it: top-weight (63kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 119)",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (63kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.2352,
+      "pPlace": 0.5854,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DANCE VARIETY",
+      "key": "DANCE VARIETY",
+      "draw": 4,
+      "rating": 112,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.696,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.443,
+        "trainer": 0.467,
+        "weight": 0.207,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.13,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.31,
+        "jockey": 1.33,
+        "trainer": 2.33,
+        "weight": 1.24,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 112); drawn 4 — a handy low draw.",
+        "Against it: carries 60kg; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-rated (MR 112)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "carries 60kg",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.1168,
+      "pPlace": 0.3477,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KAIBOY",
+      "key": "KAIBOY",
+      "draw": 5,
+      "rating": 108,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.522,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.454,
+        "trainer": 0.66,
+        "weight": 0.31,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.35,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.08,
+        "jockey": 1.36,
+        "trainer": 3.3,
+        "weight": 1.86,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (20%); well-rated (MR 108).",
+        "Against it: carries 58.5kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (20%)",
+        "well-rated (MR 108)"
+      ],
+      "_conReasons": [
+        "carries 58.5kg"
+      ],
+      "rank": 3,
+      "pWin": 0.091,
+      "pPlace": 0.2802,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DUMBLEDORE",
+      "key": "DUMBLEDORE",
+      "draw": 11,
+      "rating": 106,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.78,
+        "trainer": 0.7,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.96,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.69,
+        "jockey": 2.34,
+        "trainer": 3.5,
+        "weight": 2.48,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 2,
+        "places": 4,
+        "winPct": 50,
+        "record": "2-4"
+      },
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 2,
+        "places": 4,
+        "winPct": 40,
+        "placePct": 80,
+        "record": "2-5"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 6,
+        "winPct": 25,
+        "record": "2-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 40%-strike jockey booked; stable in form (25%).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "40%-strike jockey booked",
+        "stable in form (25%)"
+      ],
+      "_conReasons": [],
+      "rank": 4,
+      "pWin": 0.077,
+      "pPlace": 0.2414,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GEM KING",
+      "key": "GEM KING",
+      "draw": 13,
+      "rating": 110,
+      "jockey": "Grant Behr",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.609,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.482,
+        "trainer": 0.454,
+        "weight": 0.207,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.74,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.23,
+        "jockey": 1.45,
+        "trainer": 2.27,
+        "weight": 1.24,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 110).",
+        "Against it: drawn wide (13); stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "draw",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 110)"
+      ],
+      "_conReasons": [
+        "drawn wide (13)",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0641,
+      "pPlace": 0.2041,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TEFLON MAN",
+      "key": "TEFLON MAN",
+      "draw": 8,
+      "rating": 106,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.96,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.38,
+        "jockey": 1.25,
+        "trainer": 2.5,
+        "weight": 2.48,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 6,
+      "pWin": 0.06,
+      "pPlace": 0.1919,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEWARE",
+      "key": "BEWARE",
+      "draw": 6,
+      "rating": 103,
+      "jockey": "Richard Fourie",
+      "trainer": "Lucinda Woodruff",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.304,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.5,
+        "trainer": 0.556,
+        "weight": 0.586,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.87,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.85,
+        "jockey": 1.5,
+        "trainer": 2.78,
+        "weight": 3.52,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 3,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: good jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "good jockey booking"
+      ],
+      "_conReasons": [],
+      "rank": 7,
+      "pWin": 0.06,
+      "pPlace": 0.1919,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NORTH POINT",
+      "key": "NORTH POINT",
+      "draw": 3,
+      "rating": 101,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.217,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.425,
+        "trainer": 0.587,
+        "weight": 0.724,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.48,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.54,
+        "jockey": 1.27,
+        "trainer": 2.94,
+        "weight": 4.34,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw; carries 52.5kg.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 101).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "carries 52.5kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 101)"
+      ],
+      "rank": 8,
+      "pWin": 0.06,
+      "pPlace": 0.1919,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "draw": 10,
+      "rating": 104,
+      "jockey": "Keagan De Melo",
+      "trainer": "Greg Ennion",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.348,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.587,
+        "trainer": 0.411,
+        "weight": 0.621,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.57,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.92,
+        "jockey": 1.76,
+        "trainer": 2.06,
+        "weight": 3.72,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 17%-strike jockey booked; carries 54kg.",
+        "Against it: stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "17%-strike jockey booked",
+        "carries 54kg"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 9,
+      "pWin": 0.0552,
+      "pPlace": 0.1775,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KING REGENT",
+      "key": "KING REGENT",
+      "draw": 12,
+      "rating": 106,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.425,
+        "trainer": 0.454,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.96,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.46,
+        "jockey": 1.27,
+        "trainer": 2.27,
+        "weight": 2.48,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 10,
+      "pWin": 0.0499,
+      "pPlace": 0.1616,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THREE TIGERS",
+      "key": "THREE TIGERS",
+      "draw": 1,
+      "rating": 97,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "weight": 48.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.043,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.443,
+        "trainer": 0.467,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0.7,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.33,
+        "trainer": 2.33,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (48.5kg).",
+        "Against it: lower-rated (MR 97); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (48.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 97)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 11,
+      "pWin": 0.0491,
+      "pPlace": 0.1591,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "draw": 2,
+      "rating": 96,
+      "jockey": "Muzi Yeni",
+      "trainer": "Candice Bass",
+      "weight": 51,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.454,
+        "trainer": 0.66,
+        "weight": 0.828,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.77,
+        "jockey": 1.36,
+        "trainer": 3.3,
+        "weight": 4.97,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; carries 51kg; stable in form (20%).",
+        "Against it: lower-rated (MR 96).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "carries 51kg",
+        "stable in form (20%)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 96)"
+      ],
+      "rank": 12,
+      "pWin": 0.0416,
+      "pPlace": 0.1358,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DEMANDING DAVE",
+      "key": "DEMANDING DAVE",
+      "draw": 9,
+      "rating": 102,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Mike Stewart",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.261,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.467,
+        "trainer": 0.482,
+        "weight": 0.517,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.17,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.15,
+        "jockey": 1.4,
+        "trainer": 2.41,
+        "weight": 3.1,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 102).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 102)"
+      ],
+      "rank": 13,
+      "pWin": 0.0402,
+      "pPlace": 0.1316,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "PISTOL PETE",
+      "rank": 1,
+      "score": 54.6,
+      "rating": 119,
+      "draw": 7,
+      "weight": 63,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.629,
+        "trainer": 0.587,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DANCE VARIETY",
+      "rank": 2,
+      "score": 50.4,
+      "rating": 112,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.696,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.443,
+        "trainer": 0.467,
+        "weight": 0.207,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KAIBOY",
+      "rank": 3,
+      "score": 48.9,
+      "rating": 108,
+      "draw": 5,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.522,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.454,
+        "trainer": 0.66,
+        "weight": 0.31,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DUMBLEDORE",
+      "rank": 4,
+      "score": 47.9,
+      "rating": 106,
+      "draw": 11,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.78,
+        "trainer": 0.7,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GEM KING",
+      "rank": 5,
+      "score": 46.8,
+      "rating": 110,
+      "draw": 13,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.609,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.482,
+        "trainer": 0.454,
+        "weight": 0.207,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TEFLON MAN",
+      "rank": 6,
+      "score": 46.4,
+      "rating": 106,
+      "draw": 8,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEWARE",
+      "rank": 7,
+      "score": 46.4,
+      "rating": 103,
+      "draw": 6,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.304,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.5,
+        "trainer": 0.556,
+        "weight": 0.586,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NORTH POINT",
+      "rank": 8,
+      "score": 46.4,
+      "rating": 101,
+      "draw": 3,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.217,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.425,
+        "trainer": 0.587,
+        "weight": 0.724,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SARDINIA BAY",
+      "rank": 9,
+      "score": 45.9,
+      "rating": 104,
+      "draw": 10,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.348,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.587,
+        "trainer": 0.411,
+        "weight": 0.621,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KING REGENT",
+      "rank": 10,
+      "score": 45.3,
+      "rating": 106,
+      "draw": 12,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.435,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.425,
+        "trainer": 0.454,
+        "weight": 0.414,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "THREE TIGERS",
+      "rank": 11,
+      "score": 45.2,
+      "rating": 97,
+      "draw": 1,
+      "weight": 48.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.043,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.443,
+        "trainer": 0.467,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CHURCHILLIAN",
+      "rank": 12,
+      "score": 44.2,
+      "rating": 96,
+      "draw": 2,
+      "weight": 51,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.454,
+        "trainer": 0.66,
+        "weight": 0.828,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DEMANDING DAVE",
+      "rank": 13,
+      "score": 44,
+      "rating": 102,
+      "draw": 9,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Mike Stewart",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.261,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.467,
+        "trainer": 0.482,
+        "weight": 0.517,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "DANCE VARIETY",
+      "key": "DANCE VARIETY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TEFLON MAN",
+      "key": "TEFLON MAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KAIBOY",
+      "key": "KAIBOY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEWARE",
+      "key": "BEWARE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DEMANDING DAVE",
+      "key": "DEMANDING DAVE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KING REGENT",
+      "key": "KING REGENT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NORTH POINT",
+      "key": "NORTH POINT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GEM KING",
+      "key": "GEM KING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THREE TIGERS",
+      "key": "THREE TIGERS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DUMBLEDORE",
+      "key": "DUMBLEDORE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PISTOL PETE",
+      "key": "PISTOL PETE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "DANCE VARIETY",
+  "places": 3
+}
