@@ -1,0 +1,1355 @@
+{
+  "id": "2026-06-16-kenilworth-r8",
+  "date": "2026-06-16",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.178Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "AVIGNON",
+      "key": "AVIGNON",
+      "draw": 4,
+      "rating": 67,
+      "jockey": "Calvin Habib",
+      "trainer": "Piet Botha",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 72.5,
+      "factors": {
+        "form": 0.948,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.506,
+        "trainer": 0.483,
+        "weight": 0.375,
+        "headToHead": 0.98,
+        "recencyMargin": 0.974
+      },
+      "contrib": {
+        "form": 17.06,
+        "rating": 8.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.52,
+        "trainer": 2.42,
+        "weight": 2.25,
+        "headToHead": 11.76,
+        "recencyMargin": 11.68
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "4-1",
+        "wins": 4,
+        "losses": 1,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "SHIFTING PATH",
+          "OZARK",
+          "OZARK",
+          "WINTER PEARL"
+        ],
+        "losesTo": [
+          "PRINCE OF TIBET"
+        ]
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 3,
+        "places": 8,
+        "winPct": 12,
+        "placePct": 31,
+        "record": "3-26"
+      },
+      "trainerRec": {
+        "starts": 50,
+        "wins": 5,
+        "places": 9,
+        "winPct": 10,
+        "record": "5-50"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; has beaten SHIFTING PATH, OZARK; hitting the line hard lately.",
+        "Against it: stable out of form.",
+        "Has beaten SHIFTING PATH, OZARK, WINTER PEARL before (H2H 4-1)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten SHIFTING PATH, OZARK",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.3292,
+      "pPlace": 0.8707,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PRINCE OF TIBET",
+      "key": "PRINCE OF TIBET",
+      "draw": 3,
+      "rating": 67,
+      "jockey": "Sean Veale",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.7,
+      "factors": {
+        "form": 0.914,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.565,
+        "trainer": 0.524,
+        "weight": 0.375,
+        "headToHead": 1,
+        "recencyMargin": 0.884
+      },
+      "contrib": {
+        "form": 16.46,
+        "rating": 8.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.7,
+        "trainer": 2.62,
+        "weight": 2.25,
+        "headToHead": 12,
+        "recencyMargin": 10.61
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "AVIGNON",
+          "SHIFTING PATH",
+          "OZARK"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 2,
+        "places": 2,
+        "winPct": 50,
+        "record": "2-4"
+      },
+      "jockeyRec": {
+        "starts": 45,
+        "wins": 7,
+        "places": 19,
+        "winPct": 16,
+        "placePct": 42,
+        "record": "7-45"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 9,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: has beaten AVIGNON, SHIFTING PATH; strong recent form; drawn 3 — a handy low draw.",
+        "Has beaten AVIGNON, SHIFTING PATH, OZARK before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "has beaten AVIGNON, SHIFTING PATH",
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.2881,
+      "pPlace": 0.8409,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DIAMOND BARON",
+      "key": "DIAMOND BARON",
+      "draw": 9,
+      "rating": 75,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.6,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.46,
+        "trainer": 0.541,
+        "weight": 0,
+        "headToHead": 0.527,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.38,
+        "trainer": 2.7,
+        "weight": 0,
+        "headToHead": 6.32,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 2.50L at Kenilworth.",
+        "Won by 2.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 3,
+        "places": 9,
+        "winPct": 14,
+        "record": "3-21"
+      },
+      "jockeyRec": {
+        "starts": 70,
+        "wins": 6,
+        "places": 29,
+        "winPct": 9,
+        "placePct": 41,
+        "record": "6-70"
+      },
+      "trainerRec": {
+        "starts": 118,
+        "wins": 16,
+        "places": 44,
+        "winPct": 14,
+        "record": "16-118"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 2.50L at Kenilworth.",
+        "Won by 2.50L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; top-rated in the field (MR 75); hitting the line hard lately.",
+        "Against it: top-weight (61.5kg)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 75)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.2834,
+      "pPlace": 0.8369,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OZARK",
+      "key": "OZARK",
+      "draw": 5,
+      "rating": 62,
+      "jockey": "Richard Fourie",
+      "trainer": "Paul Reeves",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.1,
+      "factors": {
+        "form": 0.825,
+        "rating": 0.278,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.624,
+        "trainer": 0.524,
+        "weight": 0.688,
+        "headToHead": 0.387,
+        "recencyMargin": 0.876
+      },
+      "contrib": {
+        "form": 14.84,
+        "rating": 4.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.87,
+        "trainer": 2.62,
+        "weight": 4.13,
+        "headToHead": 4.64,
+        "recencyMargin": 10.52
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-3",
+        "wins": 2,
+        "losses": 3,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "SHIFTING PATH",
+          "WINTER PEARL"
+        ],
+        "losesTo": [
+          "AVIGNON",
+          "AVIGNON",
+          "PRINCE OF TIBET"
+        ]
+      },
+      "recentForm": [
+        "3rd of 12 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 74,
+        "wins": 14,
+        "places": 39,
+        "winPct": 19,
+        "placePct": 53,
+        "record": "14-74"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 12,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 12 last start.",
+        "Why it can win: 19%-strike jockey booked; carries 56kg.",
+        "Against it: lower-rated (MR 62); beaten by AVIGNON, PRINCE OF TIBET before.",
+        "Jockey Richard Fourie in form (19% strike).",
+        "Has beaten SHIFTING PATH, WINTER PEARL before (H2H 2-3)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked",
+        "carries 56kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 62)",
+        "beaten by AVIGNON, PRINCE OF TIBET before"
+      ],
+      "rank": 4,
+      "pWin": 0.0353,
+      "pPlace": 0.1594,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "draw": 6,
+      "rating": 71,
+      "jockey": "Craig Zackey",
+      "trainer": "M H Maingard",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59,
+      "factors": {
+        "form": 0.694,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.668,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.268,
+        "recencyMargin": 0.827
+      },
+      "contrib": {
+        "form": 12.49,
+        "rating": 12.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 2,
+        "trainer": 2.5,
+        "weight": 0.75,
+        "headToHead": 3.22,
+        "recencyMargin": 9.93
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "AVIGNON",
+          "OZARK"
+        ]
+      },
+      "recentForm": [
+        "3rd of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 64,
+        "wins": 14,
+        "places": 32,
+        "winPct": 22,
+        "placePct": 50,
+        "record": "14-64"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Why it can win: 22%-strike jockey booked; well-rated (MR 71).",
+        "Against it: top-weight (60.5kg); beaten by AVIGNON, OZARK before.",
+        "Jockey Craig Zackey in form (22% strike).",
+        "Beaten by AVIGNON, OZARK in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "rating"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "22%-strike jockey booked",
+        "well-rated (MR 71)"
+      ],
+      "_conReasons": [
+        "top-weight (60.5kg)",
+        "beaten by AVIGNON, OZARK before"
+      ],
+      "rank": 5,
+      "pWin": 0.0347,
+      "pPlace": 0.1568,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GOLD DUST",
+      "key": "GOLD DUST",
+      "draw": 2,
+      "rating": 74,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.944,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.442,
+        "trainer": 0.378,
+        "weight": 0.25,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 15.11,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.33,
+        "trainer": 1.89,
+        "weight": 1.5,
+        "headToHead": 6.32,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 42,
+        "wins": 3,
+        "places": 9,
+        "winPct": 7,
+        "placePct": 21,
+        "record": "3-42"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 1,
+        "places": 11,
+        "winPct": 3,
+        "record": "1-39"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 74); drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-rated (MR 74)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0178,
+      "pPlace": 0.0819,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "COMMANDING",
+      "key": "COMMANDING",
+      "draw": 7,
+      "rating": 70,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.722,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.403,
+        "trainer": 0.369,
+        "weight": 0.188,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.56,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.21,
+        "trainer": 1.84,
+        "weight": 1.13,
+        "headToHead": 6.32,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 5,
+        "winPct": 4,
+        "placePct": 19,
+        "record": "1-27"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0066,
+      "pPlace": 0.0305,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HIAWATHA GOLDBERG",
+      "key": "HIAWATHA GOLDBERG",
+      "draw": 8,
+      "rating": 57,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "R J Barrett",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.375,
+        "trainer": 0.767,
+        "weight": 1,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.12,
+        "trainer": 3.83,
+        "weight": 6,
+        "headToHead": 6.32,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 41,
+        "wins": 1,
+        "places": 9,
+        "winPct": 2,
+        "placePct": 22,
+        "record": "1-41"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 2,
+        "places": 2,
+        "winPct": 100,
+        "record": "2-2"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: in-form stable; well-in at the weights (53.5kg).",
+        "Against it: patchy recent form; lower-rated (MR 57).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "in-form stable",
+        "well-in at the weights (53.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 57)"
+      ],
+      "rank": 8,
+      "pWin": 0.0027,
+      "pPlace": 0.0126,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "draw": 1,
+      "rating": 59,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.5,
+      "factors": {
+        "form": 0.495,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.357,
+        "trainer": 0.483,
+        "weight": 0.875,
+        "headToHead": 0,
+        "recencyMargin": 0.531
+      },
+      "contrib": {
+        "form": 8.92,
+        "rating": 1.78,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.07,
+        "trainer": 2.42,
+        "weight": 5.25,
+        "headToHead": 0,
+        "recencyMargin": 6.37
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "AVIGNON",
+          "PRINCE OF TIBET",
+          "OZARK"
+        ]
+      },
+      "recentForm": [
+        "6th of 12 last start."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 4,
+        "record": "0-25"
+      },
+      "trainerRec": {
+        "starts": 50,
+        "wins": 5,
+        "places": 9,
+        "winPct": 10,
+        "record": "5-50"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 12 last start.",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (54.5kg).",
+        "Against it: lightly-supported jockey booking; beaten by AVIGNON, PRINCE OF TIBET before.",
+        "Beaten by AVIGNON, PRINCE OF TIBET, OZARK in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (54.5kg)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "beaten by AVIGNON, PRINCE OF TIBET before"
+      ],
+      "rank": 9,
+      "pWin": 0.0022,
+      "pPlace": 0.0104,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "AVIGNON",
+      "rank": 1,
+      "score": 72.5,
+      "rating": 67,
+      "draw": 4,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Piet Botha",
+      "lastFive": "21",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.948,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.506,
+        "trainer": 0.483,
+        "weight": 0.375,
+        "headToHead": 0.98,
+        "recencyMargin": 0.974
+      }
+    },
+    {
+      "no": null,
+      "name": "PRINCE OF TIBET",
+      "rank": 2,
+      "score": 71.7,
+      "rating": 67,
+      "draw": 3,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "13",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.914,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.565,
+        "trainer": 0.524,
+        "weight": 0.375,
+        "headToHead": 1,
+        "recencyMargin": 0.884
+      }
+    },
+    {
+      "no": null,
+      "name": "DIAMOND BARON",
+      "rank": 3,
+      "score": 71.6,
+      "rating": 75,
+      "draw": 9,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.46,
+        "trainer": 0.541,
+        "weight": 0,
+        "headToHead": 0.527,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "OZARK",
+      "rank": 4,
+      "score": 59.1,
+      "rating": 62,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Paul Reeves",
+      "lastFive": "32",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.825,
+        "rating": 0.278,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.624,
+        "trainer": 0.524,
+        "weight": 0.688,
+        "headToHead": 0.387,
+        "recencyMargin": 0.876
+      }
+    },
+    {
+      "no": null,
+      "name": "WINTER PEARL",
+      "rank": 5,
+      "score": 59,
+      "rating": 71,
+      "draw": 6,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "M H Maingard",
+      "lastFive": "33",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.694,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.668,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.268,
+        "recencyMargin": 0.827
+      }
+    },
+    {
+      "no": null,
+      "name": "GOLD DUST",
+      "rank": 6,
+      "score": 55,
+      "rating": 74,
+      "draw": 2,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.944,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.442,
+        "trainer": 0.378,
+        "weight": 0.25,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "COMMANDING",
+      "rank": 7,
+      "score": 49,
+      "rating": 70,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.722,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.403,
+        "trainer": 0.369,
+        "weight": 0.188,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "HIAWATHA GOLDBERG",
+      "rank": 8,
+      "score": 43.7,
+      "rating": 57,
+      "draw": 8,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "R J Barrett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.375,
+        "trainer": 0.767,
+        "weight": 1,
+        "headToHead": 0.527,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHIFTING PATH",
+      "rank": 9,
+      "score": 42.5,
+      "rating": 59,
+      "draw": 1,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "lastFive": "65",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.495,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.357,
+        "trainer": 0.483,
+        "weight": 0.875,
+        "headToHead": 0,
+        "recencyMargin": 0.531
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PRINCE OF TIBET",
+      "key": "PRINCE OF TIBET",
+      "points": 3.561,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "AVIGNON",
+        "SHIFTING PATH",
+        "OZARK"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "AVIGNON",
+      "key": "AVIGNON",
+      "points": 3.412,
+      "wins": 4,
+      "losses": 1,
+      "meetings": 5,
+      "beats": [
+        "SHIFTING PATH",
+        "OZARK",
+        "OZARK",
+        "WINTER PEARL"
+      ],
+      "losesTo": [
+        "PRINCE OF TIBET"
+      ],
+      "record": "4-1",
+      "smallSample": false
+    },
+    {
+      "name": "GOLD DUST",
+      "key": "GOLD DUST",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HIAWATHA GOLDBERG",
+      "key": "HIAWATHA GOLDBERG",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DIAMOND BARON",
+      "key": "DIAMOND BARON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "COMMANDING",
+      "key": "COMMANDING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OZARK",
+      "key": "OZARK",
+      "points": -1.056,
+      "wins": 2,
+      "losses": 3,
+      "meetings": 5,
+      "beats": [
+        "SHIFTING PATH",
+        "WINTER PEARL"
+      ],
+      "losesTo": [
+        "AVIGNON",
+        "AVIGNON",
+        "PRINCE OF TIBET"
+      ],
+      "record": "2-3",
+      "smallSample": false
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "points": -1.949,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "AVIGNON",
+        "OZARK"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "points": -3.968,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "AVIGNON",
+        "PRINCE OF TIBET",
+        "OZARK"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "PRINCE OF TIBET",
+  "places": 3
+}

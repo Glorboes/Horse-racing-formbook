@@ -1,0 +1,1644 @@
+{
+  "id": "2026-06-21-kenilworth-r5",
+  "date": "2026-06-21",
+  "track": "Kenilworth",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.551Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "JOU LEKKER DING",
+      "key": "JOU LEKKER DING",
+      "draw": 8,
+      "rating": 80,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.5,
+      "factors": {
+        "form": 1,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.685,
+        "trainer": 0.498,
+        "weight": 0.2,
+        "headToHead": 0.713,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 7.38,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 2.05,
+        "trainer": 2.49,
+        "weight": 1.2,
+        "headToHead": 8.56,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "MY ONLY WEAKNESS"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by a nose at Kenilworth."
+      ],
+      "combo": {
+        "starts": 17,
+        "wins": 2,
+        "places": 9,
+        "winPct": 12,
+        "record": "2-17"
+      },
+      "jockeyRec": {
+        "starts": 81,
+        "wins": 15,
+        "places": 45,
+        "winPct": 19,
+        "placePct": 56,
+        "record": "15-81"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 8,
+        "places": 34,
+        "winPct": 9,
+        "record": "8-89"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by a nose at Kenilworth.",
+        "Why it can win: strong recent form; 19%-strike jockey booked; hitting the line hard lately.",
+        "Against it: carries 59kg.",
+        "Jockey Richard Fourie in form (19% strike).",
+        "Has beaten MY ONLY WEAKNESS before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "19%-strike jockey booked",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 59kg"
+      ],
+      "rank": 1,
+      "pWin": 0.3073,
+      "pPlace": 0.7519,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SOUTH OF FRANCE",
+      "key": "SOUTH OF FRANCE",
+      "draw": 10,
+      "rating": 81,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 66.7,
+      "factors": {
+        "form": 1,
+        "rating": 0.538,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.475,
+        "trainer": 0.654,
+        "weight": 0.333,
+        "headToHead": 0.514,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 8.62,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.42,
+        "trainer": 3.27,
+        "weight": 2,
+        "headToHead": 6.17,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 1L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 1,
+        "places": 2,
+        "winPct": 10,
+        "record": "1-10"
+      },
+      "jockeyRec": {
+        "starts": 77,
+        "wins": 6,
+        "places": 31,
+        "winPct": 8,
+        "placePct": 40,
+        "record": "6-77"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 15,
+        "places": 34,
+        "winPct": 17,
+        "record": "15-89"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 1L at Kenilworth.",
+        "Why it can win: strong recent form; hitting the line hard lately; stable in form (17%).",
+        "Against it: outclassed by this field; lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "trainer"
+      ],
+      "_concerns": [
+        "headToHead",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "stable in form (17%)"
+      ],
+      "_conReasons": [
+        "outclassed by this field",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.269,
+      "pPlace": 0.7075,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BENEATH THE CLOUDS",
+      "key": "BENEATH THE CLOUDS",
+      "draw": 1,
+      "rating": 83,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.3,
+      "factors": {
+        "form": 0.771,
+        "rating": 0.692,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.389,
+        "trainer": 0.462,
+        "weight": 0,
+        "headToHead": 0.514,
+        "recencyMargin": 0.769
+      },
+      "contrib": {
+        "form": 13.89,
+        "rating": 11.08,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.17,
+        "trainer": 2.31,
+        "weight": 0,
+        "headToHead": 6.17,
+        "recencyMargin": 9.23
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1L into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 1,
+        "places": 10,
+        "winPct": 3,
+        "placePct": 27,
+        "record": "1-37"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 3,
+        "places": 13,
+        "winPct": 7,
+        "record": "3-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1L into 2nd last start — right there.",
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 83); strong recent form.",
+        "Against it: top-weight (60.5kg); lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "draw",
+        "rating",
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 83)",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (60.5kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.1094,
+      "pPlace": 0.3824,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "draw": 3,
+      "rating": 84,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Adam Marcus",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60.6,
+      "factors": {
+        "form": 0.698,
+        "rating": 0.769,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.658,
+        "trainer": 0.783,
+        "weight": 0.133,
+        "headToHead": 0.103,
+        "recencyMargin": 0.906
+      },
+      "contrib": {
+        "form": 12.57,
+        "rating": 12.31,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.98,
+        "trainer": 3.92,
+        "weight": 0.8,
+        "headToHead": 1.24,
+        "recencyMargin": 10.87
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "JOU LEKKER DING",
+          "APRICITY"
+        ]
+      },
+      "recentForm": [
+        "5th of 10 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 7,
+        "winPct": 21,
+        "placePct": 50,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 7,
+        "places": 14,
+        "winPct": 27,
+        "record": "7-26"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 10 last start.",
+        "Why it can win: well-rated (MR 84); stable in form (27%); drawn 3 — a handy low draw.",
+        "Against it: beaten by JOU LEKKER DING, APRICITY before; top-weight (59.5kg).",
+        "Jockey Mickaelle Michel in form (21% strike).",
+        "Beaten by JOU LEKKER DING, APRICITY in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "headToHead",
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 84)",
+        "stable in form (27%)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "beaten by JOU LEKKER DING, APRICITY before",
+        "top-weight (59.5kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.0973,
+      "pPlace": 0.346,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "EISTEDDFOD",
+      "key": "EISTEDDFOD",
+      "draw": 11,
+      "rating": 79,
+      "jockey": "Corne Orffer",
+      "trainer": "Piet Botha",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59,
+      "factors": {
+        "form": 0.649,
+        "rating": 0.385,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.394,
+        "trainer": 0.497,
+        "weight": 0.467,
+        "headToHead": 1,
+        "recencyMargin": 0.668
+      },
+      "contrib": {
+        "form": 11.69,
+        "rating": 6.15,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.18,
+        "trainer": 2.48,
+        "weight": 2.8,
+        "headToHead": 12,
+        "recencyMargin": 8.02
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "BOOZY SUSIE",
+          "SAACHI ONE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 12 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 2,
+        "places": 16,
+        "winPct": 3,
+        "placePct": 28,
+        "record": "2-58"
+      },
+      "trainerRec": {
+        "starts": 56,
+        "wins": 5,
+        "places": 10,
+        "winPct": 9,
+        "record": "5-56"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 12 last start.",
+        "Why it can win: has beaten BOOZY SUSIE, SAACHI ONE.",
+        "Against it: drawn wide (11); lightly-supported jockey booking.",
+        "Has beaten BOOZY SUSIE, SAACHI ONE before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead"
+      ],
+      "_concerns": [
+        "draw",
+        "jockey"
+      ],
+      "_strReasons": [
+        "has beaten BOOZY SUSIE, SAACHI ONE"
+      ],
+      "_conReasons": [
+        "drawn wide (11)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 5,
+      "pWin": 0.0745,
+      "pPlace": 0.2729,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "APRICITY",
+      "key": "APRICITY",
+      "draw": 7,
+      "rating": 74,
+      "jockey": "Andrew Fortune",
+      "trainer": "Greg Ennion",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.9,
+      "factors": {
+        "form": 0.841,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.651,
+        "trainer": 0.394,
+        "weight": 0.8,
+        "headToHead": 0.726,
+        "recencyMargin": 0.887
+      },
+      "contrib": {
+        "form": 15.14,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.95,
+        "trainer": 1.97,
+        "weight": 4.8,
+        "headToHead": 8.71,
+        "recencyMargin": 10.64
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "MY ONLY WEAKNESS"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1L into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 11,
+        "winPct": 19,
+        "placePct": 41,
+        "record": "5-27"
+      },
+      "trainerRec": {
+        "starts": 58,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "record": "2-58"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1L into 2nd last start — right there.",
+        "Why it can win: carries 54.5kg; has beaten MY ONLY WEAKNESS; strong recent form.",
+        "Against it: lower-rated (MR 74); stable out of form.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Has beaten MY ONLY WEAKNESS before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "carries 54.5kg",
+        "has beaten MY ONLY WEAKNESS",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 74)",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0733,
+      "pPlace": 0.2688,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "draw": 4,
+      "rating": 87,
+      "jockey": "Damyan Pillay",
+      "trainer": "Adam Marcus",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.7,
+      "factors": {
+        "form": 0.3,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.623,
+        "trainer": 0.783,
+        "weight": 0.067,
+        "headToHead": 0.514,
+        "recencyMargin": 0.142
+      },
+      "contrib": {
+        "form": 5.4,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.87,
+        "trainer": 3.92,
+        "weight": 0.4,
+        "headToHead": 6.17,
+        "recencyMargin": 1.7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "placePct": 33,
+        "record": "1-3"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 7,
+        "places": 14,
+        "winPct": 27,
+        "record": "7-26"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 11 last start.",
+        "Why it can win: top-rated in the field (MR 87); stable in form (27%); drawn 4 — a handy low draw.",
+        "Against it: well beaten lately; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 87)",
+        "stable in form (27%)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "top-weight (60kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.0221,
+      "pPlace": 0.0859,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "draw": 9,
+      "rating": 76,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.8,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.154,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.493,
+        "trainer": 0.497,
+        "weight": 1,
+        "headToHead": 0.514,
+        "recencyMargin": 0.586
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 2.46,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.48,
+        "trainer": 2.48,
+        "weight": 6,
+        "headToHead": 6.17,
+        "recencyMargin": 7.04
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": {
+        "starts": 19,
+        "wins": 3,
+        "places": 5,
+        "winPct": 16,
+        "record": "3-19"
+      },
+      "jockeyRec": {
+        "starts": 46,
+        "wins": 4,
+        "places": 10,
+        "winPct": 9,
+        "placePct": 22,
+        "record": "4-46"
+      },
+      "trainerRec": {
+        "starts": 56,
+        "wins": 5,
+        "places": 10,
+        "winPct": 9,
+        "record": "5-56"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: well-in at the weights (53kg).",
+        "Against it: lower-rated (MR 76); stable out of form."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 76)",
+        "stable out of form"
+      ],
+      "rank": 8,
+      "pWin": 0.019,
+      "pPlace": 0.0741,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SAACHI ONE",
+      "key": "SAACHI ONE",
+      "draw": 2,
+      "rating": 79,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Lucinda Woodruff",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.385,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.378,
+        "trainer": 0.576,
+        "weight": 0.467,
+        "headToHead": 0.542,
+        "recencyMargin": 0.654
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 6.15,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.13,
+        "trainer": 2.88,
+        "weight": 2.8,
+        "headToHead": 6.5,
+        "recencyMargin": 7.84
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "BOOZY SUSIE"
+        ],
+        "losesTo": [
+          "EISTEDDFOD"
+        ]
+      },
+      "recentForm": [
+        "6th of 7 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 1,
+        "places": 9,
+        "winPct": 2,
+        "placePct": 20,
+        "record": "1-44"
+      },
+      "trainerRec": {
+        "starts": 45,
+        "wins": 6,
+        "places": 16,
+        "winPct": 13,
+        "record": "6-45"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 7 last start.",
+        "Why it can win: drawn 2 — a handy low draw; has beaten BOOZY SUSIE.",
+        "Against it: lightly-supported jockey booking; patchy recent form.",
+        "Has beaten BOOZY SUSIE before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "headToHead"
+      ],
+      "_concerns": [
+        "jockey",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "has beaten BOOZY SUSIE"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "patchy recent form"
+      ],
+      "rank": 9,
+      "pWin": 0.0143,
+      "pPlace": 0.0561,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VROOM VROOM",
+      "key": "VROOM VROOM",
+      "draw": 5,
+      "rating": 77,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.4,
+      "factors": {
+        "form": 0.385,
+        "rating": 0.231,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.732,
+        "trainer": 0.574,
+        "weight": 0.6,
+        "headToHead": 0.514,
+        "recencyMargin": 0.592
+      },
+      "contrib": {
+        "form": 6.92,
+        "rating": 3.69,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 2.2,
+        "trainer": 2.87,
+        "weight": 3.6,
+        "headToHead": 6.17,
+        "recencyMargin": 7.1
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "9th of 14 last start."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 5,
+        "places": 11,
+        "winPct": 24,
+        "record": "5-21"
+      },
+      "jockeyRec": {
+        "starts": 71,
+        "wins": 15,
+        "places": 36,
+        "winPct": 21,
+        "placePct": 51,
+        "record": "15-71"
+      },
+      "trainerRec": {
+        "starts": 134,
+        "wins": 17,
+        "places": 50,
+        "winPct": 13,
+        "record": "17-134"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 14 last start.",
+        "Why it can win: 21%-strike jockey booked; carries 56kg.",
+        "Against it: lower-rated (MR 77); outclassed by this field.",
+        "Jockey Craig Zackey in form (21% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "carries 56kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 77)",
+        "outclassed by this field"
+      ],
+      "rank": 10,
+      "pWin": 0.0127,
+      "pPlace": 0.05,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOOZY SUSIE",
+      "key": "BOOZY SUSIE",
+      "draw": 6,
+      "rating": 80,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 33.7,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.581,
+        "trainer": 0.576,
+        "weight": 0.4,
+        "headToHead": 0,
+        "recencyMargin": 0.196
+      },
+      "contrib": {
+        "form": 2,
+        "rating": 7.38,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 1.74,
+        "trainer": 2.88,
+        "weight": 2.4,
+        "headToHead": 0,
+        "recencyMargin": 2.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "EISTEDDFOD",
+          "SAACHI ONE"
+        ]
+      },
+      "recentForm": [
+        "9th of 10 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 1,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 7,
+        "places": 21,
+        "winPct": 13,
+        "placePct": 40,
+        "record": "7-52"
+      },
+      "trainerRec": {
+        "starts": 69,
+        "wins": 9,
+        "places": 28,
+        "winPct": 13,
+        "record": "9-69"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 10 last start.",
+        "Against it: patchy recent form; beaten by EISTEDDFOD, SAACHI ONE before.",
+        "Beaten by EISTEDDFOD, SAACHI ONE in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by EISTEDDFOD, SAACHI ONE before"
+      ],
+      "rank": 11,
+      "pWin": 0.0011,
+      "pPlace": 0.0044,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "JOU LEKKER DING",
+      "rank": 1,
+      "score": 67.5,
+      "rating": 80,
+      "draw": 8,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.685,
+        "trainer": 0.498,
+        "weight": 0.2,
+        "headToHead": 0.713,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "SOUTH OF FRANCE",
+      "rank": 2,
+      "score": 66.7,
+      "rating": 81,
+      "draw": 10,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.538,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.475,
+        "trainer": 0.654,
+        "weight": 0.333,
+        "headToHead": 0.514,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "BENEATH THE CLOUDS",
+      "rank": 3,
+      "score": 61.3,
+      "rating": 83,
+      "draw": 1,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "lastFive": "23",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.771,
+        "rating": 0.692,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.389,
+        "trainer": 0.462,
+        "weight": 0,
+        "headToHead": 0.514,
+        "recencyMargin": 0.769
+      }
+    },
+    {
+      "no": null,
+      "name": "MY ONLY WEAKNESS",
+      "rank": 4,
+      "score": 60.6,
+      "rating": 84,
+      "draw": 3,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Adam Marcus",
+      "lastFive": "52",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.698,
+        "rating": 0.769,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.658,
+        "trainer": 0.783,
+        "weight": 0.133,
+        "headToHead": 0.103,
+        "recencyMargin": 0.906
+      }
+    },
+    {
+      "no": null,
+      "name": "EISTEDDFOD",
+      "rank": 5,
+      "score": 59,
+      "rating": 79,
+      "draw": 11,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Piet Botha",
+      "lastFive": "54",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.649,
+        "rating": 0.385,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.394,
+        "trainer": 0.497,
+        "weight": 0.467,
+        "headToHead": 1,
+        "recencyMargin": 0.668
+      }
+    },
+    {
+      "no": null,
+      "name": "APRICITY",
+      "rank": 6,
+      "score": 58.9,
+      "rating": 74,
+      "draw": 7,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Greg Ennion",
+      "lastFive": "23",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.841,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.651,
+        "trainer": 0.394,
+        "weight": 0.8,
+        "headToHead": 0.726,
+        "recencyMargin": 0.887
+      }
+    },
+    {
+      "no": null,
+      "name": "DREAM SEARCHER",
+      "rank": 7,
+      "score": 51.7,
+      "rating": 87,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Damyan Pillay",
+      "trainer": "Adam Marcus",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.3,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.623,
+        "trainer": 0.783,
+        "weight": 0.067,
+        "headToHead": 0.514,
+        "recencyMargin": 0.142
+      }
+    },
+    {
+      "no": null,
+      "name": "PACIFIC WATERS",
+      "rank": 8,
+      "score": 50.8,
+      "rating": 76,
+      "draw": 9,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "71",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.154,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.493,
+        "trainer": 0.497,
+        "weight": 1,
+        "headToHead": 0.514,
+        "recencyMargin": 0.586
+      }
+    },
+    {
+      "no": null,
+      "name": "SAACHI ONE",
+      "rank": 9,
+      "score": 49.1,
+      "rating": 79,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "66",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.385,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.378,
+        "trainer": 0.576,
+        "weight": 0.467,
+        "headToHead": 0.542,
+        "recencyMargin": 0.654
+      }
+    },
+    {
+      "no": null,
+      "name": "VROOM VROOM",
+      "rank": 10,
+      "score": 48.4,
+      "rating": 77,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.385,
+        "rating": 0.231,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.732,
+        "trainer": 0.574,
+        "weight": 0.6,
+        "headToHead": 0.514,
+        "recencyMargin": 0.592
+      }
+    },
+    {
+      "no": null,
+      "name": "BOOZY SUSIE",
+      "rank": 11,
+      "score": 33.7,
+      "rating": 80,
+      "draw": 6,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.581,
+        "trainer": 0.576,
+        "weight": 0.4,
+        "headToHead": 0,
+        "recencyMargin": 0.196
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "EISTEDDFOD",
+      "key": "EISTEDDFOD",
+      "points": 2.105,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "BOOZY SUSIE",
+        "SAACHI ONE"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "APRICITY",
+      "key": "APRICITY",
+      "points": 0.917,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "MY ONLY WEAKNESS"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "JOU LEKKER DING",
+      "key": "JOU LEKKER DING",
+      "points": 0.863,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "MY ONLY WEAKNESS"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SAACHI ONE",
+      "key": "SAACHI ONE",
+      "points": 0.12,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "BOOZY SUSIE"
+      ],
+      "losesTo": [
+        "EISTEDDFOD"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "BENEATH THE CLOUDS",
+      "key": "BENEATH THE CLOUDS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VROOM VROOM",
+      "key": "VROOM VROOM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SOUTH OF FRANCE",
+      "key": "SOUTH OF FRANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "points": -1.779,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "JOU LEKKER DING",
+        "APRICITY"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    },
+    {
+      "name": "BOOZY SUSIE",
+      "key": "BOOZY SUSIE",
+      "points": -2.225,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "EISTEDDFOD",
+        "SAACHI ONE"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "EISTEDDFOD",
+  "places": 3
+}

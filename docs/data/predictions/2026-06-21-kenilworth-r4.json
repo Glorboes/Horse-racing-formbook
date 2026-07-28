@@ -1,0 +1,1059 @@
+{
+  "id": "2026-06-21-kenilworth-r4",
+  "date": "2026-06-21",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.535Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "WHO IS SHE",
+      "key": "WHO IS SHE",
+      "draw": 3,
+      "rating": 78,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 74.8,
+      "factors": {
+        "form": 0.829,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.372,
+        "trainer": 0.485,
+        "weight": 1,
+        "headToHead": 1,
+        "recencyMargin": 0.673
+      },
+      "contrib": {
+        "form": 14.91,
+        "rating": 13.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.12,
+        "trainer": 2.42,
+        "weight": 6,
+        "headToHead": 12,
+        "recencyMargin": 8.07
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "PENTOLINA"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 11 last start."
+      ],
+      "combo": {
+        "starts": 12,
+        "wins": 1,
+        "places": 6,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 1,
+        "places": 10,
+        "winPct": 3,
+        "placePct": 27,
+        "record": "1-37"
+      },
+      "trainerRec": {
+        "starts": 69,
+        "wins": 9,
+        "places": 28,
+        "winPct": 13,
+        "record": "9-69"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 11 last start.",
+        "Why it can win: well-in at the weights (56kg); has beaten PENTOLINA; strong recent form.",
+        "Has beaten PENTOLINA before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "well-in at the weights (56kg)",
+        "has beaten PENTOLINA",
+        "strong recent form"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.7171,
+      "pPlace": 0.9402,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOURBON KING",
+      "key": "BOURBON KING",
+      "draw": 5,
+      "rating": 76,
+      "jockey": "Andrew Fortune",
+      "trainer": "Andre Nel",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 64.5,
+      "factors": {
+        "form": 0.876,
+        "rating": 0.636,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.543,
+        "trainer": 0.552,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.84
+      },
+      "contrib": {
+        "form": 15.77,
+        "rating": 10.18,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.63,
+        "trainer": 2.76,
+        "weight": 2.25,
+        "headToHead": 6,
+        "recencyMargin": 10.08
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 6.50L at Kenilworth.",
+        "Consistent — placed in 2 of last 3.",
+        "Won by 6.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 3,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 11,
+        "winPct": 19,
+        "placePct": 41,
+        "record": "5-27"
+      },
+      "trainerRec": {
+        "starts": 48,
+        "wins": 9,
+        "places": 25,
+        "winPct": 19,
+        "record": "9-48"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 6.50L at Kenilworth.",
+        "Consistent — placed in 2 of last 3.",
+        "Won by 6.50L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; stable in form (19%); hitting the line hard lately.",
+        "Jockey Andrew Fortune in form (19% strike)."
+      ],
+      "_strengths": [
+        "form",
+        "trainer",
+        "recencyMargin"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "stable in form (19%)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.1288,
+      "pPlace": 0.4764,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAPTAINS ALLIANCE",
+      "key": "CAPTAINS ALLIANCE",
+      "draw": 4,
+      "rating": 79,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.7,
+      "factors": {
+        "form": 0.694,
+        "rating": 0.909,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.49,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.737
+      },
+      "contrib": {
+        "form": 12.48,
+        "rating": 14.55,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.47,
+        "trainer": 2.17,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 8.84
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 9 last start.",
+        "Consistent — placed in 2 of last 3."
+      ],
+      "combo": {
+        "starts": 28,
+        "wins": 3,
+        "places": 13,
+        "winPct": 11,
+        "record": "3-28"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 7,
+        "places": 21,
+        "winPct": 13,
+        "placePct": 40,
+        "record": "7-52"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 8,
+        "places": 34,
+        "winPct": 9,
+        "record": "8-89"
+      },
+      "partnership": {
+        "starts": 3,
+        "wins": 0,
+        "places": 2,
+        "newPartnership": false,
+        "record": "0-3"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Consistent — placed in 2 of last 3.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: top-weight (60kg); stable out of form."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "stable out of form"
+      ],
+      "rank": 3,
+      "pWin": 0.0808,
+      "pPlace": 0.3036,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "draw": 6,
+      "rating": 80,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.4,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.371,
+        "trainer": 0.371,
+        "weight": 0,
+        "headToHead": 0.212,
+        "recencyMargin": 0.6
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.11,
+        "trainer": 1.85,
+        "weight": 0,
+        "headToHead": 2.54,
+        "recencyMargin": 7.2
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "BATON ROUGE"
+        ]
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": {
+        "starts": 24,
+        "wins": 2,
+        "places": 9,
+        "winPct": 8,
+        "record": "2-24"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 2,
+        "places": 16,
+        "winPct": 3,
+        "placePct": 28,
+        "record": "2-58"
+      },
+      "trainerRec": {
+        "starts": 58,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "record": "2-58"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: top-rated in the field (MR 80).",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Beaten by BATON ROUGE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 80)"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.0395,
+      "pPlace": 0.1501,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BATON ROUGE",
+      "key": "BATON ROUGE",
+      "draw": 7,
+      "rating": 69,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52,
+      "factors": {
+        "form": 0.684,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.363,
+        "trainer": 0.436,
+        "weight": 0.75,
+        "headToHead": 0.788,
+        "recencyMargin": 0.667
+      },
+      "contrib": {
+        "form": 12.31,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.09,
+        "trainer": 2.18,
+        "weight": 4.5,
+        "headToHead": 9.46,
+        "recencyMargin": 8
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "FORT LIAM"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 1,
+        "places": 9,
+        "winPct": 2,
+        "placePct": 20,
+        "record": "1-44"
+      },
+      "trainerRec": {
+        "starts": 56,
+        "wins": 5,
+        "places": 10,
+        "winPct": 9,
+        "record": "5-56"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: has beaten FORT LIAM.",
+        "Against it: lower-rated (MR 69); lightly-supported jockey booking.",
+        "Has beaten FORT LIAM before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "has beaten FORT LIAM"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 69)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 5,
+      "pWin": 0.016,
+      "pPlace": 0.0614,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PENTOLINA",
+      "key": "PENTOLINA",
+      "draw": 1,
+      "rating": 80,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.8,
+      "factors": {
+        "form": 0.429,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.553,
+        "trainer": 0.433,
+        "weight": 0.25,
+        "headToHead": 0,
+        "recencyMargin": 0.472
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.66,
+        "trainer": 2.17,
+        "weight": 1.5,
+        "headToHead": 0,
+        "recencyMargin": 5.67
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "WHO IS SHE"
+        ]
+      },
+      "recentForm": [
+        "11th of 11 last start.",
+        "Won by 3.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 17,
+        "wins": 2,
+        "places": 9,
+        "winPct": 12,
+        "record": "2-17"
+      },
+      "jockeyRec": {
+        "starts": 81,
+        "wins": 15,
+        "places": 45,
+        "winPct": 19,
+        "placePct": 56,
+        "record": "15-81"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 8,
+        "places": 34,
+        "winPct": 9,
+        "record": "8-89"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Won by 3.50L recently — has a telling turn of foot.",
+        "Why it can win: drawn 1 — a handy low draw; top-rated in the field (MR 80); 19%-strike jockey booked.",
+        "Against it: beaten by WHO IS SHE before; patchy recent form.",
+        "Winning partnership: Richard Fourie 1-2 on this horse.",
+        "Beaten by WHO IS SHE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "headToHead",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "top-rated in the field (MR 80)",
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "beaten by WHO IS SHE before",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0155,
+      "pPlace": 0.0594,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WALOYO YAMONI",
+      "key": "WALOYO YAMONI",
+      "draw": 2,
+      "rating": 73,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.3,
+      "factors": {
+        "form": 0,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.584,
+        "trainer": 0.479,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.304
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 5.82,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.75,
+        "trainer": 2.4,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 3.65
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 7 last start."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 5,
+        "places": 11,
+        "winPct": 24,
+        "record": "5-21"
+      },
+      "jockeyRec": {
+        "starts": 71,
+        "wins": 15,
+        "places": 36,
+        "winPct": 21,
+        "placePct": 51,
+        "record": "15-71"
+      },
+      "trainerRec": {
+        "starts": 134,
+        "wins": 17,
+        "places": 50,
+        "winPct": 13,
+        "record": "17-134"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 7 last start.",
+        "Why it can win: 21%-strike jockey booked; drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; well beaten lately.",
+        "Jockey Craig Zackey in form (21% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.0023,
+      "pPlace": 0.0088,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "WHO IS SHE",
+      "rank": 1,
+      "score": 74.8,
+      "rating": 78,
+      "draw": 3,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "lastFive": "41",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.829,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.372,
+        "trainer": 0.485,
+        "weight": 1,
+        "headToHead": 1,
+        "recencyMargin": 0.673
+      }
+    },
+    {
+      "no": null,
+      "name": "BOURBON KING",
+      "rank": 2,
+      "score": 64.5,
+      "rating": 76,
+      "draw": 5,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Andre Nel",
+      "lastFive": "124",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.876,
+        "rating": 0.636,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.543,
+        "trainer": 0.552,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.84
+      }
+    },
+    {
+      "no": null,
+      "name": "CAPTAINS ALLIANCE",
+      "rank": 3,
+      "score": 61.7,
+      "rating": 79,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "326",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.694,
+        "rating": 0.909,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.49,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.737
+      }
+    },
+    {
+      "no": null,
+      "name": "FORT LIAM",
+      "rank": 4,
+      "score": 57.4,
+      "rating": 80,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.371,
+        "trainer": 0.371,
+        "weight": 0,
+        "headToHead": 0.212,
+        "recencyMargin": 0.6
+      }
+    },
+    {
+      "no": null,
+      "name": "BATON ROUGE",
+      "rank": 5,
+      "score": 52,
+      "rating": 69,
+      "draw": 7,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "lastFive": "43",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.684,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.363,
+        "trainer": 0.436,
+        "weight": 0.75,
+        "headToHead": 0.788,
+        "recencyMargin": 0.667
+      }
+    },
+    {
+      "no": null,
+      "name": "PENTOLINA",
+      "rank": 6,
+      "score": 51.8,
+      "rating": 80,
+      "draw": 1,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "111",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.429,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.553,
+        "trainer": 0.433,
+        "weight": 0.25,
+        "headToHead": 0,
+        "recencyMargin": 0.472
+      }
+    },
+    {
+      "no": null,
+      "name": "WALOYO YAMONI",
+      "rank": 7,
+      "score": 40.3,
+      "rating": 73,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.584,
+        "trainer": 0.479,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0.304
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "WHO IS SHE",
+      "key": "WHO IS SHE",
+      "points": 1.645,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "PENTOLINA"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "BATON ROUGE",
+      "key": "BATON ROUGE",
+      "points": 0.948,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "FORT LIAM"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "WALOYO YAMONI",
+      "key": "WALOYO YAMONI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BOURBON KING",
+      "key": "BOURBON KING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CAPTAINS ALLIANCE",
+      "key": "CAPTAINS ALLIANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "points": -0.948,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "BATON ROUGE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "PENTOLINA",
+      "key": "PENTOLINA",
+      "points": -1.645,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "WHO IS SHE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "WHO IS SHE",
+  "places": 2
+}

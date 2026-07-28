@@ -1,0 +1,1318 @@
+{
+  "id": "2026-06-16-kenilworth-r4",
+  "date": "2026-06-16",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.113Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SPURIOUS",
+      "key": "SPURIOUS",
+      "draw": 2,
+      "rating": 74,
+      "jockey": "Petra Porffy",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.541,
+        "weight": 1,
+        "headToHead": 0.46,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.5,
+        "trainer": 2.7,
+        "weight": 6,
+        "headToHead": 5.52,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 118,
+        "wins": 16,
+        "places": 44,
+        "winPct": 14,
+        "record": "16-118"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 74); well-in at the weights (56kg); drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 74)",
+        "well-in at the weights (56kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "outclassed by this field"
+      ],
+      "rank": 1,
+      "pWin": 0.4715,
+      "pPlace": 0.91,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "JEWEL MULE",
+      "key": "JEWEL MULE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.3,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.46,
+        "trainer": 0.541,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0.417
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.38,
+        "trainer": 2.7,
+        "weight": 4.5,
+        "headToHead": 5.52,
+        "recencyMargin": 5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 7 last start."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 3,
+        "places": 9,
+        "winPct": 14,
+        "record": "3-21"
+      },
+      "jockeyRec": {
+        "starts": 70,
+        "wins": 6,
+        "places": 29,
+        "winPct": 9,
+        "placePct": 41,
+        "record": "6-70"
+      },
+      "trainerRec": {
+        "starts": 118,
+        "wins": 16,
+        "places": 44,
+        "winPct": 14,
+        "record": "16-118"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Why it can win: strong recent form.",
+        "Against it: up in class; lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "up in class",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.1885,
+      "pPlace": 0.6616,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "draw": 8,
+      "rating": 70,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.1,
+      "factors": {
+        "form": 0.687,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.403,
+        "trainer": 0.369,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.539
+      },
+      "contrib": {
+        "form": 12.37,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.21,
+        "trainer": 1.84,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 6.47
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "ROCK THE ROAD",
+          "PITERAQ"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 8 last start.",
+        "Consistent — placed in 2 of last 3."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 5,
+        "winPct": 4,
+        "placePct": 19,
+        "record": "1-27"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-19"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Consistent — placed in 2 of last 3.",
+        "Why it can win: strong recent form; has beaten ROCK THE ROAD, PITERAQ; hitting the line hard lately.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Has beaten ROCK THE ROAD, PITERAQ before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten ROCK THE ROAD, PITERAQ",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1543,
+      "pPlace": 0.5869,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPANISH WORLD",
+      "key": "SPANISH WORLD",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.668,
+        "trainer": 0.541,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0.188
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 2,
+        "trainer": 2.7,
+        "weight": 4.5,
+        "headToHead": 5.52,
+        "recencyMargin": 2.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 11 last start."
+      ],
+      "combo": {
+        "starts": 15,
+        "wins": 4,
+        "places": 7,
+        "winPct": 27,
+        "record": "4-15"
+      },
+      "jockeyRec": {
+        "starts": 64,
+        "wins": 14,
+        "places": 32,
+        "winPct": 22,
+        "placePct": 50,
+        "record": "14-64"
+      },
+      "trainerRec": {
+        "starts": 118,
+        "wins": 16,
+        "places": 44,
+        "winPct": 14,
+        "record": "16-118"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 11 last start.",
+        "Why it can win: drawn 1 — a handy low draw; 22%-strike jockey booked.",
+        "Against it: patchy recent form; up in class.",
+        "Jockey Craig Zackey in form (22% strike)."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "22%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "rank": 4,
+      "pWin": 0.0671,
+      "pPlace": 0.2956,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROCK THE ROAD",
+      "key": "ROCK THE ROAD",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.7,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.624,
+        "trainer": 0.524,
+        "weight": 0,
+        "headToHead": 0.189,
+        "recencyMargin": 0.479
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.87,
+        "trainer": 2.62,
+        "weight": 0,
+        "headToHead": 2.27,
+        "recencyMargin": 5.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SCANDALIZE"
+        ]
+      },
+      "recentForm": [
+        "4th of 7 last start."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 2,
+        "places": 6,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "jockeyRec": {
+        "starts": 74,
+        "wins": 14,
+        "places": 39,
+        "winPct": 19,
+        "placePct": 53,
+        "record": "14-74"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 9,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Why it can win: drawn 3 — a handy low draw; 19%-strike jockey booked.",
+        "Against it: top-weight (60kg); beaten by SCANDALIZE before.",
+        "Jockey Richard Fourie in form (19% strike).",
+        "Beaten by SCANDALIZE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "beaten by SCANDALIZE before"
+      ],
+      "rank": 5,
+      "pWin": 0.0381,
+      "pPlace": 0.174,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PITERAQ",
+      "key": "PITERAQ",
+      "draw": 9,
+      "rating": 68,
+      "jockey": "Keagan De Melo",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.601,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.733,
+        "trainer": 0.546,
+        "weight": 0,
+        "headToHead": 0.653,
+        "recencyMargin": 0.629
+      },
+      "contrib": {
+        "form": 10.82,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 2.2,
+        "trainer": 2.73,
+        "weight": 0,
+        "headToHead": 7.83,
+        "recencyMargin": 7.55
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MAC"
+        ],
+        "losesTo": [
+          "SCANDALIZE"
+        ]
+      },
+      "recentForm": [
+        "3rd of 7 last start.",
+        "Consistent — placed in 2 of last 3."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 9,
+        "places": 18,
+        "winPct": 28,
+        "placePct": 56,
+        "record": "9-32"
+      },
+      "trainerRec": {
+        "starts": 64,
+        "wins": 9,
+        "places": 25,
+        "winPct": 14,
+        "record": "9-64"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Consistent — placed in 2 of last 3.",
+        "Why it can win: 28%-strike jockey booked; stable in form (14%); hitting the line hard lately.",
+        "Against it: lower-rated (MR 68); top-weight (60kg).",
+        "Jockey Keagan De Melo in form (28% strike).",
+        "Has beaten MAC before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "28%-strike jockey booked",
+        "stable in form (14%)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 68)",
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0356,
+      "pPlace": 0.1633,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PROXIMA",
+      "key": "PROXIMA",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Craig Bantam",
+      "trainer": "Andries Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.482,
+        "trainer": 0.4,
+        "weight": 0,
+        "headToHead": 0.46,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.45,
+        "trainer": 2,
+        "weight": 0,
+        "headToHead": 5.52,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0306,
+      "pPlace": 0.1414,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "INGENUE",
+      "key": "INGENUE",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 38.4,
+      "factors": {
+        "form": 0.091,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.565,
+        "trainer": 0.442,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 1.64,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.7,
+        "trainer": 2.21,
+        "weight": 4.5,
+        "headToHead": 5.52,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "11th of 12 last start."
+      ],
+      "combo": {
+        "starts": 24,
+        "wins": 3,
+        "places": 12,
+        "winPct": 13,
+        "record": "3-24"
+      },
+      "jockeyRec": {
+        "starts": 45,
+        "wins": 7,
+        "places": 19,
+        "winPct": 16,
+        "placePct": 42,
+        "record": "7-45"
+      },
+      "trainerRec": {
+        "starts": 80,
+        "wins": 6,
+        "places": 31,
+        "winPct": 8,
+        "record": "6-80"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 12 last start.",
+        "Against it: patchy recent form; well beaten lately."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0113,
+      "pPlace": 0.0531,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAC",
+      "key": "MAC",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Andries Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 30.4,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.357,
+        "trainer": 0.4,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.179
+      },
+      "contrib": {
+        "form": 3,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.07,
+        "trainer": 2,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 2.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "PITERAQ"
+        ]
+      },
+      "recentForm": [
+        "6th of 7 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 4,
+        "record": "0-25"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 7 last start.",
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "Beaten by PITERAQ in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.003,
+      "pPlace": 0.0141,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SPURIOUS",
+      "rank": 1,
+      "score": 60.8,
+      "rating": 74,
+      "draw": 2,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Petra Porffy",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.541,
+        "weight": 1,
+        "headToHead": 0.46,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "JEWEL MULE",
+      "rank": 2,
+      "score": 55.3,
+      "rating": null,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.46,
+        "trainer": 0.541,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0.417
+      }
+    },
+    {
+      "no": null,
+      "name": "SCANDALIZE",
+      "rank": 3,
+      "score": 54.1,
+      "rating": 70,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "423",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.687,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.403,
+        "trainer": 0.369,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.539
+      }
+    },
+    {
+      "no": null,
+      "name": "SPANISH WORLD",
+      "rank": 4,
+      "score": 49.1,
+      "rating": null,
+      "draw": 1,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.668,
+        "trainer": 0.541,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0.188
+      }
+    },
+    {
+      "no": null,
+      "name": "ROCK THE ROAD",
+      "rank": 5,
+      "score": 45.7,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.624,
+        "trainer": 0.524,
+        "weight": 0,
+        "headToHead": 0.189,
+        "recencyMargin": 0.479
+      }
+    },
+    {
+      "no": null,
+      "name": "PITERAQ",
+      "rank": 6,
+      "score": 45.3,
+      "rating": 68,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "James Crawford",
+      "lastFive": "353",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.601,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.733,
+        "trainer": 0.546,
+        "weight": 0,
+        "headToHead": 0.653,
+        "recencyMargin": 0.629
+      }
+    },
+    {
+      "no": null,
+      "name": "PROXIMA",
+      "rank": 7,
+      "score": 44.4,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Bantam",
+      "trainer": "Andries Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.482,
+        "trainer": 0.4,
+        "weight": 0,
+        "headToHead": 0.46,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "INGENUE",
+      "rank": 8,
+      "score": 38.4,
+      "rating": null,
+      "draw": 6,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.091,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.565,
+        "trainer": 0.442,
+        "weight": 0.75,
+        "headToHead": 0.46,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "MAC",
+      "rank": 9,
+      "score": 30.4,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Andries Steyn",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.357,
+        "trainer": 0.4,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.179
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "points": 1.935,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "ROCK THE ROAD",
+        "PITERAQ"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "PITERAQ",
+      "key": "PITERAQ",
+      "points": 0.689,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "MAC"
+      ],
+      "losesTo": [
+        "SCANDALIZE"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "SPANISH WORLD",
+      "key": "SPANISH WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPURIOUS",
+      "key": "SPURIOUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "JEWEL MULE",
+      "key": "JEWEL MULE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PROXIMA",
+      "key": "PROXIMA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "INGENUE",
+      "key": "INGENUE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROCK THE ROAD",
+      "key": "ROCK THE ROAD",
+      "points": -0.974,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SCANDALIZE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "MAC",
+      "key": "MAC",
+      "points": -1.651,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "PITERAQ"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "SCANDALIZE",
+  "places": 3
+}

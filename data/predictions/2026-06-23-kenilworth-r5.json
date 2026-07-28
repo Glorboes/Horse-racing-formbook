@@ -1,0 +1,1062 @@
+{
+  "id": "2026-06-23-kenilworth-r5",
+  "date": "2026-06-23",
+  "track": "Kenilworth",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.974Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SUPERHERO",
+      "key": "SUPERHERO",
+      "draw": 2,
+      "rating": 71,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.1,
+      "factors": {
+        "form": 0.833,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.694,
+        "trainer": 0.554,
+        "weight": 0,
+        "headToHead": 0.784,
+        "recencyMargin": 0.967
+      },
+      "contrib": {
+        "form": 15,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 2.08,
+        "trainer": 2.77,
+        "weight": 0,
+        "headToHead": 9.41,
+        "recencyMargin": 11.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "WATERFRONT"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 16,
+        "places": 30,
+        "winPct": 31,
+        "placePct": 58,
+        "record": "16-52"
+      },
+      "trainerRec": {
+        "starts": 53,
+        "wins": 10,
+        "places": 27,
+        "winPct": 19,
+        "record": "10-53"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: 31%-strike jockey booked; stable in form (19%); hitting the line hard lately.",
+        "Against it: top-weight (60kg).",
+        "Jockey Aldo Domeyer in form (31% strike).",
+        "Has beaten WATERFRONT before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "31%-strike jockey booked",
+        "stable in form (19%)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.5049,
+      "pPlace": 0.8277,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROYAL INFLUENCER",
+      "key": "ROYAL INFLUENCER",
+      "draw": 3,
+      "rating": 72,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.1,
+      "factors": {
+        "form": 0.646,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.431,
+        "trainer": 0.495,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.575
+      },
+      "contrib": {
+        "form": 11.63,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.29,
+        "trainer": 2.47,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 6.9
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "BRIGADIER BILLY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 28,
+        "wins": 4,
+        "places": 12,
+        "winPct": 14,
+        "record": "4-28"
+      },
+      "jockeyRec": {
+        "starts": 80,
+        "wins": 7,
+        "places": 33,
+        "winPct": 9,
+        "placePct": 41,
+        "record": "7-80"
+      },
+      "trainerRec": {
+        "starts": 144,
+        "wins": 20,
+        "places": 57,
+        "winPct": 14,
+        "record": "20-144"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: top-rated in the field (MR 72); has beaten BRIGADIER BILLY.",
+        "Against it: top-weight (60kg).",
+        "Has beaten BRIGADIER BILLY before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 72)",
+        "has beaten BRIGADIER BILLY"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.2592,
+      "pPlace": 0.5987,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ZANFAN MORIS",
+      "key": "ZANFAN MORIS",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 65.7,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.633,
+        "trainer": 0.465,
+        "weight": 0,
+        "headToHead": 0.966,
+        "recencyMargin": 0.792
+      },
+      "contrib": {
+        "form": 16,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.9,
+        "trainer": 2.33,
+        "weight": 0,
+        "headToHead": 11.59,
+        "recencyMargin": 9.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "WORLD AT ONE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 10 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 38,
+        "wins": 10,
+        "places": 19,
+        "winPct": 26,
+        "placePct": 50,
+        "record": "10-38"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 11,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 10 last start.",
+        "Why it can win: strong recent form; 26%-strike jockey booked; has beaten WORLD AT ONE.",
+        "Against it: top-weight (60kg).",
+        "Jockey Keagan De Melo in form (26% strike).",
+        "Has beaten WORLD AT ONE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "26%-strike jockey booked",
+        "has beaten WORLD AT ONE"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.2053,
+      "pPlace": 0.4929,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WATERFRONT",
+      "key": "WATERFRONT",
+      "draw": 6,
+      "rating": 69,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.5,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.554,
+        "trainer": 0.465,
+        "weight": 0,
+        "headToHead": 0.216,
+        "recencyMargin": 0.883
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 6.4,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.66,
+        "trainer": 2.33,
+        "weight": 0,
+        "headToHead": 2.59,
+        "recencyMargin": 10.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SUPERHERO"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1.40L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 2,
+        "places": 7,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "jockeyRec": {
+        "starts": 86,
+        "wins": 16,
+        "places": 47,
+        "winPct": 19,
+        "placePct": 55,
+        "record": "16-86"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 11,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.40L into 3rd last start — right there.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: top-weight (60kg); lower-rated (MR 69).",
+        "Jockey Richard Fourie in form (19% strike).",
+        "Beaten by SUPERHERO in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "lower-rated (MR 69)"
+      ],
+      "rank": 4,
+      "pWin": 0.0163,
+      "pPlace": 0.0431,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "POINT BARROW",
+      "key": "POINT BARROW",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.8,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.353,
+        "trainer": 0.427,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.3
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.06,
+        "trainer": 2.13,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 3.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-16"
+      },
+      "jockeyRec": {
+        "starts": 28,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 4,
+        "record": "0-28"
+      },
+      "trainerRec": {
+        "starts": 61,
+        "wins": 5,
+        "places": 11,
+        "winPct": 8,
+        "record": "5-61"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Why it can win: well-in at the weights (56kg).",
+        "Against it: lightly-supported jockey booking; stable out of form."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0123,
+      "pPlace": 0.0325,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WORLD AT ONE",
+      "key": "WORLD AT ONE",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Eduan Muller",
+      "trainer": "Vaughan Marshall",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.2,
+      "factors": {
+        "form": 0.078,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.397,
+        "trainer": 0.427,
+        "weight": 1,
+        "headToHead": 0.034,
+        "recencyMargin": 0.13
+      },
+      "contrib": {
+        "form": 1.4,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.19,
+        "trainer": 2.13,
+        "weight": 6,
+        "headToHead": 0.41,
+        "recencyMargin": 1.56
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "ZANFAN MORIS"
+        ]
+      },
+      "recentForm": [
+        "10th of 10 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 1,
+        "places": 6,
+        "winPct": 4,
+        "placePct": 24,
+        "record": "1-25"
+      },
+      "trainerRec": {
+        "starts": 94,
+        "wins": 8,
+        "places": 35,
+        "winPct": 9,
+        "record": "8-94"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 10 last start.",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (56kg).",
+        "Against it: patchy recent form; stable out of form.",
+        "Beaten by ZANFAN MORIS in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0018,
+      "pPlace": 0.0047,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BRIGADIER BILLY",
+      "key": "BRIGADIER BILLY",
+      "draw": 7,
+      "rating": 67,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 22.4,
+      "factors": {
+        "form": 0.268,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.369,
+        "trainer": 0.368,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.107
+      },
+      "contrib": {
+        "form": 4.82,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.11,
+        "trainer": 1.84,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 1.29
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "ROYAL INFLUENCER"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": {
+        "starts": 25,
+        "wins": 2,
+        "places": 9,
+        "winPct": 8,
+        "record": "2-25"
+      },
+      "jockeyRec": {
+        "starts": 60,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "placePct": 28,
+        "record": "2-60"
+      },
+      "trainerRec": {
+        "starts": 61,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "record": "2-61"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Against it: lower-rated (MR 67); stable out of form.",
+        "Beaten by ROYAL INFLUENCER in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 67)",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0002,
+      "pPlace": 0.0004,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SUPERHERO",
+      "rank": 1,
+      "score": 71.1,
+      "rating": 71,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.833,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.694,
+        "trainer": 0.554,
+        "weight": 0,
+        "headToHead": 0.784,
+        "recencyMargin": 0.967
+      }
+    },
+    {
+      "no": null,
+      "name": "ROYAL INFLUENCER",
+      "rank": 2,
+      "score": 67.1,
+      "rating": 72,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "258",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.646,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.431,
+        "trainer": 0.495,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.575
+      }
+    },
+    {
+      "no": null,
+      "name": "ZANFAN MORIS",
+      "rank": 3,
+      "score": 65.7,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.633,
+        "trainer": 0.465,
+        "weight": 0,
+        "headToHead": 0.966,
+        "recencyMargin": 0.792
+      }
+    },
+    {
+      "no": null,
+      "name": "WATERFRONT",
+      "rank": 4,
+      "score": 50.5,
+      "rating": 69,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.554,
+        "trainer": 0.465,
+        "weight": 0,
+        "headToHead": 0.216,
+        "recencyMargin": 0.883
+      }
+    },
+    {
+      "no": null,
+      "name": "POINT BARROW",
+      "rank": 5,
+      "score": 48.8,
+      "rating": null,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.353,
+        "trainer": 0.427,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.3
+      }
+    },
+    {
+      "no": null,
+      "name": "WORLD AT ONE",
+      "rank": 6,
+      "score": 37.2,
+      "rating": null,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "1010",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.078,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.397,
+        "trainer": 0.427,
+        "weight": 1,
+        "headToHead": 0.034,
+        "recencyMargin": 0.13
+      }
+    },
+    {
+      "no": null,
+      "name": "BRIGADIER BILLY",
+      "rank": 7,
+      "score": 22.4,
+      "rating": 67,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "68",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.268,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.369,
+        "trainer": 0.368,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.107
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "ROYAL INFLUENCER",
+      "key": "ROYAL INFLUENCER",
+      "points": 1.861,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "BRIGADIER BILLY"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "ZANFAN MORIS",
+      "key": "ZANFAN MORIS",
+      "points": 1.733,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "WORLD AT ONE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SUPERHERO",
+      "key": "SUPERHERO",
+      "points": 1.057,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "WATERFRONT"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "POINT BARROW",
+      "key": "POINT BARROW",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WATERFRONT",
+      "key": "WATERFRONT",
+      "points": -1.057,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SUPERHERO"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "WORLD AT ONE",
+      "key": "WORLD AT ONE",
+      "points": -1.733,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "ZANFAN MORIS"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "BRIGADIER BILLY",
+      "key": "BRIGADIER BILLY",
+      "points": -1.861,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "ROYAL INFLUENCER"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "ROYAL INFLUENCER",
+  "places": 2
+}

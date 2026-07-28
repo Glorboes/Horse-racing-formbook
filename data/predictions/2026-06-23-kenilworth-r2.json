@@ -1,0 +1,1693 @@
+{
+  "id": "2026-06-23-kenilworth-r2",
+  "date": "2026-06-23",
+  "track": "Kenilworth",
+  "race": 2,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.917Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "GENTIAN",
+      "key": "GENTIAN",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Justin Snaith",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.641,
+        "trainer": 0.625,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.92,
+        "trainer": 3.12,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 3,
+        "places": 7,
+        "winPct": 18,
+        "placePct": 41,
+        "record": "3-17"
+      },
+      "trainerRec": {
+        "starts": 144,
+        "wins": 20,
+        "places": 57,
+        "winPct": 14,
+        "record": "20-144"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (58.5kg).",
+        "Against it: outclassed by this field; patchy recent form.",
+        "Jockey Mickaelle Michel in form (18% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "headToHead",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (58.5kg)"
+      ],
+      "_conReasons": [
+        "outclassed by this field",
+        "patchy recent form"
+      ],
+      "rank": 1,
+      "pWin": 0.219,
+      "pPlace": 0.5598,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOLERO",
+      "key": "BOLERO",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.952,
+        "trainer": 0.662,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.75,
+        "jockey": 2.85,
+        "trainer": 3.31,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 42,
+        "wins": 12,
+        "places": 26,
+        "winPct": 29,
+        "record": "12-42"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 16,
+        "places": 30,
+        "winPct": 31,
+        "placePct": 58,
+        "record": "16-52"
+      },
+      "trainerRec": {
+        "starts": 95,
+        "wins": 15,
+        "places": 34,
+        "winPct": 16,
+        "record": "15-95"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 31%-strike jockey booked; stable in form (16%).",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "Jockey Aldo Domeyer in form (31% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "31%-strike jockey booked",
+        "stable in form (16%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 2,
+      "pWin": 0.1069,
+      "pPlace": 0.3226,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SOSSUSVLEI",
+      "key": "SOSSUSVLEI",
+      "draw": 10,
+      "rating": null,
+      "jockey": "Gareth Wright",
+      "trainer": "R J Barrett",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.436,
+        "trainer": 0.913,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.31,
+        "trainer": 4.57,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 40,
+        "wins": 2,
+        "places": 13,
+        "winPct": 5,
+        "placePct": 33,
+        "record": "2-40"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 3,
+        "places": 3,
+        "winPct": 60,
+        "record": "3-5"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (60%).",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "stable in form (60%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 3,
+      "pWin": 0.0861,
+      "pPlace": 0.2669,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WAITING GAME",
+      "key": "WAITING GAME",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.547,
+        "trainer": 0.678,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.64,
+        "trainer": 3.39,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 4,
+        "places": 9,
+        "winPct": 11,
+        "placePct": 24,
+        "record": "4-37"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 9,
+        "winPct": 19,
+        "record": "5-27"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (19%).",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "stable in form (19%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 4,
+      "pWin": 0.0847,
+      "pPlace": 0.2629,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MERCURY",
+      "key": "MERCURY",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.792,
+        "trainer": 0.405,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 2.38,
+        "trainer": 2.03,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 9,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-9"
+      },
+      "jockeyRec": {
+        "starts": 77,
+        "wins": 17,
+        "places": 40,
+        "winPct": 22,
+        "placePct": 52,
+        "record": "17-77"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-9"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 22%-strike jockey booked.",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "Jockey Craig Zackey in form (22% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "22%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 5,
+      "pWin": 0.0833,
+      "pPlace": 0.259,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GUNNER GALACTICO",
+      "key": "GUNNER GALACTICO",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Gavin Lerena",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.5,
+        "trainer": 0.713,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.25,
+        "jockey": 1.5,
+        "trainer": 3.56,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 53,
+        "wins": 10,
+        "places": 27,
+        "winPct": 19,
+        "record": "10-53"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (19%).",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "stable in form (19%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 6,
+      "pWin": 0.0819,
+      "pPlace": 0.2552,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NOBLE SALUTE",
+      "key": "NOBLE SALUTE",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.7,
+      "factors": {
+        "form": 0.336,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.356,
+        "trainer": 0.444,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.004
+      },
+      "contrib": {
+        "form": 6.05,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.07,
+        "trainer": 2.22,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 0.05
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "HAVOC"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 12 last start."
+      ],
+      "combo": {
+        "starts": 20,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-20"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 8,
+        "record": "0-26"
+      },
+      "trainerRec": {
+        "starts": 54,
+        "wins": 3,
+        "places": 11,
+        "winPct": 6,
+        "record": "3-54"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 12 last start.",
+        "Why it can win: has beaten HAVOC; drawn 3 — a handy low draw.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Has beaten HAVOC before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "has beaten HAVOC",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0754,
+      "pPlace": 0.2367,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CATCH ME",
+      "key": "CATCH ME",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.2,
+      "factors": {
+        "form": 0.452,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.509,
+        "trainer": 0.625,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.155
+      },
+      "contrib": {
+        "form": 8.14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.75,
+        "jockey": 1.53,
+        "trainer": 3.12,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 1.86
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 7 last start."
+      ],
+      "combo": {
+        "starts": 28,
+        "wins": 4,
+        "places": 12,
+        "winPct": 14,
+        "record": "4-28"
+      },
+      "jockeyRec": {
+        "starts": 80,
+        "wins": 7,
+        "places": 33,
+        "winPct": 9,
+        "placePct": 41,
+        "record": "7-80"
+      },
+      "trainerRec": {
+        "starts": 144,
+        "wins": 20,
+        "places": 57,
+        "winPct": 14,
+        "record": "20-144"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: top-weight (60kg); outclassed by this field."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 8,
+      "pWin": 0.0693,
+      "pPlace": 0.2194,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "EDICTAL CITATION",
+      "key": "EDICTAL CITATION",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.379,
+        "trainer": 0.396,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.14,
+        "trainer": 1.98,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 46,
+        "wins": 1,
+        "places": 9,
+        "winPct": 2,
+        "placePct": 20,
+        "record": "1-46"
+      },
+      "trainerRec": {
+        "starts": 61,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "record": "2-61"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 4 — a handy low draw.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0693,
+      "pPlace": 0.2194,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ILE MORIS",
+      "key": "ILE MORIS",
+      "draw": 12,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.721,
+        "trainer": 0.552,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.25,
+        "jockey": 2.16,
+        "trainer": 2.76,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 2,
+        "places": 7,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "jockeyRec": {
+        "starts": 86,
+        "wins": 16,
+        "places": 47,
+        "winPct": 19,
+        "placePct": 55,
+        "record": "16-86"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 11,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 19%-strike jockey booked.",
+        "Against it: drawn wide (12); top-weight (60kg).",
+        "Jockey Richard Fourie in form (19% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "drawn wide (12)",
+        "top-weight (60kg)"
+      ],
+      "rank": 10,
+      "pWin": 0.0671,
+      "pPlace": 0.2127,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LIKE DYNAMITE",
+      "key": "LIKE DYNAMITE",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.3,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.351,
+        "trainer": 0.504,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.05,
+        "trainer": 2.52,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 9 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-16"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 3,
+        "record": "0-29"
+      },
+      "trainerRec": {
+        "starts": 94,
+        "wins": 8,
+        "places": 35,
+        "winPct": 9,
+        "record": "8-94"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 9 last start.",
+        "Why it can win: strong recent form; drawn 1 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 11,
+      "pWin": 0.0505,
+      "pPlace": 0.1634,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HAVOC",
+      "key": "HAVOC",
+      "draw": 11,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.842,
+        "trainer": 0.396,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.226
+      },
+      "contrib": {
+        "form": 1.99,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 2.53,
+        "trainer": 1.98,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 2.72
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "NOBLE SALUTE"
+        ]
+      },
+      "recentForm": [
+        "10th of 11 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 38,
+        "wins": 10,
+        "places": 19,
+        "winPct": 26,
+        "placePct": 50,
+        "record": "10-38"
+      },
+      "trainerRec": {
+        "starts": 61,
+        "wins": 2,
+        "places": 17,
+        "winPct": 3,
+        "record": "2-61"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 11 last start.",
+        "Why it can win: 26%-strike jockey booked.",
+        "Against it: patchy recent form; stable out of form.",
+        "Jockey Keagan De Melo in form (26% strike).",
+        "Beaten by NOBLE SALUTE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "26%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 12,
+      "pWin": 0.0065,
+      "pPlace": 0.0221,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "GENTIAN",
+      "rank": 1,
+      "score": 52.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.641,
+        "trainer": 0.625,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BOLERO",
+      "rank": 2,
+      "score": 47.8,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.952,
+        "trainer": 0.662,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SOSSUSVLEI",
+      "rank": 3,
+      "score": 46.5,
+      "rating": null,
+      "draw": 10,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "R J Barrett",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.436,
+        "trainer": 0.913,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WAITING GAME",
+      "rank": 4,
+      "score": 46.4,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.547,
+        "trainer": 0.678,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MERCURY",
+      "rank": 5,
+      "score": 46.3,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.792,
+        "trainer": 0.405,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GUNNER GALACTICO",
+      "rank": 6,
+      "score": 46.2,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gavin Lerena",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.5,
+        "trainer": 0.713,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NOBLE SALUTE",
+      "rank": 7,
+      "score": 45.7,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "88",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.336,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.356,
+        "trainer": 0.444,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.004
+      }
+    },
+    {
+      "no": null,
+      "name": "CATCH ME",
+      "rank": 8,
+      "score": 45.2,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "36",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.452,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.509,
+        "trainer": 0.625,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.155
+      }
+    },
+    {
+      "no": null,
+      "name": "EDICTAL CITATION",
+      "rank": 9,
+      "score": 45.2,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.379,
+        "trainer": 0.396,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ILE MORIS",
+      "rank": 10,
+      "score": 45,
+      "rating": null,
+      "draw": 12,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.721,
+        "trainer": 0.552,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LIKE DYNAMITE",
+      "rank": 11,
+      "score": 43.3,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.351,
+        "trainer": 0.504,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "HAVOC",
+      "rank": 12,
+      "score": 31,
+      "rating": null,
+      "draw": 11,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Greg Ennion",
+      "lastFive": "108",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.842,
+        "trainer": 0.396,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.226
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "NOBLE SALUTE",
+      "key": "NOBLE SALUTE",
+      "points": 0.917,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "HAVOC"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "LIKE DYNAMITE",
+      "key": "LIKE DYNAMITE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CATCH ME",
+      "key": "CATCH ME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GUNNER GALACTICO",
+      "key": "GUNNER GALACTICO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BOLERO",
+      "key": "BOLERO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ILE MORIS",
+      "key": "ILE MORIS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WAITING GAME",
+      "key": "WAITING GAME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "EDICTAL CITATION",
+      "key": "EDICTAL CITATION",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SOSSUSVLEI",
+      "key": "SOSSUSVLEI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MERCURY",
+      "key": "MERCURY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GENTIAN",
+      "key": "GENTIAN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HAVOC",
+      "key": "HAVOC",
+      "points": -0.917,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "NOBLE SALUTE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "NOBLE SALUTE",
+  "places": 3
+}

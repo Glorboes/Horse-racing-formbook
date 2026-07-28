@@ -1,0 +1,753 @@
+{
+  "id": "2026-06-21-kenilworth-r6",
+  "date": "2026-06-21",
+  "track": "Kenilworth",
+  "race": 6,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.562Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "CHASINGTHERAINBOW",
+      "key": "CHASINGTHERAINBOW",
+      "draw": 1,
+      "rating": 99,
+      "jockey": "Richard Fourie",
+      "trainer": "R J Barrett",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 63.1,
+      "factors": {
+        "form": 1,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.52,
+        "trainer": 0.614,
+        "weight": 0.824,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.56,
+        "trainer": 3.07,
+        "weight": 4.94,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 5L at Kenilworth.",
+        "Won by 5L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 2,
+        "places": 2,
+        "winPct": 100,
+        "record": "2-2"
+      },
+      "jockeyRec": {
+        "starts": 81,
+        "wins": 15,
+        "places": 45,
+        "winPct": 19,
+        "placePct": 56,
+        "record": "15-81"
+      },
+      "trainerRec": {
+        "starts": 4,
+        "wins": 2,
+        "places": 2,
+        "winPct": 50,
+        "record": "2-4"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 5L at Kenilworth.",
+        "Won by 5L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; drawn 1 — a handy low draw; stable in form (50%).",
+        "Against it: lower-rated (MR 99); outclassed by this field.",
+        "Jockey Richard Fourie in form (19% strike)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 1 — a handy low draw",
+        "stable in form (50%)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 99)",
+        "outclassed by this field"
+      ],
+      "rank": 1,
+      "pWin": 0.5469,
+      "pPlace": 0.869,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GALLIC DREAM",
+      "key": "GALLIC DREAM",
+      "draw": 3,
+      "rating": 102,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.3,
+      "factors": {
+        "form": 0.635,
+        "rating": 0.13,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.547,
+        "trainer": 0.522,
+        "weight": 0.706,
+        "headToHead": 1,
+        "recencyMargin": 0.764
+      },
+      "contrib": {
+        "form": 11.43,
+        "rating": 2.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.64,
+        "trainer": 2.61,
+        "weight": 4.24,
+        "headToHead": 12,
+        "recencyMargin": 9.17
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "BEWARE THE BOMB"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 12 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 2,
+        "places": 3,
+        "winPct": 40,
+        "record": "2-5"
+      },
+      "jockeyRec": {
+        "starts": 71,
+        "wins": 15,
+        "places": 36,
+        "winPct": 21,
+        "placePct": 51,
+        "record": "15-71"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 5,
+        "places": 8,
+        "winPct": 19,
+        "record": "5-26"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 12 last start.",
+        "Why it can win: has beaten BEWARE THE BOMB; strong recent form; 21%-strike jockey booked.",
+        "Against it: lower-rated (MR 102).",
+        "Jockey Craig Zackey in form (21% strike).",
+        "Has beaten BEWARE THE BOMB before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "has beaten BEWARE THE BOMB",
+        "strong recent form",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 102)"
+      ],
+      "rank": 2,
+      "pWin": 0.2903,
+      "pPlace": 0.6929,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SUGAR MOUNTAIN",
+      "key": "SUGAR MOUNTAIN",
+      "draw": 4,
+      "rating": 122,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.666,
+        "trainer": 0.502,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 2,
+        "trainer": 2.51,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 38,
+        "wins": 12,
+        "places": 26,
+        "winPct": 32,
+        "record": "12-38"
+      },
+      "jockeyRec": {
+        "starts": 48,
+        "wins": 16,
+        "places": 30,
+        "winPct": 33,
+        "placePct": 63,
+        "record": "16-48"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 15,
+        "places": 34,
+        "winPct": 17,
+        "record": "15-89"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 122); 33%-strike jockey booked.",
+        "Against it: top-weight (61.5kg); patchy recent form.",
+        "Jockey Aldo Domeyer in form (33% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 122)",
+        "33%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.118,
+      "pPlace": 0.3142,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SWIATEK",
+      "key": "SWIATEK",
+      "draw": 2,
+      "rating": 102,
+      "jockey": "Sean Veale",
+      "trainer": "Justin Snaith",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.2,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.13,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.468,
+        "trainer": 0.456,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.179
+      },
+      "contrib": {
+        "form": 10,
+        "rating": 2.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.4,
+        "trainer": 2.28,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 2.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 10 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 7,
+        "places": 21,
+        "winPct": 13,
+        "placePct": 40,
+        "record": "7-52"
+      },
+      "trainerRec": {
+        "starts": 134,
+        "wins": 17,
+        "places": 50,
+        "winPct": 13,
+        "record": "17-134"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 10 last start.",
+        "Why it can win: well-in at the weights (53kg); drawn 2 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; stable out of form."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0327,
+      "pPlace": 0.0903,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "draw": 5,
+      "rating": 108,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.2,
+      "factors": {
+        "form": 0.273,
+        "rating": 0.391,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.516,
+        "trainer": 0.456,
+        "weight": 0.647,
+        "headToHead": 0,
+        "recencyMargin": 0.596
+      },
+      "contrib": {
+        "form": 4.91,
+        "rating": 6.26,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 1.55,
+        "trainer": 2.28,
+        "weight": 3.88,
+        "headToHead": 0,
+        "recencyMargin": 7.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "GALLIC DREAM"
+        ]
+      },
+      "recentForm": [
+        "9th of 12 last start."
+      ],
+      "combo": {
+        "starts": 20,
+        "wins": 4,
+        "places": 8,
+        "winPct": 20,
+        "record": "4-20"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 11,
+        "winPct": 19,
+        "placePct": 41,
+        "record": "5-27"
+      },
+      "trainerRec": {
+        "starts": 134,
+        "wins": 17,
+        "places": 50,
+        "winPct": 13,
+        "record": "17-134"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 12 last start.",
+        "Against it: patchy recent form; stable out of form.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Beaten by GALLIC DREAM in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.012,
+      "pPlace": 0.0335,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "CHASINGTHERAINBOW",
+      "rank": 1,
+      "score": 63.1,
+      "rating": 99,
+      "draw": 1,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "R J Barrett",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.52,
+        "trainer": 0.614,
+        "weight": 0.824,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "GALLIC DREAM",
+      "rank": 2,
+      "score": 59.3,
+      "rating": 102,
+      "draw": 3,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "lastFive": "72",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.635,
+        "rating": 0.13,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.547,
+        "trainer": 0.522,
+        "weight": 0.706,
+        "headToHead": 1,
+        "recencyMargin": 0.764
+      }
+    },
+    {
+      "no": null,
+      "name": "SUGAR MOUNTAIN",
+      "rank": 3,
+      "score": 53.9,
+      "rating": 122,
+      "draw": 4,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.666,
+        "trainer": 0.502,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SWIATEK",
+      "rank": 4,
+      "score": 46.2,
+      "rating": 102,
+      "draw": 2,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Justin Snaith",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.13,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.468,
+        "trainer": 0.456,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.179
+      }
+    },
+    {
+      "no": null,
+      "name": "BEWARE THE BOMB",
+      "rank": 5,
+      "score": 40.2,
+      "rating": 108,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.273,
+        "rating": 0.391,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.516,
+        "trainer": 0.456,
+        "weight": 0.647,
+        "headToHead": 0,
+        "recencyMargin": 0.596
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "GALLIC DREAM",
+      "key": "GALLIC DREAM",
+      "points": 1.013,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "BEWARE THE BOMB"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "CHASINGTHERAINBOW",
+      "key": "CHASINGTHERAINBOW",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SWIATEK",
+      "key": "SWIATEK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SUGAR MOUNTAIN",
+      "key": "SUGAR MOUNTAIN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "points": -1.013,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "GALLIC DREAM"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "GALLIC DREAM",
+  "places": 2
+}

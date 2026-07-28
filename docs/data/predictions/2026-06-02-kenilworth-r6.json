@@ -1,0 +1,919 @@
+{
+  "id": "2026-06-02-kenilworth-r6",
+  "date": "2026-06-02",
+  "track": "Kenilworth",
+  "race": 6,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:38.666Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "BEFORE SUNRISE",
+      "key": "BEFORE SUNRISE",
+      "draw": 5,
+      "rating": 70,
+      "jockey": "Sean Veale",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 66.2,
+      "factors": {
+        "form": 0.677,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.48,
+        "trainer": 0.439,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.561
+      },
+      "contrib": {
+        "form": 12.18,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.44,
+        "trainer": 2.19,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 6.73
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "NTIBINDI"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 8 last start.",
+        "Consistent — placed in 2 of last 3."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 17,
+        "winPct": 15,
+        "placePct": 41,
+        "record": "6-41"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 4,
+        "places": 13,
+        "winPct": 10,
+        "record": "4-39"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Consistent — placed in 2 of last 3.",
+        "Why it can win: top-rated in the field (MR 70); has beaten NTIBINDI; hitting the line hard lately.",
+        "Against it: top-weight (60kg).",
+        "Has beaten NTIBINDI before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 70)",
+        "has beaten NTIBINDI",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.5506,
+      "pPlace": 0.8841,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PEACE GARLAND",
+      "key": "PEACE GARLAND",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.9,
+      "factors": {
+        "form": 0.759,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.407,
+        "weight": 1,
+        "headToHead": 0.783,
+        "recencyMargin": 0.522
+      },
+      "contrib": {
+        "form": 13.67,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.5,
+        "trainer": 2.03,
+        "weight": 6,
+        "headToHead": 9.4,
+        "recencyMargin": 6.26
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "CHINWAG"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 11 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 1,
+        "places": 1,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": {
+        "starts": 76,
+        "wins": 6,
+        "places": 29,
+        "winPct": 8,
+        "record": "6-76"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 11 last start.",
+        "Why it can win: strong recent form; well-in at the weights (54.5kg); 17%-strike jockey booked.",
+        "Against it: up in class.",
+        "Has beaten CHINWAG before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "weight",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "well-in at the weights (54.5kg)",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "up in class"
+      ],
+      "rank": 2,
+      "pWin": 0.3176,
+      "pPlace": 0.7513,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CHINWAG",
+      "key": "CHINWAG",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Callan Murray",
+      "trainer": "Michelle Rix",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.5,
+      "factors": {
+        "form": 0.702,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.437,
+        "trainer": 0.343,
+        "weight": 0.727,
+        "headToHead": 0.217,
+        "recencyMargin": 0.474
+      },
+      "contrib": {
+        "form": 12.64,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.31,
+        "trainer": 1.72,
+        "weight": 4.36,
+        "headToHead": 2.6,
+        "recencyMargin": 5.69
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "PEACE GARLAND"
+        ]
+      },
+      "recentForm": [
+        "3rd of 11 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 31,
+        "wins": 3,
+        "places": 5,
+        "winPct": 10,
+        "placePct": 16,
+        "record": "3-31"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 0,
+        "places": 9,
+        "winPct": 0,
+        "record": "0-36"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 11 last start.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form.",
+        "Against it: stable out of form; up in class.",
+        "Beaten by PEACE GARLAND in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "form"
+      ],
+      "_concerns": [
+        "trainer",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "up in class"
+      ],
+      "rank": 3,
+      "pWin": 0.0663,
+      "pPlace": 0.183,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ELUSIVE PROFIT",
+      "key": "ELUSIVE PROFIT",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Glen Kotzen",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.8,
+      "factors": {
+        "form": 0.333,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.367,
+        "trainer": 0.374,
+        "weight": 0.727,
+        "headToHead": 0.803,
+        "recencyMargin": 0.438
+      },
+      "contrib": {
+        "form": 6,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.1,
+        "trainer": 1.87,
+        "weight": 4.36,
+        "headToHead": 9.64,
+        "recencyMargin": 5.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "REMUNERATION"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 10 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 38,
+        "wins": 1,
+        "places": 9,
+        "winPct": 3,
+        "placePct": 24,
+        "record": "1-38"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 10 last start.",
+        "Why it can win: drawn 2 — a handy low draw; has beaten REMUNERATION.",
+        "Against it: lightly-supported jockey booking; up in class.",
+        "Has beaten REMUNERATION before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "headToHead"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "has beaten REMUNERATION"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "up in class"
+      ],
+      "rank": 4,
+      "pWin": 0.059,
+      "pPlace": 0.1633,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "REMUNERATION",
+      "key": "REMUNERATION",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.4,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.408,
+        "trainer": 0.452,
+        "weight": 0.727,
+        "headToHead": 0.197,
+        "recencyMargin": 0.3
+      },
+      "contrib": {
+        "form": 2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.22,
+        "trainer": 2.26,
+        "weight": 4.36,
+        "headToHead": 2.36,
+        "recencyMargin": 3.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "ELUSIVE PROFIT"
+        ]
+      },
+      "recentForm": [
+        "9th of 10 last start."
+      ],
+      "combo": {
+        "starts": 18,
+        "wins": 3,
+        "places": 8,
+        "winPct": 17,
+        "record": "3-18"
+      },
+      "jockeyRec": {
+        "starts": 64,
+        "wins": 5,
+        "places": 26,
+        "winPct": 8,
+        "placePct": 41,
+        "record": "5-64"
+      },
+      "trainerRec": {
+        "starts": 106,
+        "wins": 13,
+        "places": 39,
+        "winPct": 12,
+        "record": "13-106"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 10 last start.",
+        "Against it: patchy recent form; up in class.",
+        "Beaten by ELUSIVE PROFIT in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "rank": 5,
+      "pWin": 0.0063,
+      "pPlace": 0.0179,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NTIBINDI",
+      "key": "NTIBINDI",
+      "draw": 6,
+      "rating": 69,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 17.5,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.532,
+        "trainer": 0.479,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.029
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.59,
+        "trainer": 2.39,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "BEFORE SUNRISE"
+        ]
+      },
+      "recentForm": [
+        "9th of 9 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 5,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 66,
+        "wins": 13,
+        "places": 35,
+        "winPct": 20,
+        "placePct": 53,
+        "record": "13-66"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 4,
+        "places": 8,
+        "winPct": 14,
+        "record": "4-28"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 9 last start.",
+        "Why it can win: 20%-strike jockey booked.",
+        "Against it: patchy recent form; lower-rated (MR 69).",
+        "Jockey Richard Fourie in form (20% strike).",
+        "Beaten by BEFORE SUNRISE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "20%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 69)"
+      ],
+      "rank": 6,
+      "pWin": 0.0002,
+      "pPlace": 0.0005,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "BEFORE SUNRISE",
+      "rank": 1,
+      "score": 66.2,
+      "rating": 70,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "343",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.677,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.48,
+        "trainer": 0.439,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.561
+      }
+    },
+    {
+      "no": null,
+      "name": "PEACE GARLAND",
+      "rank": 2,
+      "score": 62.9,
+      "rating": null,
+      "draw": 4,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "24",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.759,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.407,
+        "weight": 1,
+        "headToHead": 0.783,
+        "recencyMargin": 0.522
+      }
+    },
+    {
+      "no": null,
+      "name": "CHINWAG",
+      "rank": 3,
+      "score": 53.5,
+      "rating": null,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Michelle Rix",
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.702,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.437,
+        "trainer": 0.343,
+        "weight": 0.727,
+        "headToHead": 0.217,
+        "recencyMargin": 0.474
+      }
+    },
+    {
+      "no": null,
+      "name": "ELUSIVE PROFIT",
+      "rank": 4,
+      "score": 52.8,
+      "rating": null,
+      "draw": 2,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Glen Kotzen",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.333,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.367,
+        "trainer": 0.374,
+        "weight": 0.727,
+        "headToHead": 0.803,
+        "recencyMargin": 0.438
+      }
+    },
+    {
+      "no": null,
+      "name": "REMUNERATION",
+      "rank": 5,
+      "score": 39.4,
+      "rating": null,
+      "draw": 3,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.111,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.408,
+        "trainer": 0.452,
+        "weight": 0.727,
+        "headToHead": 0.197,
+        "recencyMargin": 0.3
+      }
+    },
+    {
+      "no": null,
+      "name": "NTIBINDI",
+      "rank": 6,
+      "score": 17.5,
+      "rating": 69,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.532,
+        "trainer": 0.479,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.029
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "BEFORE SUNRISE",
+      "key": "BEFORE SUNRISE",
+      "points": 1.753,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "NTIBINDI"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "ELUSIVE PROFIT",
+      "key": "ELUSIVE PROFIT",
+      "points": 1.064,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "REMUNERATION"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "PEACE GARLAND",
+      "key": "PEACE GARLAND",
+      "points": 0.992,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "CHINWAG"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "CHINWAG",
+      "key": "CHINWAG",
+      "points": -0.992,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "PEACE GARLAND"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "REMUNERATION",
+      "key": "REMUNERATION",
+      "points": -1.064,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "ELUSIVE PROFIT"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "NTIBINDI",
+      "key": "NTIBINDI",
+      "points": -1.753,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "BEFORE SUNRISE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "BEFORE SUNRISE",
+  "places": 2
+}

@@ -1,0 +1,1056 @@
+{
+  "id": "2026-06-21-kenilworth-r2",
+  "date": "2026-06-21",
+  "track": "Kenilworth",
+  "race": 2,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:17:39.506Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "MARGATE",
+      "key": "MARGATE",
+      "draw": 6,
+      "rating": 85,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 63.2,
+      "factors": {
+        "form": 0.619,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.721,
+        "trainer": 0.532,
+        "weight": 0.235,
+        "headToHead": 0.5,
+        "recencyMargin": 0.702
+      },
+      "contrib": {
+        "form": 11.14,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 2.16,
+        "trainer": 2.66,
+        "weight": 1.41,
+        "headToHead": 6,
+        "recencyMargin": 8.43
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 7 last start.",
+        "Won by 5L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 38,
+        "wins": 12,
+        "places": 26,
+        "winPct": 32,
+        "record": "12-38"
+      },
+      "jockeyRec": {
+        "starts": 48,
+        "wins": 16,
+        "places": 30,
+        "winPct": 33,
+        "placePct": 63,
+        "record": "16-48"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 15,
+        "places": 34,
+        "winPct": 17,
+        "record": "15-89"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 7 last start.",
+        "Won by 5L recently — has a telling turn of foot.",
+        "Why it can win: top-rated in the field (MR 85); 33%-strike jockey booked; strong recent form.",
+        "Jockey Aldo Domeyer in form (33% strike)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey",
+        "form"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "top-rated in the field (MR 85)",
+        "33%-strike jockey booked",
+        "strong recent form"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.4547,
+      "pPlace": 0.7572,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HAMPSTEAD HEATH",
+      "key": "HAMPSTEAD HEATH",
+      "draw": 4,
+      "rating": 72,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.6,
+      "factors": {
+        "form": 0.593,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.584,
+        "trainer": 0.628,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.658
+      },
+      "contrib": {
+        "form": 10.68,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.75,
+        "trainer": 3.14,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 7.89
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MARITZBURG MEMORY",
+          "MARITZBURG MEMORY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 12 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 4,
+        "places": 6,
+        "winPct": 67,
+        "record": "4-6"
+      },
+      "jockeyRec": {
+        "starts": 71,
+        "wins": 15,
+        "places": 36,
+        "winPct": 21,
+        "placePct": 51,
+        "record": "15-71"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 7,
+        "places": 14,
+        "winPct": 27,
+        "record": "7-26"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 12 last start.",
+        "Why it can win: stable in form (27%); has beaten MARITZBURG MEMORY; 21%-strike jockey booked.",
+        "Against it: top-weight (61kg).",
+        "Jockey Craig Zackey in form (21% strike).",
+        "Has beaten MARITZBURG MEMORY before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "headToHead",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (27%)",
+        "has beaten MARITZBURG MEMORY",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.2495,
+      "pPlace": 0.5406,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "draw": 5,
+      "rating": 59,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.5,
+      "factors": {
+        "form": 0.728,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.372,
+        "trainer": 0.417,
+        "weight": 0.765,
+        "headToHead": 0.736,
+        "recencyMargin": 0.936
+      },
+      "contrib": {
+        "form": 13.11,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.12,
+        "trainer": 2.08,
+        "weight": 4.59,
+        "headToHead": 8.83,
+        "recencyMargin": 11.23
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "TAKE IT AS RED"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 1,
+        "places": 10,
+        "winPct": 3,
+        "placePct": 27,
+        "record": "1-37"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 3,
+        "places": 13,
+        "winPct": 7,
+        "record": "3-43"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 3rd last start — right there.",
+        "Why it can win: strong recent form; hitting the line hard lately; carries 54.5kg.",
+        "Against it: lower-rated (MR 59); lightly-supported jockey booking.",
+        "Has beaten TAKE IT AS RED before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "carries 54.5kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 59)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.1488,
+      "pPlace": 0.3459,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TAKE IT AS RED",
+      "key": "TAKE IT AS RED",
+      "draw": 2,
+      "rating": 65,
+      "jockey": "Eduan Muller",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.7,
+      "factors": {
+        "form": 0.46,
+        "rating": 0.231,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.362,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 0.577,
+        "recencyMargin": 0.719
+      },
+      "contrib": {
+        "form": 8.28,
+        "rating": 3.69,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.09,
+        "trainer": 2.38,
+        "weight": 6,
+        "headToHead": 6.92,
+        "recencyMargin": 8.63
+      },
+      "knownRuns": 3,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "VIVO PER LEI"
+        ],
+        "losesTo": [
+          "HERITAGE RIDGE"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1.35L into 4th last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 23,
+        "record": "0-22"
+      },
+      "trainerRec": {
+        "starts": 33,
+        "wins": 4,
+        "places": 11,
+        "winPct": 12,
+        "record": "4-33"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.35L into 4th last start — right there.",
+        "Why it can win: well-in at the weights (52.5kg); drawn 2 — a handy low draw; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking.",
+        "Has beaten VIVO PER LEI before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)",
+        "drawn 2 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.0933,
+      "pPlace": 0.2236,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GOT THE LOOK",
+      "key": "GOT THE LOOK",
+      "draw": 7,
+      "rating": 76,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.654,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.436,
+        "trainer": 0.532,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.46,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.31,
+        "trainer": 2.66,
+        "weight": 1.06,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 7,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "jockeyRec": {
+        "starts": 46,
+        "wins": 4,
+        "places": 10,
+        "winPct": 9,
+        "placePct": 22,
+        "record": "4-46"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 15,
+        "places": 34,
+        "winPct": 17,
+        "record": "15-89"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 76).",
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-rated (MR 76)"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0349,
+      "pPlace": 0.086,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MARITZBURG MEMORY",
+      "key": "MARITZBURG MEMORY",
+      "draw": 3,
+      "rating": 70,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.1,
+      "factors": {
+        "form": 0.394,
+        "rating": 0.423,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.49,
+        "trainer": 0.433,
+        "weight": 0.118,
+        "headToHead": 0,
+        "recencyMargin": 0.512
+      },
+      "contrib": {
+        "form": 7.09,
+        "rating": 6.77,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.47,
+        "trainer": 2.17,
+        "weight": 0.71,
+        "headToHead": 0,
+        "recencyMargin": 6.15
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "HAMPSTEAD HEATH",
+          "HAMPSTEAD HEATH"
+        ]
+      },
+      "recentForm": [
+        "9th of 12 last start."
+      ],
+      "combo": {
+        "starts": 28,
+        "wins": 3,
+        "places": 13,
+        "winPct": 11,
+        "record": "3-28"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 7,
+        "places": 21,
+        "winPct": 13,
+        "placePct": 40,
+        "record": "7-52"
+      },
+      "trainerRec": {
+        "starts": 89,
+        "wins": 8,
+        "places": 34,
+        "winPct": 9,
+        "record": "8-89"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 12 last start.",
+        "Against it: beaten by HAMPSTEAD HEATH before; patchy recent form.",
+        "Beaten by HAMPSTEAD HEATH in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "headToHead",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "beaten by HAMPSTEAD HEATH before",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0097,
+      "pPlace": 0.0241,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VIVO PER LEI",
+      "key": "VIVO PER LEI",
+      "draw": 1,
+      "rating": 63,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Des McLachlan",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.7,
+      "factors": {
+        "form": 0.26,
+        "rating": 0.154,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.558,
+        "trainer": 0.4,
+        "weight": 0.706,
+        "headToHead": 0.187,
+        "recencyMargin": 0.488
+      },
+      "contrib": {
+        "form": 4.68,
+        "rating": 2.46,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.68,
+        "trainer": 2,
+        "weight": 4.24,
+        "headToHead": 2.24,
+        "recencyMargin": 5.86
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "TAKE IT AS RED"
+        ]
+      },
+      "recentForm": [
+        "7th of 12 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 7,
+        "winPct": 21,
+        "placePct": 50,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 52,
+        "wins": 3,
+        "places": 11,
+        "winPct": 6,
+        "record": "3-52"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 12 last start.",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: patchy recent form; stable out of form.",
+        "Jockey Mickaelle Michel in form (21% strike).",
+        "Beaten by TAKE IT AS RED in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0091,
+      "pPlace": 0.0225,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "MARGATE",
+      "rank": 1,
+      "score": 63.2,
+      "rating": 85,
+      "draw": 6,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "51",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.619,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.721,
+        "trainer": 0.532,
+        "weight": 0.235,
+        "headToHead": 0.5,
+        "recencyMargin": 0.702
+      }
+    },
+    {
+      "no": null,
+      "name": "HAMPSTEAD HEATH",
+      "rank": 2,
+      "score": 59.6,
+      "rating": 72,
+      "draw": 4,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "lastFive": "73",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.593,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.584,
+        "trainer": 0.628,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.658
+      }
+    },
+    {
+      "no": null,
+      "name": "HERITAGE RIDGE",
+      "rank": 3,
+      "score": 56.5,
+      "rating": 59,
+      "draw": 5,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.728,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.372,
+        "trainer": 0.417,
+        "weight": 0.765,
+        "headToHead": 0.736,
+        "recencyMargin": 0.936
+      }
+    },
+    {
+      "no": null,
+      "name": "TAKE IT AS RED",
+      "rank": 4,
+      "score": 53.7,
+      "rating": 65,
+      "draw": 2,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "467",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.46,
+        "rating": 0.231,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.362,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 0.577,
+        "recencyMargin": 0.719
+      }
+    },
+    {
+      "no": null,
+      "name": "GOT THE LOOK",
+      "rank": 5,
+      "score": 47.8,
+      "rating": 76,
+      "draw": 7,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.654,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.436,
+        "trainer": 0.532,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MARITZBURG MEMORY",
+      "rank": 6,
+      "score": 40.1,
+      "rating": 70,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "95",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.394,
+        "rating": 0.423,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.49,
+        "trainer": 0.433,
+        "weight": 0.118,
+        "headToHead": 0,
+        "recencyMargin": 0.512
+      }
+    },
+    {
+      "no": null,
+      "name": "VIVO PER LEI",
+      "rank": 7,
+      "score": 39.7,
+      "rating": 63,
+      "draw": 1,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Des McLachlan",
+      "lastFive": "78",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.26,
+        "rating": 0.154,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.558,
+        "trainer": 0.4,
+        "weight": 0.706,
+        "headToHead": 0.187,
+        "recencyMargin": 0.488
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "HAMPSTEAD HEATH",
+      "key": "HAMPSTEAD HEATH",
+      "points": 2.072,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "MARITZBURG MEMORY",
+        "MARITZBURG MEMORY"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "HERITAGE RIDGE",
+      "key": "HERITAGE RIDGE",
+      "points": 0.979,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "TAKE IT AS RED"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "TAKE IT AS RED",
+      "key": "TAKE IT AS RED",
+      "points": 0.319,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "VIVO PER LEI"
+      ],
+      "losesTo": [
+        "HERITAGE RIDGE"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "MARGATE",
+      "key": "MARGATE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GOT THE LOOK",
+      "key": "GOT THE LOOK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VIVO PER LEI",
+      "key": "VIVO PER LEI",
+      "points": -1.299,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "TAKE IT AS RED"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "MARITZBURG MEMORY",
+      "key": "MARITZBURG MEMORY",
+      "points": -2.072,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "HAMPSTEAD HEATH",
+        "HAMPSTEAD HEATH"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "HAMPSTEAD HEATH",
+  "places": 2
+}
