@@ -250,6 +250,8 @@ function main() {
   const sync = syncDashboard();
   console.log(`\n✓ ${logged} races logged, ${pairs} head-to-head records, ${settled} predictions settled${backfilled ? ` (${backfilled} backfilled)` : ''}.`);
   console.log(`✓ strike rate now ${sync.strikeRate.winPct}% win / ${sync.strikeRate.placePct}% place over ${sync.strikeRate.settled} settled.`);
+  const rd = sync.strikeRate.readiness;
+  if (rd) console.log(`${rd.green ? '🟢 BETTING GREEN LIGHT' : '🔴 not bet-ready'} — ${rd.passed}/${rd.total} signals · ${rd.n}/${rd.target} priced races${rd.overallRoi != null ? ` · ROI ${rd.overallRoi > 0 ? '+' : ''}${rd.overallRoi}% at SP` : ''}`);
   if (!noPush) autoPush(`import-results: ${track} ${date} (${logged} races)`);
 }
 

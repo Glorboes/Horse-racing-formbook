@@ -395,5 +395,51 @@
         "winPct": 29
       }
     ]
+  },
+  "readiness": {
+    "green": false,
+    "passed": 1,
+    "total": 5,
+    "n": 24,
+    "target": 200,
+    "overallRoi": -57.4,
+    "recentRoi": -57.4,
+    "criteria": [
+      {
+        "key": "sample",
+        "label": "Enough races",
+        "pass": false,
+        "detail": "24 / 200 priced races logged",
+        "progress": 0.12
+      },
+      {
+        "key": "beatclose",
+        "label": "Beats the closing line",
+        "pass": false,
+        "detail": "value picks win 3% — market priced them 6%",
+        "progress": 0.35
+      },
+      {
+        "key": "calibration",
+        "label": "Well calibrated",
+        "pass": true,
+        "detail": "avg gap expected vs actual 8 pts (need ≤ 8)",
+        "progress": 0.6
+      },
+      {
+        "key": "oos",
+        "label": "Holds out-of-sample",
+        "pass": false,
+        "detail": "last 24 picks: -57.4% at SP",
+        "progress": 0
+      },
+      {
+        "key": "margin",
+        "label": "Clears the margin (profit at SP)",
+        "pass": false,
+        "detail": "flat-stake ROI -57.4% (need ≥ +2%)",
+        "progress": 0
+      }
+    ]
   }
 }

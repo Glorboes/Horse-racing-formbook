@@ -185,6 +185,7 @@ function logResult(fb, result) {
           pModel: +(+r.pWin).toFixed(4),
           pClose: +pc.toFixed(4),
           edge: +(r.pWin - pc).toFixed(4),
+          odds: fin && fin.oddsDecimal > 1 ? fin.oddsDecimal : null, // raw SP decimal, for realized ROI
           won: fin ? fin.finish === 1 : false,
           placed: fin ? fin.finish <= 3 : false,
         });
@@ -454,11 +455,87 @@ function closingLineValue(fb) {
   };
 }
 
+// ---------------------------------------------------------------------------
+// Betting readiness gate: the honest "should we put money on it yet?" check.
+// Five criteria must ALL pass; until then the answer is a firm no. Measured
+// from logged results only — no judgement, no optimism.
+// ---------------------------------------------------------------------------
+function bettingReadiness(fb, opts = {}) {
+  const TARGET_N = opts.target || 200;
+  const clamp01 = (x) => Math.max(0, Math.min(1, x));
+
+  // model's headline pick per settled, priced race (highest model prob)
+  const picks = [];
+  const rows = [];
+  for (const p of fb.predictionsLog) {
+    if (!p.settled || !p.result || !Array.isArray(p.result.value) || !p.result.value.length) continue;
+    rows.push(...p.result.value);
+    const top = p.result.value.reduce((a, b) => (b.pModel > a.pModel ? b : a));
+    picks.push({ date: p.date, pModel: top.pModel, pClose: top.pClose, edge: top.edge, won: top.won, odds: top.odds });
+  }
+  picks.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const n = picks.length;
+
+  // flat-stake ROI at SP (win only). Includes the market margin by construction.
+  const roiOf = (arr) => {
+    const w = arr.filter((x) => x.odds > 1);
+    if (w.length < 1) return null;
+    const profit = w.reduce((s, x) => s + (x.won ? x.odds - 1 : -1), 0);
+    return { roi: +((profit / w.length) * 100).toFixed(1), n: w.length };
+  };
+  const winPct = (arr) => (arr.length ? +((arr.filter((x) => x.won).length / arr.length) * 100).toFixed(0) : null);
+  const avgClosePct = (arr) => (arr.length ? +((arr.reduce((s, x) => s + x.pClose, 0) / arr.length) * 100).toFixed(0) : null);
+
+  // 2) positive-edge runners (model rates well above the market) beat the close
+  const posEdge = rows.filter((v) => v.edge >= 0.03);
+  const beatWin = winPct(posEdge), beatClose = avgClosePct(posEdge);
+
+  // 3) calibration error over populated tiers
+  const cal = calibration(fb).filter((t) => t.n >= 10 && t.expectedPct != null && t.winPct != null);
+  const calErr = cal.length ? Math.round(cal.reduce((s, t) => s + Math.abs(t.expectedPct - t.winPct), 0) / cal.length) : null;
+
+  // 4) out-of-sample: most recent 100 picks still profitable
+  const recent = roiOf(picks.slice(-100));
+  // 5) overall profitability at SP, with a small buffer above break-even
+  const overall = roiOf(picks);
+
+  const fmt = (v) => (v == null ? '—' : (v > 0 ? '+' : '') + v + '%');
+  const criteria = [
+    { key: 'sample', label: 'Enough races', pass: n >= TARGET_N,
+      detail: `${n} / ${TARGET_N} priced races logged`, progress: clamp01(n / TARGET_N) },
+    { key: 'beatclose', label: 'Beats the closing line',
+      pass: beatWin != null && beatClose != null && beatWin > beatClose,
+      detail: beatWin != null ? `value picks win ${beatWin}% — market priced them ${beatClose}%` : 'needs priced results',
+      progress: (beatWin != null && beatClose != null) ? clamp01(0.5 + (beatWin - beatClose) / 20) : 0 },
+    { key: 'calibration', label: 'Well calibrated',
+      pass: calErr != null && calErr <= 8,
+      detail: calErr != null ? `avg gap expected vs actual ${calErr} pts (need ≤ 8)` : 'needs more settled races',
+      progress: calErr != null ? clamp01(1 - calErr / 20) : 0 },
+    { key: 'oos', label: 'Holds out-of-sample',
+      pass: !!recent && recent.n >= 50 && recent.roi >= 0,
+      detail: recent ? `last ${recent.n} picks: ${fmt(recent.roi)} at SP` : 'needs 50+ recent priced picks',
+      progress: recent ? clamp01(0.5 + recent.roi / 40) : 0 },
+    { key: 'margin', label: 'Clears the margin (profit at SP)',
+      pass: !!overall && overall.roi >= 2,
+      detail: overall ? `flat-stake ROI ${fmt(overall.roi)} (need ≥ +2%)` : 'no priced picks yet',
+      progress: overall ? clamp01(0.5 + overall.roi / 40) : 0 },
+  ];
+  return {
+    green: criteria.every((c) => c.pass),
+    passed: criteria.filter((c) => c.pass).length,
+    total: criteria.length,
+    n, target: TARGET_N,
+    overallRoi: overall ? overall.roi : null,
+    recentRoi: recent ? recent.roi : null,
+    criteria,
+  };
+}
+
 module.exports = {
   FORMBOOK_PATH, ROOT,
   load, save, ensureHorse,
   logResult, makePredId, bookAsOf,
   headToHeadBetween, strongestByHeadToHead,
   strikeRate, comboRecord, jockeyRecord, trainerRecord, horseJockeyRecord, lastRunBefore, calibration,
-  closingLineValue,
+  closingLineValue, bettingReadiness,
 };
