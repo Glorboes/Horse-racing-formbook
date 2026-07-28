@@ -1,0 +1,1346 @@
+{
+  "id": "2026-03-18-hollywoodbets-durbanville-r5",
+  "date": "2026-03-18",
+  "track": "Hollywoodbets Durbanville",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:56.851Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "draw": 7,
+      "rating": 79,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60.8,
+      "factors": {
+        "form": 0.615,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.395,
+        "trainer": 0.403,
+        "weight": 0.2,
+        "headToHead": 1,
+        "recencyMargin": 0.767
+      },
+      "contrib": {
+        "form": 11.08,
+        "rating": 8.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.19,
+        "trainer": 2.01,
+        "weight": 1.2,
+        "headToHead": 12,
+        "recencyMargin": 9.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "STREET OUTLAW",
+          "NAVASEVEN",
+          "KELP FOREST"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 14 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "record": "1-16"
+      },
+      "jockeyRec": {
+        "starts": 30,
+        "wins": 1,
+        "places": 5,
+        "winPct": 3,
+        "placePct": 17,
+        "record": "1-30"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 6,
+        "winPct": 4,
+        "record": "1-27"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 14 last start.",
+        "Why it can win: strong recent form; has beaten STREET OUTLAW, NAVASEVEN; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten STREET OUTLAW, NAVASEVEN, KELP FOREST before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten STREET OUTLAW, NAVASEVEN",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.5491,
+      "pPlace": 0.9431,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LOVING PRAGUE (AUS)",
+      "key": "LOVING PRAGUE",
+      "draw": 8,
+      "rating": 84,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.547,
+        "trainer": 0.406,
+        "weight": 0.267,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.64,
+        "trainer": 2.03,
+        "weight": 1.6,
+        "headToHead": 6.01,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 3,
+        "places": 8,
+        "winPct": 15,
+        "placePct": 40,
+        "record": "3-20"
+      },
+      "trainerRec": {
+        "starts": 26,
+        "wins": 1,
+        "places": 11,
+        "winPct": 4,
+        "record": "1-26"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 84); 15%-strike jockey booked.",
+        "Against it: stable out of form; carries 58kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 84)",
+        "15%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "carries 58kg"
+      ],
+      "rank": 2,
+      "pWin": 0.1798,
+      "pPlace": 0.6803,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "STREET OUTLAW",
+      "key": "STREET OUTLAW",
+      "draw": 9,
+      "rating": 78,
+      "jockey": "Craig Zackey",
+      "trainer": "Ricky Maingard",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49,
+      "factors": {
+        "form": 0.385,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.422,
+        "trainer": 0.58,
+        "weight": 0.267,
+        "headToHead": 0.678,
+        "recencyMargin": 0.55
+      },
+      "contrib": {
+        "form": 6.92,
+        "rating": 7.27,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.27,
+        "trainer": 2.9,
+        "weight": 1.6,
+        "headToHead": 8.14,
+        "recencyMargin": 6.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "NAVASEVEN",
+          "KELP FOREST"
+        ],
+        "losesTo": [
+          "WORLDLY"
+        ]
+      },
+      "recentForm": [
+        "9th of 14 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 36,
+        "wins": 2,
+        "places": 12,
+        "winPct": 6,
+        "placePct": 33,
+        "record": "2-36"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 2,
+        "places": 3,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 14 last start.",
+        "Why it can win: stable in form (20%); has beaten NAVASEVEN, KELP FOREST; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; patchy recent form.",
+        "Has beaten NAVASEVEN, KELP FOREST before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "form"
+      ],
+      "_strReasons": [
+        "stable in form (20%)",
+        "has beaten NAVASEVEN, KELP FOREST",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.0768,
+      "pPlace": 0.3737,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PALACE GIFT",
+      "key": "PALACE GIFT",
+      "draw": 6,
+      "rating": 77,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0.667,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.82,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.4,
+        "trainer": 2.17,
+        "weight": 4,
+        "headToHead": 6.01,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 55kg.",
+        "Against it: outclassed by this field; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "carries 55kg"
+      ],
+      "_conReasons": [
+        "outclassed by this field",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0515,
+      "pPlace": 0.2605,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "draw": 5,
+      "rating": 82,
+      "jockey": "Craig Bantam",
+      "trainer": "Adam Marcus",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.8,
+      "factors": {
+        "form": 0.231,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.7,
+        "trainer": 0.555,
+        "weight": 0,
+        "headToHead": 0.326,
+        "recencyMargin": 0.275
+      },
+      "contrib": {
+        "form": 4.15,
+        "rating": 13.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 2.1,
+        "trainer": 2.78,
+        "weight": 0,
+        "headToHead": 3.92,
+        "recencyMargin": 3.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "NAVASEVEN"
+        ],
+        "losesTo": [
+          "STREET OUTLAW",
+          "WORLDLY"
+        ]
+      },
+      "recentForm": [
+        "11th of 14 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 2,
+        "places": 2,
+        "winPct": 100,
+        "record": "2-2"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 2,
+        "places": 2,
+        "winPct": 50,
+        "placePct": 50,
+        "record": "2-4"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 3,
+        "places": 10,
+        "winPct": 16,
+        "record": "3-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 14 last start.",
+        "Why it can win: well-rated (MR 82); 50%-strike jockey booked.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Has beaten NAVASEVEN before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 82)",
+        "50%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0382,
+      "pPlace": 0.1966,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SOOTY",
+      "key": "SOOTY",
+      "draw": 2,
+      "rating": 75,
+      "jockey": "Richard Fourie",
+      "trainer": "Paul Reeves",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.708,
+        "trainer": 0.383,
+        "weight": 0.467,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 2.91,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 2.12,
+        "trainer": 1.92,
+        "weight": 2.8,
+        "headToHead": 6.01,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 39,
+        "wins": 10,
+        "places": 21,
+        "winPct": 26,
+        "placePct": 54,
+        "record": "10-39"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 26%-strike jockey booked; drawn 2 — a handy low draw.",
+        "Against it: stable out of form; lower-rated (MR 75).",
+        "Jockey Richard Fourie in form (26% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "rating"
+      ],
+      "_strReasons": [
+        "26%-strike jockey booked",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "lower-rated (MR 75)"
+      ],
+      "rank": 6,
+      "pWin": 0.0345,
+      "pPlace": 0.1788,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DAWN'S EARLY LIGHT",
+      "key": "DAWNS EARLY LIGHT",
+      "draw": 1,
+      "rating": 73,
+      "jockey": "Callan Murray",
+      "trainer": "Des McLachlan",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.774,
+        "weight": 0.6,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 3.87,
+        "weight": 3.6,
+        "headToHead": 6.01,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "1-9"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 6,
+        "places": 9,
+        "winPct": 35,
+        "record": "6-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; stable in form (35%); carries 55.5kg.",
+        "Against it: lower-rated (MR 73); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "stable in form (35%)",
+        "carries 55.5kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 73)",
+        "outclassed by this field"
+      ],
+      "rank": 7,
+      "pWin": 0.0318,
+      "pPlace": 0.1651,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LADY LOOK ALIKE",
+      "key": "LADY LOOK ALIKE",
+      "draw": 4,
+      "rating": 74,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.091,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.476,
+        "trainer": 0.578,
+        "weight": 0.533,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 1.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.43,
+        "trainer": 2.89,
+        "weight": 3.2,
+        "headToHead": 6.01,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 20,
+        "wins": 3,
+        "places": 6,
+        "winPct": 15,
+        "record": "3-20"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 3,
+        "places": 8,
+        "winPct": 9,
+        "placePct": 25,
+        "record": "3-32"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 6,
+        "places": 13,
+        "winPct": 17,
+        "record": "6-36"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (17%).",
+        "Against it: lower-rated (MR 74); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "stable in form (17%)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 74)",
+        "outclassed by this field"
+      ],
+      "rank": 8,
+      "pWin": 0.0269,
+      "pPlace": 0.1406,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NAVASEVEN",
+      "key": "NAVASEVEN",
+      "draw": 3,
+      "rating": 81,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.6,
+      "factors": {
+        "form": 0,
+        "rating": 0.727,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.425,
+        "trainer": 0.446,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0.05
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 11.64,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.28,
+        "trainer": 2.23,
+        "weight": 6,
+        "headToHead": 0,
+        "recencyMargin": 0.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "STREET OUTLAW",
+          "WORLDLY",
+          "KELP FOREST"
+        ]
+      },
+      "recentForm": [
+        "14th of 14 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 53,
+        "wins": 4,
+        "places": 15,
+        "winPct": 8,
+        "record": "4-53"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "14th of 14 last start.",
+        "Why it can win: well-in at the weights (52.5kg); well-rated (MR 81); drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; beaten by STREET OUTLAW, WORLDLY before.",
+        "Beaten by STREET OUTLAW, WORLDLY, KELP FOREST in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)",
+        "well-rated (MR 81)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by STREET OUTLAW, WORLDLY before"
+      ],
+      "rank": 9,
+      "pWin": 0.0115,
+      "pPlace": 0.0612,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "WORLDLY",
+      "rank": 1,
+      "score": 60.8,
+      "rating": 79,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.615,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.395,
+        "trainer": 0.403,
+        "weight": 0.2,
+        "headToHead": 1,
+        "recencyMargin": 0.767
+      }
+    },
+    {
+      "no": null,
+      "name": "LOVING PRAGUE (AUS)",
+      "rank": 2,
+      "score": 54.1,
+      "rating": 84,
+      "draw": 8,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.547,
+        "trainer": 0.406,
+        "weight": 0.267,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "STREET OUTLAW",
+      "rank": 3,
+      "score": 49,
+      "rating": 78,
+      "draw": 9,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Ricky Maingard",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.385,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.422,
+        "trainer": 0.58,
+        "weight": 0.267,
+        "headToHead": 0.678,
+        "recencyMargin": 0.55
+      }
+    },
+    {
+      "no": null,
+      "name": "PALACE GIFT",
+      "rank": 4,
+      "score": 46.6,
+      "rating": 77,
+      "draw": 6,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0.667,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KELP FOREST",
+      "rank": 5,
+      "score": 44.8,
+      "rating": 82,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Bantam",
+      "trainer": "Adam Marcus",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.231,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.7,
+        "trainer": 0.555,
+        "weight": 0,
+        "headToHead": 0.326,
+        "recencyMargin": 0.275
+      }
+    },
+    {
+      "no": null,
+      "name": "SOOTY",
+      "rank": 6,
+      "score": 44.2,
+      "rating": 75,
+      "draw": 2,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.708,
+        "trainer": 0.383,
+        "weight": 0.467,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DAWN'S EARLY LIGHT",
+      "rank": 7,
+      "score": 43.7,
+      "rating": 73,
+      "draw": 1,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Des McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.774,
+        "weight": 0.6,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LADY LOOK ALIKE",
+      "rank": 8,
+      "score": 42.7,
+      "rating": 74,
+      "draw": 4,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.091,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.476,
+        "trainer": 0.578,
+        "weight": 0.533,
+        "headToHead": 0.501,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NAVASEVEN",
+      "rank": 9,
+      "score": 37.6,
+      "rating": 81,
+      "draw": 3,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "14",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.727,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.425,
+        "trainer": 0.446,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0.05
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "points": 4.5,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "STREET OUTLAW",
+        "NAVASEVEN",
+        "KELP FOREST"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "STREET OUTLAW",
+      "key": "STREET OUTLAW",
+      "points": 1.596,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "NAVASEVEN",
+        "KELP FOREST"
+      ],
+      "losesTo": [
+        "WORLDLY"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "LADY LOOK ALIKE",
+      "key": "LADY LOOK ALIKE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SOOTY",
+      "key": "SOOTY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LOVING PRAGUE (AUS)",
+      "key": "LOVING PRAGUE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PALACE GIFT",
+      "key": "PALACE GIFT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DAWN'S EARLY LIGHT",
+      "key": "DAWNS EARLY LIGHT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "points": -1.576,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "NAVASEVEN"
+      ],
+      "losesTo": [
+        "STREET OUTLAW",
+        "WORLDLY"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "NAVASEVEN",
+      "key": "NAVASEVEN",
+      "points": -4.519,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "STREET OUTLAW",
+        "WORLDLY",
+        "KELP FOREST"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "WORLDLY",
+  "places": 3
+}

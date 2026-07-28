@@ -1,0 +1,843 @@
+{
+  "id": "2026-03-21-hollywoodbets-durbanville-r3",
+  "date": "2026-03-21",
+  "track": "Hollywoodbets Durbanville",
+  "race": 3,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.384Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "TRIP TO CAMELOT",
+      "key": "TRIP TO CAMELOT",
+      "draw": 4,
+      "rating": 70,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 65.9,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.929,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.411,
+        "weight": 0.35,
+        "headToHead": 0.5,
+        "recencyMargin": 0.625
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 14.86,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.5,
+        "trainer": 2.06,
+        "weight": 2.1,
+        "headToHead": 6,
+        "recencyMargin": 7.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 19,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: strong recent form; hitting the line hard lately; well-rated (MR 70)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "rating"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "well-rated (MR 70)"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.571,
+      "pPlace": 0.9045,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MASTERONTHEMOON",
+      "key": "MASTERONTHEMOON",
+      "draw": 5,
+      "rating": 71,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.4,
+      "factors": {
+        "form": 0.667,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.445,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 0.5,
+        "recencyMargin": 0.604
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.33,
+        "trainer": 2.5,
+        "weight": 1.8,
+        "headToHead": 6,
+        "recencyMargin": 7.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 13 last start."
+      ],
+      "combo": {
+        "starts": 24,
+        "wins": 4,
+        "places": 7,
+        "winPct": 17,
+        "record": "4-24"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 4,
+        "places": 9,
+        "winPct": 11,
+        "placePct": 24,
+        "record": "4-37"
+      },
+      "trainerRec": {
+        "starts": 42,
+        "wins": 7,
+        "places": 15,
+        "winPct": 17,
+        "record": "7-42"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 13 last start.",
+        "Why it can win: top-rated in the field (MR 71); stable in form (17%); strong recent form.",
+        "Against it: carries 57.5kg."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer",
+        "form"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 71)",
+        "stable in form (17%)",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "carries 57.5kg"
+      ],
+      "rank": 2,
+      "pWin": 0.3186,
+      "pPlace": 0.7799,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROYAL CLINTON",
+      "key": "ROYAL CLINTON",
+      "draw": 3,
+      "rating": 69,
+      "jockey": "Oswald Noach",
+      "trainer": "Paul Reeves",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.857,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.411,
+        "trainer": 0.371,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.71,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.23,
+        "trainer": 1.86,
+        "weight": 2.4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 13,
+        "record": "0-8"
+      },
+      "trainerRec": {
+        "starts": 18,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "record": "0-18"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 3,
+      "pWin": 0.0699,
+      "pPlace": 0.1986,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GEORGE REX",
+      "key": "GEORGE REX",
+      "draw": 1,
+      "rating": 65,
+      "jockey": "Grant Behr",
+      "trainer": "Paul Reeves",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.571,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.433,
+        "trainer": 0.371,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.14,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.3,
+        "trainer": 1.86,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 40,
+        "record": "0-5"
+      },
+      "trainerRec": {
+        "starts": 18,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "record": "0-18"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: stable out of form; top-weight (60.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60.5kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.0253,
+      "pPlace": 0.0731,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MONTICELLO",
+      "key": "MONTICELLO",
+      "draw": 2,
+      "rating": 57,
+      "jockey": "Varun Jodhee",
+      "trainer": "Shane Humby",
+      "weight": 50.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.452,
+        "trainer": 0.418,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.36,
+        "trainer": 2.09,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 3,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "1-11"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (50.5kg); drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 57); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (50.5kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 57)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0141,
+      "pPlace": 0.041,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "UNDOUBTED THE BOY",
+      "key": "UNDOUBTED THE BOY",
+      "draw": 6,
+      "rating": 57,
+      "jockey": "Gareth Wright",
+      "trainer": "Greg Ennion",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 28,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.513,
+        "trainer": 0.47,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.54,
+        "trainer": 2.35,
+        "weight": 4.5,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "11th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "placePct": 40,
+        "record": "1-5"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 3,
+        "places": 7,
+        "winPct": 13,
+        "record": "3-23"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Why it can win: 20%-strike jockey booked; carries 53kg.",
+        "Against it: patchy recent form; lower-rated (MR 57)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "20%-strike jockey booked",
+        "carries 53kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 57)"
+      ],
+      "rank": 6,
+      "pWin": 0.001,
+      "pPlace": 0.003,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "TRIP TO CAMELOT",
+      "rank": 1,
+      "score": 65.9,
+      "rating": 70,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.929,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.411,
+        "weight": 0.35,
+        "headToHead": 0.5,
+        "recencyMargin": 0.625
+      }
+    },
+    {
+      "no": null,
+      "name": "MASTERONTHEMOON",
+      "rank": 2,
+      "score": 62.4,
+      "rating": 71,
+      "draw": 5,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.445,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 0.5,
+        "recencyMargin": 0.604
+      }
+    },
+    {
+      "no": null,
+      "name": "ROYAL CLINTON",
+      "rank": 3,
+      "score": 53.3,
+      "rating": 69,
+      "draw": 3,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.857,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.411,
+        "trainer": 0.371,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GEORGE REX",
+      "rank": 4,
+      "score": 47.2,
+      "rating": 65,
+      "draw": 1,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.571,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.433,
+        "trainer": 0.371,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MONTICELLO",
+      "rank": 5,
+      "score": 43.7,
+      "rating": 57,
+      "draw": 2,
+      "weight": 50.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.452,
+        "trainer": 0.418,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "UNDOUBTED THE BOY",
+      "rank": 6,
+      "score": 28,
+      "rating": 57,
+      "draw": 6,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Greg Ennion",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.513,
+        "trainer": 0.47,
+        "weight": 0.75,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TRIP TO CAMELOT",
+      "key": "TRIP TO CAMELOT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MONTICELLO",
+      "key": "MONTICELLO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MASTERONTHEMOON",
+      "key": "MASTERONTHEMOON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROYAL CLINTON",
+      "key": "ROYAL CLINTON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GEORGE REX",
+      "key": "GEORGE REX",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "UNDOUBTED THE BOY",
+      "key": "UNDOUBTED THE BOY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "TRIP TO CAMELOT",
+  "places": 2
+}

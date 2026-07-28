@@ -1,0 +1,854 @@
+{
+  "id": "2026-03-04-hollywoodbets-durbanville-r4",
+  "date": "2026-03-04",
+  "track": "Hollywoodbets Durbanville",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:56.265Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "TULIP FIELDS",
+      "key": "TULIP FIELDS",
+      "draw": 3,
+      "rating": 95,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.41,
+        "trainer": 0.428,
+        "weight": 0.238,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.23,
+        "trainer": 2.14,
+        "weight": 1.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 14,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "record": "1-14"
+      },
+      "jockeyRec": {
+        "starts": 30,
+        "wins": 2,
+        "places": 11,
+        "winPct": 7,
+        "placePct": 37,
+        "record": "2-30"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "record": "1-15"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 95).",
+        "Against it: well beaten lately; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "jockey"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 95)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 1,
+      "pWin": 0.2968,
+      "pPlace": 0.556,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MISS WORLD",
+      "key": "MISS WORLD",
+      "draw": 4,
+      "rating": 91,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Greg Ennion",
+      "weight": 50.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.692,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.491,
+        "trainer": 0.428,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.08,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.47,
+        "trainer": 2.14,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 2,
+        "places": 5,
+        "winPct": 15,
+        "placePct": 38,
+        "record": "2-13"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "record": "1-15"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (50.5kg).",
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (50.5kg)"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 2,
+      "pWin": 0.2686,
+      "pPlace": 0.5178,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "draw": 2,
+      "rating": 93,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.9,
+      "factors": {
+        "form": 0.333,
+        "rating": 0.846,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.475,
+        "trainer": 0.407,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.529
+      },
+      "contrib": {
+        "form": 6,
+        "rating": 13.54,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.42,
+        "trainer": 2.03,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 6.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 7 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 9,
+        "winPct": 14,
+        "placePct": 41,
+        "record": "3-22"
+      },
+      "trainerRec": {
+        "starts": 20,
+        "wins": 1,
+        "places": 7,
+        "winPct": 5,
+        "record": "1-20"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 7 last start.",
+        "Why it can win: well-rated (MR 93); drawn 2 — a handy low draw; hitting the line hard lately.",
+        "Against it: top-weight (61kg); patchy recent form."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 93)",
+        "drawn 2 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.1771,
+      "pPlace": 0.3683,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WANDER DUNE (AUS)",
+      "key": "WANDER DUNE",
+      "draw": 5,
+      "rating": 90,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.533,
+        "trainer": 0.407,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.85,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.6,
+        "trainer": 2.03,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 4,
+        "winPct": 21,
+        "placePct": 29,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 20,
+        "wins": 1,
+        "places": 7,
+        "winPct": 5,
+        "record": "1-20"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 21%-strike jockey booked; carries 55kg.",
+        "Against it: well beaten lately.",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "carries 55kg"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.1269,
+      "pPlace": 0.2728,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GOODNESSGRACIOUSME",
+      "key": "GOODNESSGRACIOUSME",
+      "draw": 1,
+      "rating": 88,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.542,
+        "trainer": 0.421,
+        "weight": 0.524,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.38,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.63,
+        "trainer": 2.11,
+        "weight": 3.14,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 13,
+        "wins": 2,
+        "places": 6,
+        "winPct": 15,
+        "record": "2-13"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 7,
+        "places": 17,
+        "winPct": 21,
+        "placePct": 52,
+        "record": "7-33"
+      },
+      "trainerRec": {
+        "starts": 46,
+        "wins": 4,
+        "places": 15,
+        "winPct": 9,
+        "record": "4-46"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 21%-strike jockey booked.",
+        "Against it: well beaten lately; lower-rated (MR 88).",
+        "Jockey Richard Fourie in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "lower-rated (MR 88)"
+      ],
+      "rank": 5,
+      "pWin": 0.1129,
+      "pPlace": 0.2448,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "EXCEEDINGLY GLAM",
+      "key": "EXCEEDINGLY GLAM",
+      "draw": 6,
+      "rating": 82,
+      "jockey": "Corne Orffer",
+      "trainer": "H J Brown",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 38.1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.387,
+        "trainer": 0.433,
+        "weight": 0.476,
+        "headToHead": 0.5,
+        "recencyMargin": 0.613
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.16,
+        "trainer": 2.17,
+        "weight": 2.86,
+        "headToHead": 6,
+        "recencyMargin": 7.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "10th of 13 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 15,
+        "record": "0-13"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 13 last start.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: patchy recent form; lower-rated (MR 82)."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 82)"
+      ],
+      "rank": 6,
+      "pWin": 0.0178,
+      "pPlace": 0.0404,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "TULIP FIELDS",
+      "rank": 1,
+      "score": 55,
+      "rating": 95,
+      "draw": 3,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.41,
+        "trainer": 0.428,
+        "weight": 0.238,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MISS WORLD",
+      "rank": 2,
+      "score": 54.4,
+      "rating": 91,
+      "draw": 4,
+      "weight": 50.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.692,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.491,
+        "trainer": 0.428,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KAMCHATKA",
+      "rank": 3,
+      "score": 51.9,
+      "rating": 93,
+      "draw": 2,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.333,
+        "rating": 0.846,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.475,
+        "trainer": 0.407,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.529
+      }
+    },
+    {
+      "no": null,
+      "name": "WANDER DUNE (AUS)",
+      "rank": 4,
+      "score": 49.9,
+      "rating": 90,
+      "draw": 5,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.533,
+        "trainer": 0.407,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GOODNESSGRACIOUSME",
+      "rank": 5,
+      "score": 49.2,
+      "rating": 88,
+      "draw": 1,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.462,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.542,
+        "trainer": 0.421,
+        "weight": 0.524,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "EXCEEDINGLY GLAM",
+      "rank": 6,
+      "score": 38.1,
+      "rating": 82,
+      "draw": 6,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "H J Brown",
+      "lastFive": "10",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.387,
+        "trainer": 0.433,
+        "weight": 0.476,
+        "headToHead": 0.5,
+        "recencyMargin": 0.613
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "MISS WORLD",
+      "key": "MISS WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TULIP FIELDS",
+      "key": "TULIP FIELDS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WANDER DUNE (AUS)",
+      "key": "WANDER DUNE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GOODNESSGRACIOUSME",
+      "key": "GOODNESSGRACIOUSME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "EXCEEDINGLY GLAM",
+      "key": "EXCEEDINGLY GLAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "MISS WORLD",
+  "places": 2
+}

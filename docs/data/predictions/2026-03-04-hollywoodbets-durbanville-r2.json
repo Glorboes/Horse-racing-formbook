@@ -1,0 +1,868 @@
+{
+  "id": "2026-03-04-hollywoodbets-durbanville-r2",
+  "date": "2026-03-04",
+  "track": "Hollywoodbets Durbanville",
+  "race": 2,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:56.237Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "NORTH POINT",
+      "key": "NORTH POINT",
+      "draw": 3,
+      "rating": 101,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 72,
+      "factors": {
+        "form": 1,
+        "rating": 0.842,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.474,
+        "trainer": 0.519,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 13.47,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.42,
+        "trainer": 2.6,
+        "weight": 1.64,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 1L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 1,
+        "places": 1,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 4,
+        "places": 12,
+        "winPct": 14,
+        "placePct": 41,
+        "record": "4-29"
+      },
+      "trainerRec": {
+        "starts": 32,
+        "wins": 6,
+        "places": 13,
+        "winPct": 19,
+        "record": "6-32"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 1L at Kenilworth.",
+        "Why it can win: strong recent form; stable in form (19%); hitting the line hard lately.",
+        "Against it: carries 60kg."
+      ],
+      "_strengths": [
+        "form",
+        "trainer",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "stable in form (19%)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 60kg"
+      ],
+      "rank": 1,
+      "pWin": 0.8356,
+      "pPlace": 0.9793,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ELUSIVE WINTER",
+      "key": "ELUSIVE WINTER",
+      "draw": 4,
+      "rating": 104,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.491,
+        "trainer": 0.387,
+        "weight": 0.545,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.47,
+        "trainer": 1.93,
+        "weight": 3.27,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 2,
+        "places": 5,
+        "winPct": 15,
+        "placePct": 38,
+        "record": "2-13"
+      },
+      "trainerRec": {
+        "starts": 13,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 104).",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 104)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.0621,
+      "pPlace": 0.3841,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CANDY TOWN",
+      "key": "CANDY TOWN",
+      "draw": 6,
+      "rating": 104,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.533,
+        "trainer": 0.407,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.6,
+        "trainer": 2.03,
+        "weight": 1.64,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 4,
+        "winPct": 21,
+        "placePct": 29,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 20,
+        "wins": 1,
+        "places": 7,
+        "winPct": 5,
+        "record": "1-20"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 104); 21%-strike jockey booked.",
+        "Against it: patchy recent form; well beaten lately.",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 104)",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.0409,
+      "pPlace": 0.2542,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "draw": 1,
+      "rating": 98,
+      "jockey": "Richard Fourie",
+      "trainer": "Greg Ennion",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.684,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.542,
+        "trainer": 0.428,
+        "weight": 0.545,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.95,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.63,
+        "trainer": 2.14,
+        "weight": 3.27,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 7,
+        "places": 17,
+        "winPct": 21,
+        "placePct": 52,
+        "record": "7-33"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "record": "1-15"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 21%-strike jockey booked.",
+        "Against it: patchy recent form; well beaten lately.",
+        "Jockey Richard Fourie in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0358,
+      "pPlace": 0.2226,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "UN BEL DI",
+      "key": "UN BEL DI",
+      "draw": 2,
+      "rating": 99,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.737,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.41,
+        "trainer": 0.421,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.79,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.23,
+        "trainer": 2.11,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "jockeyRec": {
+        "starts": 30,
+        "wins": 2,
+        "places": 11,
+        "winPct": 7,
+        "placePct": 37,
+        "record": "2-30"
+      },
+      "trainerRec": {
+        "starts": 46,
+        "wins": 4,
+        "places": 15,
+        "winPct": 9,
+        "record": "4-46"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 5,
+      "pWin": 0.02,
+      "pPlace": 0.1246,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FLYING FINLEY",
+      "key": "FLYING FINLEY",
+      "draw": 5,
+      "rating": 85,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Paul Reeves",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.451,
+        "trainer": 0.387,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.35,
+        "trainer": 1.93,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 3,
+        "places": 8,
+        "winPct": 11,
+        "placePct": 30,
+        "record": "3-27"
+      },
+      "trainerRec": {
+        "starts": 13,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56kg).",
+        "Against it: patchy recent form; lower-rated (MR 85).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 85)"
+      ],
+      "rank": 6,
+      "pWin": 0.0056,
+      "pPlace": 0.0352,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "NORTH POINT",
+      "rank": 1,
+      "score": 72,
+      "rating": 101,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.842,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.474,
+        "trainer": 0.519,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "ELUSIVE WINTER",
+      "rank": 2,
+      "score": 56.4,
+      "rating": 104,
+      "draw": 4,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.491,
+        "trainer": 0.387,
+        "weight": 0.545,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CANDY TOWN",
+      "rank": 3,
+      "score": 53.9,
+      "rating": 104,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.533,
+        "trainer": 0.407,
+        "weight": 0.273,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SARDINIA BAY",
+      "rank": 4,
+      "score": 53.1,
+      "rating": 98,
+      "draw": 1,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.684,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.542,
+        "trainer": 0.428,
+        "weight": 0.545,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "UN BEL DI",
+      "rank": 5,
+      "score": 49.6,
+      "rating": 99,
+      "draw": 2,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.737,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.41,
+        "trainer": 0.421,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FLYING FINLEY",
+      "rank": 6,
+      "score": 42,
+      "rating": 85,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.451,
+        "trainer": 0.387,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CANDY TOWN",
+      "key": "CANDY TOWN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ELUSIVE WINTER",
+      "key": "ELUSIVE WINTER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FLYING FINLEY",
+      "key": "FLYING FINLEY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NORTH POINT",
+      "key": "NORTH POINT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "UN BEL DI",
+      "key": "UN BEL DI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "SARDINIA BAY",
+  "places": 2
+}

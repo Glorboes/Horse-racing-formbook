@@ -1,0 +1,1324 @@
+{
+  "id": "2026-03-21-hollywoodbets-durbanville-r4",
+  "date": "2026-03-21",
+  "track": "Hollywoodbets Durbanville",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.399Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SPIRIT OF NICAL",
+      "key": "SPIRIT OF NICAL",
+      "draw": 5,
+      "rating": 72,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.7,
+      "factors": {
+        "form": 0.727,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.496,
+        "trainer": 0.581,
+        "weight": 0.182,
+        "headToHead": 1,
+        "recencyMargin": 0.642
+      },
+      "contrib": {
+        "form": 13.09,
+        "rating": 13.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.49,
+        "trainer": 2.9,
+        "weight": 1.09,
+        "headToHead": 12,
+        "recencyMargin": 7.7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "PACIFIC WATERS",
+          "ISLAND JEWEL"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 12 last start."
+      ],
+      "combo": {
+        "starts": 24,
+        "wins": 4,
+        "places": 7,
+        "winPct": 17,
+        "record": "4-24"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 4,
+        "places": 9,
+        "winPct": 11,
+        "placePct": 24,
+        "record": "4-37"
+      },
+      "trainerRec": {
+        "starts": 42,
+        "wins": 7,
+        "places": 15,
+        "winPct": 17,
+        "record": "7-42"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 12 last start.",
+        "Why it can win: has beaten PACIFIC WATERS, ISLAND JEWEL; well-rated (MR 72); stable in form (17%).",
+        "Against it: carries 59.5kg.",
+        "Has beaten PACIFIC WATERS, ISLAND JEWEL before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "rating",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "has beaten PACIFIC WATERS, ISLAND JEWEL",
+        "well-rated (MR 72)",
+        "stable in form (17%)"
+      ],
+      "_conReasons": [
+        "carries 59.5kg"
+      ],
+      "rank": 1,
+      "pWin": 0.5366,
+      "pPlace": 0.9351,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VIXENS WAR",
+      "key": "VIXENS WAR",
+      "draw": 4,
+      "rating": 69,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.6,
+      "factors": {
+        "form": 0.778,
+        "rating": 0.682,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.386,
+        "trainer": 0.433,
+        "weight": 0.318,
+        "headToHead": 0.55,
+        "recencyMargin": 0.458
+      },
+      "contrib": {
+        "form": 14,
+        "rating": 10.91,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.16,
+        "trainer": 2.17,
+        "weight": 1.91,
+        "headToHead": 6.6,
+        "recencyMargin": 5.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 10 last start."
+      ],
+      "combo": {
+        "starts": 19,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "record": "1-19"
+      },
+      "jockeyRec": {
+        "starts": 34,
+        "wins": 1,
+        "places": 6,
+        "winPct": 3,
+        "placePct": 18,
+        "record": "1-34"
+      },
+      "trainerRec": {
+        "starts": 32,
+        "wins": 2,
+        "places": 8,
+        "winPct": 6,
+        "record": "2-32"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 10 last start.",
+        "Why it can win: strong recent form; well-rated (MR 69).",
+        "Against it: lightly-supported jockey booking; stable out of form."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "well-rated (MR 69)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.1178,
+      "pPlace": 0.5014,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "draw": 9,
+      "rating": 76,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.6,
+      "factors": {
+        "form": 0.636,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.5,
+        "trainer": 0.453,
+        "weight": 0,
+        "headToHead": 0.65,
+        "recencyMargin": 0.412
+      },
+      "contrib": {
+        "form": 11.45,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.5,
+        "trainer": 2.26,
+        "weight": 0,
+        "headToHead": 7.79,
+        "recencyMargin": 4.95
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "ISLAND JEWEL"
+        ],
+        "losesTo": [
+          "SPIRIT OF NICAL"
+        ]
+      },
+      "recentForm": [
+        "5th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 19,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 12 last start.",
+        "Why it can win: top-rated in the field (MR 76); has beaten ISLAND JEWEL.",
+        "Against it: top-weight (61.5kg).",
+        "Has beaten ISLAND JEWEL before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 76)",
+        "has beaten ISLAND JEWEL"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1178,
+      "pPlace": 0.5014,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FATE OF PACE",
+      "key": "FATE OF PACE",
+      "draw": 7,
+      "rating": 60,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.5,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.273,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.433,
+        "trainer": 0.741,
+        "weight": 0.409,
+        "headToHead": 0.72,
+        "recencyMargin": 0.5
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 4.36,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.3,
+        "trainer": 3.71,
+        "weight": 2.45,
+        "headToHead": 8.65,
+        "recencyMargin": 6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "NICCI'S LAW"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 40,
+        "record": "0-5"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 6,
+        "places": 10,
+        "winPct": 32,
+        "record": "6-19"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: strong recent form; stable in form (32%); has beaten NICCI'S LAW.",
+        "Against it: lower-rated (MR 60); lightly-supported jockey booking.",
+        "Has beaten NICCI'S LAW before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "trainer",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "stable in form (32%)",
+        "has beaten NICCI'S LAW"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 60)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.098,
+      "pPlace": 0.4343,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KITUBA",
+      "key": "KITUBA",
+      "draw": 2,
+      "rating": 67,
+      "jockey": "Sean Veale",
+      "trainer": "Andre Nel",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.9,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.441,
+        "trainer": 0.447,
+        "weight": 0.091,
+        "headToHead": 0.55,
+        "recencyMargin": 0.742
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 9.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.32,
+        "trainer": 2.24,
+        "weight": 0.55,
+        "headToHead": 6.6,
+        "recencyMargin": 8.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 24,
+        "record": "1-17"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 2,
+        "places": 12,
+        "winPct": 7,
+        "record": "2-28"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 9 last start.",
+        "Why it can win: hitting the line hard lately; drawn 2 — a handy low draw.",
+        "Against it: top-weight (60.5kg); stable out of form."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60.5kg)",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0636,
+      "pPlace": 0.2986,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIDDY UP GRACE",
+      "key": "GIDDY UP GRACE",
+      "draw": 1,
+      "rating": 60,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 50.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.273,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.518,
+        "trainer": 0.48,
+        "weight": 1,
+        "headToHead": 0.55,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.36,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.55,
+        "trainer": 2.4,
+        "weight": 6,
+        "headToHead": 6.6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 3,
+        "places": 8,
+        "winPct": 13,
+        "placePct": 33,
+        "record": "3-24"
+      },
+      "trainerRec": {
+        "starts": 51,
+        "wins": 5,
+        "places": 20,
+        "winPct": 10,
+        "record": "5-51"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (50.5kg); 13%-strike jockey booked.",
+        "Against it: lower-rated (MR 60); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (50.5kg)",
+        "13%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 60)",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0276,
+      "pPlace": 0.1365,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LADY ORBIT",
+      "key": "LADY ORBIT",
+      "draw": 6,
+      "rating": 64,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.553,
+        "trainer": 0.369,
+        "weight": 0.545,
+        "headToHead": 0.55,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.27,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.66,
+        "trainer": 1.84,
+        "weight": 3.27,
+        "headToHead": 6.6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "placePct": 40,
+        "record": "1-5"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 6,
+        "winPct": 0,
+        "record": "0-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 20%-strike jockey booked; carries 55.5kg.",
+        "Against it: stable out of form; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [
+        "20%-strike jockey booked",
+        "carries 55.5kg"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0198,
+      "pPlace": 0.0988,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NICCI'S LAW",
+      "key": "NICCIS LAW",
+      "draw": 3,
+      "rating": 67,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Greg Ennion",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.4,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.524,
+        "trainer": 0.524,
+        "weight": 0.409,
+        "headToHead": 0.379,
+        "recencyMargin": 0.313
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 9.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.57,
+        "trainer": 2.62,
+        "weight": 2.45,
+        "headToHead": 4.55,
+        "recencyMargin": 3.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "FATE OF PACE"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "placePct": 41,
+        "record": "5-39"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 3,
+        "places": 7,
+        "winPct": 13,
+        "record": "3-23"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Why it can win: 13%-strike jockey booked; drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; beaten by FATE OF PACE before.",
+        "Beaten by FATE OF PACE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "13%-strike jockey booked",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by FATE OF PACE before"
+      ],
+      "rank": 8,
+      "pWin": 0.0182,
+      "pPlace": 0.091,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ISLAND JEWEL",
+      "key": "ISLAND JEWEL",
+      "draw": 8,
+      "rating": 54,
+      "jockey": "Oswald Noach",
+      "trainer": "Eric Sands",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 26.9,
+      "factors": {
+        "form": 0.273,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.411,
+        "trainer": 0.533,
+        "weight": 0.727,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 4.91,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.23,
+        "trainer": 2.67,
+        "weight": 4.36,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SPIRIT OF NICAL",
+          "PACIFIC WATERS"
+        ]
+      },
+      "recentForm": [
+        "9th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 13,
+        "record": "0-8"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 2,
+        "places": 6,
+        "winPct": 14,
+        "record": "2-14"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 12 last start.",
+        "Why it can win: carries 53.5kg; stable in form (14%).",
+        "Against it: patchy recent form; lower-rated (MR 54).",
+        "Beaten by SPIRIT OF NICAL, PACIFIC WATERS in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 53.5kg",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 54)"
+      ],
+      "rank": 9,
+      "pWin": 0.0006,
+      "pPlace": 0.0031,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SPIRIT OF NICAL",
+      "rank": 1,
+      "score": 67.7,
+      "rating": 72,
+      "draw": 5,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.727,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.496,
+        "trainer": 0.581,
+        "weight": 0.182,
+        "headToHead": 1,
+        "recencyMargin": 0.642
+      }
+    },
+    {
+      "no": null,
+      "name": "VIXENS WAR",
+      "rank": 2,
+      "score": 58.6,
+      "rating": 69,
+      "draw": 4,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.778,
+        "rating": 0.682,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.386,
+        "trainer": 0.433,
+        "weight": 0.318,
+        "headToHead": 0.55,
+        "recencyMargin": 0.458
+      }
+    },
+    {
+      "no": null,
+      "name": "PACIFIC WATERS",
+      "rank": 3,
+      "score": 58.6,
+      "rating": 76,
+      "draw": 9,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.636,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.5,
+        "trainer": 0.453,
+        "weight": 0,
+        "headToHead": 0.65,
+        "recencyMargin": 0.412
+      }
+    },
+    {
+      "no": null,
+      "name": "FATE OF PACE",
+      "rank": 4,
+      "score": 57.5,
+      "rating": 60,
+      "draw": 7,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.273,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.433,
+        "trainer": 0.741,
+        "weight": 0.409,
+        "headToHead": 0.72,
+        "recencyMargin": 0.5
+      }
+    },
+    {
+      "no": null,
+      "name": "KITUBA",
+      "rank": 5,
+      "score": 54.9,
+      "rating": 67,
+      "draw": 2,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Andre Nel",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.441,
+        "trainer": 0.447,
+        "weight": 0.091,
+        "headToHead": 0.55,
+        "recencyMargin": 0.742
+      }
+    },
+    {
+      "no": null,
+      "name": "GIDDY UP GRACE",
+      "rank": 6,
+      "score": 49.9,
+      "rating": 60,
+      "draw": 1,
+      "weight": 50.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.273,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.518,
+        "trainer": 0.48,
+        "weight": 1,
+        "headToHead": 0.55,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LADY ORBIT",
+      "rank": 7,
+      "score": 47.9,
+      "rating": 64,
+      "draw": 6,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.553,
+        "trainer": 0.369,
+        "weight": 0.545,
+        "headToHead": 0.55,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NICCI'S LAW",
+      "rank": 8,
+      "score": 47.4,
+      "rating": 67,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Greg Ennion",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.524,
+        "trainer": 0.524,
+        "weight": 0.409,
+        "headToHead": 0.379,
+        "recencyMargin": 0.313
+      }
+    },
+    {
+      "no": null,
+      "name": "ISLAND JEWEL",
+      "rank": 9,
+      "score": 26.9,
+      "rating": 54,
+      "draw": 8,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Eric Sands",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.273,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.411,
+        "trainer": 0.533,
+        "weight": 0.727,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SPIRIT OF NICAL",
+      "key": "SPIRIT OF NICAL",
+      "points": 3.129,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "PACIFIC WATERS",
+        "ISLAND JEWEL"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "FATE OF PACE",
+      "key": "FATE OF PACE",
+      "points": 1.186,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "NICCI'S LAW"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "points": 0.693,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "ISLAND JEWEL"
+      ],
+      "losesTo": [
+        "SPIRIT OF NICAL"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "LADY ORBIT",
+      "key": "LADY ORBIT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIDDY UP GRACE",
+      "key": "GIDDY UP GRACE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VIXENS WAR",
+      "key": "VIXENS WAR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KITUBA",
+      "key": "KITUBA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NICCI'S LAW",
+      "key": "NICCIS LAW",
+      "points": -1.186,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "FATE OF PACE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "ISLAND JEWEL",
+      "key": "ISLAND JEWEL",
+      "points": -3.822,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "SPIRIT OF NICAL",
+        "PACIFIC WATERS"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "SPIRIT OF NICAL",
+  "places": 3
+}

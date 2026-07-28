@@ -1,0 +1,1003 @@
+{
+  "id": "2026-03-25-hollywoodbets-durbanville-r4",
+  "date": "2026-03-25",
+  "track": "Hollywoodbets Durbanville",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.912Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "RED CORAL",
+      "key": "RED CORAL",
+      "draw": 3,
+      "rating": 72,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.486,
+        "trainer": 0.491,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.46,
+        "trainer": 2.46,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "jockeyRec": {
+        "starts": 46,
+        "wins": 6,
+        "places": 17,
+        "winPct": 13,
+        "placePct": 37,
+        "record": "6-46"
+      },
+      "trainerRec": {
+        "starts": 59,
+        "wins": 8,
+        "places": 26,
+        "winPct": 14,
+        "record": "8-59"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 72).",
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 72)"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 1,
+      "pWin": 0.6671,
+      "pPlace": 0.905,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RED STATE",
+      "key": "RED STATE",
+      "draw": 5,
+      "rating": 63,
+      "jockey": "Varun Jodhee",
+      "trainer": "Ricky Maingard",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.436,
+        "trainer": 0.548,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 1.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.31,
+        "trainer": 2.74,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 5,
+        "winPct": 7,
+        "placePct": 33,
+        "record": "1-15"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 3,
+        "places": 7,
+        "winPct": 20,
+        "record": "3-15"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (20%); well-in at the weights (53.5kg).",
+        "Against it: lower-rated (MR 63); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "stable in form (20%)",
+        "well-in at the weights (53.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 63)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.0803,
+      "pPlace": 0.263,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEAUTIFUL SIDE",
+      "key": "BEAUTIFUL SIDE",
+      "draw": 4,
+      "rating": 65,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.3,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.448,
+        "trainer": 0.485,
+        "weight": 0.313,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.34,
+        "trainer": 2.42,
+        "weight": 1.88,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 1,
+        "places": 5,
+        "winPct": 8,
+        "placePct": 38,
+        "record": "1-13"
+      },
+      "trainerRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 6,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.0703,
+      "pPlace": 0.231,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THE NIGHT FERRY",
+      "key": "THE NIGHT FERRY",
+      "draw": 1,
+      "rating": 62,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "H J Brown",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.8,
+      "factors": {
+        "form": 0.444,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.463,
+        "trainer": 0.425,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.546
+      },
+      "contrib": {
+        "form": 8,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.39,
+        "trainer": 2.13,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 6.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 10 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 28,
+        "wins": 3,
+        "places": 10,
+        "winPct": 11,
+        "placePct": 36,
+        "record": "3-28"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 10 last start.",
+        "Why it can win: drawn 1 — a handy low draw; hitting the line hard lately.",
+        "Against it: lower-rated (MR 62)."
+      ],
+      "_strengths": [
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 62)"
+      ],
+      "rank": 4,
+      "pWin": 0.0692,
+      "pPlace": 0.2273,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPECIAL GLAMOUR",
+      "key": "SPECIAL GLAMOUR",
+      "draw": 7,
+      "rating": 64,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.489,
+        "trainer": 0.42,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.47,
+        "trainer": 2.1,
+        "weight": 4.88,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 3,
+        "winPct": 13,
+        "placePct": 38,
+        "record": "1-8"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 2,
+        "places": 12,
+        "winPct": 7,
+        "record": "2-30"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 55kg.",
+        "Against it: stable out of form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "carries 55kg"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0692,
+      "pPlace": 0.2273,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "draw": 2,
+      "rating": 66,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "James Crawford",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.3,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.6,
+        "trainer": 0.515,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 6.4,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.8,
+        "trainer": 2.57,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 5,
+        "places": 9,
+        "winPct": 25,
+        "placePct": 45,
+        "record": "5-20"
+      },
+      "trainerRec": {
+        "starts": 45,
+        "wins": 7,
+        "places": 18,
+        "winPct": 16,
+        "record": "7-45"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: 25%-strike jockey booked; drawn 2 — a handy low draw; stable in form (16%).",
+        "Against it: patchy recent form; top-weight (61.5kg).",
+        "Jockey Grant Van Niekerk in form (25% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "25%-strike jockey booked",
+        "drawn 2 — a handy low draw",
+        "stable in form (16%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (61.5kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0234,
+      "pPlace": 0.0781,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MY BESTIE",
+      "key": "MY BESTIE",
+      "draw": 6,
+      "rating": 63,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 36.5,
+      "factors": {
+        "form": 0.27,
+        "rating": 0.1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.371,
+        "trainer": 0.407,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.457
+      },
+      "contrib": {
+        "form": 4.87,
+        "rating": 1.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.11,
+        "trainer": 2.03,
+        "weight": 1.13,
+        "headToHead": 6,
+        "recencyMargin": 5.48
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": {
+        "starts": 22,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "record": "1-22"
+      },
+      "jockeyRec": {
+        "starts": 38,
+        "wins": 1,
+        "places": 6,
+        "winPct": 3,
+        "placePct": 16,
+        "record": "1-38"
+      },
+      "trainerRec": {
+        "starts": 35,
+        "wins": 2,
+        "places": 8,
+        "winPct": 6,
+        "record": "2-35"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Against it: lightly-supported jockey booking; stable out of form."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0205,
+      "pPlace": 0.0684,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "RED CORAL",
+      "rank": 1,
+      "score": 57.4,
+      "rating": 72,
+      "draw": 3,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.486,
+        "trainer": 0.491,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "RED STATE",
+      "rank": 2,
+      "score": 44.7,
+      "rating": 63,
+      "draw": 5,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.436,
+        "trainer": 0.548,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEAUTIFUL SIDE",
+      "rank": 3,
+      "score": 43.9,
+      "rating": 65,
+      "draw": 4,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.3,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.448,
+        "trainer": 0.485,
+        "weight": 0.313,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "THE NIGHT FERRY",
+      "rank": 4,
+      "score": 43.8,
+      "rating": 62,
+      "draw": 1,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "H J Brown",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.444,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.463,
+        "trainer": 0.425,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.546
+      }
+    },
+    {
+      "no": null,
+      "name": "SPECIAL GLAMOUR",
+      "rank": 5,
+      "score": 43.8,
+      "rating": 64,
+      "draw": 7,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.489,
+        "trainer": 0.42,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MIDWAY",
+      "rank": 6,
+      "score": 37.3,
+      "rating": 66,
+      "draw": 2,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "James Crawford",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.6,
+        "trainer": 0.515,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "MY BESTIE",
+      "rank": 7,
+      "score": 36.5,
+      "rating": 63,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "67",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.27,
+        "rating": 0.1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.371,
+        "trainer": 0.407,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.457
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "RED STATE",
+      "key": "RED STATE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RED CORAL",
+      "key": "RED CORAL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THE NIGHT FERRY",
+      "key": "THE NIGHT FERRY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPECIAL GLAMOUR",
+      "key": "SPECIAL GLAMOUR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEAUTIFUL SIDE",
+      "key": "BEAUTIFUL SIDE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MY BESTIE",
+      "key": "MY BESTIE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "RED STATE",
+  "places": 2
+}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T21:00:22.090Z",
+  "generated": "2026-07-28T21:09:58.246Z",
   "days": {
     "2026-02-04": {
       "bankers": [
@@ -1240,6 +1240,1250 @@
             "time": null,
             "selection": "BEACH VERSE",
             "prob": 67.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-03-04": {
+      "bankers": [
+        {
+          "race": 1,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "FORT YUKON",
+          "pWin": 94.8,
+          "pPlace": 99.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "NORTH POINT",
+          "pWin": 83.6,
+          "pPlace": 97.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 5,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "SOUTH OF FRANCE",
+          "pWin": 82.2,
+          "pPlace": 97.7,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.6513,
+          "combinedPct": 65.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 94.8
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 83.6
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 82.2
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.4169,
+          "combinedPct": 41.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 94.8
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 83.6
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 82.2
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACE OF MIND",
+              "prob": 64
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.2296,
+          "combinedPct": 23,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 94.8
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 83.6
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 82.2
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACE OF MIND",
+              "prob": 64
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DREAM SEARCHER",
+              "prob": 55.1
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9343,
+          "combinedPct": 93.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 99.9
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 97.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DREAM SEARCHER",
+              "prob": 97.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 97.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.8413,
+          "combinedPct": 84.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 99.9
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 97.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DREAM SEARCHER",
+              "prob": 97.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 97.7
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACE OF MIND",
+              "prob": 90
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.6869,
+          "combinedPct": 68.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FORT YUKON",
+              "prob": 99.9
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "NORTH POINT",
+              "prob": 97.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DREAM SEARCHER",
+              "prob": 97.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SOUTH OF FRANCE",
+              "prob": 97.7
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PEACE OF MIND",
+              "prob": 90
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "VIVO PER LEI",
+              "prob": 81.7
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.6513,
+        "combinedPct": 65.1,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 1,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "FORT YUKON",
+            "prob": 94.8
+          },
+          {
+            "race": 2,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "NORTH POINT",
+            "prob": 83.6
+          },
+          {
+            "race": 5,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "SOUTH OF FRANCE",
+            "prob": 82.2
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-03-18": {
+      "bankers": [
+        {
+          "race": 7,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "HANDSOME PRINCE",
+          "pWin": 70.9,
+          "pPlace": 98.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "QUIET PLACE",
+          "pWin": 70.5,
+          "pPlace": 93,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "WALK RIGHT IN",
+          "pWin": 56.1,
+          "pPlace": 94.8,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.2804,
+          "combinedPct": 28,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 70.9
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 70.5
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 56.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.1539,
+          "combinedPct": 15.4,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 70.9
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 70.5
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 56.1
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WORLDLY",
+              "prob": 54.9
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0808,
+          "combinedPct": 8.1,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 70.9
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 70.5
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 56.1
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WORLDLY",
+              "prob": 54.9
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "GIRL LIKE US",
+              "prob": 52.5
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.843,
+          "combinedPct": 84.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 98.5
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 95.7
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 94.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WORLDLY",
+              "prob": 94.3
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.7836,
+          "combinedPct": 78.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 98.5
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 95.7
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 94.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WORLDLY",
+              "prob": 94.3
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 93
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.6625,
+          "combinedPct": 66.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "HANDSOME PRINCE",
+              "prob": 98.5
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 95.7
+            },
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WALK RIGHT IN",
+              "prob": 94.8
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WORLDLY",
+              "prob": 94.3
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 93
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "GIRL LIKE US",
+              "prob": 84.5
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.2804,
+        "combinedPct": 28,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 7,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "HANDSOME PRINCE",
+            "prob": 70.9
+          },
+          {
+            "race": 3,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "QUIET PLACE",
+            "prob": 70.5
+          },
+          {
+            "race": 2,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "WALK RIGHT IN",
+            "prob": 56.1
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-03-21": {
+      "bankers": [
+        {
+          "race": 5,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "KING'S QUEST",
+          "pWin": 75.3,
+          "pPlace": 96.1,
+          "confidence": "strong"
+        },
+        {
+          "race": 8,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "MISS ATTITUDE",
+          "pWin": 66.8,
+          "pPlace": 97.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 1,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "FROM THE ISLAND",
+          "pWin": 60.3,
+          "pPlace": 87.9,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.3032,
+          "combinedPct": 30.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 75.3
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 66.8
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 60.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.1731,
+          "combinedPct": 17.3,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 75.3
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 66.8
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 60.3
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TRIP TO CAMELOT",
+              "prob": 57.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0954,
+          "combinedPct": 9.5,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 75.3
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 66.8
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "FROM THE ISLAND",
+              "prob": 60.3
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TRIP TO CAMELOT",
+              "prob": 57.1
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 55.1
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8823,
+          "combinedPct": 88.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CRAZY LITTLE THING",
+              "prob": 98.7
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 97.9
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 96.1
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PEARL",
+              "prob": 95
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.825,
+          "combinedPct": 82.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CRAZY LITTLE THING",
+              "prob": 98.7
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 97.9
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 96.1
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PEARL",
+              "prob": 95
+            },
+            {
+              "race": 4,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SPIRIT OF NICAL",
+              "prob": 93.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.7462,
+          "combinedPct": 74.6,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "CRAZY LITTLE THING",
+              "prob": 98.7
+            },
+            {
+              "race": 8,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MISS ATTITUDE",
+              "prob": 97.9
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "KING'S QUEST",
+              "prob": 96.1
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "WINTER PEARL",
+              "prob": 95
+            },
+            {
+              "race": 4,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SPIRIT OF NICAL",
+              "prob": 93.5
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TRIP TO CAMELOT",
+              "prob": 90.5
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.3032,
+        "combinedPct": 30.3,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 5,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "KING'S QUEST",
+            "prob": 75.3
+          },
+          {
+            "race": 8,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "MISS ATTITUDE",
+            "prob": 66.8
+          },
+          {
+            "race": 1,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "FROM THE ISLAND",
+            "prob": 60.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-03-25": {
+      "bankers": [
+        {
+          "race": 5,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "TOTHEMOONANDBACK",
+          "pWin": 89.8,
+          "pPlace": 99.2,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "DISTRICT MASTER",
+          "pWin": 73.4,
+          "pPlace": 99.8,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Hollywoodbets Durbanville",
+          "time": null,
+          "selection": "PRAIRIE DAWN",
+          "pWin": 68,
+          "pPlace": 99.3,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.4483,
+          "combinedPct": 44.8,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 89.8
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 73.4
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 68
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.3005,
+          "combinedPct": 30,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 89.8
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 73.4
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 68
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SNOWBIRD",
+              "prob": 67
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.2004,
+          "combinedPct": 20,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 89.8
+            },
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 73.4
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 68
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SNOWBIRD",
+              "prob": 67
+            },
+            {
+              "race": 4,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "RED CORAL",
+              "prob": 66.7
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9646,
+          "combinedPct": 96.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 99.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 99.3
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 99.2
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SNOWBIRD",
+              "prob": 98.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.911,
+          "combinedPct": 91.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 99.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 99.3
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 99.2
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SNOWBIRD",
+              "prob": 98.1
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MIGHTY MARY",
+              "prob": 94.4
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.8244,
+          "combinedPct": 82.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "DISTRICT MASTER",
+              "prob": 99.8
+            },
+            {
+              "race": 7,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "PRAIRIE DAWN",
+              "prob": 99.3
+            },
+            {
+              "race": 5,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "TOTHEMOONANDBACK",
+              "prob": 99.2
+            },
+            {
+              "race": 1,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "SNOWBIRD",
+              "prob": 98.1
+            },
+            {
+              "race": 6,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "MIGHTY MARY",
+              "prob": 94.4
+            },
+            {
+              "race": 4,
+              "track": "Hollywoodbets Durbanville",
+              "time": null,
+              "selection": "RED CORAL",
+              "prob": 90.5
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.4483,
+        "combinedPct": 44.8,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 5,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "TOTHEMOONANDBACK",
+            "prob": 89.8
+          },
+          {
+            "race": 3,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "DISTRICT MASTER",
+            "prob": 73.4
+          },
+          {
+            "race": 7,
+            "track": "Hollywoodbets Durbanville",
+            "time": null,
+            "selection": "PRAIRIE DAWN",
+            "prob": 68
           }
         ]
       },

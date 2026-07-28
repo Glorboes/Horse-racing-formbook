@@ -1,0 +1,1010 @@
+{
+  "id": "2026-03-21-hollywoodbets-durbanville-r7",
+  "date": "2026-03-21",
+  "track": "Hollywoodbets Durbanville",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.438Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "OBJET D' ART",
+      "key": "OBJET D ART",
+      "draw": 3,
+      "rating": 92,
+      "jockey": "Gareth Wright",
+      "trainer": "Adam Marcus",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 65.9,
+      "factors": {
+        "form": 0.923,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.527,
+        "trainer": 0.53,
+        "weight": 0.706,
+        "headToHead": 0.5,
+        "recencyMargin": 0.967
+      },
+      "contrib": {
+        "form": 16.62,
+        "rating": 6.4,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.58,
+        "trainer": 2.65,
+        "weight": 4.24,
+        "headToHead": 6,
+        "recencyMargin": 11.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "placePct": 40,
+        "record": "1-5"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 4,
+        "places": 12,
+        "winPct": 17,
+        "record": "4-23"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; 20%-strike jockey booked; hitting the line hard lately.",
+        "Against it: outclassed by this field."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "20%-strike jockey booked",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "outclassed by this field"
+      ],
+      "rank": 1,
+      "pWin": 0.5513,
+      "pPlace": 0.8367,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WHAT A FORTUNE",
+      "key": "WHAT A FORTUNE",
+      "draw": 6,
+      "rating": 89,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.9,
+      "factors": {
+        "form": 0.7,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.365,
+        "trainer": 0.448,
+        "weight": 0.529,
+        "headToHead": 1,
+        "recencyMargin": 0.863
+      },
+      "contrib": {
+        "form": 12.6,
+        "rating": 3.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.09,
+        "trainer": 2.24,
+        "weight": 3.18,
+        "headToHead": 12,
+        "recencyMargin": 10.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "MASTEROFTHEDESERT"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 11 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 19,
+        "record": "0-21"
+      },
+      "trainerRec": {
+        "starts": 51,
+        "wins": 5,
+        "places": 20,
+        "winPct": 10,
+        "record": "5-51"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 11 last start.",
+        "Why it can win: has beaten MASTEROFTHEDESERT; strong recent form; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 89).",
+        "Has beaten MASTEROFTHEDESERT before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "has beaten MASTEROFTHEDESERT",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 89)"
+      ],
+      "rank": 2,
+      "pWin": 0.2028,
+      "pPlace": 0.5054,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ABSOLUTELY YES",
+      "key": "ABSOLUTELY YES",
+      "draw": 1,
+      "rating": 99,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.867,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.484,
+        "trainer": 0.425,
+        "weight": 0.353,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.87,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.45,
+        "trainer": 2.13,
+        "weight": 2.12,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 13,
+        "wins": 1,
+        "places": 4,
+        "winPct": 8,
+        "record": "1-13"
+      },
+      "jockeyRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "placePct": 41,
+        "record": "5-39"
+      },
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 19,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 99).",
+        "Against it: stable out of form; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "rating"
+      ],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 99)"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.0867,
+      "pPlace": 0.2298,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCOTTISH KISS",
+      "key": "SCOTTISH KISS",
+      "draw": 5,
+      "rating": 101,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.5,
+        "trainer": 2.13,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 62,
+        "wins": 5,
+        "places": 19,
+        "winPct": 8,
+        "record": "5-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 101); good jockey booking.",
+        "Against it: stable out of form; top-weight (61.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 101)",
+        "good jockey booking"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (61.5kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.0642,
+      "pPlace": 0.172,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "draw": 2,
+      "rating": 97,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Adam Marcus",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.733,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.462,
+        "trainer": 0.53,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.39,
+        "trainer": 2.65,
+        "weight": 1.06,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 4,
+        "places": 9,
+        "winPct": 11,
+        "placePct": 24,
+        "record": "4-37"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 4,
+        "places": 12,
+        "winPct": 17,
+        "record": "4-23"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; stable in form (17%).",
+        "Against it: patchy recent form; carries 60kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "stable in form (17%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "carries 60kg"
+      ],
+      "rank": 5,
+      "pWin": 0.05,
+      "pPlace": 0.1347,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NORDIC CHIEF",
+      "key": "NORDIC CHIEF",
+      "draw": 4,
+      "rating": 96,
+      "jockey": "Sean Veale",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.8,
+      "factors": {
+        "form": 0.41,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.426,
+        "trainer": 0.426,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.541
+      },
+      "contrib": {
+        "form": 7.38,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.28,
+        "trainer": 2.13,
+        "weight": 1.06,
+        "headToHead": 6,
+        "recencyMargin": 6.49
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "10th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 24,
+        "record": "1-17"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 2,
+        "places": 12,
+        "winPct": 7,
+        "record": "2-28"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 12 last start.",
+        "Against it: lightly-supported jockey booking; carries 60kg."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "carries 60kg"
+      ],
+      "rank": 6,
+      "pWin": 0.0445,
+      "pPlace": 0.1202,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MASTEROFTHEDESERT",
+      "key": "MASTEROFTHEDESERT",
+      "draw": 7,
+      "rating": 86,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 23,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.482,
+        "trainer": 0.448,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.45,
+        "trainer": 2.24,
+        "weight": 6,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "WHAT A FORTUNE"
+        ]
+      },
+      "recentForm": [
+        "11th of 11 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 3,
+        "places": 8,
+        "winPct": 13,
+        "placePct": 33,
+        "record": "3-24"
+      },
+      "trainerRec": {
+        "starts": 51,
+        "wins": 5,
+        "places": 20,
+        "winPct": 10,
+        "record": "5-51"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Why it can win: well-in at the weights (53kg).",
+        "Against it: patchy recent form; lower-rated (MR 86).",
+        "Beaten by WHAT A FORTUNE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 86)"
+      ],
+      "rank": 7,
+      "pWin": 0.0004,
+      "pPlace": 0.0012,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "OBJET D' ART",
+      "rank": 1,
+      "score": 65.9,
+      "rating": 92,
+      "draw": 3,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Adam Marcus",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.923,
+        "rating": 0.4,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.527,
+        "trainer": 0.53,
+        "weight": 0.706,
+        "headToHead": 0.5,
+        "recencyMargin": 0.967
+      }
+    },
+    {
+      "no": null,
+      "name": "WHAT A FORTUNE",
+      "rank": 2,
+      "score": 59.9,
+      "rating": 89,
+      "draw": 6,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.7,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.365,
+        "trainer": 0.448,
+        "weight": 0.529,
+        "headToHead": 1,
+        "recencyMargin": 0.863
+      }
+    },
+    {
+      "no": null,
+      "name": "ABSOLUTELY YES",
+      "rank": 3,
+      "score": 54.8,
+      "rating": 99,
+      "draw": 1,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.867,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.484,
+        "trainer": 0.425,
+        "weight": 0.353,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SCOTTISH KISS",
+      "rank": 4,
+      "score": 53,
+      "rating": 101,
+      "draw": 5,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "OLIVER",
+      "rank": 5,
+      "score": 51.5,
+      "rating": 97,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.733,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.462,
+        "trainer": 0.53,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NORDIC CHIEF",
+      "rank": 6,
+      "score": 50.8,
+      "rating": 96,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Andre Nel",
+      "lastFive": "103",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.41,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.426,
+        "trainer": 0.426,
+        "weight": 0.176,
+        "headToHead": 0.5,
+        "recencyMargin": 0.541
+      }
+    },
+    {
+      "no": null,
+      "name": "MASTEROFTHEDESERT",
+      "rank": 7,
+      "score": 23,
+      "rating": 86,
+      "draw": 7,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.482,
+        "trainer": 0.448,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "WHAT A FORTUNE",
+      "key": "WHAT A FORTUNE",
+      "points": 1.9,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "MASTEROFTHEDESERT"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ABSOLUTELY YES",
+      "key": "ABSOLUTELY YES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NORDIC CHIEF",
+      "key": "NORDIC CHIEF",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SCOTTISH KISS",
+      "key": "SCOTTISH KISS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OBJET D' ART",
+      "key": "OBJET D ART",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MASTEROFTHEDESERT",
+      "key": "MASTEROFTHEDESERT",
+      "points": -1.9,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "WHAT A FORTUNE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "WHAT A FORTUNE",
+  "places": 2
+}

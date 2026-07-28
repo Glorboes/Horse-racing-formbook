@@ -1,0 +1,886 @@
+{
+  "id": "2026-03-25-hollywoodbets-durbanville-r5",
+  "date": "2026-03-25",
+  "track": "Hollywoodbets Durbanville",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.927Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "draw": 2,
+      "rating": 69,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Des McLachlan",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 73.3,
+      "factors": {
+        "form": 1,
+        "rating": 0.417,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.567,
+        "trainer": 0.579,
+        "weight": 0.429,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 6.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.7,
+        "trainer": 2.89,
+        "weight": 2.57,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "TWICE THE MASTER"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 6L at Kenilworth.",
+        "Won by 6L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 5,
+        "places": 6,
+        "winPct": 56,
+        "record": "5-9"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 5,
+        "places": 9,
+        "winPct": 25,
+        "placePct": 45,
+        "record": "5-20"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 6,
+        "places": 12,
+        "winPct": 26,
+        "record": "6-23"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 6L at Kenilworth.",
+        "Won by 6L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; 25%-strike jockey booked; has beaten TWICE THE MASTER.",
+        "Against it: carries 57kg.",
+        "Jockey Grant Van Niekerk in form (25% strike).",
+        "Has beaten TWICE THE MASTER before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "25%-strike jockey booked",
+        "has beaten TWICE THE MASTER"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 1,
+      "pWin": 0.8981,
+      "pPlace": 0.9924,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "draw": 4,
+      "rating": 81,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.917,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.445,
+        "trainer": 0.46,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 14.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.34,
+        "trainer": 2.3,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 1,
+        "places": 2,
+        "winPct": 8,
+        "placePct": 17,
+        "record": "1-12"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 3,
+        "places": 7,
+        "winPct": 12,
+        "record": "3-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 81).",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 81)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.0398,
+      "pPlace": 0.393,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GENTLEMAN JOE",
+      "key": "GENTLEMAN JOE",
+      "draw": 6,
+      "rating": 83,
+      "jockey": "Corne Orffer",
+      "trainer": "Andre Nel",
+      "weight": 63,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.9,
+      "factors": {
+        "form": 0.333,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.426,
+        "trainer": 0.41,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 6,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.28,
+        "trainer": 2.05,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 4 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 2,
+        "places": 7,
+        "winPct": 8,
+        "placePct": 28,
+        "record": "2-25"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 2,
+        "places": 12,
+        "winPct": 7,
+        "record": "2-30"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 4 last start.",
+        "Why it can win: top-rated in the field (MR 83); hitting the line hard lately.",
+        "Against it: patchy recent form; stable out of form."
+      ],
+      "_strengths": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 83)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 3,
+      "pWin": 0.03,
+      "pPlace": 0.2964,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "draw": 1,
+      "rating": 66,
+      "jockey": "Eduan Muller",
+      "trainer": "Des McLachlan",
+      "weight": 49,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.292,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.478,
+        "trainer": 0.579,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.43,
+        "trainer": 2.89,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 3,
+        "winPct": 13,
+        "placePct": 38,
+        "record": "1-8"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 6,
+        "places": 12,
+        "winPct": 26,
+        "record": "6-23"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (49kg); stable in form (26%).",
+        "Against it: patchy recent form; lower-rated (MR 66).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (49kg)",
+        "stable in form (26%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 66)"
+      ],
+      "rank": 4,
+      "pWin": 0.0185,
+      "pPlace": 0.183,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LOUI'S STAR",
+      "key": "LOUIS STAR",
+      "draw": 5,
+      "rating": 69,
+      "jockey": "Gareth Wright",
+      "trainer": "Greg Ennion",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.417,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.51,
+        "trainer": 0.46,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.53,
+        "trainer": 2.3,
+        "weight": 4.29,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 2,
+        "places": 4,
+        "winPct": 18,
+        "placePct": 36,
+        "record": "2-11"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 3,
+        "places": 7,
+        "winPct": 12,
+        "record": "3-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 18%-strike jockey booked.",
+        "Against it: patchy recent form; stable out of form.",
+        "Jockey Gareth Wright in form (18% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "18%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0126,
+      "pPlace": 0.1248,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TWICE THE MASTER",
+      "key": "TWICE THE MASTER",
+      "draw": 3,
+      "rating": 59,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 32.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.391,
+        "trainer": 0.474,
+        "weight": 0.75,
+        "headToHead": 0,
+        "recencyMargin": 0.188
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.17,
+        "trainer": 2.37,
+        "weight": 4.5,
+        "headToHead": 0,
+        "recencyMargin": 2.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "TOTHEMOONANDBACK"
+        ]
+      },
+      "recentForm": [
+        "4th of 6 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-12"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 6,
+        "places": 14,
+        "winPct": 14,
+        "record": "6-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 6 last start.",
+        "Why it can win: carries 52.5kg.",
+        "Against it: lower-rated (MR 59); lightly-supported jockey booking.",
+        "Beaten by TOTHEMOONANDBACK in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "carries 52.5kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 59)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 6,
+      "pWin": 0.0011,
+      "pPlace": 0.0104,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "TOTHEMOONANDBACK",
+      "rank": 1,
+      "score": 73.3,
+      "rating": 69,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Des McLachlan",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.417,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.567,
+        "trainer": 0.579,
+        "weight": 0.429,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "FORT LIAM",
+      "rank": 2,
+      "score": 54.6,
+      "rating": 81,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.917,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.445,
+        "trainer": 0.46,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GENTLEMAN JOE",
+      "rank": 3,
+      "score": 52.9,
+      "rating": 83,
+      "draw": 6,
+      "weight": 63,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Andre Nel",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.333,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.426,
+        "trainer": 0.41,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "DOUBLE DASH",
+      "rank": 4,
+      "score": 50,
+      "rating": 66,
+      "draw": 1,
+      "weight": 49,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Des McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.292,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.478,
+        "trainer": 0.579,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LOUI'S STAR",
+      "rank": 5,
+      "score": 47.7,
+      "rating": 69,
+      "draw": 5,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.417,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.51,
+        "trainer": 0.46,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TWICE THE MASTER",
+      "rank": 6,
+      "score": 32.8,
+      "rating": 59,
+      "draw": 3,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.391,
+        "trainer": 0.474,
+        "weight": 0.75,
+        "headToHead": 0,
+        "recencyMargin": 0.188
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "points": 1.873,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "TWICE THE MASTER"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LOUI'S STAR",
+      "key": "LOUIS STAR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GENTLEMAN JOE",
+      "key": "GENTLEMAN JOE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TWICE THE MASTER",
+      "key": "TWICE THE MASTER",
+      "points": -1.873,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "TOTHEMOONANDBACK"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "TOTHEMOONANDBACK",
+  "places": 2
+}

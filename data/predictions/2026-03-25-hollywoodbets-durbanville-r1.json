@@ -1,0 +1,1183 @@
+{
+  "id": "2026-03-25-hollywoodbets-durbanville-r1",
+  "date": "2026-03-25",
+  "track": "Hollywoodbets Durbanville",
+  "race": 1,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:57.857Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SNOWBIRD",
+      "key": "SNOWBIRD",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.6,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.412,
+        "trainer": 0.519,
+        "weight": 0,
+        "headToHead": 0.908,
+        "recencyMargin": 0.738
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.24,
+        "trainer": 2.59,
+        "weight": 0,
+        "headToHead": 10.9,
+        "recencyMargin": 8.85
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "PEACH COBBLER"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 13 last start."
+      ],
+      "combo": {
+        "starts": 13,
+        "wins": 1,
+        "places": 4,
+        "winPct": 8,
+        "record": "1-13"
+      },
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "placePct": 23,
+        "record": "1-22"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 6,
+        "places": 14,
+        "winPct": 14,
+        "record": "6-43"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 13 last start.",
+        "Why it can win: strong recent form; drawn 1 — a handy low draw; stable in form (14%).",
+        "Against it: top-weight (60kg); lightly-supported jockey booking.",
+        "Has beaten PEACH COBBLER before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 1 — a handy low draw",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 1,
+      "pWin": 0.6702,
+      "pPlace": 0.9808,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PREACHER MAN",
+      "key": "PREACHER MAN",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Callan Murray",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.9,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.457,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.296
+      },
+      "contrib": {
+        "form": 9.82,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.37,
+        "trainer": 2.57,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 3.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "ULTIMATE BOMB"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 1,
+        "places": 5,
+        "winPct": 8,
+        "placePct": 38,
+        "record": "1-13"
+      },
+      "trainerRec": {
+        "starts": 59,
+        "wins": 8,
+        "places": 26,
+        "winPct": 14,
+        "record": "8-59"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 12 last start.",
+        "Why it can win: has beaten ULTIMATE BOMB; strong recent form; stable in form (14%).",
+        "Against it: top-weight (60kg); well beaten lately.",
+        "Has beaten ULTIMATE BOMB before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "has beaten ULTIMATE BOMB",
+        "strong recent form",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "well beaten lately"
+      ],
+      "rank": 2,
+      "pWin": 0.1331,
+      "pPlace": 0.6855,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LUCY'S WORLD",
+      "key": "LUCYS WORLD",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Chad Little",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.3,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.375,
+        "trainer": 0.461,
+        "weight": 0,
+        "headToHead": 0.864,
+        "recencyMargin": 0.133
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.13,
+        "trainer": 2.3,
+        "weight": 0,
+        "headToHead": 10.37,
+        "recencyMargin": 1.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "ULTIMATE BOMB"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 38,
+        "wins": 1,
+        "places": 6,
+        "winPct": 3,
+        "placePct": 16,
+        "record": "1-38"
+      },
+      "trainerRec": {
+        "starts": 72,
+        "wins": 7,
+        "places": 22,
+        "winPct": 10,
+        "record": "7-72"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: drawn 3 — a handy low draw; has beaten ULTIMATE BOMB.",
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "Has beaten ULTIMATE BOMB before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "headToHead"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "has beaten ULTIMATE BOMB"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.0523,
+      "pPlace": 0.3487,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BURSTURBUBBLE",
+      "key": "BURSTURBUBBLE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.449,
+        "trainer": 0.412,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.35,
+        "trainer": 2.06,
+        "weight": 0,
+        "headToHead": 7.46,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 9,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-9"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 2,
+        "places": 7,
+        "winPct": 8,
+        "placePct": 28,
+        "record": "2-25"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 1,
+        "places": 7,
+        "winPct": 5,
+        "record": "1-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0466,
+      "pPlace": 0.3139,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHE'S CHOSEN",
+      "key": "SHES CHOSEN",
+      "draw": 7,
+      "rating": 85,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.633,
+        "trainer": 0.494,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.9,
+        "trainer": 2.47,
+        "weight": 0,
+        "headToHead": 7.46,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 5,
+        "places": 9,
+        "winPct": 25,
+        "placePct": 45,
+        "record": "5-20"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 3,
+        "places": 7,
+        "winPct": 12,
+        "record": "3-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 25%-strike jockey booked.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Jockey Grant Van Niekerk in form (25% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.045,
+      "pPlace": 0.3045,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WORLD OF SECRETS",
+      "key": "WORLD OF SECRETS",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.404,
+        "trainer": 0.365,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.21,
+        "trainer": 1.82,
+        "weight": 0,
+        "headToHead": 7.46,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 40,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 35,
+        "record": "2-40"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 6,
+        "winPct": 0,
+        "record": "0-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: stable out of form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0381,
+      "pPlace": 0.2611,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PEACH COBBLER",
+      "key": "PEACH COBBLER",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 35.6,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.507,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 0.334,
+        "recencyMargin": 0.35
+      },
+      "contrib": {
+        "form": 1.5,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.52,
+        "trainer": 2.57,
+        "weight": 0,
+        "headToHead": 4.01,
+        "recencyMargin": 4.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SNOWBIRD"
+        ]
+      },
+      "recentForm": [
+        "12th of 13 last start."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "jockeyRec": {
+        "starts": 46,
+        "wins": 6,
+        "places": 17,
+        "winPct": 13,
+        "placePct": 37,
+        "record": "6-46"
+      },
+      "trainerRec": {
+        "starts": 59,
+        "wins": 8,
+        "places": 26,
+        "winPct": 14,
+        "record": "8-59"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "12th of 13 last start.",
+        "Why it can win: 13%-strike jockey booked; stable in form (14%).",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Beaten by SNOWBIRD in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "13%-strike jockey booked",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0074,
+      "pPlace": 0.0536,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ULTIMATE BOMB",
+      "key": "ULTIMATE BOMB",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Andries Steyn",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 35.4,
+      "factors": {
+        "form": 0.082,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.479,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 1.47,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.44,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "PREACHER MAN",
+          "LUCY'S WORLD"
+        ]
+      },
+      "recentForm": [
+        "7th of 8 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 28,
+        "wins": 3,
+        "places": 10,
+        "winPct": 11,
+        "placePct": 36,
+        "record": "3-28"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 2,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 8 last start.",
+        "Why it can win: well-in at the weights (57.5kg); drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; beaten by PREACHER MAN, LUCY'S WORLD before.",
+        "Beaten by PREACHER MAN, LUCY'S WORLD in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (57.5kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by PREACHER MAN, LUCY'S WORLD before"
+      ],
+      "rank": 8,
+      "pWin": 0.0072,
+      "pPlace": 0.0518,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SNOWBIRD",
+      "rank": 1,
+      "score": 62.6,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.412,
+        "trainer": 0.519,
+        "weight": 0,
+        "headToHead": 0.908,
+        "recencyMargin": 0.738
+      }
+    },
+    {
+      "no": null,
+      "name": "PREACHER MAN",
+      "rank": 2,
+      "score": 52.9,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Candice Bass",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.457,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.296
+      }
+    },
+    {
+      "no": null,
+      "name": "LUCY'S WORLD",
+      "rank": 3,
+      "score": 47.3,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Justin Snaith",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.375,
+        "trainer": 0.461,
+        "weight": 0,
+        "headToHead": 0.864,
+        "recencyMargin": 0.133
+      }
+    },
+    {
+      "no": null,
+      "name": "BURSTURBUBBLE",
+      "rank": 4,
+      "score": 46.6,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.449,
+        "trainer": 0.412,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHE'S CHOSEN",
+      "rank": 5,
+      "score": 46.4,
+      "rating": 85,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.633,
+        "trainer": 0.494,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WORLD OF SECRETS",
+      "rank": 6,
+      "score": 45.4,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.404,
+        "trainer": 0.365,
+        "weight": 0,
+        "headToHead": 0.621,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "PEACH COBBLER",
+      "rank": 7,
+      "score": 35.6,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "12",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.507,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 0.334,
+        "recencyMargin": 0.35
+      }
+    },
+    {
+      "no": null,
+      "name": "ULTIMATE BOMB",
+      "rank": 8,
+      "score": 35.4,
+      "rating": null,
+      "draw": 2,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Andries Steyn",
+      "lastFive": "712",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.082,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.479,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PREACHER MAN",
+      "key": "PREACHER MAN",
+      "points": 1.822,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "ULTIMATE BOMB"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SNOWBIRD",
+      "key": "SNOWBIRD",
+      "points": 1.381,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "PEACH COBBLER"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "LUCY'S WORLD",
+      "key": "LUCYS WORLD",
+      "points": 1.168,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "ULTIMATE BOMB"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "WORLD OF SECRETS",
+      "key": "WORLD OF SECRETS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BURSTURBUBBLE",
+      "key": "BURSTURBUBBLE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHE'S CHOSEN",
+      "key": "SHES CHOSEN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PEACH COBBLER",
+      "key": "PEACH COBBLER",
+      "points": -1.381,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SNOWBIRD"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "ULTIMATE BOMB",
+      "key": "ULTIMATE BOMB",
+      "points": -2.99,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "PREACHER MAN",
+        "LUCY'S WORLD"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "PREACHER MAN",
+  "places": 3
+}

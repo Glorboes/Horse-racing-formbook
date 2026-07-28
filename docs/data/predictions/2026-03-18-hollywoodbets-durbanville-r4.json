@@ -1,0 +1,998 @@
+{
+  "id": "2026-03-18-hollywoodbets-durbanville-r4",
+  "date": "2026-03-18",
+  "track": "Hollywoodbets Durbanville",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:09:56.834Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "ALESSIA ASHEVILLE",
+      "key": "ALESSIA ASHEVILLE",
+      "draw": 7,
+      "rating": 57,
+      "jockey": "Eduan Muller",
+      "trainer": "Andries Steyn",
+      "weight": 49.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61,
+      "factors": {
+        "form": 1,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.512,
+        "trainer": 0.527,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.54,
+        "trainer": 2.63,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 0.80L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 50,
+        "record": "1-6"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 0.80L at Kenilworth.",
+        "Why it can win: strong recent form; well-in at the weights (49.5kg); hitting the line hard lately.",
+        "Against it: lower-rated (MR 57)."
+      ],
+      "_strengths": [
+        "form",
+        "weight",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "well-in at the weights (49.5kg)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 57)"
+      ],
+      "rank": 1,
+      "pWin": 0.3949,
+      "pPlace": 0.6752,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LOVE SHACK",
+      "key": "LOVE SHACK",
+      "draw": 5,
+      "rating": 71,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.6,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.824,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.521,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.846
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 13.18,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.56,
+        "trainer": 2.17,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 10.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 7 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 7,
+        "winPct": 17,
+        "placePct": 39,
+        "record": "3-18"
+      },
+      "trainerRec": {
+        "starts": 47,
+        "wins": 4,
+        "places": 19,
+        "winPct": 9,
+        "record": "4-47"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Why it can win: well-rated (MR 71); 17%-strike jockey booked; hitting the line hard lately.",
+        "Against it: top-weight (56.5kg); stable out of form."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 71)",
+        "17%-strike jockey booked",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (56.5kg)",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.2241,
+      "pPlace": 0.4646,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RAFFISH TREND",
+      "key": "RAFFISH TREND",
+      "draw": 4,
+      "rating": 74,
+      "jockey": "Girish Samo-Burthia",
+      "trainer": "Adam Marcus",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.583,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.75,
+        "trainer": 2.57,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 1,
+        "places": 1,
+        "winPct": 50,
+        "placePct": 50,
+        "record": "1-2"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 3,
+        "places": 10,
+        "winPct": 16,
+        "record": "3-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 74); good jockey booking.",
+        "Against it: patchy recent form; top-weight (56.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 74)",
+        "good jockey booking"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (56.5kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1271,
+      "pPlace": 0.2818,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TRUE HORIZON",
+      "key": "TRUE HORIZON",
+      "draw": 1,
+      "rating": 57,
+      "jockey": "Mxolisi Mbuto",
+      "trainer": "Adam Marcus",
+      "weight": 52,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.2,
+      "factors": {
+        "form": 0.875,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.514,
+        "weight": 0.643,
+        "headToHead": 0.5,
+        "recencyMargin": 0.542
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.4,
+        "trainer": 2.57,
+        "weight": 3.86,
+        "headToHead": 6,
+        "recencyMargin": 6.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 3,
+        "places": 10,
+        "winPct": 16,
+        "record": "3-19"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form; carries 52kg.",
+        "Against it: lower-rated (MR 57); lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form",
+        "carries 52kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 57)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.1076,
+      "pPlace": 0.2413,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIMME THE POWER",
+      "key": "GIMME THE POWER",
+      "draw": 6,
+      "rating": 69,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.706,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.425,
+        "trainer": 0.421,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.29,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.27,
+        "trainer": 2.1,
+        "weight": 3.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 53,
+        "wins": 4,
+        "places": 15,
+        "winPct": 8,
+        "record": "4-53"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 5,
+      "pWin": 0.0746,
+      "pPlace": 0.1702,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BONNE BOUCHE",
+      "key": "BONNE BOUCHE",
+      "draw": 3,
+      "rating": 67,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.588,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0.071,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.41,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.4,
+        "trainer": 2.17,
+        "weight": 0.43,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0409,
+      "pPlace": 0.095,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MISS NEW YORK",
+      "key": "MISS NEW YORK",
+      "draw": 2,
+      "rating": 62,
+      "jockey": "Blaine Marx-Jacobson",
+      "trainer": "Andries Steyn",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.294,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.467,
+        "trainer": 0.527,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.71,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.4,
+        "trainer": 2.63,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; stable in form (20%).",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "stable in form (20%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.0308,
+      "pPlace": 0.0719,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "ALESSIA ASHEVILLE",
+      "rank": 1,
+      "score": 61,
+      "rating": 57,
+      "draw": 7,
+      "weight": 49.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Andries Steyn",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.512,
+        "trainer": 0.527,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "LOVE SHACK",
+      "rank": 2,
+      "score": 57.6,
+      "rating": 71,
+      "draw": 5,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.824,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.521,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.846
+      }
+    },
+    {
+      "no": null,
+      "name": "RAFFISH TREND",
+      "rank": 3,
+      "score": 54.2,
+      "rating": 74,
+      "draw": 4,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Girish Samo-Burthia",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.583,
+        "trainer": 0.514,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TRUE HORIZON",
+      "rank": 4,
+      "score": 53.2,
+      "rating": 57,
+      "draw": 1,
+      "weight": 52,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mxolisi Mbuto",
+      "trainer": "Adam Marcus",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.467,
+        "trainer": 0.514,
+        "weight": 0.643,
+        "headToHead": 0.5,
+        "recencyMargin": 0.542
+      }
+    },
+    {
+      "no": null,
+      "name": "GIMME THE POWER",
+      "rank": 5,
+      "score": 51,
+      "rating": 69,
+      "draw": 6,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.706,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.425,
+        "trainer": 0.421,
+        "weight": 0.571,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BONNE BOUCHE",
+      "rank": 6,
+      "score": 47.4,
+      "rating": 67,
+      "draw": 3,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.588,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0.071,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MISS NEW YORK",
+      "rank": 7,
+      "score": 45.7,
+      "rating": 62,
+      "draw": 2,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Blaine Marx-Jacobson",
+      "trainer": "Andries Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.294,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.467,
+        "trainer": 0.527,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TRUE HORIZON",
+      "key": "TRUE HORIZON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BONNE BOUCHE",
+      "key": "BONNE BOUCHE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIMME THE POWER",
+      "key": "GIMME THE POWER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RAFFISH TREND",
+      "key": "RAFFISH TREND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LOVE SHACK",
+      "key": "LOVE SHACK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS NEW YORK",
+      "key": "MISS NEW YORK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ALESSIA ASHEVILLE",
+      "key": "ALESSIA ASHEVILLE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "TRUE HORIZON",
+  "places": 2
+}
