@@ -1,0 +1,1151 @@
+{
+  "id": "2026-04-18-kenilworth-r4",
+  "date": "2026-04-18",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:29:46.688Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "BLUE LAGOON",
+      "key": "BLUE LAGOON",
+      "draw": 5,
+      "rating": 78,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 76.9,
+      "factors": {
+        "form": 0.875,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.726,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.992
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 2.18,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 11.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "BEFORE SUNRISE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only a nose into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 7,
+        "places": 14,
+        "winPct": 33,
+        "placePct": 67,
+        "record": "7-21"
+      },
+      "trainerRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only a nose into 2nd last start — right there.",
+        "Why it can win: strong recent form; top-rated in the field (MR 78); has beaten BEFORE SUNRISE.",
+        "Against it: top-weight (60kg).",
+        "Jockey Aldo Domeyer in form (33% strike).",
+        "Has beaten BEFORE SUNRISE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 78)",
+        "has beaten BEFORE SUNRISE"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.9436,
+      "pPlace": 0.9999,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LUCY'S WORLD",
+      "key": "LUCYS WORLD",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.733,
+        "trainer": 0.538,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 2.2,
+        "trainer": 2.69,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 2,
+        "places": 2,
+        "winPct": 100,
+        "record": "2-2"
+      },
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 2,
+        "places": 2,
+        "winPct": 100,
+        "placePct": 100,
+        "record": "2-2"
+      },
+      "trainerRec": {
+        "starts": 32,
+        "wins": 5,
+        "places": 12,
+        "winPct": 16,
+        "record": "5-32"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: good jockey booking; drawn 2 — a handy low draw; well-in at the weights (57kg).",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "good jockey booking",
+        "drawn 2 — a handy low draw",
+        "well-in at the weights (57kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 2,
+      "pWin": 0.0197,
+      "pPlace": 0.6162,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LIMERANCE",
+      "key": "LIMERANCE",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.383,
+        "trainer": 0.505,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.15,
+        "trainer": 2.52,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 7,
+        "record": "0-14"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 13,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (57kg).",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (57kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.0122,
+      "pPlace": 0.4371,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "draw": 8,
+      "rating": 73,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.5,
+      "factors": {
+        "form": 0.667,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.405,
+        "trainer": 0.411,
+        "weight": 0.833,
+        "headToHead": 0.5,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.22,
+        "trainer": 2.06,
+        "weight": 5,
+        "headToHead": 6,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 7 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 11,
+        "record": "0-9"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Why it can win: strong recent form; well-in at the weights (57.5kg); hitting the line hard lately.",
+        "Against it: lower-rated (MR 73); stable out of form."
+      ],
+      "_strengths": [
+        "form",
+        "weight",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "well-in at the weights (57.5kg)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 73)",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.007,
+      "pPlace": 0.2688,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FUTURE RED",
+      "key": "FUTURE RED",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.519,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.56,
+        "trainer": 2.82,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 5,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "placePct": 48,
+        "record": "3-21"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 5,
+        "places": 14,
+        "winPct": 18,
+        "record": "5-28"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; stable in form (18%); 14%-strike jockey booked.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "stable in form (18%)",
+        "14%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.0068,
+      "pPlace": 0.2606,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GLITTER AND GLAM",
+      "key": "GLITTER AND GLAM",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.418,
+        "trainer": 0.411,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.25,
+        "trainer": 2.06,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0046,
+      "pPlace": 0.1815,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEFORE SUNRISE",
+      "key": "BEFORE SUNRISE",
+      "draw": 7,
+      "rating": 74,
+      "jockey": "Chad Little",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.9,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.38,
+        "trainer": 0.479,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.846
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 3.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.14,
+        "trainer": 2.4,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 10.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "BLUE LAGOON"
+        ]
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "jockeyRec": {
+        "starts": 15,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 27,
+        "record": "0-15"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 2,
+        "places": 7,
+        "winPct": 11,
+        "record": "2-19"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: strong recent form; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "Beaten by BLUE LAGOON in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.0046,
+      "pPlace": 0.1787,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PITERAQ",
+      "key": "PITERAQ",
+      "draw": 3,
+      "rating": 73,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.45,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.35,
+        "trainer": 2.82,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 4,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 1,
+        "places": 6,
+        "winPct": 7,
+        "placePct": 43,
+        "record": "1-14"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 5,
+        "places": 14,
+        "winPct": 18,
+        "record": "5-28"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (18%); drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; lower-rated (MR 73).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "stable in form (18%)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 73)"
+      ],
+      "rank": 8,
+      "pWin": 0.0014,
+      "pPlace": 0.0572,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "BLUE LAGOON",
+      "rank": 1,
+      "score": 76.9,
+      "rating": 78,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.726,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.992
+      }
+    },
+    {
+      "no": null,
+      "name": "LUCY'S WORLD",
+      "rank": 2,
+      "score": 53.7,
+      "rating": null,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.733,
+        "trainer": 0.538,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LIMERANCE",
+      "rank": 3,
+      "score": 50.8,
+      "rating": null,
+      "draw": 6,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.383,
+        "trainer": 0.505,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SCANDALIZE",
+      "rank": 4,
+      "score": 47.5,
+      "rating": 73,
+      "draw": 8,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.405,
+        "trainer": 0.411,
+        "weight": 0.833,
+        "headToHead": 0.5,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "FUTURE RED",
+      "rank": 5,
+      "score": 47.3,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.519,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GLITTER AND GLAM",
+      "rank": 6,
+      "score": 45,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.418,
+        "trainer": 0.411,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEFORE SUNRISE",
+      "rank": 7,
+      "score": 44.9,
+      "rating": 74,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.38,
+        "trainer": 0.479,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.846
+      }
+    },
+    {
+      "no": null,
+      "name": "PITERAQ",
+      "rank": 8,
+      "score": 37.9,
+      "rating": 73,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.45,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "BLUE LAGOON",
+      "key": "BLUE LAGOON",
+      "points": 1.133,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "BEFORE SUNRISE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PITERAQ",
+      "key": "PITERAQ",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FUTURE RED",
+      "key": "FUTURE RED",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LIMERANCE",
+      "key": "LIMERANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LUCY'S WORLD",
+      "key": "LUCYS WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GLITTER AND GLAM",
+      "key": "GLITTER AND GLAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEFORE SUNRISE",
+      "key": "BEFORE SUNRISE",
+      "points": -1.133,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "BLUE LAGOON"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "BLUE LAGOON",
+  "places": 3
+}

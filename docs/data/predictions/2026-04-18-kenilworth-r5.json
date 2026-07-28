@@ -1,0 +1,941 @@
+{
+  "id": "2026-04-18-kenilworth-r5",
+  "date": "2026-04-18",
+  "track": "Kenilworth",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:29:46.695Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "FORT RED",
+      "key": "FORT RED",
+      "draw": 4,
+      "rating": 66,
+      "jockey": "Divesh Ramkhalawon",
+      "trainer": "Mike Stewart",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.9,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 0.925
+      },
+      "contrib": {
+        "form": 12.86,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.5,
+        "trainer": 2.13,
+        "weight": 4.13,
+        "headToHead": 6,
+        "recencyMargin": 11.1
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.90L into 3rd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.90L into 3rd last start — right there.",
+        "Why it can win: strong recent form; hitting the line hard lately.",
+        "Against it: stable out of form."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.5656,
+      "pPlace": 0.8525,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "draw": 3,
+      "rating": 71,
+      "jockey": "Varun Jodhee",
+      "trainer": "Ricky Maingard",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.489,
+        "trainer": 0.411,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.47,
+        "trainer": 2.06,
+        "weight": 2.25,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 2,
+        "winPct": 13,
+        "placePct": 25,
+        "record": "1-8"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 71).",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 71)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.2187,
+      "pPlace": 0.5532,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "draw": 7,
+      "rating": 69,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Des McLachlan",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.418,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.25,
+        "trainer": 2.59,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 4,
+        "winPct": 17,
+        "record": "2-12"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (17%); well-rated (MR 69).",
+        "Against it: patchy recent form; top-weight (59.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (17%)",
+        "well-rated (MR 69)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (59.5kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.0659,
+      "pPlace": 0.1804,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BONNE BOUCHE",
+      "key": "BONNE BOUCHE",
+      "draw": 6,
+      "rating": 67,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.467,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.5,
+        "trainer": 2.33,
+        "weight": 2.63,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0648,
+      "pPlace": 0.1775,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OZARK",
+      "key": "OZARK",
+      "draw": 1,
+      "rating": 61,
+      "jockey": "Eduan Muller",
+      "trainer": "Paul Reeves",
+      "weight": 51.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.425,
+        "trainer": 0.462,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.27,
+        "trainer": 2.31,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "record": "1-11"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (51.5kg).",
+        "Against it: patchy recent form; lower-rated (MR 61).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (51.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 61)"
+      ],
+      "rank": 5,
+      "pWin": 0.0306,
+      "pPlace": 0.085,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GRAVITY",
+      "key": "GRAVITY",
+      "draw": 5,
+      "rating": 63,
+      "jockey": "Dezahn Louw",
+      "trainer": "Piet Botha",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 4.13,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 2,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0306,
+      "pPlace": 0.085,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "AVIGNON",
+      "key": "AVIGNON",
+      "draw": 2,
+      "rating": 61,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.405,
+        "trainer": 0.5,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.22,
+        "trainer": 2.5,
+        "weight": 4.88,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 11,
+        "record": "0-9"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 2,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; carries 53kg.",
+        "Against it: patchy recent form; lower-rated (MR 61).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "carries 53kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 61)"
+      ],
+      "rank": 7,
+      "pWin": 0.0238,
+      "pPlace": 0.0664,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "FORT RED",
+      "rank": 1,
+      "score": 61.9,
+      "rating": 66,
+      "draw": 4,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Divesh Ramkhalawon",
+      "trainer": "Mike Stewart",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.714,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 0.925
+      }
+    },
+    {
+      "no": null,
+      "name": "WINTER PEARL",
+      "rank": 2,
+      "score": 56.2,
+      "rating": 71,
+      "draw": 3,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.489,
+        "trainer": 0.411,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "JET A ONE",
+      "rank": 3,
+      "score": 49,
+      "rating": 69,
+      "draw": 7,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Des McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.418,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BONNE BOUCHE",
+      "rank": 4,
+      "score": 48.9,
+      "rating": 67,
+      "draw": 6,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.467,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "OZARK",
+      "rank": 5,
+      "score": 44.4,
+      "rating": 61,
+      "draw": 1,
+      "weight": 51.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.425,
+        "trainer": 0.462,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GRAVITY",
+      "rank": 6,
+      "score": 44.4,
+      "rating": 63,
+      "draw": 5,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Dezahn Louw",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "AVIGNON",
+      "rank": 7,
+      "score": 42.9,
+      "rating": 61,
+      "draw": 2,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.405,
+        "trainer": 0.5,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "AVIGNON",
+      "key": "AVIGNON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OZARK",
+      "key": "OZARK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORT RED",
+      "key": "FORT RED",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BONNE BOUCHE",
+      "key": "BONNE BOUCHE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GRAVITY",
+      "key": "GRAVITY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "AVIGNON",
+  "places": 2
+}

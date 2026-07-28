@@ -1,0 +1,1076 @@
+{
+  "id": "2026-04-18-kenilworth-r7",
+  "date": "2026-04-18",
+  "track": "Kenilworth",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:29:46.711Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "LYRICAL GANGSTER",
+      "key": "LYRICAL GANGSTER",
+      "draw": 6,
+      "rating": 81,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.8,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.5,
+        "trainer": 0.538,
+        "weight": 0.45,
+        "headToHead": 0.5,
+        "recencyMargin": 0.967
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 11.69,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.5,
+        "trainer": 2.69,
+        "weight": 2.7,
+        "headToHead": 6,
+        "recencyMargin": 11.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 2,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 2,
+        "winPct": 13,
+        "placePct": 25,
+        "record": "1-8"
+      },
+      "trainerRec": {
+        "starts": 32,
+        "wins": 5,
+        "places": 12,
+        "winPct": 16,
+        "record": "5-32"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; hitting the line hard lately; stable in form (16%)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "trainer"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "stable in form (16%)"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.4583,
+      "pPlace": 0.9469,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VOLEGOV",
+      "key": "VOLEGOV",
+      "draw": 7,
+      "rating": 78,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Andre Nel",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 66.2,
+      "factors": {
+        "form": 1,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.2,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 9.85,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.25,
+        "trainer": 2.5,
+        "weight": 1.2,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by a nose at Kenilworth."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by a nose at Kenilworth.",
+        "Why it can win: strong recent form; hitting the line hard lately.",
+        "Against it: carries 58.5kg."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 58.5kg"
+      ],
+      "rank": 2,
+      "pWin": 0.351,
+      "pPlace": 0.9128,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WINTER PIRATE",
+      "key": "WINTER PIRATE",
+      "draw": 3,
+      "rating": 88,
+      "jockey": "Trent Mayhew",
+      "trainer": "Eric Sands",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.574,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.5,
+        "trainer": 2.87,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 9,
+        "wins": 2,
+        "places": 4,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 88); stable in form (22%); carries 55.5kg.",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 88)",
+        "stable in form (22%)",
+        "carries 55.5kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.088,
+      "pPlace": 0.5077,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TROIS SEPT HUIT",
+      "key": "TROIS SEPT HUIT",
+      "draw": 4,
+      "rating": 81,
+      "jockey": "Eduan Muller",
+      "trainer": "Lucinda Woodruff",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.425,
+        "trainer": 0.479,
+        "weight": 0.45,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.69,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.27,
+        "trainer": 2.4,
+        "weight": 2.7,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 2,
+        "places": 7,
+        "winPct": 11,
+        "record": "2-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0329,
+      "pPlace": 0.2013,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PALACE GIFT",
+      "key": "PALACE GIFT",
+      "draw": 2,
+      "rating": 77,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.577,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.5,
+        "trainer": 0.467,
+        "weight": 0.3,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.23,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.5,
+        "trainer": 2.33,
+        "weight": 1.8,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0217,
+      "pPlace": 0.1341,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "draw": 1,
+      "rating": 78,
+      "jockey": "Bavish Soodoo",
+      "trainer": "Glen Kotzen",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.411,
+        "weight": 0.15,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.85,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.06,
+        "weight": 0.9,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.021,
+      "pPlace": 0.1298,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "draw": 8,
+      "rating": 81,
+      "jockey": "Mxolisi Mbuto",
+      "trainer": "Adam Marcus",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.5,
+        "trainer": 0.678,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.69,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.5,
+        "trainer": 3.39,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 8,
+        "wins": 3,
+        "places": 6,
+        "winPct": 38,
+        "record": "3-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (38%).",
+        "Against it: patchy recent form; top-weight (60.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (38%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60.5kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.0196,
+      "pPlace": 0.1215,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "draw": 5,
+      "rating": 62,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 50.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.405,
+        "trainer": 0.512,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.22,
+        "trainer": 2.56,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 11,
+        "record": "0-9"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 2,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (50.5kg).",
+        "Against it: patchy recent form; lower-rated (MR 62).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (50.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 62)"
+      ],
+      "rank": 8,
+      "pWin": 0.0073,
+      "pPlace": 0.0459,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "LYRICAL GANGSTER",
+      "rank": 1,
+      "score": 67.8,
+      "rating": 81,
+      "draw": 6,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.5,
+        "trainer": 0.538,
+        "weight": 0.45,
+        "headToHead": 0.5,
+        "recencyMargin": 0.967
+      }
+    },
+    {
+      "no": null,
+      "name": "VOLEGOV",
+      "rank": 2,
+      "score": 66.2,
+      "rating": 78,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Andre Nel",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.2,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "WINTER PIRATE",
+      "rank": 3,
+      "score": 57.9,
+      "rating": 88,
+      "draw": 3,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Trent Mayhew",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.574,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TROIS SEPT HUIT",
+      "rank": 4,
+      "score": 52,
+      "rating": 81,
+      "draw": 4,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.425,
+        "trainer": 0.479,
+        "weight": 0.45,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "PALACE GIFT",
+      "rank": 5,
+      "score": 49.5,
+      "rating": 77,
+      "draw": 2,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Damyan Pillay",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.577,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.5,
+        "trainer": 0.467,
+        "weight": 0.3,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WORLDLY",
+      "rank": 6,
+      "score": 49.3,
+      "rating": 78,
+      "draw": 1,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Bavish Soodoo",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.411,
+        "weight": 0.15,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KELP FOREST",
+      "rank": 7,
+      "score": 48.9,
+      "rating": 81,
+      "draw": 8,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mxolisi Mbuto",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.731,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.5,
+        "trainer": 0.678,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHIFTING PATH",
+      "rank": 8,
+      "score": 43,
+      "rating": 62,
+      "draw": 5,
+      "weight": 50.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.405,
+        "trainer": 0.512,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PALACE GIFT",
+      "key": "PALACE GIFT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TROIS SEPT HUIT",
+      "key": "TROIS SEPT HUIT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VOLEGOV",
+      "key": "VOLEGOV",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHIFTING PATH",
+      "key": "SHIFTING PATH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LYRICAL GANGSTER",
+      "key": "LYRICAL GANGSTER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WINTER PIRATE",
+      "key": "WINTER PIRATE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "PALACE GIFT",
+  "places": 3
+}

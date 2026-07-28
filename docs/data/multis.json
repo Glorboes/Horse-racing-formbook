@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:27:04.290Z",
+  "generated": "2026-07-28T19:29:46.817Z",
   "days": {
     "2026-03-30": {
       "bankers": [
@@ -1240,6 +1240,317 @@
             "time": null,
             "selection": "FROM THE GET GO",
             "prob": 60.8
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-04-18": {
+      "bankers": [
+        {
+          "race": 4,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "BLUE LAGOON",
+          "pWin": 94.4,
+          "pPlace": 100,
+          "confidence": "strong"
+        },
+        {
+          "race": 8,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "MY ONLY WEAKNESS",
+          "pWin": 93.5,
+          "pPlace": 100,
+          "confidence": "strong"
+        },
+        {
+          "race": 9,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "CHARLIE BUCKET",
+          "pWin": 72.7,
+          "pPlace": 98.5,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.6416,
+          "combinedPct": 64.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 94.4
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 93.5
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 72.7
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.4344,
+          "combinedPct": 43.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 94.4
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 93.5
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 72.7
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 67.7
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.2457,
+          "combinedPct": 24.6,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 94.4
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 93.5
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 72.7
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 67.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FORT RED",
+              "prob": 56.6
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9327,
+          "combinedPct": 93.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 100
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 100
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LYRICAL GANGSTER",
+              "prob": 94.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.8594,
+          "combinedPct": 85.9,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 100
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 100
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LYRICAL GANGSTER",
+              "prob": 94.7
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 92.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.7326,
+          "combinedPct": 73.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLUE LAGOON",
+              "prob": 100
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MY ONLY WEAKNESS",
+              "prob": 100
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LYRICAL GANGSTER",
+              "prob": 94.7
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 92.1
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FORT RED",
+              "prob": 85.3
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.6416,
+        "combinedPct": 64.2,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 4,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "BLUE LAGOON",
+            "prob": 94.4
+          },
+          {
+            "race": 8,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "MY ONLY WEAKNESS",
+            "prob": 93.5
+          },
+          {
+            "race": 9,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "CHARLIE BUCKET",
+            "prob": 72.7
           }
         ]
       },

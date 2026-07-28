@@ -1,83 +1,11 @@
 {
-  "settled": 74,
+  "settled": 83,
   "scratched": 2,
-  "topPickWins": 22,
-  "topPickPlaces": 42,
-  "winPct": 29.7,
-  "placePct": 56.8,
+  "topPickWins": 25,
+  "topPickPlaces": 47,
+  "winPct": 30.1,
+  "placePct": 56.6,
   "history": [
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r2",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 2,
-      "won": false,
-      "placed": true
-    },
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r3",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 3,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r4",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 4,
-      "won": false,
-      "placed": false
-    },
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r5",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 5,
-      "won": false,
-      "placed": true
-    },
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r6",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 6,
-      "won": false,
-      "placed": true
-    },
-    {
-      "id": "2026-07-25-hollywoodbets-durbanville-r7",
-      "date": "2026-07-25",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 7,
-      "won": false,
-      "placed": false
-    },
-    {
-      "id": "2026-03-30-kenilworth-r1",
-      "date": "2026-03-30",
-      "track": "Kenilworth",
-      "race": 1,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-03-30-kenilworth-r2",
-      "date": "2026-03-30",
-      "track": "Kenilworth",
-      "race": 2,
-      "won": false,
-      "placed": false
-    },
-    {
-      "id": "2026-03-30-kenilworth-r3",
-      "date": "2026-03-30",
-      "track": "Kenilworth",
-      "race": 3,
-      "won": false,
-      "placed": false
-    },
     {
       "id": "2026-03-30-kenilworth-r4",
       "date": "2026-03-30",
@@ -325,15 +253,87 @@
       "race": 9,
       "won": false,
       "placed": false
+    },
+    {
+      "id": "2026-04-18-kenilworth-r1",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 1,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-04-18-kenilworth-r2",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 2,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-04-18-kenilworth-r3",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 3,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-04-18-kenilworth-r4",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 4,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-04-18-kenilworth-r5",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 5,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-04-18-kenilworth-r6",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 6,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-04-18-kenilworth-r7",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 7,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-04-18-kenilworth-r8",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 8,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-04-18-kenilworth-r9",
+      "date": "2026-04-18",
+      "track": "Kenilworth",
+      "race": 9,
+      "won": false,
+      "placed": true
     }
   ],
   "calibration": [
     {
       "tier": "40%+",
-      "n": 10,
-      "wins": 3,
-      "expectedPct": 54,
-      "winPct": 30
+      "n": 16,
+      "wins": 5,
+      "expectedPct": 61,
+      "winPct": 31
     },
     {
       "tier": "25–40%",
@@ -344,73 +344,73 @@
     },
     {
       "tier": "15–25%",
-      "n": 25,
-      "wins": 6,
+      "n": 27,
+      "wins": 7,
       "expectedPct": 21,
-      "winPct": 24
+      "winPct": 26
     },
     {
       "tier": "under 15%",
-      "n": 3,
+      "n": 4,
       "wins": 0,
-      "expectedPct": 14,
+      "expectedPct": 13,
       "winPct": 0
     }
   ],
   "clv": {
-    "racesWithPrice": 58,
-    "runnersWithPrice": 499,
-    "pickAvgModelPct": 30,
-    "pickAvgClosePct": 17,
-    "pickWinPct": 21,
-    "beatClosePicks": 46,
-    "beatCloseWinPct": 15,
+    "racesWithPrice": 67,
+    "runnersWithPrice": 585,
+    "pickAvgModelPct": 33,
+    "pickAvgClosePct": 18,
+    "pickWinPct": 22,
+    "beatClosePicks": 53,
+    "beatCloseWinPct": 17,
     "buckets": [
       {
         "label": "model +10pts",
-        "n": 53,
-        "avgModelPct": 29,
-        "avgClosePct": 9,
-        "winPct": 9
+        "n": 61,
+        "avgModelPct": 33,
+        "avgClosePct": 10,
+        "winPct": 11
       },
       {
         "label": "model +3–10pts",
-        "n": 115,
-        "avgModelPct": 12,
+        "n": 128,
+        "avgModelPct": 11,
         "avgClosePct": 6,
         "winPct": 5
       },
       {
         "label": "agree (±3pts)",
-        "n": 162,
+        "n": 189,
         "avgModelPct": 8,
         "avgClosePct": 8,
         "winPct": 6
       },
       {
         "label": "model −3pts+",
-        "n": 169,
-        "avgModelPct": 9,
-        "avgClosePct": 20,
-        "winPct": 22
+        "n": 207,
+        "avgModelPct": 8,
+        "avgClosePct": 19,
+        "winPct": 21
       }
     ]
   },
   "readiness": {
     "green": false,
-    "passed": 1,
+    "passed": 0,
     "total": 5,
-    "n": 58,
+    "n": 67,
     "target": 200,
-    "overallRoi": 1.8,
-    "recentRoi": 1.8,
+    "overallRoi": -0.4,
+    "recentRoi": -0.4,
     "criteria": [
       {
         "key": "sample",
         "label": "Enough races",
         "pass": false,
-        "detail": "58 / 200 priced races logged",
-        "progress": 0.29
+        "detail": "67 / 200 priced races logged",
+        "progress": 0.335
       },
       {
         "key": "beatclose",
@@ -423,22 +423,22 @@
         "key": "calibration",
         "label": "Well calibrated",
         "pass": false,
-        "detail": "avg gap expected vs actual 11 pts (need ≤ 8)",
-        "progress": 0.44999999999999996
+        "detail": "avg gap expected vs actual 14 pts (need ≤ 8)",
+        "progress": 0.30000000000000004
       },
       {
         "key": "oos",
         "label": "Holds out-of-sample",
-        "pass": true,
-        "detail": "last 58 picks: +1.8% at SP",
-        "progress": 0.545
+        "pass": false,
+        "detail": "last 67 picks: -0.4% at SP",
+        "progress": 0.49
       },
       {
         "key": "margin",
         "label": "Clears the margin (profit at SP)",
         "pass": false,
-        "detail": "flat-stake ROI +1.8% (need ≥ +2%)",
-        "progress": 0.545
+        "detail": "flat-stake ROI -0.4% (need ≥ +2%)",
+        "progress": 0.49
       }
     ]
   }
