@@ -1,7 +1,307 @@
 {
-  "generated": "2026-07-28T19:22:02.440Z",
-  "count": 428,
+  "generated": "2026-07-28T19:24:30.696Z",
+  "count": 477,
   "horses": [
+    {
+      "key": "HAVOC",
+      "name": "HAVOC",
+      "rating": null,
+      "trainer": "Greg Ennion",
+      "starts": 3,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "S Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        },
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 33,
+      "lastFive": "248",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 2,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Maiden Juvenile Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.9,
+          "wonBy": null,
+          "beaten": [
+            "PLATINUM GREY",
+            "EDICTAL CITATION",
+            "SCOTLAND YARD",
+            "VISIONARY FLAME",
+            "HAPPY WINTER"
+          ],
+          "weight": 60,
+          "jockey": "C Murray",
+          "trainer": "Greg Ennion",
+          "draw": 8
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1500,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 2.25,
+          "wonBy": null,
+          "beaten": [
+            "MONTESSORI",
+            "MADRA RUA",
+            "GROOVE MASTER",
+            "MY SUNSHINE",
+            "THE BIG BANG",
+            "THE MUFFIN MAN",
+            "EPERNAY"
+          ],
+          "weight": 56,
+          "jockey": "S Veale",
+          "trainer": "Greg Ennion",
+          "draw": 7,
+          "sp": "10-1",
+          "oddsDecimal": 11,
+          "time": 92.37,
+          "s800": 48.925,
+          "s400": 24.057,
+          "sDist": 1516.57
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 6.45,
+          "wonBy": null,
+          "beaten": [
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Callan Murray",
+          "trainer": "Greg Ennion",
+          "draw": 8,
+          "sp": "33/1",
+          "oddsDecimal": 34,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 13,
+        "losses": 11,
+        "beats": [
+          "PLATINUM GREY",
+          "EDICTAL CITATION",
+          "SCOTLAND YARD",
+          "VISIONARY FLAME",
+          "HAPPY WINTER",
+          "MONTESSORI",
+          "MADRA RUA",
+          "GROOVE MASTER",
+          "MY SUNSHINE",
+          "THE BIG BANG",
+          "THE MUFFIN MAN",
+          "EPERNAY",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "MORDECHAI",
+          "CALIFORNIA CAT",
+          "CRACKER",
+          "ROYAL INFLUENCER",
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE"
+        ]
+      }
+    },
+    {
+      "key": "IN MOTION",
+      "name": "IN MOTION",
+      "rating": 82,
+      "trainer": "Justin Snaith",
+      "starts": 3,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "V Jodhee",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Sifisokuhle Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "097",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 9,
+          "distance": 1400,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 10,
+          "marginBehindWinner": 21.6,
+          "wonBy": null,
+          "beaten": [
+            "MAN OF CONSEQUENCE"
+          ],
+          "weight": 58,
+          "jockey": "V Jodhee",
+          "trainer": "Justin Snaith",
+          "draw": 8,
+          "sp": "66-1",
+          "oddsDecimal": 67
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 11,
+          "field": 11,
+          "marginBehindWinner": 5.3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 58,
+          "jockey": "M Mjoka",
+          "trainer": "Justin Snaith",
+          "draw": 11,
+          "sp": "50-1",
+          "oddsDecimal": 51,
+          "time": 0
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 5.55,
+          "wonBy": null,
+          "beaten": [
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 55.5,
+          "jockey": "Sifisokuhle Bungane",
+          "trainer": "Justin Snaith",
+          "draw": 8,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 24,
+        "beats": [
+          "MAN OF CONSEQUENCE",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "MIAMI SUMMER",
+          "CLARK GRISWOLD",
+          "SIGNOR DANTE",
+          "FORT YUKON",
+          "CEDAR POINT",
+          "LOVING PRAGUE",
+          "DIAMOND ROCK",
+          "GOLD DUST",
+          "BOURBON KING",
+          "CAPTAINS ALLIANCE",
+          "BOMBERS IN THE SKY",
+          "MARCUS AURELIUS",
+          "NOBLE HERO",
+          "YAMAZAKI",
+          "SPIRIT",
+          "GROOVEJET",
+          "MUTINY IN HEAVEN",
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY",
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE"
+        ]
+      }
+    },
     {
       "key": "MONTESSORI",
       "name": "MONTESSORI",
@@ -152,6 +452,153 @@
           "ZAGREB",
           "BORN OF FIRE",
           "REFINER'S FIRE"
+        ]
+      }
+    },
+    {
+      "key": "NOBLE HERO",
+      "name": "NOBLE HERO",
+      "rating": 78,
+      "trainer": "Des A McLachlan",
+      "starts": 3,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "C Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Grant Van Niekerk",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "678",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 8.1,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 61.5,
+          "jockey": "C Murray",
+          "trainer": "Des A McLachlan",
+          "draw": 7,
+          "sp": "33-1",
+          "oddsDecimal": 34
+        },
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 5,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 11,
+          "marginBehindWinner": 3.05,
+          "wonBy": null,
+          "beaten": [
+            "YAMAZAKI",
+            "SPIRIT",
+            "GROOVEJET",
+            "MUTINY IN HEAVEN",
+            "IN MOTION"
+          ],
+          "weight": 57.5,
+          "jockey": "G Wright",
+          "trainer": "Des A McLachlan",
+          "draw": 9,
+          "sp": "66-1",
+          "oddsDecimal": 67,
+          "time": 98.89,
+          "s800": 49.216,
+          "s400": 24.564,
+          "sDist": 1617.8
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 6.6,
+          "wonBy": null,
+          "beaten": [
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 61.5,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 2,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 18,
+        "beats": [
+          "YAMAZAKI",
+          "SPIRIT",
+          "GROOVEJET",
+          "MUTINY IN HEAVEN",
+          "IN MOTION",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "FORT LIAM",
+          "TRIP TO CAMELOT",
+          "CHANCE ENCOUNTER",
+          "PHANTOM MAN",
+          "BALZI ROSSI",
+          "BACKINTHEFASTLANE",
+          "BOURBON KING",
+          "CAPTAINS ALLIANCE",
+          "DIAMOND ROCK",
+          "BOMBERS IN THE SKY",
+          "MARCUS AURELIUS",
+          "BONELLI",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS"
         ]
       }
     },
@@ -681,6 +1128,216 @@
           "MARKETA",
           "SEVEN NO TRUMP",
           "UNA THE UNICORN"
+        ]
+      }
+    },
+    {
+      "key": "ARKANSAS STATE",
+      "name": "ARKANSAS STATE",
+      "rating": 48,
+      "trainer": "Piet Botha",
+      "starts": 2,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "V Jodhee",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "77",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 1800,
+          "going": null,
+          "classLabel": "Maiden Plate",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 19.05,
+          "wonBy": null,
+          "beaten": [
+            "UNDOUBTED THE BOY",
+            "LADY AMBER"
+          ],
+          "weight": 56.5,
+          "jockey": "V Jodhee",
+          "trainer": "Piet Botha",
+          "draw": 7
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 6.8,
+          "wonBy": null,
+          "beaten": [
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 52.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Piet Botha",
+          "draw": 3,
+          "sp": "100/1",
+          "oddsDecimal": 101,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 12,
+        "beats": [
+          "UNDOUBTED THE BOY",
+          "LADY AMBER",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "LIEFLING",
+          "WHATWILLBEWILLBE",
+          "UP IN FLAMES",
+          "FREQUENT TRAVELLER",
+          "QUIET PLACE",
+          "ONSSILVERJET",
+          "WHO IS SHE",
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN",
+          "AUTUMN RUSH",
+          "CHIHIRO"
+        ]
+      }
+    },
+    {
+      "key": "BALZI ROSSI",
+      "name": "BALZI ROSSI",
+      "rating": 76,
+      "trainer": "Vaughan Marshall",
+      "starts": 2,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "R Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Richard Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "47",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 4.6,
+          "wonBy": null,
+          "beaten": [
+            "BACKINTHEFASTLANE",
+            "NOBLE HERO"
+          ],
+          "weight": 57,
+          "jockey": "R Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 6,
+          "sp": "8-1",
+          "oddsDecimal": 9
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 5.1,
+          "wonBy": null,
+          "beaten": [
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 57,
+          "jockey": "Richard Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 9,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 9,
+        "beats": [
+          "PHANTOM MAN",
+          "BACKINTHEFASTLANE",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "FORT LIAM",
+          "TRIP TO CAMELOT",
+          "CHANCE ENCOUNTER",
+          "BONELLI",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS"
         ]
       }
     },
@@ -1628,6 +2285,117 @@
       }
     },
     {
+      "key": "CHANCE ENCOUNTER",
+      "name": "CHANCE ENCOUNTER",
+      "rating": 80,
+      "trainer": "Andre Nel",
+      "starts": 2,
+      "wins": 0,
+      "places": 2,
+      "jockeys": [
+        {
+          "jockey": "M Yeni",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        },
+        {
+          "jockey": "Muzi Yeni",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "32",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 2.1,
+          "wonBy": null,
+          "beaten": [
+            "PHANTOM MAN",
+            "BALZI ROSSI",
+            "BACKINTHEFASTLANE",
+            "NOBLE HERO"
+          ],
+          "weight": 61.5,
+          "jockey": "M Yeni",
+          "trainer": "Andre Nel",
+          "draw": 1,
+          "sp": "5-2",
+          "oddsDecimal": 3.5
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 0.6,
+          "wonBy": null,
+          "beaten": [
+            "TUNGUSKA",
+            "ERIC LIDDELL",
+            "PRIMAL INSTINCT",
+            "SCOTTISH LINKS",
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 58.5,
+          "jockey": "Muzi Yeni",
+          "trainer": "Andre Nel",
+          "draw": 4,
+          "sp": "3/1",
+          "oddsDecimal": 4,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 11,
+        "losses": 3,
+        "beats": [
+          "PHANTOM MAN",
+          "BALZI ROSSI",
+          "BACKINTHEFASTLANE",
+          "NOBLE HERO",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "FORT LIAM",
+          "TRIP TO CAMELOT",
+          "BONELLI"
+        ]
+      }
+    },
+    {
       "key": "CHURCHILLIAN",
       "name": "CHURCHILLIAN",
       "rating": 96,
@@ -2558,6 +3326,109 @@
       }
     },
     {
+      "key": "DUBBELOSIX",
+      "name": "DUBBELOSIX",
+      "rating": 84,
+      "trainer": "James Crawford",
+      "starts": 2,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "47",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 2.9,
+          "wonBy": null,
+          "beaten": [
+            "IT IS MY TIME",
+            "BILLY BOWLEGS",
+            "ROCKANROLLIN",
+            "BOMBERS IN THE SKY"
+          ],
+          "weight": 54,
+          "jockey": "M Michel",
+          "trainer": "James Crawford",
+          "draw": 5,
+          "sp": "14-1",
+          "oddsDecimal": 15
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 7,
+          "marginBehindWinner": 10.15,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 55.5,
+          "jockey": "Callan Murray",
+          "trainer": "James Crawford",
+          "draw": 4,
+          "sp": "7/1",
+          "oddsDecimal": 8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 9,
+        "beats": [
+          "IT IS MY TIME",
+          "BILLY BOWLEGS",
+          "ROCKANROLLIN",
+          "BOMBERS IN THE SKY"
+        ],
+        "losesTo": [
+          "SOHO HEARTTHROB",
+          "IN A TIMELY MANNER",
+          "KATSU",
+          "LA PULGA",
+          "RED DAWN",
+          "TIME FOR LOVE",
+          "PINOT GRIGIO",
+          "SHERIFF JOHN STONE"
+        ]
+      }
+    },
+    {
       "key": "DUMBLEDORE",
       "name": "DUMBLEDORE",
       "rating": 106,
@@ -3103,6 +3974,123 @@
           "SOMMERSTERN",
           "LOVING PRAGUE",
           "MARCUS AURELIUS"
+        ]
+      }
+    },
+    {
+      "key": "FATE OF PACE",
+      "name": "FATE OF PACE",
+      "rating": 58,
+      "trainer": "Des A McLachlan",
+      "starts": 2,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Grant Van Niekerk",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 50,
+      "lastFive": "72",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-18",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 10.1,
+          "wonBy": null,
+          "beaten": [
+            "DIVINE STATE",
+            "EL DOURO"
+          ],
+          "weight": 53,
+          "jockey": "M Mjoka",
+          "trainer": "Des A McLachlan",
+          "draw": 2,
+          "sp": "25-1",
+          "oddsDecimal": 26,
+          "time": 98.22,
+          "s800": 49.331,
+          "s400": 24.625,
+          "sDist": 1606.74
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 2,
+          "wonBy": null,
+          "beaten": [
+            "SPARKLING SKY",
+            "SEE THE SIGN",
+            "AUTUMN RUSH",
+            "CHIHIRO",
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 56,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 4,
+          "sp": "9/2",
+          "oddsDecimal": 5.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 9,
+        "losses": 7,
+        "beats": [
+          "SEE THE SIGN",
+          "DIVINE STATE",
+          "EL DOURO",
+          "SPARKLING SKY",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "READY FOR THE ROAD",
+          "BORN TO MASTER",
+          "MASTERONTHEMOON",
+          "O'FELLOW",
+          "BIG DEAL",
+          "SEE THE SIGN",
+          "WHO IS SHE"
         ]
       }
     },
@@ -3793,6 +4781,117 @@
       }
     },
     {
+      "key": "GIVE IT LALDY",
+      "name": "GIVE IT LALDY",
+      "rating": 86,
+      "trainer": "Lucinda Woodruff",
+      "starts": 2,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "G Lerena",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Gareth Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 50,
+      "lastFive": "73",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 5.1,
+          "wonBy": null,
+          "beaten": [
+            "IGNITE THE FIRE",
+            "FAST TRAIN"
+          ],
+          "weight": 57,
+          "jockey": "G Lerena",
+          "trainer": "Lucinda Woodruff",
+          "draw": 1,
+          "sp": "5-4",
+          "oddsDecimal": 2.25
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [
+            "NAVASEVEN",
+            "ONE LINER",
+            "LADY LOOK ALIKE",
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 60,
+          "jockey": "Gareth Wright",
+          "trainer": "Lucinda Woodruff",
+          "draw": 7,
+          "sp": "8/1",
+          "oddsDecimal": 9,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 8,
+        "beats": [
+          "IGNITE THE FIRE",
+          "FAST TRAIN",
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "CHURCHILLIAN",
+          "HANDSOME PRINCE",
+          "OLIVER",
+          "SPIRIT",
+          "SHESGOTCLASS",
+          "OCTOBER STORM"
+        ]
+      }
+    },
+    {
       "key": "HAMPSTEAD HEATH",
       "name": "HAMPSTEAD HEATH",
       "rating": 75,
@@ -4003,119 +5102,6 @@
           "BLACKBIRD",
           "FAIR FATE",
           "MY BONNY BOY"
-        ]
-      }
-    },
-    {
-      "key": "HAVOC",
-      "name": "HAVOC",
-      "rating": null,
-      "trainer": "Greg Ennion",
-      "starts": 2,
-      "wins": 0,
-      "places": 1,
-      "jockeys": [
-        {
-          "jockey": "C Murray",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        },
-        {
-          "jockey": "S Veale",
-          "starts": 1,
-          "wins": 0,
-          "places": 1
-        }
-      ],
-      "winPct": 0,
-      "placePct": 50,
-      "lastFive": "24",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-07",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 2,
-          "distance": 1250,
-          "going": null,
-          "classLabel": "Maiden Juvenile Plate",
-          "classType": null,
-          "classRank": null,
-          "finish": 4,
-          "field": 9,
-          "marginBehindWinner": 2.9,
-          "wonBy": null,
-          "beaten": [
-            "PLATINUM GREY",
-            "EDICTAL CITATION",
-            "SCOTLAND YARD",
-            "VISIONARY FLAME",
-            "HAPPY WINTER"
-          ],
-          "weight": 60,
-          "jockey": "C Murray",
-          "trainer": "Greg Ennion",
-          "draw": 8
-        },
-        {
-          "date": "2026-07-25",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 3,
-          "distance": 1500,
-          "going": null,
-          "classLabel": "Maiden Plate",
-          "classType": null,
-          "classRank": null,
-          "finish": 2,
-          "field": 9,
-          "marginBehindWinner": 2.25,
-          "wonBy": null,
-          "beaten": [
-            "MONTESSORI",
-            "MADRA RUA",
-            "GROOVE MASTER",
-            "MY SUNSHINE",
-            "THE BIG BANG",
-            "THE MUFFIN MAN",
-            "EPERNAY"
-          ],
-          "weight": 56,
-          "jockey": "S Veale",
-          "trainer": "Greg Ennion",
-          "draw": 7,
-          "sp": "10-1",
-          "oddsDecimal": 11,
-          "time": 92.37,
-          "s800": 48.925,
-          "s400": 24.057,
-          "sDist": 1516.57
-        }
-      ],
-      "h2h": {
-        "wins": 12,
-        "losses": 4,
-        "beats": [
-          "PLATINUM GREY",
-          "EDICTAL CITATION",
-          "SCOTLAND YARD",
-          "VISIONARY FLAME",
-          "HAPPY WINTER",
-          "MONTESSORI",
-          "MADRA RUA",
-          "GROOVE MASTER",
-          "MY SUNSHINE",
-          "THE BIG BANG",
-          "THE MUFFIN MAN",
-          "EPERNAY"
-        ],
-        "losesTo": [
-          "MORDECHAI",
-          "CALIFORNIA CAT",
-          "CRACKER",
-          "ROYAL INFLUENCER"
         ]
       }
     },
@@ -4332,108 +5318,6 @@
           "EL COHETE",
           "MARY CASSATT",
           "CHINWAG"
-        ]
-      }
-    },
-    {
-      "key": "IN MOTION",
-      "name": "IN MOTION",
-      "rating": 80,
-      "trainer": "Justin Snaith",
-      "starts": 2,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "V Jodhee",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        },
-        {
-          "jockey": "M Mjoka",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "09",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 9,
-          "distance": 1400,
-          "going": null,
-          "classLabel": null,
-          "classType": null,
-          "classRank": null,
-          "finish": 9,
-          "field": 10,
-          "marginBehindWinner": 21.6,
-          "wonBy": null,
-          "beaten": [
-            "MAN OF CONSEQUENCE"
-          ],
-          "weight": 58,
-          "jockey": "V Jodhee",
-          "trainer": "Justin Snaith",
-          "draw": 8,
-          "sp": "66-1",
-          "oddsDecimal": 67
-        },
-        {
-          "date": "2026-07-25",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 5,
-          "distance": 1600,
-          "going": null,
-          "classLabel": null,
-          "classType": null,
-          "classRank": null,
-          "finish": 11,
-          "field": 11,
-          "marginBehindWinner": 5.3,
-          "wonBy": null,
-          "beaten": [],
-          "weight": 58,
-          "jockey": "M Mjoka",
-          "trainer": "Justin Snaith",
-          "draw": 11,
-          "sp": "50-1",
-          "oddsDecimal": 51,
-          "time": 0
-        }
-      ],
-      "h2h": {
-        "wins": 1,
-        "losses": 18,
-        "beats": [
-          "MAN OF CONSEQUENCE"
-        ],
-        "losesTo": [
-          "MIAMI SUMMER",
-          "CLARK GRISWOLD",
-          "SIGNOR DANTE",
-          "FORT YUKON",
-          "CEDAR POINT",
-          "LOVING PRAGUE",
-          "DIAMOND ROCK",
-          "GOLD DUST",
-          "BOURBON KING",
-          "CAPTAINS ALLIANCE",
-          "BOMBERS IN THE SKY",
-          "MARCUS AURELIUS",
-          "NOBLE HERO",
-          "YAMAZAKI",
-          "SPIRIT",
-          "GROOVEJET",
-          "MUTINY IN HEAVEN"
         ]
       }
     },
@@ -4664,6 +5548,116 @@
           "WORLDLY",
           "MEET THE KING",
           "ANOTHER HERO"
+        ]
+      }
+    },
+    {
+      "key": "KATSU",
+      "name": "KATSU",
+      "rating": 81,
+      "trainer": "Lucinda Woodruff",
+      "starts": 2,
+      "wins": 0,
+      "places": 2,
+      "jockeys": [
+        {
+          "jockey": "E J Muller",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        },
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "32",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 8,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 2.4,
+          "wonBy": null,
+          "beaten": [
+            "DUBBELOSIX",
+            "IT IS MY TIME",
+            "BILLY BOWLEGS",
+            "ROCKANROLLIN",
+            "BOMBERS IN THE SKY"
+          ],
+          "weight": 54,
+          "jockey": "E J Muller",
+          "trainer": "Lucinda Woodruff",
+          "draw": 6,
+          "sp": "25-2",
+          "oddsDecimal": 13.5
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 7,
+          "marginBehindWinner": 3,
+          "wonBy": null,
+          "beaten": [
+            "RED DAWN",
+            "TIME FOR LOVE",
+            "PINOT GRIGIO",
+            "SHERIFF JOHN STONE",
+            "DUBBELOSIX"
+          ],
+          "weight": 54,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Lucinda Woodruff",
+          "draw": 2,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 10,
+        "losses": 3,
+        "beats": [
+          "DUBBELOSIX",
+          "IT IS MY TIME",
+          "BILLY BOWLEGS",
+          "ROCKANROLLIN",
+          "BOMBERS IN THE SKY",
+          "RED DAWN",
+          "TIME FOR LOVE",
+          "PINOT GRIGIO",
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": [
+          "SOHO HEARTTHROB",
+          "IN A TIMELY MANNER",
+          "LA PULGA"
         ]
       }
     },
@@ -6044,6 +7038,116 @@
       }
     },
     {
+      "key": "MISS WILLIAM",
+      "name": "MISS WILLIAM",
+      "rating": 84,
+      "trainer": "James Crawford",
+      "starts": 2,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "G Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Gareth Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "44",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 7,
+          "distance": 1250,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
+          "beaten": [
+            "STAR WORLD",
+            "BLUE LAGOON",
+            "ALL IS GREEN",
+            "MALIBU BLITZ",
+            "GIRL LIKE US"
+          ],
+          "weight": 60,
+          "jockey": "G Wright",
+          "trainer": "James Crawford",
+          "draw": 2,
+          "sp": "20-1",
+          "oddsDecimal": 21,
+          "time": 76.92,
+          "s800": 48.562,
+          "s400": 23.878,
+          "sDist": 1268.89
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 5,
+          "marginBehindWinner": 5.8,
+          "wonBy": null,
+          "beaten": [
+            "CALL ME SECRET"
+          ],
+          "weight": 55.5,
+          "jockey": "Gareth Wright",
+          "trainer": "James Crawford",
+          "draw": 3,
+          "sp": "40/1",
+          "oddsDecimal": 41,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 6,
+        "beats": [
+          "STAR WORLD",
+          "BLUE LAGOON",
+          "ALL IS GREEN",
+          "MALIBU BLITZ",
+          "GIRL LIKE US",
+          "CALL ME SECRET"
+        ],
+        "losesTo": [
+          "CLIFFSCAPE",
+          "MY ONLY WEAKNESS",
+          "WYZE DECLARATION",
+          "SYMPHONY IN WHITE",
+          "SHESGOTCLASS",
+          "PINK PIGEON"
+        ]
+      }
+    },
+    {
       "key": "MON PAPILLON",
       "name": "MON PAPILLON",
       "rating": 74,
@@ -6626,113 +7730,6 @@
       }
     },
     {
-      "key": "NOBLE HERO",
-      "name": "NOBLE HERO",
-      "rating": 77,
-      "trainer": "Des A McLachlan",
-      "starts": 2,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "C Murray",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        },
-        {
-          "jockey": "G Wright",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "67",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 4,
-          "distance": 2000,
-          "going": null,
-          "classLabel": "Stakes",
-          "classType": null,
-          "classRank": null,
-          "finish": 7,
-          "field": 7,
-          "marginBehindWinner": 8.1,
-          "wonBy": null,
-          "beaten": [],
-          "weight": 61.5,
-          "jockey": "C Murray",
-          "trainer": "Des A McLachlan",
-          "draw": 7,
-          "sp": "33-1",
-          "oddsDecimal": 34
-        },
-        {
-          "date": "2026-07-25",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 5,
-          "distance": 1600,
-          "going": null,
-          "classLabel": null,
-          "classType": null,
-          "classRank": null,
-          "finish": 6,
-          "field": 11,
-          "marginBehindWinner": 3.05,
-          "wonBy": null,
-          "beaten": [
-            "YAMAZAKI",
-            "SPIRIT",
-            "GROOVEJET",
-            "MUTINY IN HEAVEN",
-            "IN MOTION"
-          ],
-          "weight": 57.5,
-          "jockey": "G Wright",
-          "trainer": "Des A McLachlan",
-          "draw": 9,
-          "sp": "66-1",
-          "oddsDecimal": 67,
-          "time": 98.89,
-          "s800": 49.216,
-          "s400": 24.564,
-          "sDist": 1617.8
-        }
-      ],
-      "h2h": {
-        "wins": 5,
-        "losses": 11,
-        "beats": [
-          "YAMAZAKI",
-          "SPIRIT",
-          "GROOVEJET",
-          "MUTINY IN HEAVEN",
-          "IN MOTION"
-        ],
-        "losesTo": [
-          "FORT LIAM",
-          "TRIP TO CAMELOT",
-          "CHANCE ENCOUNTER",
-          "PHANTOM MAN",
-          "BALZI ROSSI",
-          "BACKINTHEFASTLANE",
-          "BOURBON KING",
-          "CAPTAINS ALLIANCE",
-          "DIAMOND ROCK",
-          "BOMBERS IN THE SKY",
-          "MARCUS AURELIUS"
-        ]
-      }
-    },
-    {
       "key": "NORTH POINT",
       "name": "NORTH POINT",
       "rating": 101,
@@ -7065,6 +8062,124 @@
           "MASTERONTHEMOON",
           "ROYAL CELEB"
         ]
+      }
+    },
+    {
+      "key": "OBJET D ART",
+      "name": "OBJET D ART",
+      "rating": 89,
+      "trainer": "Adam Marcus",
+      "starts": 2,
+      "wins": 2,
+      "places": 2,
+      "jockeys": [
+        {
+          "jockey": "C Zackey",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        },
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "11",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.05,
+          "beaten": [
+            "CHURCHILLIAN",
+            "HANDSOME PRINCE",
+            "OLIVER",
+            "SPIRIT",
+            "SHESGOTCLASS",
+            "GIVE IT LALDY",
+            "IGNITE THE FIRE",
+            "FAST TRAIN"
+          ],
+          "weight": 58.5,
+          "jockey": "C Zackey",
+          "trainer": "Adam Marcus",
+          "draw": 8,
+          "sp": "4-1",
+          "oddsDecimal": 5
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 2.5,
+          "beaten": [
+            "OCTOBER STORM",
+            "GIVE IT LALDY",
+            "NAVASEVEN",
+            "ONE LINER",
+            "LADY LOOK ALIKE",
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 61.5,
+          "jockey": "Craig Zackey",
+          "trainer": "Adam Marcus",
+          "draw": 3,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 16,
+        "losses": 0,
+        "beats": [
+          "CHURCHILLIAN",
+          "HANDSOME PRINCE",
+          "OLIVER",
+          "SPIRIT",
+          "SHESGOTCLASS",
+          "GIVE IT LALDY",
+          "IGNITE THE FIRE",
+          "FAST TRAIN",
+          "OCTOBER STORM",
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": []
       }
     },
     {
@@ -7502,6 +8617,114 @@
           "MARY CASSATT",
           "CHINWAG",
           "FOG IN FINLAND"
+        ]
+      }
+    },
+    {
+      "key": "RED DAWN",
+      "name": "RED DAWN",
+      "rating": 79,
+      "trainer": "Candice Bass",
+      "starts": 2,
+      "wins": 0,
+      "places": 2,
+      "jockeys": [
+        {
+          "jockey": "A Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        },
+        {
+          "jockey": "Sean Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "33",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-07",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1600,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 1,
+          "wonBy": null,
+          "beaten": [
+            "SUPERHERO",
+            "MIDWAY",
+            "GOLD INDEX",
+            "DISTRICT MASTER",
+            "SMART HORSE"
+          ],
+          "weight": 61.5,
+          "jockey": "A Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 3
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 7,
+          "marginBehindWinner": 6.5,
+          "wonBy": null,
+          "beaten": [
+            "TIME FOR LOVE",
+            "PINOT GRIGIO",
+            "SHERIFF JOHN STONE",
+            "DUBBELOSIX"
+          ],
+          "weight": 54,
+          "jockey": "Sean Veale",
+          "trainer": "Candice Bass",
+          "draw": 5,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 9,
+        "losses": 4,
+        "beats": [
+          "SUPERHERO",
+          "MIDWAY",
+          "GOLD INDEX",
+          "DISTRICT MASTER",
+          "SMART HORSE",
+          "TIME FOR LOVE",
+          "PINOT GRIGIO",
+          "SHERIFF JOHN STONE",
+          "DUBBELOSIX"
+        ],
+        "losesTo": [
+          "BATON ROUGE",
+          "DEVIL A SAINT",
+          "LA PULGA",
+          "KATSU"
         ]
       }
     },
@@ -8213,6 +9436,342 @@
           "VIVO PER LEI",
           "IONA CASTLE",
           "SWIFT SERENITY"
+        ]
+      }
+    },
+    {
+      "key": "SEE THE SIGN",
+      "name": "SEE THE SIGN",
+      "rating": 54,
+      "trainer": "Des A McLachlan",
+      "starts": 2,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Gareth Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "64",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-18",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 3,
+          "distance": 1600,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 7.6,
+          "wonBy": null,
+          "beaten": [
+            "FATE OF PACE",
+            "DIVINE STATE",
+            "EL DOURO"
+          ],
+          "weight": 53,
+          "jockey": "M Michel",
+          "trainer": "Des A McLachlan",
+          "draw": 9,
+          "sp": "50-1",
+          "oddsDecimal": 51,
+          "time": 97.81,
+          "s800": 48.399,
+          "s400": 23.934,
+          "sDist": 1611.14
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 4.75,
+          "wonBy": null,
+          "beaten": [
+            "AUTUMN RUSH",
+            "CHIHIRO",
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 54,
+          "jockey": "Gareth Wright",
+          "trainer": "Des McLachlan",
+          "draw": 6,
+          "sp": "4/1",
+          "oddsDecimal": 5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 8,
+        "beats": [
+          "FATE OF PACE",
+          "DIVINE STATE",
+          "EL DOURO",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "READY FOR THE ROAD",
+          "BORN TO MASTER",
+          "MASTERONTHEMOON",
+          "O'FELLOW",
+          "BIG DEAL",
+          "FATE OF PACE",
+          "WHO IS SHE",
+          "SPARKLING SKY"
+        ]
+      }
+    },
+    {
+      "key": "SHESGOTCLASS",
+      "name": "SHESGOTCLASS",
+      "rating": 89,
+      "trainer": "Des A McLachlan",
+      "starts": 2,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M Michel",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Grant Van Niekerk",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 50,
+      "lastFive": "62",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-14",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 6,
+          "distance": 1250,
+          "going": null,
+          "classLabel": "Stakes",
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 3.85,
+          "wonBy": null,
+          "beaten": [
+            "GIVE IT LALDY",
+            "IGNITE THE FIRE",
+            "FAST TRAIN"
+          ],
+          "weight": 54.5,
+          "jockey": "M Michel",
+          "trainer": "Des A McLachlan",
+          "draw": 6,
+          "sp": "16-1",
+          "oddsDecimal": 17
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 5,
+          "marginBehindWinner": 4.5,
+          "wonBy": null,
+          "beaten": [
+            "PINK PIGEON",
+            "MISS WILLIAM",
+            "CALL ME SECRET"
+          ],
+          "weight": 57,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 2,
+          "sp": "1/1",
+          "oddsDecimal": 2,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 6,
+        "beats": [
+          "GIVE IT LALDY",
+          "IGNITE THE FIRE",
+          "FAST TRAIN",
+          "PINK PIGEON",
+          "MISS WILLIAM",
+          "CALL ME SECRET"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "CHURCHILLIAN",
+          "HANDSOME PRINCE",
+          "OLIVER",
+          "SPIRIT",
+          "SYMPHONY IN WHITE"
+        ]
+      }
+    },
+    {
+      "key": "SPARKLING SKY",
+      "name": "SPARKLING SKY",
+      "rating": 70,
+      "trainer": "Michelle Rix",
+      "starts": 2,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "M Mjoka",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        },
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 50,
+      "lastFive": "73",
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE",
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-07-25",
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "race": 4,
+          "distance": 2000,
+          "going": null,
+          "classLabel": "Maiden",
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 10.25,
+          "wonBy": null,
+          "beaten": [
+            "ECHO FOXTROT"
+          ],
+          "weight": 60,
+          "jockey": "M Mjoka",
+          "trainer": "Michelle Rix",
+          "draw": 2,
+          "sp": "16-1",
+          "oddsDecimal": 17,
+          "time": 124.96,
+          "s800": 53.314,
+          "s400": 26.821,
+          "sDist": 2006.02
+        },
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 3.25,
+          "wonBy": null,
+          "beaten": [
+            "SEE THE SIGN",
+            "AUTUMN RUSH",
+            "CHIHIRO",
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 60.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 9,
+          "sp": "66/1",
+          "oddsDecimal": 67,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 8,
+        "beats": [
+          "ECHO FOXTROT",
+          "SEE THE SIGN",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "ROYAL CELEB",
+          "O'FELLOW",
+          "QUIET PLACE",
+          "WIZARDING WORLD",
+          "CONDITIONALLY",
+          "UP IN FLAMES",
+          "WHO IS SHE",
+          "FATE OF PACE"
         ]
       }
     },
@@ -9640,69 +11199,6 @@
       }
     },
     {
-      "key": "ARKANSAS STATE",
-      "name": "ARKANSAS STATE",
-      "rating": null,
-      "trainer": "Piet Botha",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "V Jodhee",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "7",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-07",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 4,
-          "distance": 1800,
-          "going": null,
-          "classLabel": "Maiden Plate",
-          "classType": null,
-          "classRank": null,
-          "finish": 7,
-          "field": 9,
-          "marginBehindWinner": 19.05,
-          "wonBy": null,
-          "beaten": [
-            "UNDOUBTED THE BOY",
-            "LADY AMBER"
-          ],
-          "weight": 56.5,
-          "jockey": "V Jodhee",
-          "trainer": "Piet Botha",
-          "draw": 7
-        }
-      ],
-      "h2h": {
-        "wins": 2,
-        "losses": 6,
-        "beats": [
-          "UNDOUBTED THE BOY",
-          "LADY AMBER"
-        ],
-        "losesTo": [
-          "LIEFLING",
-          "WHATWILLBEWILLBE",
-          "UP IN FLAMES",
-          "FREQUENT TRAVELLER",
-          "QUIET PLACE",
-          "ONSSILVERJET"
-        ]
-      }
-    },
-    {
       "key": "AUTOCORRECT",
       "name": "AUTOCORRECT",
       "rating": null,
@@ -9764,6 +11260,77 @@
           "MAGIC ROCK",
           "DARK FORTUNE",
           "WILD STREAK"
+        ]
+      }
+    },
+    {
+      "key": "AUTUMN RUSH",
+      "name": "AUTUMN RUSH",
+      "rating": 68,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Sifisokuhle Bungane",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 5.75,
+          "wonBy": null,
+          "beaten": [
+            "CHIHIRO",
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 56,
+          "jockey": "Sifisokuhle Bungane",
+          "trainer": "Candice Bass",
+          "draw": 7,
+          "sp": "8/1",
+          "oddsDecimal": 9,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "WHO IS SHE",
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN"
         ]
       }
     },
@@ -9892,69 +11459,6 @@
           "CHANCE ENCOUNTER",
           "PHANTOM MAN",
           "BALZI ROSSI"
-        ]
-      }
-    },
-    {
-      "key": "BALZI ROSSI",
-      "name": "BALZI ROSSI",
-      "rating": 72,
-      "trainer": "Vaughan Marshall",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "R Fourie",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "4",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 4,
-          "distance": 2000,
-          "going": null,
-          "classLabel": "Stakes",
-          "classType": null,
-          "classRank": null,
-          "finish": 4,
-          "field": 7,
-          "marginBehindWinner": 4.6,
-          "wonBy": null,
-          "beaten": [
-            "BACKINTHEFASTLANE",
-            "NOBLE HERO"
-          ],
-          "weight": 57,
-          "jockey": "R Fourie",
-          "trainer": "Vaughan Marshall",
-          "draw": 6,
-          "sp": "8-1",
-          "oddsDecimal": 9
-        }
-      ],
-      "h2h": {
-        "wins": 3,
-        "losses": 3,
-        "beats": [
-          "PHANTOM MAN",
-          "BACKINTHEFASTLANE",
-          "NOBLE HERO"
-        ],
-        "losesTo": [
-          "FORT LIAM",
-          "TRIP TO CAMELOT",
-          "CHANCE ENCOUNTER"
         ]
       }
     },
@@ -10907,6 +12411,80 @@
       }
     },
     {
+      "key": "BONELLI",
+      "name": "BONELLI",
+      "rating": 83,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 0.6,
+          "beaten": [
+            "CHANCE ENCOUNTER",
+            "TUNGUSKA",
+            "ERIC LIDDELL",
+            "PRIMAL INSTINCT",
+            "SCOTTISH LINKS",
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 60,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 5,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS",
+          "BALZI ROSSI",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "BURSTURBUBBLE",
       "name": "BURSTURBUBBLE",
       "rating": null,
@@ -11109,6 +12687,67 @@
         ],
         "losesTo": [
           "MORDECHAI"
+        ]
+      }
+    },
+    {
+      "key": "CALL ME SECRET",
+      "name": "CALL ME SECRET",
+      "rating": 102,
+      "trainer": "Lucinda Woodruff",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 5,
+          "marginBehindWinner": 6.55,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Lucinda Woodruff",
+          "draw": 5,
+          "sp": "8/1",
+          "oddsDecimal": 9,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 4,
+        "beats": [],
+        "losesTo": [
+          "SYMPHONY IN WHITE",
+          "SHESGOTCLASS",
+          "PINK PIGEON",
+          "MISS WILLIAM"
         ]
       }
     },
@@ -11461,71 +13100,6 @@
       }
     },
     {
-      "key": "CHANCE ENCOUNTER",
-      "name": "CHANCE ENCOUNTER",
-      "rating": 81,
-      "trainer": "Andre Nel",
-      "starts": 1,
-      "wins": 0,
-      "places": 1,
-      "jockeys": [
-        {
-          "jockey": "M Yeni",
-          "starts": 1,
-          "wins": 0,
-          "places": 1
-        }
-      ],
-      "winPct": 0,
-      "placePct": 100,
-      "lastFive": "3",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 4,
-          "distance": 2000,
-          "going": null,
-          "classLabel": "Stakes",
-          "classType": null,
-          "classRank": null,
-          "finish": 3,
-          "field": 7,
-          "marginBehindWinner": 2.1,
-          "wonBy": null,
-          "beaten": [
-            "PHANTOM MAN",
-            "BALZI ROSSI",
-            "BACKINTHEFASTLANE",
-            "NOBLE HERO"
-          ],
-          "weight": 61.5,
-          "jockey": "M Yeni",
-          "trainer": "Andre Nel",
-          "draw": 1,
-          "sp": "5-2",
-          "oddsDecimal": 3.5
-        }
-      ],
-      "h2h": {
-        "wins": 4,
-        "losses": 2,
-        "beats": [
-          "PHANTOM MAN",
-          "BALZI ROSSI",
-          "BACKINTHEFASTLANE",
-          "NOBLE HERO"
-        ],
-        "losesTo": [
-          "FORT LIAM",
-          "TRIP TO CAMELOT"
-        ]
-      }
-    },
-    {
       "key": "CHAPBOOK",
       "name": "Chapbook",
       "rating": null,
@@ -11788,6 +13362,76 @@
         "losesTo": [
           "Kensal Green",
           "Master Christmas"
+        ]
+      }
+    },
+    {
+      "key": "CHIHIRO",
+      "name": "CHIHIRO",
+      "rating": 60,
+      "trainer": "Lucinda Woodruff",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Oswald Noach",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 6.75,
+          "wonBy": null,
+          "beaten": [
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 54.5,
+          "jockey": "Oswald Noach",
+          "trainer": "Lucinda Woodruff",
+          "draw": 5,
+          "sp": "75/1",
+          "oddsDecimal": 76,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "WHO IS SHE",
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN",
+          "AUTUMN RUSH"
         ]
       }
     },
@@ -13533,69 +15177,77 @@
       }
     },
     {
-      "key": "DUBBELOSIX",
-      "name": "DUBBELOSIX",
-      "rating": 80,
-      "trainer": "James Crawford",
+      "key": "EARN THE WEEKEND",
+      "name": "EARN THE WEEKEND",
+      "rating": null,
+      "trainer": "Piet/Elbert Steyn",
       "starts": 1,
-      "wins": 0,
-      "places": 0,
+      "wins": 1,
+      "places": 1,
       "jockeys": [
         {
-          "jockey": "M Michel",
+          "jockey": "Sean Veale",
           "starts": 1,
-          "wins": 0,
-          "places": 0
+          "wins": 1,
+          "places": 1
         }
       ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "4",
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
       "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
+        "Kenilworth"
       ],
       "runs": [
         {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 8,
-          "distance": 1600,
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
           "going": null,
-          "classLabel": "Stakes",
+          "classLabel": null,
           "classType": null,
           "classRank": null,
-          "finish": 4,
-          "field": 8,
-          "marginBehindWinner": 2.9,
-          "wonBy": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 1.5,
           "beaten": [
-            "IT IS MY TIME",
-            "BILLY BOWLEGS",
-            "ROCKANROLLIN",
-            "BOMBERS IN THE SKY"
+            "VERCICAT",
+            "ONE SPIRIT",
+            "THE CULLINAN",
+            "RUBEE KING",
+            "STEALTH MASTER",
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
           ],
-          "weight": 54,
-          "jockey": "M Michel",
-          "trainer": "James Crawford",
-          "draw": 5,
-          "sp": "14-1",
-          "oddsDecimal": 15
+          "weight": 60,
+          "jockey": "Sean Veale",
+          "trainer": "Piet/Elbert Steyn",
+          "draw": 6,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "h2h": {
-        "wins": 4,
-        "losses": 3,
+        "wins": 8,
+        "losses": 0,
         "beats": [
-          "IT IS MY TIME",
-          "BILLY BOWLEGS",
-          "ROCKANROLLIN",
-          "BOMBERS IN THE SKY"
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
         ],
-        "losesTo": [
-          "SOHO HEARTTHROB",
-          "IN A TIMELY MANNER",
-          "KATSU"
-        ]
+        "losesTo": []
       }
     },
     {
@@ -14276,6 +15928,78 @@
       }
     },
     {
+      "key": "ERIC LIDDELL",
+      "name": "ERIC LIDDELL",
+      "rating": 82,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 4.35,
+          "wonBy": null,
+          "beaten": [
+            "PRIMAL INSTINCT",
+            "SCOTTISH LINKS",
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 60,
+          "jockey": "Craig Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 6,
+          "sp": "7/1",
+          "oddsDecimal": 8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS",
+          "BALZI ROSSI",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "BONELLI",
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA"
+        ]
+      }
+    },
+    {
       "key": "ERIKS GIRL",
       "name": "Erik's Girl",
       "rating": null,
@@ -14858,75 +16582,6 @@
           "REDFORD",
           "STEALTH",
           "BLACKBIRD"
-        ]
-      }
-    },
-    {
-      "key": "FATE OF PACE",
-      "name": "FATE OF PACE",
-      "rating": 58,
-      "trainer": "Des A McLachlan",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "M Mjoka",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "7",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-18",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 3,
-          "distance": 1600,
-          "going": null,
-          "classLabel": "Maiden",
-          "classType": null,
-          "classRank": null,
-          "finish": 7,
-          "field": 9,
-          "marginBehindWinner": 10.1,
-          "wonBy": null,
-          "beaten": [
-            "DIVINE STATE",
-            "EL DOURO"
-          ],
-          "weight": 53,
-          "jockey": "M Mjoka",
-          "trainer": "Des A McLachlan",
-          "draw": 2,
-          "sp": "25-1",
-          "oddsDecimal": 26,
-          "time": 98.22,
-          "s800": 49.331,
-          "s400": 24.625,
-          "sDist": 1606.74
-        }
-      ],
-      "h2h": {
-        "wins": 2,
-        "losses": 6,
-        "beats": [
-          "DIVINE STATE",
-          "EL DOURO"
-        ],
-        "losesTo": [
-          "READY FOR THE ROAD",
-          "BORN TO MASTER",
-          "MASTERONTHEMOON",
-          "O'FELLOW",
-          "BIG DEAL",
-          "SEE THE SIGN"
         ]
       }
     },
@@ -15741,6 +17396,80 @@
       }
     },
     {
+      "key": "GALLIC DREAM",
+      "name": "GALLIC DREAM",
+      "rating": 102,
+      "trainer": "Eric Sands",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Gareth Wright",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 2,
+          "wonBy": null,
+          "beaten": [
+            "TENPENNY",
+            "VIVA'S LIBERTE",
+            "LEGAL COUNSEL",
+            "POMP IT UP",
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 55,
+          "jockey": "Gareth Wright",
+          "trainer": "Eric Sands",
+          "draw": 8,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE"
+        ]
+      }
+    },
+    {
       "key": "GEM KING",
       "name": "GEM KING",
       "rating": 110,
@@ -15999,16 +17728,16 @@
       }
     },
     {
-      "key": "GIVE IT LALDY",
-      "name": "GIVE IT LALDY",
-      "rating": 89,
-      "trainer": "Lucinda Woodruff",
+      "key": "GIVE ME EVERYTHING",
+      "name": "GIVE ME EVERYTHING",
+      "rating": 106,
+      "trainer": "Dean Kannemeyer",
       "starts": 1,
       "wins": 0,
       "places": 0,
       "jockeys": [
         {
-          "jockey": "G Lerena",
+          "jockey": "Craig Zackey",
           "starts": 1,
           "wins": 0,
           "places": 0
@@ -16016,50 +17745,54 @@
       ],
       "winPct": 0,
       "placePct": 0,
-      "lastFive": "7",
+      "lastFive": "5",
       "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
+        "Kenilworth"
       ],
       "runs": [
         {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
+          "date": "2026-04-06",
+          "track": "Kenilworth",
           "race": 6,
-          "distance": 1250,
+          "distance": null,
           "going": null,
-          "classLabel": "Stakes",
+          "classLabel": null,
           "classType": null,
           "classRank": null,
-          "finish": 7,
-          "field": 9,
-          "marginBehindWinner": 5.1,
+          "finish": 5,
+          "field": 8,
+          "marginBehindWinner": 4.25,
           "wonBy": null,
           "beaten": [
-            "IGNITE THE FIRE",
-            "FAST TRAIN"
+            "KINDA WONDERFUL",
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
           ],
-          "weight": 57,
-          "jockey": "G Lerena",
-          "trainer": "Lucinda Woodruff",
-          "draw": 1,
-          "sp": "5-4",
-          "oddsDecimal": 2.25
+          "weight": 60,
+          "jockey": "Craig Zackey",
+          "trainer": "Dean Kannemeyer",
+          "draw": 8,
+          "sp": "33/1",
+          "oddsDecimal": 34,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "h2h": {
-        "wins": 2,
-        "losses": 6,
+        "wins": 3,
+        "losses": 4,
         "beats": [
-          "IGNITE THE FIRE",
-          "FAST TRAIN"
+          "KINDA WONDERFUL",
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
         ],
         "losesTo": [
-          "OBJET D ART",
-          "CHURCHILLIAN",
-          "HANDSOME PRINCE",
-          "OLIVER",
-          "SPIRIT",
-          "SHESGOTCLASS"
+          "QUEEN REGENT",
+          "ROCCAPINA",
+          "VIVA LA VIDA",
+          "STORMWATCH"
         ]
       }
     },
@@ -18159,6 +19892,80 @@
       }
     },
     {
+      "key": "JET FORCE",
+      "name": "JET FORCE",
+      "rating": 117,
+      "trainer": "Des McLachlan",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Grant Van Niekerk",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 2,
+          "beaten": [
+            "GALLIC DREAM",
+            "TENPENNY",
+            "VIVA'S LIBERTE",
+            "LEGAL COUNSEL",
+            "POMP IT UP",
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 57,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 4,
+          "sp": "17/10",
+          "oddsDecimal": 2.7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "JOUEUR DE FLUTE",
       "name": "JOUEUR DE FLUTE",
       "rating": 67,
@@ -18464,73 +20271,6 @@
       }
     },
     {
-      "key": "KATSU",
-      "name": "KATSU",
-      "rating": 81,
-      "trainer": "Lucinda Woodruff",
-      "starts": 1,
-      "wins": 0,
-      "places": 1,
-      "jockeys": [
-        {
-          "jockey": "E J Muller",
-          "starts": 1,
-          "wins": 0,
-          "places": 1
-        }
-      ],
-      "winPct": 0,
-      "placePct": 100,
-      "lastFive": "3",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 8,
-          "distance": 1600,
-          "going": null,
-          "classLabel": "Stakes",
-          "classType": null,
-          "classRank": null,
-          "finish": 3,
-          "field": 8,
-          "marginBehindWinner": 2.4,
-          "wonBy": null,
-          "beaten": [
-            "DUBBELOSIX",
-            "IT IS MY TIME",
-            "BILLY BOWLEGS",
-            "ROCKANROLLIN",
-            "BOMBERS IN THE SKY"
-          ],
-          "weight": 54,
-          "jockey": "E J Muller",
-          "trainer": "Lucinda Woodruff",
-          "draw": 6,
-          "sp": "25-2",
-          "oddsDecimal": 13.5
-        }
-      ],
-      "h2h": {
-        "wins": 5,
-        "losses": 2,
-        "beats": [
-          "DUBBELOSIX",
-          "IT IS MY TIME",
-          "BILLY BOWLEGS",
-          "ROCKANROLLIN",
-          "BOMBERS IN THE SKY"
-        ],
-        "losesTo": [
-          "SOHO HEARTTHROB",
-          "IN A TIMELY MANNER"
-        ]
-      }
-    },
-    {
       "key": "KELP FOREST",
       "name": "KELP FOREST",
       "rating": 81,
@@ -18730,6 +20470,143 @@
           "SCANDALIZE",
           "ROCK THE ROAD",
           "LOVE HER MADLY"
+        ]
+      }
+    },
+    {
+      "key": "KINDA WONDERFUL",
+      "name": "KINDA WONDERFUL",
+      "rating": 108,
+      "trainer": "Eric Sands",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 8,
+          "marginBehindWinner": 4.45,
+          "wonBy": null,
+          "beaten": [
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
+          ],
+          "weight": 60,
+          "jockey": "Callan Murray",
+          "trainer": "Eric Sands",
+          "draw": 2,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 5,
+        "beats": [
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
+        ],
+        "losesTo": [
+          "QUEEN REGENT",
+          "ROCCAPINA",
+          "VIVA LA VIDA",
+          "STORMWATCH",
+          "GIVE ME EVERYTHING"
+        ]
+      }
+    },
+    {
+      "key": "KING OF FATE",
+      "name": "KING OF FATE",
+      "rating": null,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 5.2,
+          "wonBy": null,
+          "beaten": [
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 3,
+          "sp": "20/1",
+          "oddsDecimal": 21,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER"
         ]
       }
     },
@@ -19020,6 +20897,76 @@
       }
     },
     {
+      "key": "LA PULGA",
+      "name": "LA PULGA",
+      "rating": 95,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 7,
+          "marginBehindWinner": 0,
+          "wonBy": 3,
+          "beaten": [
+            "KATSU",
+            "RED DAWN",
+            "TIME FOR LOVE",
+            "PINOT GRIGIO",
+            "SHERIFF JOHN STONE",
+            "DUBBELOSIX"
+          ],
+          "weight": 60,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 7,
+          "sp": "9/4",
+          "oddsDecimal": 3.25,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 0,
+        "beats": [
+          "KATSU",
+          "RED DAWN",
+          "TIME FOR LOVE",
+          "PINOT GRIGIO",
+          "SHERIFF JOHN STONE",
+          "DUBBELOSIX"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "LADY AMBER",
       "name": "LADY AMBER",
       "rating": null,
@@ -19075,6 +21022,76 @@
           "ONSSILVERJET",
           "ARKANSAS STATE",
           "UNDOUBTED THE BOY"
+        ]
+      }
+    },
+    {
+      "key": "LADY LOOK ALIKE",
+      "name": "LADY LOOK ALIKE",
+      "rating": 77,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 5.15,
+          "wonBy": null,
+          "beaten": [
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 57.5,
+          "jockey": "Callan Murray",
+          "trainer": "James Crawford",
+          "draw": 4,
+          "sp": "25/2",
+          "oddsDecimal": 13.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY",
+          "NAVASEVEN",
+          "ONE LINER"
         ]
       }
     },
@@ -19485,6 +21502,77 @@
           "Glastonbury Fire",
           "Spicy Plum",
           "Campo Formio"
+        ]
+      }
+    },
+    {
+      "key": "LEGAL COUNSEL",
+      "name": "LEGAL COUNSEL",
+      "rating": 128,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 2.55,
+          "wonBy": null,
+          "beaten": [
+            "POMP IT UP",
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 60,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Justin Snaith",
+          "draw": 3,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE"
         ]
       }
     },
@@ -20251,6 +22339,71 @@
           "LE TISSIER",
           "LANDMAN",
           "SICILY"
+        ]
+      }
+    },
+    {
+      "key": "MAGIC VERSE",
+      "name": "MAGIC VERSE",
+      "rating": 115,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Richard Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 7.75,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "Richard Fourie",
+          "trainer": "Justin Snaith",
+          "draw": 6,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE"
         ]
       }
     },
@@ -21565,78 +23718,6 @@
       }
     },
     {
-      "key": "MISS WILLIAM",
-      "name": "MISS WILLIAM",
-      "rating": 82,
-      "trainer": "James Crawford",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "G Wright",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "4",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-25",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 7,
-          "distance": 1250,
-          "going": null,
-          "classLabel": null,
-          "classType": null,
-          "classRank": null,
-          "finish": 4,
-          "field": 9,
-          "marginBehindWinner": 2.5,
-          "wonBy": null,
-          "beaten": [
-            "STAR WORLD",
-            "BLUE LAGOON",
-            "ALL IS GREEN",
-            "MALIBU BLITZ",
-            "GIRL LIKE US"
-          ],
-          "weight": 60,
-          "jockey": "G Wright",
-          "trainer": "James Crawford",
-          "draw": 2,
-          "sp": "20-1",
-          "oddsDecimal": 21,
-          "time": 76.92,
-          "s800": 48.562,
-          "s400": 23.878,
-          "sDist": 1268.89
-        }
-      ],
-      "h2h": {
-        "wins": 5,
-        "losses": 3,
-        "beats": [
-          "STAR WORLD",
-          "BLUE LAGOON",
-          "ALL IS GREEN",
-          "MALIBU BLITZ",
-          "GIRL LIKE US"
-        ],
-        "losesTo": [
-          "CLIFFSCAPE",
-          "MY ONLY WEAKNESS",
-          "WYZE DECLARATION"
-        ]
-      }
-    },
-    {
       "key": "MISTER ED",
       "name": "MISTER ED",
       "rating": null,
@@ -22103,6 +24184,146 @@
       }
     },
     {
+      "key": "NAVASEVEN",
+      "name": "NAVASEVEN",
+      "rating": 77,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Eduan Muller",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 4.25,
+          "wonBy": null,
+          "beaten": [
+            "ONE LINER",
+            "LADY LOOK ALIKE",
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 51.5,
+          "jockey": "Eduan Muller",
+          "trainer": "Justin Snaith",
+          "draw": 5,
+          "sp": "50/1",
+          "oddsDecimal": 51,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY"
+        ]
+      }
+    },
+    {
+      "key": "NICCIS LAW",
+      "name": "NICCI'S LAW",
+      "rating": 66,
+      "trainer": "Greg Ennion",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 8.55,
+          "wonBy": null,
+          "beaten": [
+            "WORLD VICTORY"
+          ],
+          "weight": 57.5,
+          "jockey": "Craig Zackey",
+          "trainer": "Greg Ennion",
+          "draw": 8,
+          "sp": "6/1",
+          "oddsDecimal": 7,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "WORLD VICTORY"
+        ],
+        "losesTo": [
+          "WHO IS SHE",
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE"
+        ]
+      }
+    },
+    {
       "key": "NIGHT FEVER",
       "name": "NIGHT FEVER",
       "rating": null,
@@ -22235,73 +24456,77 @@
       }
     },
     {
-      "key": "OBJET D ART",
-      "name": "OBJET D ART",
-      "rating": 94,
-      "trainer": "Adam Marcus",
+      "key": "OCTOBER STORM",
+      "name": "OCTOBER STORM",
+      "rating": 85,
+      "trainer": "Vaughan Marshall",
       "starts": 1,
-      "wins": 1,
+      "wins": 0,
       "places": 1,
       "jockeys": [
         {
-          "jockey": "C Zackey",
+          "jockey": "Richard Fourie",
           "starts": 1,
-          "wins": 1,
+          "wins": 0,
           "places": 1
         }
       ],
-      "winPct": 100,
+      "winPct": 0,
       "placePct": 100,
-      "lastFive": "1",
+      "lastFive": "2",
       "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
+        "Kenilworth"
       ],
       "runs": [
         {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 6,
-          "distance": 1250,
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
           "going": null,
-          "classLabel": "Stakes",
+          "classLabel": null,
           "classType": null,
           "classRank": null,
-          "finish": 1,
+          "finish": 2,
           "field": 9,
-          "marginBehindWinner": 0,
-          "wonBy": 0.05,
+          "marginBehindWinner": 2.5,
+          "wonBy": null,
           "beaten": [
-            "CHURCHILLIAN",
-            "HANDSOME PRINCE",
-            "OLIVER",
-            "SPIRIT",
-            "SHESGOTCLASS",
             "GIVE IT LALDY",
-            "IGNITE THE FIRE",
-            "FAST TRAIN"
+            "NAVASEVEN",
+            "ONE LINER",
+            "LADY LOOK ALIKE",
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
           ],
-          "weight": 58.5,
-          "jockey": "C Zackey",
-          "trainer": "Adam Marcus",
-          "draw": 8,
-          "sp": "4-1",
-          "oddsDecimal": 5
+          "weight": 59.5,
+          "jockey": "Richard Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 6,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "h2h": {
-        "wins": 8,
-        "losses": 0,
+        "wins": 7,
+        "losses": 1,
         "beats": [
-          "CHURCHILLIAN",
-          "HANDSOME PRINCE",
-          "OLIVER",
-          "SPIRIT",
-          "SHESGOTCLASS",
           "GIVE IT LALDY",
-          "IGNITE THE FIRE",
-          "FAST TRAIN"
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
         ],
-        "losesTo": []
+        "losesTo": [
+          "OBJET D ART"
+        ]
       }
     },
     {
@@ -22431,6 +24656,150 @@
           "OBJET D ART",
           "CHURCHILLIAN",
           "HANDSOME PRINCE"
+        ]
+      }
+    },
+    {
+      "key": "ONE LINER",
+      "name": "ONE LINER",
+      "rating": 88,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 4.75,
+          "wonBy": null,
+          "beaten": [
+            "LADY LOOK ALIKE",
+            "IN MOTION",
+            "RATTLESNAKE",
+            "STREET OUTLAW"
+          ],
+          "weight": 63,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 9,
+          "sp": "11/2",
+          "oddsDecimal": 6.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE",
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY",
+          "NAVASEVEN"
+        ]
+      }
+    },
+    {
+      "key": "ONE SPIRIT",
+      "name": "ONE SPIRIT",
+      "rating": null,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Oswald Noach",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 1.7,
+          "wonBy": null,
+          "beaten": [
+            "THE CULLINAN",
+            "RUBEE KING",
+            "STEALTH MASTER",
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Oswald Noach",
+          "trainer": "Vaughan Marshall",
+          "draw": 2,
+          "sp": "28/10",
+          "oddsDecimal": 3.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT"
         ]
       }
     },
@@ -22647,6 +25016,75 @@
         ],
         "losesTo": [
           "WORLD OF SECRETS"
+        ]
+      }
+    },
+    {
+      "key": "OTTO LUYKEN",
+      "name": "OTTO LUYKEN",
+      "rating": 116,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 9,
+          "marginBehindWinner": 3.8,
+          "wonBy": null,
+          "beaten": [
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 58.5,
+          "jockey": "Callan Murray",
+          "trainer": "James Crawford",
+          "draw": 5,
+          "sp": "50/1",
+          "oddsDecimal": 51,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 6,
+        "beats": [
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP"
         ]
       }
     },
@@ -23039,6 +25477,74 @@
       }
     },
     {
+      "key": "PAY THE PALACE",
+      "name": "PAY THE PALACE",
+      "rating": 104,
+      "trainer": "Piet/Elbert Steyn",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Sean Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 4,
+          "wonBy": null,
+          "beaten": [
+            "MAGIC VERSE"
+          ],
+          "weight": 53,
+          "jockey": "Sean Veale",
+          "trainer": "Piet/Elbert Steyn",
+          "draw": 7,
+          "sp": "20/1",
+          "oddsDecimal": 21,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN"
+        ]
+      }
+    },
+    {
       "key": "PEACE GARLAND",
       "name": "PEACE GARLAND",
       "rating": null,
@@ -23377,6 +25883,138 @@
       }
     },
     {
+      "key": "PINK PIGEON",
+      "name": "PINK PIGEON",
+      "rating": 97,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Richard Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 5,
+          "marginBehindWinner": 5.5,
+          "wonBy": null,
+          "beaten": [
+            "MISS WILLIAM",
+            "CALL ME SECRET"
+          ],
+          "weight": 60,
+          "jockey": "Richard Fourie",
+          "trainer": "Justin Snaith",
+          "draw": 1,
+          "sp": "3/1",
+          "oddsDecimal": 4,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 2,
+        "beats": [
+          "MISS WILLIAM",
+          "CALL ME SECRET"
+        ],
+        "losesTo": [
+          "SYMPHONY IN WHITE",
+          "SHESGOTCLASS"
+        ]
+      }
+    },
+    {
+      "key": "PINOT GRIGIO",
+      "name": "PINOT GRIGIO",
+      "rating": 93,
+      "trainer": "Ricky Maingard",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 7,
+          "marginBehindWinner": 8.15,
+          "wonBy": null,
+          "beaten": [
+            "SHERIFF JOHN STONE",
+            "DUBBELOSIX"
+          ],
+          "weight": 58.5,
+          "jockey": "Craig Zackey",
+          "trainer": "Ricky Maingard",
+          "draw": 1,
+          "sp": "4/1",
+          "oddsDecimal": 5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 2,
+        "losses": 4,
+        "beats": [
+          "SHERIFF JOHN STONE",
+          "DUBBELOSIX"
+        ],
+        "losesTo": [
+          "LA PULGA",
+          "KATSU",
+          "RED DAWN",
+          "TIME FOR LOVE"
+        ]
+      }
+    },
+    {
       "key": "PISTOL PETE",
       "name": "PISTOL PETE",
       "rating": 119,
@@ -23648,6 +26286,147 @@
         ],
         "losesTo": [
           "Whatsdamatterwithu"
+        ]
+      }
+    },
+    {
+      "key": "POMP IT UP",
+      "name": "POMP IT UP",
+      "rating": 95,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Muzi Yeni",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 3.05,
+          "wonBy": null,
+          "beaten": [
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 52,
+          "jockey": "Muzi Yeni",
+          "trainer": "Justin Snaith",
+          "draw": 9,
+          "sp": "25/1",
+          "oddsDecimal": 26,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY",
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL"
+        ]
+      }
+    },
+    {
+      "key": "PRIMAL INSTINCT",
+      "name": "PRIMAL INSTINCT",
+      "rating": 78,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Sean Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 4.4,
+          "wonBy": null,
+          "beaten": [
+            "SCOTTISH LINKS",
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 57,
+          "jockey": "Sean Veale",
+          "trainer": "Justin Snaith",
+          "draw": 1,
+          "sp": "7/1",
+          "oddsDecimal": 8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "SCOTTISH LINKS",
+          "BALZI ROSSI",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "BONELLI",
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA",
+          "ERIC LIDDELL"
         ]
       }
     },
@@ -24095,6 +26874,78 @@
       }
     },
     {
+      "key": "QUEEN REGENT",
+      "name": "QUEEN REGENT",
+      "rating": 94,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 8,
+          "marginBehindWinner": 0,
+          "wonBy": 1,
+          "beaten": [
+            "ROCCAPINA",
+            "VIVA LA VIDA",
+            "STORMWATCH",
+            "GIVE ME EVERYTHING",
+            "KINDA WONDERFUL",
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
+          ],
+          "weight": 53.5,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Justin Snaith",
+          "draw": 4,
+          "sp": "28/10",
+          "oddsDecimal": 3.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 0,
+        "beats": [
+          "ROCCAPINA",
+          "VIVA LA VIDA",
+          "STORMWATCH",
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL",
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "RACHETTU",
       "name": "RACHETTU",
       "rating": 72,
@@ -24228,6 +27079,74 @@
           "Snowblade",
           "Angle Of Attack",
           "Hartree"
+        ]
+      }
+    },
+    {
+      "key": "RATTLESNAKE",
+      "name": "RATTLESNAKE",
+      "rating": 85,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 9,
+          "marginBehindWinner": 5.95,
+          "wonBy": null,
+          "beaten": [
+            "STREET OUTLAW"
+          ],
+          "weight": 61.5,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 1,
+          "sp": "3/1",
+          "oddsDecimal": 4,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 7,
+        "beats": [
+          "STREET OUTLAW"
+        ],
+        "losesTo": [
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY",
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION"
         ]
       }
     },
@@ -24372,71 +27291,6 @@
           "MARITZBURG MEMORY",
           "SAACHI ONE",
           "OCTOBER FEST"
-        ]
-      }
-    },
-    {
-      "key": "RED DAWN",
-      "name": "RED DAWN",
-      "rating": null,
-      "trainer": "Candice Bass",
-      "starts": 1,
-      "wins": 0,
-      "places": 1,
-      "jockeys": [
-        {
-          "jockey": "A Domeyer",
-          "starts": 1,
-          "wins": 0,
-          "places": 1
-        }
-      ],
-      "winPct": 0,
-      "placePct": 100,
-      "lastFive": "3",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-07",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 6,
-          "distance": 1600,
-          "going": null,
-          "classLabel": null,
-          "classType": null,
-          "classRank": null,
-          "finish": 3,
-          "field": 8,
-          "marginBehindWinner": 1,
-          "wonBy": null,
-          "beaten": [
-            "SUPERHERO",
-            "MIDWAY",
-            "GOLD INDEX",
-            "DISTRICT MASTER",
-            "SMART HORSE"
-          ],
-          "weight": 61.5,
-          "jockey": "A Domeyer",
-          "trainer": "Candice Bass",
-          "draw": 3
-        }
-      ],
-      "h2h": {
-        "wins": 5,
-        "losses": 2,
-        "beats": [
-          "SUPERHERO",
-          "MIDWAY",
-          "GOLD INDEX",
-          "DISTRICT MASTER",
-          "SMART HORSE"
-        ],
-        "losesTo": [
-          "BATON ROUGE",
-          "DEVIL A SAINT"
         ]
       }
     },
@@ -25080,6 +27934,78 @@
       }
     },
     {
+      "key": "ROCCAPINA",
+      "name": "ROCCAPINA",
+      "rating": 109,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 8,
+          "marginBehindWinner": 1,
+          "wonBy": null,
+          "beaten": [
+            "VIVA LA VIDA",
+            "STORMWATCH",
+            "GIVE ME EVERYTHING",
+            "KINDA WONDERFUL",
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
+          ],
+          "weight": 58.5,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 5,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 1,
+        "beats": [
+          "VIVA LA VIDA",
+          "STORMWATCH",
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL",
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
+        ],
+        "losesTo": [
+          "QUEEN REGENT"
+        ]
+      }
+    },
+    {
       "key": "ROCK THE ROAD",
       "name": "ROCK THE ROAD",
       "rating": null,
@@ -25482,6 +28408,77 @@
           "JULIET OF VERONA",
           "RED FLAG",
           "SABRE WING"
+        ]
+      }
+    },
+    {
+      "key": "RUBEE KING",
+      "name": "RUBEE KING",
+      "rating": null,
+      "trainer": "Des McLachlan",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Grant Van Niekerk",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "5",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 5,
+          "field": 9,
+          "marginBehindWinner": 1.95,
+          "wonBy": null,
+          "beaten": [
+            "STEALTH MASTER",
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Des McLachlan",
+          "draw": 4,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 4,
+        "beats": [
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN"
         ]
       }
     },
@@ -26019,6 +29016,73 @@
       }
     },
     {
+      "key": "SCARLET MACAW",
+      "name": "SCARLET MACAW",
+      "rating": 107,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "7",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 7,
+          "field": 8,
+          "marginBehindWinner": 5.7,
+          "wonBy": null,
+          "beaten": [
+            "WILD APPLAUSE"
+          ],
+          "weight": 58.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Candice Bass",
+          "draw": 1,
+          "sp": "7/1",
+          "oddsDecimal": 8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 1,
+        "losses": 6,
+        "beats": [
+          "WILD APPLAUSE"
+        ],
+        "losesTo": [
+          "QUEEN REGENT",
+          "ROCCAPINA",
+          "VIVA LA VIDA",
+          "STORMWATCH",
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL"
+        ]
+      }
+    },
+    {
       "key": "SCARLETT HEART",
       "name": "Scarlett Heart",
       "rating": null,
@@ -26142,6 +29206,76 @@
       }
     },
     {
+      "key": "SCOTTISH LINKS",
+      "name": "SCOTTISH LINKS",
+      "rating": 70,
+      "trainer": "Patrick Kruyer",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 4.8,
+          "wonBy": null,
+          "beaten": [
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 57,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Patrick Kruyer",
+          "draw": 3,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "BALZI ROSSI",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "BONELLI",
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT"
+        ]
+      }
+    },
+    {
       "key": "SECRET FATE",
       "name": "Secret Fate",
       "rating": null,
@@ -26198,76 +29332,6 @@
           "Within Reach",
           "Queen Leila",
           "Impressive"
-        ]
-      }
-    },
-    {
-      "key": "SEE THE SIGN",
-      "name": "SEE THE SIGN",
-      "rating": 49,
-      "trainer": "Des A McLachlan",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "M Michel",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "6",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-18",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 3,
-          "distance": 1600,
-          "going": null,
-          "classLabel": "Maiden",
-          "classType": null,
-          "classRank": null,
-          "finish": 6,
-          "field": 9,
-          "marginBehindWinner": 7.6,
-          "wonBy": null,
-          "beaten": [
-            "FATE OF PACE",
-            "DIVINE STATE",
-            "EL DOURO"
-          ],
-          "weight": 53,
-          "jockey": "M Michel",
-          "trainer": "Des A McLachlan",
-          "draw": 9,
-          "sp": "50-1",
-          "oddsDecimal": 51,
-          "time": 97.81,
-          "s800": 48.399,
-          "s400": 23.934,
-          "sDist": 1611.14
-        }
-      ],
-      "h2h": {
-        "wins": 3,
-        "losses": 5,
-        "beats": [
-          "FATE OF PACE",
-          "DIVINE STATE",
-          "EL DOURO"
-        ],
-        "losesTo": [
-          "READY FOR THE ROAD",
-          "BORN TO MASTER",
-          "MASTERONTHEMOON",
-          "O'FELLOW",
-          "BIG DEAL"
         ]
       }
     },
@@ -26480,16 +29544,16 @@
       }
     },
     {
-      "key": "SHESGOTCLASS",
-      "name": "SHESGOTCLASS",
-      "rating": 89,
-      "trainer": "Des A McLachlan",
+      "key": "SHERIFF JOHN STONE",
+      "name": "SHERIFF JOHN STONE",
+      "rating": 88,
+      "trainer": "Patrick Kruyer",
       "starts": 1,
       "wins": 0,
       "places": 0,
       "jockeys": [
         {
-          "jockey": "M Michel",
+          "jockey": "Grant Van Niekerk",
           "starts": 1,
           "wins": 0,
           "places": 0
@@ -26499,49 +29563,114 @@
       "placePct": 0,
       "lastFive": "6",
       "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
+        "Kenilworth"
       ],
       "runs": [
         {
-          "date": "2026-07-14",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 6,
-          "distance": 1250,
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
           "going": null,
-          "classLabel": "Stakes",
+          "classLabel": null,
           "classType": null,
           "classRank": null,
           "finish": 6,
-          "field": 9,
-          "marginBehindWinner": 3.85,
+          "field": 7,
+          "marginBehindWinner": 8.65,
           "wonBy": null,
           "beaten": [
-            "GIVE IT LALDY",
-            "IGNITE THE FIRE",
-            "FAST TRAIN"
+            "DUBBELOSIX"
           ],
-          "weight": 54.5,
-          "jockey": "M Michel",
-          "trainer": "Des A McLachlan",
-          "draw": 6,
-          "sp": "16-1",
-          "oddsDecimal": 17
+          "weight": 57,
+          "jockey": "Grant Van Niekerk",
+          "trainer": "Patrick Kruyer",
+          "draw": 3,
+          "sp": "9/2",
+          "oddsDecimal": 5.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
         }
       ],
       "h2h": {
-        "wins": 3,
+        "wins": 1,
         "losses": 5,
         "beats": [
-          "GIVE IT LALDY",
-          "IGNITE THE FIRE",
-          "FAST TRAIN"
+          "DUBBELOSIX"
         ],
         "losesTo": [
-          "OBJET D ART",
-          "CHURCHILLIAN",
-          "HANDSOME PRINCE",
-          "OLIVER",
-          "SPIRIT"
+          "LA PULGA",
+          "KATSU",
+          "RED DAWN",
+          "TIME FOR LOVE",
+          "PINOT GRIGIO"
+        ]
+      }
+    },
+    {
+      "key": "SHESHELEZA",
+      "name": "SHESHELEZA",
+      "rating": null,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Richard Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 7.7,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 60,
+          "jockey": "Richard Fourie",
+          "trainer": "Vaughan Marshall",
+          "draw": 9,
+          "sp": "5/1",
+          "oddsDecimal": 6,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC"
         ]
       }
     },
@@ -27696,73 +30825,6 @@
       }
     },
     {
-      "key": "SPARKLING SKY",
-      "name": "SPARKLING SKY",
-      "rating": 70,
-      "trainer": "Michelle Rix",
-      "starts": 1,
-      "wins": 0,
-      "places": 0,
-      "jockeys": [
-        {
-          "jockey": "M Mjoka",
-          "starts": 1,
-          "wins": 0,
-          "places": 0
-        }
-      ],
-      "winPct": 0,
-      "placePct": 0,
-      "lastFive": "7",
-      "tracks": [
-        "HOLLYWOODBETS DURBANVILLE"
-      ],
-      "runs": [
-        {
-          "date": "2026-07-25",
-          "track": "HOLLYWOODBETS DURBANVILLE",
-          "race": 4,
-          "distance": 2000,
-          "going": null,
-          "classLabel": "Maiden",
-          "classType": null,
-          "classRank": null,
-          "finish": 7,
-          "field": 8,
-          "marginBehindWinner": 10.25,
-          "wonBy": null,
-          "beaten": [
-            "ECHO FOXTROT"
-          ],
-          "weight": 60,
-          "jockey": "M Mjoka",
-          "trainer": "Michelle Rix",
-          "draw": 2,
-          "sp": "16-1",
-          "oddsDecimal": 17,
-          "time": 124.96,
-          "s800": 53.314,
-          "s400": 26.821,
-          "sDist": 2006.02
-        }
-      ],
-      "h2h": {
-        "wins": 1,
-        "losses": 6,
-        "beats": [
-          "ECHO FOXTROT"
-        ],
-        "losesTo": [
-          "ROYAL CELEB",
-          "O'FELLOW",
-          "QUIET PLACE",
-          "WIZARDING WORLD",
-          "CONDITIONALLY",
-          "UP IN FLAMES"
-        ]
-      }
-    },
-    {
       "key": "SPARKLING STAR",
       "name": "SPARKLING STAR",
       "rating": null,
@@ -28527,6 +31589,211 @@
       }
     },
     {
+      "key": "STEALTH MASTER",
+      "name": "STEALTH MASTER",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "6",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 6,
+          "field": 9,
+          "marginBehindWinner": 4.7,
+          "wonBy": null,
+          "beaten": [
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Craig Zackey",
+          "trainer": "Justin Snaith",
+          "draw": 7,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 5,
+        "beats": [
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING"
+        ]
+      }
+    },
+    {
+      "key": "STORMWATCH",
+      "name": "STORMWATCH",
+      "rating": 109,
+      "trainer": "Eric Sands",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Richard Fourie",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 8,
+          "marginBehindWinner": 3.25,
+          "wonBy": null,
+          "beaten": [
+            "GIVE ME EVERYTHING",
+            "KINDA WONDERFUL",
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
+          ],
+          "weight": 56,
+          "jockey": "Richard Fourie",
+          "trainer": "Eric Sands",
+          "draw": 6,
+          "sp": "18/10",
+          "oddsDecimal": 2.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 3,
+        "beats": [
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL",
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
+        ],
+        "losesTo": [
+          "QUEEN REGENT",
+          "ROCCAPINA",
+          "VIVA LA VIDA"
+        ]
+      }
+    },
+    {
+      "key": "STREET OUTLAW",
+      "name": "STREET OUTLAW",
+      "rating": 78,
+      "trainer": "Ricky Maingard",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Varun Jodhee",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 8,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 7.2,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 54,
+          "jockey": "Varun Jodhee",
+          "trainer": "Ricky Maingard",
+          "draw": 2,
+          "sp": "11/2",
+          "oddsDecimal": 6.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "OBJET D ART",
+          "OCTOBER STORM",
+          "GIVE IT LALDY",
+          "NAVASEVEN",
+          "ONE LINER",
+          "LADY LOOK ALIKE",
+          "IN MOTION",
+          "RATTLESNAKE"
+        ]
+      }
+    },
+    {
       "key": "SUMMER SUNSHINE",
       "name": "SUMMER SUNSHINE",
       "rating": null,
@@ -29063,6 +32330,72 @@
       }
     },
     {
+      "key": "SYMPHONY IN WHITE",
+      "name": "SYMPHONY IN WHITE",
+      "rating": 103,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 2,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 5,
+          "marginBehindWinner": 0,
+          "wonBy": 4.5,
+          "beaten": [
+            "SHESGOTCLASS",
+            "PINK PIGEON",
+            "MISS WILLIAM",
+            "CALL ME SECRET"
+          ],
+          "weight": 62,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Candice Bass",
+          "draw": 4,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 4,
+        "losses": 0,
+        "beats": [
+          "SHESGOTCLASS",
+          "PINK PIGEON",
+          "MISS WILLIAM",
+          "CALL ME SECRET"
+        ],
+        "losesTo": []
+      }
+    },
+    {
       "key": "TAG AND RELEASE",
       "name": "TAG AND RELEASE",
       "rating": null,
@@ -29350,6 +32683,151 @@
         "losesTo": [
           "DANCE VARIETY",
           "SARDINIA BAY"
+        ]
+      }
+    },
+    {
+      "key": "TENPENNY",
+      "name": "TENPENNY",
+      "rating": 105,
+      "trainer": "Patrick Kruyer",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Juan Paul V'D Merwe",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 2.4,
+          "wonBy": null,
+          "beaten": [
+            "VIVA'S LIBERTE",
+            "LEGAL COUNSEL",
+            "POMP IT UP",
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 56,
+          "jockey": "Juan Paul V'D Merwe",
+          "trainer": "Patrick Kruyer",
+          "draw": 2,
+          "sp": "8/1",
+          "oddsDecimal": 9,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "VIVA'S LIBERTE",
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM"
+        ]
+      }
+    },
+    {
+      "key": "THE CULLINAN",
+      "name": "THE CULLINAN",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Aldo Domeyer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 1.75,
+          "wonBy": null,
+          "beaten": [
+            "RUBEE KING",
+            "STEALTH MASTER",
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Aldo Domeyer",
+          "trainer": "Justin Snaith",
+          "draw": 1,
+          "sp": "7/2",
+          "oddsDecimal": 4.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND",
+          "VERCICAT",
+          "ONE SPIRIT"
         ]
       }
     },
@@ -29744,6 +33222,74 @@
           "NORTH POINT",
           "CHURCHILLIAN",
           "GEM KING"
+        ]
+      }
+    },
+    {
+      "key": "TIME FOR LOVE",
+      "name": "TIME FOR LOVE",
+      "rating": 105,
+      "trainer": "Michelle Rix",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 4,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 7,
+          "marginBehindWinner": 7.75,
+          "wonBy": null,
+          "beaten": [
+            "PINOT GRIGIO",
+            "SHERIFF JOHN STONE",
+            "DUBBELOSIX"
+          ],
+          "weight": 60.5,
+          "jockey": "Corne Orffer",
+          "trainer": "Michelle Rix",
+          "draw": 6,
+          "sp": "15/2",
+          "oddsDecimal": 8.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 3,
+        "losses": 3,
+        "beats": [
+          "PINOT GRIGIO",
+          "SHERIFF JOHN STONE",
+          "DUBBELOSIX"
+        ],
+        "losesTo": [
+          "LA PULGA",
+          "KATSU",
+          "RED DAWN"
         ]
       }
     },
@@ -30204,6 +33750,144 @@
       }
     },
     {
+      "key": "TUNGUSKA",
+      "name": "TUNGUSKA",
+      "rating": 69,
+      "trainer": "Ricky Maingard",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Corne Orffer",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 9,
+          "marginBehindWinner": 1.85,
+          "wonBy": null,
+          "beaten": [
+            "ERIC LIDDELL",
+            "PRIMAL INSTINCT",
+            "SCOTTISH LINKS",
+            "BALZI ROSSI",
+            "NOBLE HERO",
+            "TWILIGHT WARRIOR"
+          ],
+          "weight": 57,
+          "jockey": "Corne Orffer",
+          "trainer": "Ricky Maingard",
+          "draw": 7,
+          "sp": "10/1",
+          "oddsDecimal": 11,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 6,
+        "losses": 2,
+        "beats": [
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS",
+          "BALZI ROSSI",
+          "NOBLE HERO",
+          "TWILIGHT WARRIOR"
+        ],
+        "losesTo": [
+          "BONELLI",
+          "CHANCE ENCOUNTER"
+        ]
+      }
+    },
+    {
+      "key": "TWILIGHT WARRIOR",
+      "name": "TWILIGHT WARRIOR",
+      "rating": 68,
+      "trainer": "Lucinda Woodruff",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Oswald Noach",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 5,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 8.6,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 55.5,
+          "jockey": "Oswald Noach",
+          "trainer": "Lucinda Woodruff",
+          "draw": 8,
+          "sp": "16/1",
+          "oddsDecimal": 17,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "BONELLI",
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA",
+          "ERIC LIDDELL",
+          "PRIMAL INSTINCT",
+          "SCOTTISH LINKS",
+          "BALZI ROSSI",
+          "NOBLE HERO"
+        ]
+      }
+    },
+    {
       "key": "TYPICALLY FRENCH",
       "name": "TYPICALLY FRENCH",
       "rating": null,
@@ -30576,6 +34260,80 @@
       }
     },
     {
+      "key": "VERCICAT",
+      "name": "VERCICAT",
+      "rating": null,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Muzi Yeni",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "2",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 1,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 2,
+          "field": 9,
+          "marginBehindWinner": 1.5,
+          "wonBy": null,
+          "beaten": [
+            "ONE SPIRIT",
+            "THE CULLINAN",
+            "RUBEE KING",
+            "STEALTH MASTER",
+            "KING OF FATE",
+            "HAVOC",
+            "SHESHELEZA"
+          ],
+          "weight": 60,
+          "jockey": "Muzi Yeni",
+          "trainer": "Justin Snaith",
+          "draw": 5,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 7,
+        "losses": 1,
+        "beats": [
+          "ONE SPIRIT",
+          "THE CULLINAN",
+          "RUBEE KING",
+          "STEALTH MASTER",
+          "KING OF FATE",
+          "HAVOC",
+          "SHESHELEZA"
+        ],
+        "losesTo": [
+          "EARN THE WEEKEND"
+        ]
+      }
+    },
+    {
       "key": "VERSE FOR SUZANNE",
       "name": "VERSE FOR SUZANNE",
       "rating": null,
@@ -30922,6 +34680,149 @@
           "PLATINUM GREY",
           "EDICTAL CITATION",
           "SCOTLAND YARD"
+        ]
+      }
+    },
+    {
+      "key": "VIVA LA VIDA",
+      "name": "VIVA LA VIDA",
+      "rating": 92,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Sean Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 1
+        }
+      ],
+      "winPct": 0,
+      "placePct": 100,
+      "lastFive": "3",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 3,
+          "field": 8,
+          "marginBehindWinner": 2.75,
+          "wonBy": null,
+          "beaten": [
+            "STORMWATCH",
+            "GIVE ME EVERYTHING",
+            "KINDA WONDERFUL",
+            "SCARLET MACAW",
+            "WILD APPLAUSE"
+          ],
+          "weight": 53.5,
+          "jockey": "Sean Veale",
+          "trainer": "Vaughan Marshall",
+          "draw": 3,
+          "sp": "20/1",
+          "oddsDecimal": 21,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 2,
+        "beats": [
+          "STORMWATCH",
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL",
+          "SCARLET MACAW",
+          "WILD APPLAUSE"
+        ],
+        "losesTo": [
+          "QUEEN REGENT",
+          "ROCCAPINA"
+        ]
+      }
+    },
+    {
+      "key": "VIVAS LIBERTE",
+      "name": "VIVA'S LIBERTE",
+      "rating": 114,
+      "trainer": "Candice Bass",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Craig Zackey",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "4",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 7,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 4,
+          "field": 9,
+          "marginBehindWinner": 2.45,
+          "wonBy": null,
+          "beaten": [
+            "LEGAL COUNSEL",
+            "POMP IT UP",
+            "OTTO LUYKEN",
+            "PAY THE PALACE",
+            "MAGIC VERSE"
+          ],
+          "weight": 54,
+          "jockey": "Craig Zackey",
+          "trainer": "Candice Bass",
+          "draw": 1,
+          "sp": "28/10",
+          "oddsDecimal": 3.8,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 5,
+        "losses": 3,
+        "beats": [
+          "LEGAL COUNSEL",
+          "POMP IT UP",
+          "OTTO LUYKEN",
+          "PAY THE PALACE",
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "JET FORCE",
+          "GALLIC DREAM",
+          "TENPENNY"
         ]
       }
     },
@@ -31626,6 +35527,144 @@
       }
     },
     {
+      "key": "WHO IS SHE",
+      "name": "WHO IS SHE",
+      "rating": 74,
+      "trainer": "James Crawford",
+      "starts": 1,
+      "wins": 1,
+      "places": 1,
+      "jockeys": [
+        {
+          "jockey": "Callan Murray",
+          "starts": 1,
+          "wins": 1,
+          "places": 1
+        }
+      ],
+      "winPct": 100,
+      "placePct": 100,
+      "lastFive": "1",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 1,
+          "field": 9,
+          "marginBehindWinner": 0,
+          "wonBy": 2,
+          "beaten": [
+            "FATE OF PACE",
+            "SPARKLING SKY",
+            "SEE THE SIGN",
+            "AUTUMN RUSH",
+            "CHIHIRO",
+            "ARKANSAS STATE",
+            "NICCI'S LAW",
+            "WORLD VICTORY"
+          ],
+          "weight": 61.5,
+          "jockey": "Callan Murray",
+          "trainer": "James Crawford",
+          "draw": 2,
+          "sp": "15/10",
+          "oddsDecimal": 2.5,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 8,
+        "losses": 0,
+        "beats": [
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW",
+          "WORLD VICTORY"
+        ],
+        "losesTo": []
+      }
+    },
+    {
+      "key": "WILD APPLAUSE",
+      "name": "WILD APPLAUSE",
+      "rating": 86,
+      "trainer": "Justin Snaith",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Muzi Yeni",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "8",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 6,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 8,
+          "field": 8,
+          "marginBehindWinner": 8.95,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 56,
+          "jockey": "Muzi Yeni",
+          "trainer": "Justin Snaith",
+          "draw": 7,
+          "sp": "33/1",
+          "oddsDecimal": 34,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 7,
+        "beats": [],
+        "losesTo": [
+          "QUEEN REGENT",
+          "ROCCAPINA",
+          "VIVA LA VIDA",
+          "STORMWATCH",
+          "GIVE ME EVERYTHING",
+          "KINDA WONDERFUL",
+          "SCARLET MACAW"
+        ]
+      }
+    },
+    {
       "key": "WILD INTENT",
       "name": "Wild Intent",
       "rating": null,
@@ -32213,6 +36252,71 @@
           "GLAMOUR GIRL"
         ],
         "losesTo": []
+      }
+    },
+    {
+      "key": "WORLD VICTORY",
+      "name": "WORLD VICTORY",
+      "rating": 60,
+      "trainer": "Vaughan Marshall",
+      "starts": 1,
+      "wins": 0,
+      "places": 0,
+      "jockeys": [
+        {
+          "jockey": "Sean Veale",
+          "starts": 1,
+          "wins": 0,
+          "places": 0
+        }
+      ],
+      "winPct": 0,
+      "placePct": 0,
+      "lastFive": "9",
+      "tracks": [
+        "Kenilworth"
+      ],
+      "runs": [
+        {
+          "date": "2026-04-06",
+          "track": "Kenilworth",
+          "race": 3,
+          "distance": null,
+          "going": null,
+          "classLabel": null,
+          "classType": null,
+          "classRank": null,
+          "finish": 9,
+          "field": 9,
+          "marginBehindWinner": 11.3,
+          "wonBy": null,
+          "beaten": [],
+          "weight": 54.5,
+          "jockey": "Sean Veale",
+          "trainer": "Vaughan Marshall",
+          "draw": 1,
+          "sp": "14/1",
+          "oddsDecimal": 15,
+          "time": null,
+          "s800": null,
+          "s400": null,
+          "sDist": null
+        }
+      ],
+      "h2h": {
+        "wins": 0,
+        "losses": 8,
+        "beats": [],
+        "losesTo": [
+          "WHO IS SHE",
+          "FATE OF PACE",
+          "SPARKLING SKY",
+          "SEE THE SIGN",
+          "AUTUMN RUSH",
+          "CHIHIRO",
+          "ARKANSAS STATE",
+          "NICCI'S LAW"
+        ]
       }
     },
     {

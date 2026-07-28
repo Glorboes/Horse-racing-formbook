@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:22:02.445Z",
+  "generated": "2026-07-28T19:24:30.701Z",
   "days": {
     "2026-03-30": {
       "bankers": [
@@ -618,6 +618,317 @@
             "time": null,
             "selection": "MARCUS AURELIUS",
             "prob": 33.7
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-04-06": {
+      "bankers": [
+        {
+          "race": 8,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "OBJET D' ART",
+          "pWin": 31.4,
+          "pPlace": 73.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "TIME FOR LOVE",
+          "pWin": 30.6,
+          "pPlace": 55,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SYMPHONY IN WHITE",
+          "pWin": 29.5,
+          "pPlace": 56.6,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0284,
+          "combinedPct": 2.8,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 31.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TIME FOR LOVE",
+              "prob": 30.6
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SYMPHONY IN WHITE",
+              "prob": 29.5
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0081,
+          "combinedPct": 0.8,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 31.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TIME FOR LOVE",
+              "prob": 30.6
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SYMPHONY IN WHITE",
+              "prob": 29.5
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 28.6
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0021,
+          "combinedPct": 0.2,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 31.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TIME FOR LOVE",
+              "prob": 30.6
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SYMPHONY IN WHITE",
+              "prob": 29.5
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 28.6
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WHO IS SHE",
+              "prob": 26.2
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.2197,
+          "combinedPct": 22,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 73.3
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 71.1
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WHO IS SHE",
+              "prob": 65.2
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LEGAL COUNSEL",
+              "prob": 64.6
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.1332,
+          "combinedPct": 13.3,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 73.3
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 71.1
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WHO IS SHE",
+              "prob": 65.2
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LEGAL COUNSEL",
+              "prob": 64.6
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BONELLI",
+              "prob": 60.6
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.0754,
+          "combinedPct": 7.5,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 73.3
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 71.1
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WHO IS SHE",
+              "prob": 65.2
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LEGAL COUNSEL",
+              "prob": 64.6
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BONELLI",
+              "prob": 60.6
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SYMPHONY IN WHITE",
+              "prob": 56.6
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0284,
+        "combinedPct": 2.8,
+        "confidence": "longshot",
+        "selections": [
+          {
+            "race": 8,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "OBJET D' ART",
+            "prob": 31.4
+          },
+          {
+            "race": 4,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "TIME FOR LOVE",
+            "prob": 30.6
+          },
+          {
+            "race": 2,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SYMPHONY IN WHITE",
+            "prob": 29.5
           }
         ]
       },
