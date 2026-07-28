@@ -1,6 +1,1250 @@
 {
-  "generated": "2026-07-28T20:24:08.692Z",
+  "generated": "2026-07-28T21:00:22.090Z",
   "days": {
+    "2026-02-04": {
+      "bankers": [
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "THREE TIGERS",
+          "pWin": 48.5,
+          "pPlace": 81,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "STARTING POINT",
+          "pWin": 31.4,
+          "pPlace": 72.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 5,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "STORMWATCH",
+          "pWin": 30.3,
+          "pPlace": 73.5,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0463,
+          "combinedPct": 4.6,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 48.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 31.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0132,
+          "combinedPct": 1.3,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 48.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 31.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ALLTHEBOYSIVELOVED",
+              "prob": 28.4
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0037,
+          "combinedPct": 0.4,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 48.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 31.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ALLTHEBOYSIVELOVED",
+              "prob": 28.4
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "EDUCATOR",
+              "prob": 28.2
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.2992,
+          "combinedPct": 29.9,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 81
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 73.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 72.6
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ALLTHEBOYSIVELOVED",
+              "prob": 69.3
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.1859,
+          "combinedPct": 18.6,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 81
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 73.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 72.6
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ALLTHEBOYSIVELOVED",
+              "prob": 69.3
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 62.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.1148,
+          "combinedPct": 11.5,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THREE TIGERS",
+              "prob": 81
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 73.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STARTING POINT",
+              "prob": 72.6
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ALLTHEBOYSIVELOVED",
+              "prob": 69.3
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 62.1
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PARENTAL GUIDANCE",
+              "prob": 61.7
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0463,
+        "combinedPct": 4.6,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "THREE TIGERS",
+            "prob": 48.5
+          },
+          {
+            "race": 3,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "STARTING POINT",
+            "prob": 31.4
+          },
+          {
+            "race": 5,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "STORMWATCH",
+            "prob": 30.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-02-22": {
+      "bankers": [
+        {
+          "race": 10,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "CANTONA",
+          "pWin": 72,
+          "pPlace": 98.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "FAST TRAIN",
+          "pWin": 68.1,
+          "pPlace": 97.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 9,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "BLACK EAGLE",
+          "pWin": 54.8,
+          "pPlace": 93.9,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.2687,
+          "combinedPct": 26.9,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 72
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 68.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 54.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.1411,
+          "combinedPct": 14.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 72
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 68.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 54.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE HER MADLY",
+              "prob": 52.5
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0428,
+          "combinedPct": 4.3,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 72
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 68.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 54.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE HER MADLY",
+              "prob": 52.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NORDIC CHIEF",
+              "prob": 30.3
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8738,
+          "combinedPct": 87.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 97.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE HER MADLY",
+              "prob": 97.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 93.9
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.6279,
+          "combinedPct": 62.8,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 97.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE HER MADLY",
+              "prob": 97.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 93.9
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NORDIC CHIEF",
+              "prob": 71.9
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.4342,
+          "combinedPct": 43.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CANTONA",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FAST TRAIN",
+              "prob": 97.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE HER MADLY",
+              "prob": 97.1
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BLACK EAGLE",
+              "prob": 93.9
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NORDIC CHIEF",
+              "prob": 71.9
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FERRYMAN",
+              "prob": 69.2
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.2687,
+        "combinedPct": 26.9,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 10,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "CANTONA",
+            "prob": 72
+          },
+          {
+            "race": 3,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "FAST TRAIN",
+            "prob": 68.1
+          },
+          {
+            "race": 9,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "BLACK EAGLE",
+            "prob": 54.8
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-02-25": {
+      "bankers": [
+        {
+          "race": 2,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "HEDRIVESMECRAZY",
+          "pWin": 55.8,
+          "pPlace": 94.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "CELTIC CHIEF",
+          "pWin": 49.3,
+          "pPlace": 89.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 8,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "MEG'S LEGACY",
+          "pWin": 46.8,
+          "pPlace": 89.3,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.1286,
+          "combinedPct": 12.9,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 55.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 49.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 46.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0456,
+          "combinedPct": 4.6,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 55.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 49.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 46.8
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ELEGANT NOBLE",
+              "prob": 35.5
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0152,
+          "combinedPct": 1.5,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 55.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 49.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 46.8
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ELEGANT NOBLE",
+              "prob": 35.5
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 33.3
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.5619,
+          "combinedPct": 56.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 94.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 89.9
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 89.3
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 74
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.3748,
+          "combinedPct": 37.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 94.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 89.9
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 89.3
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 74
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LITTLE NIMBUS",
+              "prob": 66.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.2384,
+          "combinedPct": 23.8,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HEDRIVESMECRAZY",
+              "prob": 94.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CELTIC CHIEF",
+              "prob": 89.9
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MEG'S LEGACY",
+              "prob": 89.3
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WINTER PIRATE",
+              "prob": 74
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LITTLE NIMBUS",
+              "prob": 66.7
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ELEGANT NOBLE",
+              "prob": 63.6
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.1286,
+        "combinedPct": 12.9,
+        "confidence": "fair",
+        "selections": [
+          {
+            "race": 2,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "HEDRIVESMECRAZY",
+            "prob": 55.8
+          },
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "CELTIC CHIEF",
+            "prob": 49.3
+          },
+          {
+            "race": 8,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "MEG'S LEGACY",
+            "prob": 46.8
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-02-28": {
+      "bankers": [
+        {
+          "race": 4,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "WORLD SERIES",
+          "pWin": 80.8,
+          "pPlace": 99.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 6,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "STORMWATCH",
+          "pWin": 80.7,
+          "pPlace": 99.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 5,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "BEACH VERSE",
+          "pWin": 67.3,
+          "pPlace": 93,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.4385,
+          "combinedPct": 43.9,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 80.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 80.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 67.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.2772,
+          "combinedPct": 27.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 80.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 80.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 67.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 63.2
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.1478,
+          "combinedPct": 14.8,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 80.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 80.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 67.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 63.2
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TENPENNY",
+              "prob": 53.3
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8915,
+          "combinedPct": 89.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 99.6
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 99.6
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 96.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 93
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.8264,
+          "combinedPct": 82.6,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 99.6
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 99.6
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 96.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 93
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WISH LIST",
+              "prob": 92.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.6454,
+          "combinedPct": 64.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STORMWATCH",
+              "prob": 99.6
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WORLD SERIES",
+              "prob": 99.6
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUIET PLACE",
+              "prob": 96.7
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BEACH VERSE",
+              "prob": 93
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "WISH LIST",
+              "prob": 92.7
+            },
+            {
+              "race": 10,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TRIP TO CAMELOT",
+              "prob": 78.1
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.4385,
+        "combinedPct": 43.9,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 4,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "WORLD SERIES",
+            "prob": 80.8
+          },
+          {
+            "race": 6,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "STORMWATCH",
+            "prob": 80.7
+          },
+          {
+            "race": 5,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "BEACH VERSE",
+            "prob": 67.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
     "2026-03-30": {
       "bankers": [
         {

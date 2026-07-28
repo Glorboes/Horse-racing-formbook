@@ -1,0 +1,1371 @@
+{
+  "id": "2026-02-22-kenilworth-r6",
+  "date": "2026-02-22",
+  "track": "Kenilworth",
+  "race": 6,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:20.676Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "ROCKANROLLIN (AUS)",
+      "key": "ROCKANROLLIN",
+      "draw": 3,
+      "rating": 81,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "weight": 62,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.608,
+        "trainer": 0.511,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.82,
+        "trainer": 2.55,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 1,
+        "places": 2,
+        "winPct": 33,
+        "placePct": 67,
+        "record": "1-3"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 3,
+        "winPct": 11,
+        "record": "1-9"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 81); 33%-strike jockey booked; drawn 3 — a handy low draw.",
+        "Against it: top-weight (62kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 81)",
+        "33%-strike jockey booked",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (62kg)",
+        "patchy recent form"
+      ],
+      "rank": 1,
+      "pWin": 0.2402,
+      "pPlace": 0.6163,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "draw": 5,
+      "rating": 80,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.966,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.511,
+        "trainer": 0.522,
+        "weight": 0.053,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 15.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.53,
+        "trainer": 2.61,
+        "weight": 0.32,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "1-9"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 2,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 80); 11%-strike jockey booked; stable in form (13%).",
+        "Against it: patchy recent form; top-weight (61.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 80)",
+        "11%-strike jockey booked",
+        "stable in form (13%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (61.5kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.2,
+      "pPlace": 0.5486,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KEBONALESEDI",
+      "key": "KEBONALESEDI",
+      "draw": 1,
+      "rating": 69,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.586,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.633,
+        "weight": 0.263,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.38,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 3.17,
+        "weight": 1.58,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; in-form stable.",
+        "Against it: patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "in-form stable"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 3,
+      "pWin": 0.1173,
+      "pPlace": 0.3653,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DISTRICT MASTER",
+      "key": "DISTRICT MASTER",
+      "draw": 2,
+      "rating": 68,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Des McLachlan",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.552,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.454,
+        "trainer": 0.454,
+        "weight": 0.316,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.83,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 1.36,
+        "trainer": 2.27,
+        "weight": 1.89,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.0884,
+      "pPlace": 0.286,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "draw": 7,
+      "rating": 69,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.586,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.467,
+        "trainer": 0.482,
+        "weight": 0.263,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.38,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 1.4,
+        "trainer": 2.41,
+        "weight": 1.58,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0736,
+      "pPlace": 0.2425,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FIRINGONALLENGINES",
+      "key": "FIRINGONALLENGINES",
+      "draw": 8,
+      "rating": 71,
+      "jockey": "Chad Little",
+      "trainer": "Michelle Rix",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.655,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.418,
+        "trainer": 0.433,
+        "weight": 0.158,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.48,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 1.25,
+        "trainer": 2.17,
+        "weight": 0.95,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0712,
+      "pPlace": 0.2353,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "draw": 6,
+      "rating": 66,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.483,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.425,
+        "trainer": 0.443,
+        "weight": 0.421,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.72,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.27,
+        "trainer": 2.21,
+        "weight": 2.53,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 7,
+      "pWin": 0.0644,
+      "pPlace": 0.2146,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIMMEATHRILL",
+      "key": "GIMMEATHRILL",
+      "draw": 10,
+      "rating": 73,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.3,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.724,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.55,
+        "trainer": 0.616,
+        "weight": 0.053,
+        "headToHead": 0.5,
+        "recencyMargin": 0.417
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 11.59,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.3,
+        "jockey": 1.65,
+        "trainer": 3.08,
+        "weight": 0.32,
+        "headToHead": 6,
+        "recencyMargin": 5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 2,
+        "places": 4,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: 17%-strike jockey booked; stable in form (22%); well-rated (MR 73).",
+        "Against it: patchy recent form; drawn wide (10)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "draw"
+      ],
+      "_strReasons": [
+        "17%-strike jockey booked",
+        "stable in form (22%)",
+        "well-rated (MR 73)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "drawn wide (10)"
+      ],
+      "rank": 8,
+      "pWin": 0.0563,
+      "pPlace": 0.1896,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THE NIGHT FERRY",
+      "key": "THE NIGHT FERRY",
+      "draw": 9,
+      "rating": 63,
+      "jockey": "Rene Piechulek",
+      "trainer": "H J Brown",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.379,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.579,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.07,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 1.4,
+        "trainer": 2.5,
+        "weight": 3.47,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-2"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 56.5kg.",
+        "Against it: patchy recent form; lower-rated (MR 63).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 56.5kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 63)"
+      ],
+      "rank": 9,
+      "pWin": 0.0527,
+      "pPlace": 0.1781,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TYPICALLY FRENCH",
+      "key": "TYPICALLY FRENCH",
+      "draw": 4,
+      "rating": 52,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Paul Reeves",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.5,
+        "trainer": 0.443,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.1,
+        "jockey": 1.5,
+        "trainer": 2.21,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (52.5kg).",
+        "Against it: lower-rated (MR 52); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 52)",
+        "patchy recent form"
+      ],
+      "rank": 10,
+      "pWin": 0.0359,
+      "pPlace": 0.1237,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "ROCKANROLLIN (AUS)",
+      "rank": 1,
+      "score": 55,
+      "rating": 81,
+      "draw": 3,
+      "weight": 62,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.608,
+        "trainer": 0.511,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MAN OF CONSEQUENCE",
+      "rank": 2,
+      "score": 53.9,
+      "rating": 80,
+      "draw": 5,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.966,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.511,
+        "trainer": 0.522,
+        "weight": 0.053,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KEBONALESEDI",
+      "rank": 3,
+      "score": 50.7,
+      "rating": 69,
+      "draw": 1,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.586,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.633,
+        "weight": 0.263,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DISTRICT MASTER",
+      "rank": 4,
+      "score": 49,
+      "rating": 68,
+      "draw": 2,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Des McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.552,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.454,
+        "trainer": 0.454,
+        "weight": 0.316,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WINTER PEARL",
+      "rank": 5,
+      "score": 47.9,
+      "rating": 69,
+      "draw": 7,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.586,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.467,
+        "trainer": 0.482,
+        "weight": 0.263,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FIRINGONALLENGINES",
+      "rank": 6,
+      "score": 47.7,
+      "rating": 71,
+      "draw": 8,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.655,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.418,
+        "trainer": 0.433,
+        "weight": 0.158,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "NOON DAY GUN",
+      "rank": 7,
+      "score": 47.1,
+      "rating": 66,
+      "draw": 6,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.483,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.425,
+        "trainer": 0.443,
+        "weight": 0.421,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GIMMEATHRILL",
+      "rank": 8,
+      "score": 46.3,
+      "rating": 73,
+      "draw": 10,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.724,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.55,
+        "trainer": 0.616,
+        "weight": 0.053,
+        "headToHead": 0.5,
+        "recencyMargin": 0.417
+      }
+    },
+    {
+      "no": null,
+      "name": "THE NIGHT FERRY",
+      "rank": 9,
+      "score": 45.9,
+      "rating": 63,
+      "draw": 9,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Rene Piechulek",
+      "trainer": "H J Brown",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.379,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.467,
+        "trainer": 0.5,
+        "weight": 0.579,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TYPICALLY FRENCH",
+      "rank": 10,
+      "score": 43.6,
+      "rating": 52,
+      "draw": 4,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.5,
+        "trainer": 0.443,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "DISTRICT MASTER",
+      "key": "DISTRICT MASTER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KEBONALESEDI",
+      "key": "KEBONALESEDI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THE NIGHT FERRY",
+      "key": "THE NIGHT FERRY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TYPICALLY FRENCH",
+      "key": "TYPICALLY FRENCH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROCKANROLLIN (AUS)",
+      "key": "ROCKANROLLIN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FIRINGONALLENGINES",
+      "key": "FIRINGONALLENGINES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIMMEATHRILL",
+      "key": "GIMMEATHRILL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "DISTRICT MASTER",
+  "places": 3
+}

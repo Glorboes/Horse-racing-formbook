@@ -1,0 +1,820 @@
+{
+  "id": "2026-02-04-kenilworth-r8",
+  "date": "2026-02-04",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:19.378Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "EDUCATOR",
+      "key": "EDUCATOR",
+      "draw": 6,
+      "rating": 96,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 96).",
+        "Against it: carries 57kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 96)"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 1,
+      "pWin": 0.2817,
+      "pPlace": 0.5196,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "UKUDUMA",
+      "key": "UKUDUMA",
+      "draw": 7,
+      "rating": 95,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.941,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 15.06,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 95).",
+        "Against it: carries 57kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 95)"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 2,
+      "pWin": 0.2194,
+      "pPlace": 0.429,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "draw": 3,
+      "rating": 93,
+      "jockey": "Serino Moodley",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.824,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.18,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1422,
+      "pPlace": 0.2945,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEACH VERSE",
+      "key": "BEACH VERSE",
+      "draw": 1,
+      "rating": 85,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.353,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.65,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (52.5kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (52.5kg)"
+      ],
+      "_conReasons": [],
+      "rank": 4,
+      "pWin": 0.1266,
+      "pPlace": 0.2648,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KATTEKWAADKWADRAAD",
+      "key": "KATTEKWAADKWADRAAD",
+      "draw": 5,
+      "rating": 87,
+      "jockey": "Andrew Fortune",
+      "trainer": "James Crawford",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.471,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.867,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.53,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 5.2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 5,
+      "pWin": 0.1126,
+      "pPlace": 0.2376,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOOZY SUSIE",
+      "key": "BOOZY SUSIE",
+      "draw": 2,
+      "rating": 83,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.235,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.933,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.76,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 5.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 83).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 83)"
+      ],
+      "rank": 6,
+      "pWin": 0.0794,
+      "pPlace": 0.1707,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROSE WOOTT (AUS)",
+      "key": "ROSE WOOTT",
+      "draw": 4,
+      "rating": 79,
+      "jockey": "Muzi Yeni",
+      "trainer": "Andre Nel",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (52.5kg).",
+        "Against it: lower-rated (MR 79).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 79)"
+      ],
+      "rank": 7,
+      "pWin": 0.0381,
+      "pPlace": 0.0838,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "EDUCATOR",
+      "rank": 1,
+      "score": 55.5,
+      "rating": 96,
+      "draw": 6,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "UKUDUMA",
+      "rank": 2,
+      "score": 54,
+      "rating": 95,
+      "draw": 7,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.941,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KAMCHATKA",
+      "rank": 3,
+      "score": 51.4,
+      "rating": 93,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.824,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEACH VERSE",
+      "rank": 4,
+      "score": 50.7,
+      "rating": 85,
+      "draw": 1,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.353,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KATTEKWAADKWADRAAD",
+      "rank": 5,
+      "score": 50,
+      "rating": 87,
+      "draw": 5,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.471,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.867,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BOOZY SUSIE",
+      "rank": 6,
+      "score": 47.9,
+      "rating": 83,
+      "draw": 2,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.235,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.933,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ROSE WOOTT (AUS)",
+      "rank": 7,
+      "score": 43.5,
+      "rating": 79,
+      "draw": 4,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "ROSE WOOTT (AUS)",
+      "key": "ROSE WOOTT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEACH VERSE",
+      "key": "BEACH VERSE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KATTEKWAADKWADRAAD",
+      "key": "KATTEKWAADKWADRAAD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "UKUDUMA",
+      "key": "UKUDUMA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BOOZY SUSIE",
+      "key": "BOOZY SUSIE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "EDUCATOR",
+      "key": "EDUCATOR",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "ROSE WOOTT (AUS)",
+  "places": 2
+}

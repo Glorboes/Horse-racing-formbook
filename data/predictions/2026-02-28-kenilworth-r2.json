@@ -1,0 +1,553 @@
+{
+  "id": "2026-02-28-kenilworth-r2",
+  "date": "2026-02-28",
+  "track": "Kenilworth",
+  "race": 2,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:21.733Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "TENPENNY",
+      "key": "TENPENNY",
+      "draw": 1,
+      "rating": 103,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.487,
+        "trainer": 0.559,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.46,
+        "trainer": 2.79,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 3,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 3,
+        "places": 9,
+        "winPct": 15,
+        "placePct": 45,
+        "record": "3-20"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 2,
+        "places": 4,
+        "winPct": 29,
+        "record": "2-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 103); drawn 1 — a handy low draw; stable in form (29%).",
+        "Against it: top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 103)",
+        "drawn 1 — a handy low draw",
+        "stable in form (29%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.5334,
+      "pPlace": null,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LANDOFTHERISINGSUN",
+      "key": "LANDOFTHERISINGSUN",
+      "draw": 2,
+      "rating": 99,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Justin Snaith",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.81,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.58,
+        "trainer": 0.44,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.95,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.74,
+        "trainer": 2.2,
+        "weight": 1.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 4,
+        "winPct": 30,
+        "placePct": 40,
+        "record": "3-10"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 3,
+        "places": 8,
+        "winPct": 10,
+        "record": "3-30"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Jockey Grant Van Niekerk in form (30% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.3401,
+      "pPlace": null,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ERIC LIDDELL",
+      "key": "ERIC LIDDELL",
+      "draw": 3,
+      "rating": 82,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.44,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.5,
+        "trainer": 2.2,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 3,
+        "places": 8,
+        "winPct": 10,
+        "record": "3-30"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (54kg).",
+        "Against it: lower-rated (MR 82).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 82)"
+      ],
+      "rank": 3,
+      "pWin": 0.0653,
+      "pPlace": null,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GENTLEMAN JOE",
+      "key": "GENTLEMAN JOE",
+      "draw": 4,
+      "rating": 83,
+      "jockey": "Richard Fourie",
+      "trainer": "Andre Nel",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.048,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.535,
+        "trainer": 0.428,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0.76,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.61,
+        "trainer": 2.14,
+        "weight": 5.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 5,
+        "places": 13,
+        "winPct": 21,
+        "placePct": 54,
+        "record": "5-24"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "record": "1-15"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: stable out of form.",
+        "Jockey Richard Fourie in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0611,
+      "pPlace": null,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "TENPENNY",
+      "rank": 1,
+      "score": 55.5,
+      "rating": 103,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.487,
+        "trainer": 0.559,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LANDOFTHERISINGSUN",
+      "rank": 2,
+      "score": 52.8,
+      "rating": 99,
+      "draw": 2,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.81,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.58,
+        "trainer": 0.44,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ERIC LIDDELL",
+      "rank": 3,
+      "score": 42.9,
+      "rating": 82,
+      "draw": 3,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.44,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GENTLEMAN JOE",
+      "rank": 4,
+      "score": 42.5,
+      "rating": 83,
+      "draw": 4,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.048,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.535,
+        "trainer": 0.428,
+        "weight": 0.917,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TENPENNY",
+      "key": "TENPENNY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANDOFTHERISINGSUN",
+      "key": "LANDOFTHERISINGSUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GENTLEMAN JOE",
+      "key": "GENTLEMAN JOE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ERIC LIDDELL",
+      "key": "ERIC LIDDELL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "TENPENNY",
+  "places": 0
+}

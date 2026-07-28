@@ -1,0 +1,1433 @@
+{
+  "id": "2026-02-22-kenilworth-r4",
+  "date": "2026-02-22",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:20.629Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "LOVE HER MADLY",
+      "key": "LOVE HER MADLY",
+      "draw": 3,
+      "rating": 75,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 75.8,
+      "factors": {
+        "form": 0.9,
+        "rating": 0.968,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.425,
+        "trainer": 0.443,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.933
+      },
+      "contrib": {
+        "form": 16.2,
+        "rating": 15.48,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.27,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 11.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "STARTING POINT",
+          "MISS SMILEY",
+          "FIRST KISS"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.80L into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-6"
+      },
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.80L into 2nd last start — right there.",
+        "Why it can win: strong recent form; has beaten STARTING POINT, MISS SMILEY; hitting the line hard lately.",
+        "Against it: top-weight (60kg); lightly-supported jockey booking.",
+        "Has beaten STARTING POINT, MISS SMILEY, FIRST KISS before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten STARTING POINT, MISS SMILEY",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 1,
+      "pWin": 0.5252,
+      "pPlace": 0.9709,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "STARTING POINT",
+      "key": "STARTING POINT",
+      "draw": 4,
+      "rating": 74,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.1,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.935,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.511,
+        "trainer": 0.616,
+        "weight": 0,
+        "headToHead": 0.774,
+        "recencyMargin": 0.908
+      },
+      "contrib": {
+        "form": 14.4,
+        "rating": 14.97,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.1,
+        "jockey": 1.53,
+        "trainer": 3.08,
+        "weight": 0,
+        "headToHead": 9.29,
+        "recencyMargin": 10.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "MISS SMILEY",
+          "FIRST KISS"
+        ],
+        "losesTo": [
+          "LOVE HER MADLY"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1.10L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "1-9"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 2,
+        "places": 4,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.10L into 3rd last start — right there.",
+        "Why it can win: strong recent form; 11%-strike jockey booked; stable in form (22%).",
+        "Against it: top-weight (60kg).",
+        "Has beaten MISS SMILEY, FIRST KISS before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "11%-strike jockey booked",
+        "stable in form (22%)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.24,
+      "pPlace": 0.8777,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SWIFT SERENITY",
+      "key": "SWIFT SERENITY",
+      "draw": 5,
+      "rating": 76,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 69.3,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.706,
+        "recencyMargin": 0.929
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.4,
+        "trainer": 2.17,
+        "weight": 0,
+        "headToHead": 8.47,
+        "recencyMargin": 11.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "WALK RIGHT IN"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.85L into 3rd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 50,
+        "record": "0-2"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.85L into 3rd last start — right there.",
+        "Why it can win: top-rated in the field (MR 76); hitting the line hard lately; strong recent form.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Has beaten WALK RIGHT IN before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "recencyMargin",
+        "form"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 76)",
+        "hitting the line hard lately",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1778,
+      "pPlace": 0.8114,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MISS SMILEY",
+      "key": "MISS SMILEY",
+      "draw": 7,
+      "rating": 69,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.3,
+      "factors": {
+        "form": 0.6,
+        "rating": 0.774,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.454,
+        "trainer": 0.535,
+        "weight": 0,
+        "headToHead": 0.448,
+        "recencyMargin": 0.688
+      },
+      "contrib": {
+        "form": 10.8,
+        "rating": 12.39,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 1.36,
+        "trainer": 2.68,
+        "weight": 0,
+        "headToHead": 5.37,
+        "recencyMargin": 8.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "FIRST KISS"
+        ],
+        "losesTo": [
+          "STARTING POINT",
+          "LOVE HER MADLY"
+        ]
+      },
+      "recentForm": [
+        "5th of 11 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 1,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 11 last start.",
+        "Against it: top-weight (60kg); beaten by STARTING POINT, LOVE HER MADLY before.",
+        "Has beaten FIRST KISS before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "beaten by STARTING POINT, LOVE HER MADLY before"
+      ],
+      "rank": 4,
+      "pWin": 0.0204,
+      "pPlace": 0.1205,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "draw": 1,
+      "rating": 71,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.839,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.418,
+        "trainer": 0.454,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.42,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.25,
+        "trainer": 2.27,
+        "weight": 0,
+        "headToHead": 6.67,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.0112,
+      "pPlace": 0.0668,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DELAROCHE",
+      "key": "DELAROCHE",
+      "draw": 6,
+      "rating": 69,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.774,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.633,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.39,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.5,
+        "trainer": 3.17,
+        "weight": 0,
+        "headToHead": 6.67,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: in-form stable.",
+        "Against it: top-weight (60kg); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "in-form stable"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0089,
+      "pPlace": 0.053,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PENNYS CHOICE",
+      "key": "PENNYS CHOICE",
+      "draw": 10,
+      "rating": 68,
+      "jockey": "Nichola Yuen",
+      "trainer": "Vaughan Marshall",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.742,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.5,
+        "trainer": 0.522,
+        "weight": 0.375,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.87,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.3,
+        "jockey": 1.5,
+        "trainer": 2.61,
+        "weight": 2.25,
+        "headToHead": 6.67,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 2,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: drawn wide (10); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (10)",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.0087,
+      "pPlace": 0.0521,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WALK RIGHT IN",
+      "key": "WALK RIGHT IN",
+      "draw": 8,
+      "rating": 65,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Greg Ennion",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.8,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.645,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.586,
+        "trainer": 0.535,
+        "weight": 1,
+        "headToHead": 0.405,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 2.25,
+        "rating": 10.32,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 1.76,
+        "trainer": 2.68,
+        "weight": 6,
+        "headToHead": 4.86,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SWIFT SERENITY"
+        ]
+      },
+      "recentForm": [
+        "8th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 1,
+        "places": 2,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "1-4"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 1,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 9 last start.",
+        "Why it can win: 25%-strike jockey booked; well-in at the weights (56kg).",
+        "Against it: patchy recent form; beaten by SWIFT SERENITY before.",
+        "Beaten by SWIFT SERENITY in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "25%-strike jockey booked",
+        "well-in at the weights (56kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by SWIFT SERENITY before"
+      ],
+      "rank": 8,
+      "pWin": 0.0069,
+      "pPlace": 0.0413,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROYAL DESIRE",
+      "key": "ROYAL DESIRE",
+      "draw": 9,
+      "rating": 45,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 36.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.443,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 1.5,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 6.67,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 45); top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 45)",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0007,
+      "pPlace": 0.0045,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FIRST KISS",
+      "key": "FIRST KISS",
+      "draw": 2,
+      "rating": 58,
+      "jockey": "Sean Veale",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31.2,
+      "factors": {
+        "form": 0.1,
+        "rating": 0.419,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.443,
+        "trainer": 0.535,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.229
+      },
+      "contrib": {
+        "form": 1.8,
+        "rating": 6.71,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 1.33,
+        "trainer": 2.68,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 2.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "STARTING POINT",
+          "MISS SMILEY",
+          "LOVE HER MADLY"
+        ]
+      },
+      "recentForm": [
+        "10th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 1,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 11 last start.",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "Beaten by STARTING POINT, MISS SMILEY, LOVE HER MADLY in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 10,
+      "pWin": 0.0003,
+      "pPlace": 0.0019,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "LOVE HER MADLY",
+      "rank": 1,
+      "score": 75.8,
+      "rating": 75,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.9,
+        "rating": 0.968,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.425,
+        "trainer": 0.443,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.933
+      }
+    },
+    {
+      "no": null,
+      "name": "STARTING POINT",
+      "rank": 2,
+      "score": 71.1,
+      "rating": 74,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.935,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.511,
+        "trainer": 0.616,
+        "weight": 0,
+        "headToHead": 0.774,
+        "recencyMargin": 0.908
+      }
+    },
+    {
+      "no": null,
+      "name": "SWIFT SERENITY",
+      "rank": 3,
+      "score": 69.3,
+      "rating": 76,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.467,
+        "trainer": 0.433,
+        "weight": 0,
+        "headToHead": 0.706,
+        "recencyMargin": 0.929
+      }
+    },
+    {
+      "no": null,
+      "name": "MISS SMILEY",
+      "rank": 4,
+      "score": 56.3,
+      "rating": 69,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Greg Ennion",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.6,
+        "rating": 0.774,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.454,
+        "trainer": 0.535,
+        "weight": 0,
+        "headToHead": 0.448,
+        "recencyMargin": 0.688
+      }
+    },
+    {
+      "no": null,
+      "name": "SCANDALIZE",
+      "rank": 5,
+      "score": 52.7,
+      "rating": 71,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.839,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.418,
+        "trainer": 0.454,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DELAROCHE",
+      "rank": 6,
+      "score": 51.3,
+      "rating": 69,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.774,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.633,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "PENNYS CHOICE",
+      "rank": 7,
+      "score": 51.2,
+      "rating": 68,
+      "draw": 10,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Nichola Yuen",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.742,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.5,
+        "trainer": 0.522,
+        "weight": 0.375,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WALK RIGHT IN",
+      "rank": 8,
+      "score": 49.8,
+      "rating": 65,
+      "draw": 8,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Greg Ennion",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.645,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.586,
+        "trainer": 0.535,
+        "weight": 1,
+        "headToHead": 0.405,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "ROYAL DESIRE",
+      "rank": 9,
+      "score": 36.4,
+      "rating": 45,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.443,
+        "weight": 0,
+        "headToHead": 0.555,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FIRST KISS",
+      "rank": 10,
+      "score": 31.2,
+      "rating": 58,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Greg Ennion",
+      "lastFive": "10",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.1,
+        "rating": 0.419,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.443,
+        "trainer": 0.535,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.229
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "LOVE HER MADLY",
+      "key": "LOVE HER MADLY",
+      "points": 4.03,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "STARTING POINT",
+        "MISS SMILEY",
+        "FIRST KISS"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "STARTING POINT",
+      "key": "STARTING POINT",
+      "points": 1.981,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "MISS SMILEY",
+        "FIRST KISS"
+      ],
+      "losesTo": [
+        "LOVE HER MADLY"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "SWIFT SERENITY",
+      "key": "SWIFT SERENITY",
+      "points": 1.367,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "WALK RIGHT IN"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SCANDALIZE",
+      "key": "SCANDALIZE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DELAROCHE",
+      "key": "DELAROCHE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PENNYS CHOICE",
+      "key": "PENNYS CHOICE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROYAL DESIRE",
+      "key": "ROYAL DESIRE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS SMILEY",
+      "key": "MISS SMILEY",
+      "points": -0.976,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "FIRST KISS"
+      ],
+      "losesTo": [
+        "STARTING POINT",
+        "LOVE HER MADLY"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "WALK RIGHT IN",
+      "key": "WALK RIGHT IN",
+      "points": -1.367,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SWIFT SERENITY"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "FIRST KISS",
+      "key": "FIRST KISS",
+      "points": -5.035,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "STARTING POINT",
+        "MISS SMILEY",
+        "LOVE HER MADLY"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "LOVE HER MADLY",
+  "places": 3
+}

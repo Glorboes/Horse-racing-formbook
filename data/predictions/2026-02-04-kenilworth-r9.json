@@ -1,0 +1,1189 @@
+{
+  "id": "2026-02-04-kenilworth-r9",
+  "date": "2026-02-04",
+  "track": "Kenilworth",
+  "race": 9,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:19.412Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "ALLTHEBOYSIVELOVED",
+      "key": "ALLTHEBOYSIVELOVED",
+      "draw": 4,
+      "rating": 86,
+      "jockey": "Chad Little",
+      "trainer": "Lucinda Woodruff",
+      "weight": 62,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.1,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 86).",
+        "Against it: top-weight (62kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 86)"
+      ],
+      "_conReasons": [
+        "top-weight (62kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.2843,
+      "pPlace": 0.6925,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MISS WILLIAM",
+      "key": "MISS WILLIAM",
+      "draw": 2,
+      "rating": 84,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0.75,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 84); drawn 2 — a handy low draw.",
+        "Against it: top-weight (61kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 84)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.1938,
+      "pPlace": 0.5527,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "draw": 3,
+      "rating": 83,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.13,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 83); drawn 3 — a handy low draw.",
+        "Against it: carries 60.5kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 83)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "carries 60.5kg"
+      ],
+      "rank": 3,
+      "pWin": 0.1436,
+      "pPlace": 0.4443,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIRL LIKE US",
+      "key": "GIRL LIKE US",
+      "draw": 9,
+      "rating": 82,
+      "jockey": "Gavin Lerena",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.5,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 4,
+      "pWin": 0.0828,
+      "pPlace": 0.279,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VROOM VROOM",
+      "key": "VROOM VROOM",
+      "draw": 10,
+      "rating": 80,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.3,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 4.88,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 55.5kg.",
+        "Against it: drawn wide (10).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "draw"
+      ],
+      "_strReasons": [
+        "carries 55.5kg"
+      ],
+      "_conReasons": [
+        "drawn wide (10)"
+      ],
+      "rank": 5,
+      "pWin": 0.0762,
+      "pPlace": 0.2588,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "APRICITY",
+      "key": "APRICITY",
+      "draw": 1,
+      "rating": 77,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Greg Ennion",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (54kg).",
+        "Against it: lower-rated (MR 77).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (54kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 77)"
+      ],
+      "rank": 6,
+      "pWin": 0.0584,
+      "pPlace": 0.2026,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "draw": 7,
+      "rating": 79,
+      "jockey": "Craig Bantam",
+      "trainer": "Adam Marcus",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.56,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.63,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 7,
+      "pWin": 0.044,
+      "pPlace": 0.1552,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DIAMOND BOMBER",
+      "key": "DIAMOND BOMBER",
+      "draw": 8,
+      "rating": 79,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 3.56,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.63,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [],
+      "_strReasons": [],
+      "_conReasons": [],
+      "rank": 8,
+      "pWin": 0.0418,
+      "pPlace": 0.148,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SUPREME FATE",
+      "key": "SUPREME FATE",
+      "draw": 5,
+      "rating": 78,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 1.78,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 78).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 78)"
+      ],
+      "rank": 9,
+      "pWin": 0.0385,
+      "pPlace": 0.1367,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RIKKITIKKITAVI",
+      "key": "RIKKITIKKITAVI",
+      "draw": 6,
+      "rating": 78,
+      "jockey": "Serino Moodley",
+      "trainer": "Andre Nel",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 1.78,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 78).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 78)"
+      ],
+      "rank": 10,
+      "pWin": 0.0366,
+      "pPlace": 0.1303,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "ALLTHEBOYSIVELOVED",
+      "rank": 1,
+      "score": 54.3,
+      "rating": 86,
+      "draw": 4,
+      "weight": 62,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MISS WILLIAM",
+      "rank": 2,
+      "score": 52,
+      "rating": 84,
+      "draw": 2,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.125,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MY ONLY WEAKNESS",
+      "rank": 3,
+      "score": 50.2,
+      "rating": 83,
+      "draw": 3,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GIRL LIKE US",
+      "rank": 4,
+      "score": 46.9,
+      "rating": 82,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gavin Lerena",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.25,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "VROOM VROOM",
+      "rank": 5,
+      "score": 46.4,
+      "rating": 80,
+      "draw": 10,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.813,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "APRICITY",
+      "rank": 6,
+      "score": 44.8,
+      "rating": 77,
+      "draw": 1,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DREAM SEARCHER",
+      "rank": 7,
+      "score": 43.1,
+      "rating": 79,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Bantam",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DIAMOND BOMBER",
+      "rank": 8,
+      "score": 42.8,
+      "rating": 79,
+      "draw": 8,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.222,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.438,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SUPREME FATE",
+      "rank": 9,
+      "score": 42.3,
+      "rating": 78,
+      "draw": 5,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "RIKKITIKKITAVI",
+      "rank": 10,
+      "score": 42,
+      "rating": 78,
+      "draw": 6,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RIKKITIKKITAVI",
+      "key": "RIKKITIKKITAVI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SUPREME FATE",
+      "key": "SUPREME FATE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MY ONLY WEAKNESS",
+      "key": "MY ONLY WEAKNESS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIRL LIKE US",
+      "key": "GIRL LIKE US",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ALLTHEBOYSIVELOVED",
+      "key": "ALLTHEBOYSIVELOVED",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "APRICITY",
+      "key": "APRICITY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DIAMOND BOMBER",
+      "key": "DIAMOND BOMBER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS WILLIAM",
+      "key": "MISS WILLIAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VROOM VROOM",
+      "key": "VROOM VROOM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "DREAM SEARCHER",
+  "places": 3
+}

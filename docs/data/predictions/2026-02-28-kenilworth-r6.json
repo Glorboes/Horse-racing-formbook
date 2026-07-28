@@ -1,0 +1,1144 @@
+{
+  "id": "2026-02-28-kenilworth-r6",
+  "date": "2026-02-28",
+  "track": "Kenilworth",
+  "race": 6,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:21.791Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "STORMWATCH",
+      "key": "STORMWATCH",
+      "draw": 4,
+      "rating": 102,
+      "jockey": "Gavin Lerena",
+      "trainer": "Eric Sands",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 70.8,
+      "factors": {
+        "form": 1,
+        "rating": 0.476,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.671,
+        "trainer": 0.489,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 7.62,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 2.01,
+        "trainer": 2.45,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 2L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 2,
+        "places": 3,
+        "winPct": 50,
+        "placePct": 75,
+        "record": "2-4"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "record": "1-9"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 2L at Kenilworth.",
+        "Why it can win: strong recent form; 50%-strike jockey booked; hitting the line hard lately.",
+        "Against it: lower-rated (MR 102)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "50%-strike jockey booked",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 102)"
+      ],
+      "rank": 1,
+      "pWin": 0.8069,
+      "pPlace": 0.9961,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PRINCESS OF GAUL",
+      "key": "PRINCESS OF GAUL",
+      "draw": 5,
+      "rating": 113,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.416,
+        "trainer": 0.395,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.25,
+        "trainer": 1.98,
+        "weight": 2.57,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 11,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-11"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 1,
+        "places": 4,
+        "winPct": 5,
+        "placePct": 19,
+        "record": "1-21"
+      },
+      "trainerRec": {
+        "starts": 11,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-11"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 113).",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 113)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.063,
+      "pPlace": 0.5858,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CALL ME SECRET",
+      "key": "CALL ME SECRET",
+      "draw": 7,
+      "rating": 105,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Lucinda Woodruff",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.619,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.527,
+        "trainer": 0.464,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.9,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.58,
+        "trainer": 2.32,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 3,
+        "places": 9,
+        "winPct": 15,
+        "placePct": 45,
+        "record": "3-20"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 1,
+        "places": 3,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56.5kg).",
+        "Against it: patchy recent form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.0395,
+      "pPlace": 0.4141,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROCCAPINA",
+      "key": "ROCCAPINA",
+      "draw": 3,
+      "rating": 111,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.905,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.418,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 14.48,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.25,
+        "trainer": 1.99,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 10,
+        "winPct": 4,
+        "record": "1-27"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 111); drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 111)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 4,
+      "pWin": 0.0352,
+      "pPlace": 0.3748,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BABELICIOUS",
+      "key": "BABELICIOUS",
+      "draw": 2,
+      "rating": 106,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.45,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.35,
+        "trainer": 1.99,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 11,
+        "wins": 1,
+        "places": 6,
+        "winPct": 9,
+        "record": "1-11"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 1,
+        "places": 6,
+        "winPct": 7,
+        "placePct": 43,
+        "record": "1-14"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 10,
+        "winPct": 4,
+        "record": "1-27"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.02,
+      "pPlace": 0.2239,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCARLET MACAW",
+      "key": "SCARLET MACAW",
+      "draw": 8,
+      "rating": 107,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.714,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.64,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.43,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.92,
+        "trainer": 1.99,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 4,
+        "winPct": 30,
+        "placePct": 40,
+        "record": "3-10"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 10,
+        "winPct": 4,
+        "record": "1-27"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 30%-strike jockey booked; well-rated (MR 107).",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "Jockey Grant Van Niekerk in form (30% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "30%-strike jockey booked",
+        "well-rated (MR 107)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0169,
+      "pPlace": 0.1912,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SWIATEK",
+      "key": "SWIATEK",
+      "draw": 1,
+      "rating": 100,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.381,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.594,
+        "trainer": 0.47,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.1,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.78,
+        "trainer": 2.35,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 8,
+        "wins": 1,
+        "places": 4,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 5,
+        "places": 13,
+        "winPct": 21,
+        "placePct": 54,
+        "record": "5-24"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 3,
+        "places": 8,
+        "winPct": 10,
+        "record": "3-30"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 21%-strike jockey booked.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "Jockey Richard Fourie in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.0109,
+      "pPlace": 0.126,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VIVA LA VIDA",
+      "key": "VIVA LA VIDA",
+      "draw": 6,
+      "rating": 92,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.444,
+        "trainer": 0.521,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.33,
+        "trainer": 2.61,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 9,
+        "wins": 1,
+        "places": 3,
+        "winPct": 11,
+        "record": "1-9"
+      },
+      "jockeyRec": {
+        "starts": 15,
+        "wins": 1,
+        "places": 4,
+        "winPct": 7,
+        "placePct": 27,
+        "record": "1-15"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 4,
+        "places": 8,
+        "winPct": 14,
+        "record": "4-28"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (14%); well-in at the weights (56.5kg).",
+        "Against it: patchy recent form; lower-rated (MR 92).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "stable in form (14%)",
+        "well-in at the weights (56.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 92)"
+      ],
+      "rank": 8,
+      "pWin": 0.0076,
+      "pPlace": 0.0881,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "STORMWATCH",
+      "rank": 1,
+      "score": 70.8,
+      "rating": 102,
+      "draw": 4,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gavin Lerena",
+      "trainer": "Eric Sands",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.476,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.671,
+        "trainer": 0.489,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "PRINCESS OF GAUL",
+      "rank": 2,
+      "score": 55.5,
+      "rating": 113,
+      "draw": 5,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.416,
+        "trainer": 0.395,
+        "weight": 0.429,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CALL ME SECRET",
+      "rank": 3,
+      "score": 52.7,
+      "rating": 105,
+      "draw": 7,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.619,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.527,
+        "trainer": 0.464,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ROCCAPINA",
+      "rank": 4,
+      "score": 52,
+      "rating": 111,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.905,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.418,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BABELICIOUS",
+      "rank": 5,
+      "score": 48.6,
+      "rating": 106,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.45,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SCARLET MACAW",
+      "rank": 6,
+      "score": 47.6,
+      "rating": 107,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.714,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.64,
+        "trainer": 0.397,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SWIATEK",
+      "rank": 7,
+      "score": 45,
+      "rating": 100,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.381,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.594,
+        "trainer": 0.47,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "VIVA LA VIDA",
+      "rank": 8,
+      "score": 42.8,
+      "rating": 92,
+      "draw": 6,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.444,
+        "trainer": 0.521,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PRINCESS OF GAUL",
+      "key": "PRINCESS OF GAUL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "STORMWATCH",
+      "key": "STORMWATCH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROCCAPINA",
+      "key": "ROCCAPINA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SCARLET MACAW",
+      "key": "SCARLET MACAW",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SWIATEK",
+      "key": "SWIATEK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BABELICIOUS",
+      "key": "BABELICIOUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VIVA LA VIDA",
+      "key": "VIVA LA VIDA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CALL ME SECRET",
+      "key": "CALL ME SECRET",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "PRINCESS OF GAUL",
+  "places": 3
+}

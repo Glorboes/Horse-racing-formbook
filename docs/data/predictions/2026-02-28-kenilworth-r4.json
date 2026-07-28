@@ -1,0 +1,1258 @@
+{
+  "id": "2026-02-28-kenilworth-r4",
+  "date": "2026-02-28",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T21:00:21.769Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "WORLD SERIES",
+      "key": "WORLD SERIES",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Gavin Lerena",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 70.3,
+      "factors": {
+        "form": 1,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.7,
+        "trainer": 0.542,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 2.1,
+        "trainer": 2.71,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "MAGMA FLOW"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 5.50L at Kenilworth.",
+        "Won by 5.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 2,
+        "places": 3,
+        "winPct": 50,
+        "placePct": 75,
+        "record": "2-4"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 4,
+        "places": 8,
+        "winPct": 14,
+        "record": "4-28"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 5.50L at Kenilworth.",
+        "Won by 5.50L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; 50%-strike jockey booked; has beaten MAGMA FLOW.",
+        "Against it: top-weight (60kg).",
+        "Has beaten MAGMA FLOW before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "50%-strike jockey booked",
+        "has beaten MAGMA FLOW"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.8079,
+      "pPlace": 0.9955,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAGMA FLOW",
+      "key": "MAGMA FLOW",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Piet Botha",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.4,
+      "factors": {
+        "form": 0.909,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.547,
+        "trainer": 0.481,
+        "weight": 0.286,
+        "headToHead": 0,
+        "recencyMargin": 0.542
+      },
+      "contrib": {
+        "form": 16.36,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.64,
+        "trainer": 2.4,
+        "weight": 1.71,
+        "headToHead": 0,
+        "recencyMargin": 6.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "WORLD SERIES"
+        ]
+      },
+      "recentForm": [
+        "2nd of 12 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 3,
+        "places": 8,
+        "winPct": 15,
+        "placePct": 40,
+        "record": "3-20"
+      },
+      "trainerRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 2,
+        "winPct": 9,
+        "record": "1-11"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 12 last start.",
+        "Why it can win: strong recent form; drawn 2 — a handy low draw; hitting the line hard lately.",
+        "Against it: beaten by WORLD SERIES before.",
+        "Beaten by WORLD SERIES in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 2 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "beaten by WORLD SERIES before"
+      ],
+      "rank": 2,
+      "pWin": 0.0483,
+      "pPlace": 0.4683,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CASPERITA",
+      "key": "CASPERITA",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Alan Greeff",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.624,
+        "trainer": 0.5,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.87,
+        "trainer": 2.5,
+        "weight": 4.29,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 5,
+        "places": 13,
+        "winPct": 21,
+        "placePct": 54,
+        "record": "5-24"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 21%-strike jockey booked; in-form stable.",
+        "Against it: patchy recent form; well beaten lately.",
+        "Jockey Richard Fourie in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "21%-strike jockey booked",
+        "in-form stable"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 3,
+      "pWin": 0.0364,
+      "pPlace": 0.3722,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LADY NANCY",
+      "key": "LADY NANCY",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.427,
+        "trainer": 0.441,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.28,
+        "trainer": 2.2,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 1,
+        "places": 2,
+        "winPct": 10,
+        "record": "1-10"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 1,
+        "places": 3,
+        "winPct": 5,
+        "placePct": 15,
+        "record": "1-20"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 2,
+        "winPct": 6,
+        "record": "1-17"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56.5kg).",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0265,
+      "pPlace": 0.2814,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "QUERARI DANCER",
+      "key": "QUERARI DANCER",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Justin Snaith",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.67,
+        "trainer": 0.485,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 2.01,
+        "trainer": 2.42,
+        "weight": 4.29,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 4,
+        "winPct": 30,
+        "placePct": 40,
+        "record": "3-10"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 3,
+        "places": 8,
+        "winPct": 10,
+        "record": "3-30"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 30%-strike jockey booked; well-in at the weights (57.5kg).",
+        "Against it: patchy recent form; well beaten lately.",
+        "Jockey Grant Van Niekerk in form (30% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "30%-strike jockey booked",
+        "well-in at the weights (57.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0261,
+      "pPlace": 0.2772,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROSKILDE",
+      "key": "ROSKILDE",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Calvin Habib",
+      "trainer": "Glen Kotzen",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.411,
+        "trainer": 0.441,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.23,
+        "trainer": 2.2,
+        "weight": 1.71,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "placePct": 38,
+        "record": "0-8"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 2,
+        "winPct": 6,
+        "record": "1-17"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0148,
+      "pPlace": 0.163,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RED SPICE",
+      "key": "RED SPICE",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.592,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.5,
+        "trainer": 2.96,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 9,
+        "wins": 1,
+        "places": 2,
+        "winPct": 11,
+        "placePct": 22,
+        "record": "1-9"
+      },
+      "trainerRec": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (33%).",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (33%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 7,
+      "pWin": 0.0141,
+      "pPlace": 0.1554,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CATWALK KING",
+      "key": "CATWALK KING",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.423,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.27,
+        "trainer": 2.2,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 1,
+        "places": 4,
+        "winPct": 5,
+        "placePct": 19,
+        "record": "1-21"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 2,
+        "winPct": 6,
+        "record": "1-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 8,
+      "pWin": 0.0132,
+      "pPlace": 0.1458,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MARSEILLES",
+      "key": "MARSEILLES",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Rene Piechulek",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.395,
+        "trainer": 0.485,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.19,
+        "trainer": 2.42,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-11"
+      },
+      "trainerRec": {
+        "starts": 30,
+        "wins": 3,
+        "places": 8,
+        "winPct": 10,
+        "record": "3-30"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 9,
+      "pWin": 0.0127,
+      "pPlace": 0.1412,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "WORLD SERIES",
+      "rank": 1,
+      "score": 70.3,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gavin Lerena",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.7,
+        "trainer": 0.542,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "MAGMA FLOW",
+      "rank": 2,
+      "score": 53.4,
+      "rating": null,
+      "draw": 2,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Luyolo Mxothwa",
+      "trainer": "Piet Botha",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.909,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.547,
+        "trainer": 0.481,
+        "weight": 0.286,
+        "headToHead": 0,
+        "recencyMargin": 0.542
+      }
+    },
+    {
+      "no": null,
+      "name": "CASPERITA",
+      "rank": 3,
+      "score": 51.7,
+      "rating": null,
+      "draw": 1,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Alan Greeff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.624,
+        "trainer": 0.5,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LADY NANCY",
+      "rank": 4,
+      "score": 49.8,
+      "rating": null,
+      "draw": 9,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.427,
+        "trainer": 0.441,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "QUERARI DANCER",
+      "rank": 5,
+      "score": 49.7,
+      "rating": null,
+      "draw": 7,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Van Niekerk",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.67,
+        "trainer": 0.485,
+        "weight": 0.714,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ROSKILDE",
+      "rank": 6,
+      "score": 46.3,
+      "rating": null,
+      "draw": 6,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.411,
+        "trainer": 0.441,
+        "weight": 0.286,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "RED SPICE",
+      "rank": 7,
+      "score": 46,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.592,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CATWALK KING",
+      "rank": 8,
+      "score": 45.6,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.423,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MARSEILLES",
+      "rank": 9,
+      "score": 45.4,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Rene Piechulek",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.395,
+        "trainer": 0.485,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "WORLD SERIES",
+      "key": "WORLD SERIES",
+      "points": 1.481,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "MAGMA FLOW"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "RED SPICE",
+      "key": "RED SPICE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROSKILDE",
+      "key": "ROSKILDE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LADY NANCY",
+      "key": "LADY NANCY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "QUERARI DANCER",
+      "key": "QUERARI DANCER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CATWALK KING",
+      "key": "CATWALK KING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MARSEILLES",
+      "key": "MARSEILLES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CASPERITA",
+      "key": "CASPERITA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MAGMA FLOW",
+      "key": "MAGMA FLOW",
+      "points": -1.481,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "WORLD SERIES"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "WORLD SERIES",
+  "places": 3
+}
