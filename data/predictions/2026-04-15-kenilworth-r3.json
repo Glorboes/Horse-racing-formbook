@@ -1,0 +1,796 @@
+{
+  "id": "2026-04-15-kenilworth-r3",
+  "date": "2026-04-15",
+  "track": "Kenilworth",
+  "race": 3,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:27:04.148Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "MOONSHINE BAY",
+      "key": "MOONSHINE BAY",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Glen Kotzen",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.5,
+        "trainer": 2.13,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (54kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.2087,
+      "pPlace": 0.408,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "UNCLE SAM",
+      "key": "UNCLE SAM",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.555,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.66,
+        "trainer": 2.38,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 1,
+        "places": 2,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 3,
+        "places": 6,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "3-12"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 25%-strike jockey booked.",
+        "Against it: carries 57kg.",
+        "Jockey Richard Fourie in form (25% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 2,
+      "pWin": 0.2053,
+      "pPlace": 0.4024,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.583,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.75,
+        "trainer": 2.38,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 7,
+        "wins": 2,
+        "places": 5,
+        "winPct": 29,
+        "record": "2-7"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 4,
+        "places": 8,
+        "winPct": 29,
+        "placePct": 57,
+        "record": "4-14"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 29%-strike jockey booked; drawn 2 — a handy low draw.",
+        "Against it: carries 57kg.",
+        "Jockey Sean Veale in form (29% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "29%-strike jockey booked",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "carries 57kg"
+      ],
+      "rank": 3,
+      "pWin": 0.192,
+      "pPlace": 0.3804,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.4,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.2,
+        "trainer": 2.38,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 10,
+        "record": "0-10"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; carries 57kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "carries 57kg"
+      ],
+      "rank": 4,
+      "pWin": 0.1599,
+      "pPlace": 0.3243,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VULCAN ROCK",
+      "key": "VULCAN ROCK",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.452,
+        "trainer": 0.478,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.36,
+        "trainer": 2.39,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "placePct": 45,
+        "record": "1-11"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 1,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; carries 57kg.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "carries 57kg"
+      ],
+      "rank": 5,
+      "pWin": 0.1521,
+      "pPlace": 0.3101,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FROM THE ISLAND",
+      "key": "FROM THE ISLAND",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.442,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.5,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 21,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "record": "2-21"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0821,
+      "pPlace": 0.1748,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "MOONSHINE BAY",
+      "rank": 1,
+      "score": 50.1,
+      "rating": null,
+      "draw": 6,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Glen Kotzen",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.425,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "UNCLE SAM",
+      "rank": 2,
+      "score": 50,
+      "rating": null,
+      "draw": 1,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.555,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "IT'SGOOD IT'SNICE",
+      "rank": 3,
+      "score": 49.6,
+      "rating": null,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.583,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "HERO'S JOURNEY",
+      "rank": 4,
+      "score": 48.5,
+      "rating": null,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.4,
+        "trainer": 0.475,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "VULCAN ROCK",
+      "rank": 5,
+      "score": 48.2,
+      "rating": null,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.452,
+        "trainer": 0.478,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FROM THE ISLAND",
+      "rank": 6,
+      "score": 44.5,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.442,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "FROM THE ISLAND",
+      "key": "FROM THE ISLAND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "UNCLE SAM",
+      "key": "UNCLE SAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MOONSHINE BAY",
+      "key": "MOONSHINE BAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VULCAN ROCK",
+      "key": "VULCAN ROCK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "FROM THE ISLAND",
+  "places": 2
+}

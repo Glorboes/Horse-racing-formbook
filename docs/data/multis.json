@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:24:30.701Z",
+  "generated": "2026-07-28T19:27:04.290Z",
   "days": {
     "2026-03-30": {
       "bankers": [
@@ -929,6 +929,317 @@
             "time": null,
             "selection": "SYMPHONY IN WHITE",
             "prob": 29.5
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-04-15": {
+      "bankers": [
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SOMEBODY SOMEWHERE",
+          "pWin": 84.4,
+          "pPlace": 99.8,
+          "confidence": "strong"
+        },
+        {
+          "race": 6,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "FLYING FINLEY",
+          "pWin": 77.3,
+          "pPlace": 99.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 9,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "FROM THE GET GO",
+          "pWin": 60.8,
+          "pPlace": 96,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.3963,
+          "combinedPct": 39.6,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 84.4
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 77.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 60.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.2013,
+          "combinedPct": 20.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 84.4
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 77.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 60.8
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 50.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0984,
+          "combinedPct": 9.8,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 84.4
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 77.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 60.8
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 50.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PACIFIC WATERS",
+              "prob": 48.9
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8752,
+          "combinedPct": 87.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 99.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 96
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 91.9
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.7434,
+          "combinedPct": 74.3,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 99.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 96
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 91.9
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE BIG BANG",
+              "prob": 84.9
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.5869,
+          "combinedPct": 58.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FLYING FINLEY",
+              "prob": 99.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FROM THE GET GO",
+              "prob": 96
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 91.9
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE BIG BANG",
+              "prob": 84.9
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PACIFIC WATERS",
+              "prob": 79
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.3963,
+        "combinedPct": 39.6,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SOMEBODY SOMEWHERE",
+            "prob": 84.4
+          },
+          {
+            "race": 6,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "FLYING FINLEY",
+            "prob": 77.3
+          },
+          {
+            "race": 9,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "FROM THE GET GO",
+            "prob": 60.8
           }
         ]
       },

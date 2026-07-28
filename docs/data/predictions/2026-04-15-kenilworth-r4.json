@@ -1,0 +1,960 @@
+{
+  "id": "2026-04-15-kenilworth-r4",
+  "date": "2026-04-15",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:27:04.156Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "draw": 5,
+      "rating": 73,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.833,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.433,
+        "trainer": 0.455,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.3,
+        "trainer": 2.27,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 20,
+        "record": "0-5"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "record": "2-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (56kg); well-rated (MR 73).",
+        "Against it: patchy recent form; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-in at the weights (56kg)",
+        "well-rated (MR 73)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.4888,
+      "pPlace": 0.7895,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THELEIA",
+      "key": "THELEIA",
+      "draw": 6,
+      "rating": 76,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.462,
+        "trainer": 0.455,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.39,
+        "trainer": 2.27,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "placePct": 45,
+        "record": "1-11"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 1,
+        "places": 5,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 76).",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 76)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 2,
+      "pWin": 0.2552,
+      "pPlace": 0.5687,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LIEFLING",
+      "key": "LIEFLING",
+      "draw": 2,
+      "rating": 70,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.61,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.25
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 10.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.5,
+        "trainer": 3.05,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 19,
+        "wins": 5,
+        "places": 8,
+        "winPct": 26,
+        "record": "5-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: stable in form (26%); drawn 2 — a handy low draw; good jockey booking.",
+        "Against it: patchy recent form; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "trainer",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (26%)",
+        "drawn 2 — a handy low draw",
+        "good jockey booking"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.0731,
+      "pPlace": 0.1822,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KISSES",
+      "key": "KISSES",
+      "draw": 3,
+      "rating": 66,
+      "jockey": "Oswald Noach",
+      "trainer": "Shane Humby",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.444,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.4,
+        "trainer": 0.482,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.11,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.2,
+        "trainer": 2.41,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 10,
+        "record": "0-10"
+      },
+      "trainerRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 4,
+      "pWin": 0.0673,
+      "pPlace": 0.1681,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RARE EARTH",
+      "key": "RARE EARTH",
+      "draw": 1,
+      "rating": 64,
+      "jockey": "Chad Little",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.395,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.19,
+        "trainer": 2.44,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 36,
+        "record": "0-11"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 1,
+        "places": 1,
+        "winPct": 13,
+        "record": "1-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0579,
+      "pPlace": 0.1453,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MY SUNSHINE",
+      "key": "MY SUNSHINE",
+      "draw": 4,
+      "rating": 63,
+      "jockey": "Richard Fourie",
+      "trainer": "H J Brown",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.278,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.582,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 4.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.75,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 3,
+        "places": 6,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "3-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 25%-strike jockey booked; in-form stable.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Jockey Richard Fourie in form (25% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "25%-strike jockey booked",
+        "in-form stable"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0443,
+      "pPlace": 0.112,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KIM CHANEL",
+      "key": "KIM CHANEL",
+      "draw": 7,
+      "rating": 58,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 34.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.38,
+        "trainer": 0.387,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.14,
+        "trainer": 1.93,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "jockeyRec": {
+        "starts": 15,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 33,
+        "record": "0-15"
+      },
+      "trainerRec": {
+        "starts": 13,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 58); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 58)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 7,
+      "pWin": 0.0134,
+      "pPlace": 0.0342,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "PACIFIC WATERS",
+      "rank": 1,
+      "score": 56.5,
+      "rating": 73,
+      "draw": 5,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.833,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.433,
+        "trainer": 0.455,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "THELEIA",
+      "rank": 2,
+      "score": 52.6,
+      "rating": 76,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.462,
+        "trainer": 0.455,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LIEFLING",
+      "rank": 3,
+      "score": 45.1,
+      "rating": 70,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.667,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.61,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.25
+      }
+    },
+    {
+      "no": null,
+      "name": "KISSES",
+      "rank": 4,
+      "score": 44.6,
+      "rating": 66,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Shane Humby",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.444,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.4,
+        "trainer": 0.482,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "RARE EARTH",
+      "rank": 5,
+      "score": 43.7,
+      "rating": 64,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.395,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MY SUNSHINE",
+      "rank": 6,
+      "score": 42.1,
+      "rating": 63,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "H J Brown",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.278,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.582,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KIM CHANEL",
+      "rank": 7,
+      "score": 34.9,
+      "rating": 58,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.38,
+        "trainer": 0.387,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THELEIA",
+      "key": "THELEIA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LIEFLING",
+      "key": "LIEFLING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KISSES",
+      "key": "KISSES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RARE EARTH",
+      "key": "RARE EARTH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MY SUNSHINE",
+      "key": "MY SUNSHINE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KIM CHANEL",
+      "key": "KIM CHANEL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "PACIFIC WATERS",
+  "places": 2
+}

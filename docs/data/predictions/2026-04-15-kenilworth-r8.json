@@ -1,0 +1,1239 @@
+{
+  "id": "2026-04-15-kenilworth-r8",
+  "date": "2026-04-15",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T19:27:04.184Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "MARCUS AURELIUS",
+      "key": "MARCUS AURELIUS",
+      "draw": 2,
+      "rating": 85,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.4,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.757,
+        "trainer": 0.589,
+        "weight": 0.308,
+        "headToHead": 0.5,
+        "recencyMargin": 0.813
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 12.44,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 2.27,
+        "trainer": 2.95,
+        "weight": 1.85,
+        "headToHead": 6,
+        "recencyMargin": 9.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 7 last start."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 5,
+        "places": 10,
+        "winPct": 36,
+        "record": "5-14"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 6,
+        "places": 11,
+        "winPct": 33,
+        "placePct": 61,
+        "record": "6-18"
+      },
+      "trainerRec": {
+        "starts": 28,
+        "wins": 5,
+        "places": 11,
+        "winPct": 18,
+        "record": "5-28"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Why it can win: 33%-strike jockey booked; hitting the line hard lately; well-rated (MR 85).",
+        "Against it: carries 59kg.",
+        "Jockey Aldo Domeyer in form (33% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "recencyMargin",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "hitting the line hard lately",
+        "well-rated (MR 85)"
+      ],
+      "_conReasons": [
+        "carries 59kg"
+      ],
+      "rank": 1,
+      "pWin": 0.508,
+      "pPlace": 0.9192,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "draw": 1,
+      "rating": 89,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.481,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.4,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 21,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "record": "2-21"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 89); drawn 1 — a handy low draw.",
+        "Against it: top-weight (61kg); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 89)",
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "well beaten lately"
+      ],
+      "rank": 2,
+      "pWin": 0.1778,
+      "pPlace": 0.637,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAPTAINS ALLIANCE",
+      "key": "CAPTAINS ALLIANCE",
+      "draw": 9,
+      "rating": 81,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.683,
+        "trainer": 0.531,
+        "weight": 0.615,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 2.05,
+        "trainer": 2.66,
+        "weight": 3.69,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 7,
+        "wins": 2,
+        "places": 5,
+        "winPct": 29,
+        "record": "2-7"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 4,
+        "places": 8,
+        "winPct": 29,
+        "placePct": 57,
+        "record": "4-14"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 29%-strike jockey booked; well-rated (MR 81).",
+        "Against it: well beaten lately; stable out of form.",
+        "Jockey Sean Veale in form (29% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "trainer"
+      ],
+      "_strReasons": [
+        "29%-strike jockey booked",
+        "well-rated (MR 81)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "stable out of form"
+      ],
+      "rank": 3,
+      "pWin": 0.0711,
+      "pPlace": 0.318,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "draw": 5,
+      "rating": 80,
+      "jockey": "Chad Little",
+      "trainer": "Vaughan Marshall",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.395,
+        "trainer": 0.531,
+        "weight": 0.615,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.19,
+        "trainer": 2.66,
+        "weight": 3.69,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 36,
+        "record": "0-11"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 10,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0665,
+      "pPlace": 0.2996,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHOW OFF",
+      "key": "SHOW OFF",
+      "draw": 6,
+      "rating": 77,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.636,
+        "trainer": 0.679,
+        "weight": 0.538,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.91,
+        "trainer": 3.4,
+        "weight": 3.23,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 2,
+        "places": 3,
+        "winPct": 67,
+        "record": "2-3"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 3,
+        "places": 6,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "3-12"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 5,
+        "places": 8,
+        "winPct": 26,
+        "record": "5-19"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (26%); 25%-strike jockey booked.",
+        "Against it: well beaten lately.",
+        "Jockey Richard Fourie in form (25% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "jockey"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "stable in form (26%)",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0469,
+      "pPlace": 0.217,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CARRIACOU",
+      "key": "CARRIACOU",
+      "draw": 3,
+      "rating": 78,
+      "jockey": "Muzi Yeni",
+      "trainer": "Eric Sands",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.389,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.4,
+        "trainer": 0.537,
+        "weight": 0.462,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.22,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.2,
+        "trainer": 2.69,
+        "weight": 2.77,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 20,
+        "record": "0-10"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: well beaten lately; lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 6,
+      "pWin": 0.0469,
+      "pPlace": 0.217,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "draw": 4,
+      "rating": 74,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.167,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.481,
+        "trainer": 0.679,
+        "weight": 0.769,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 2.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.44,
+        "trainer": 3.4,
+        "weight": 4.62,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 1,
+        "places": 3,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "placePct": 45,
+        "record": "1-11"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 5,
+        "places": 8,
+        "winPct": 26,
+        "record": "5-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (26%); carries 56kg.",
+        "Against it: well beaten lately; lower-rated (MR 74).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "rating"
+      ],
+      "_strReasons": [
+        "stable in form (26%)",
+        "carries 56kg"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "lower-rated (MR 74)"
+      ],
+      "rank": 7,
+      "pWin": 0.039,
+      "pPlace": 0.1825,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SET TO MUSIC",
+      "key": "SET TO MUSIC",
+      "draw": 7,
+      "rating": 72,
+      "jockey": "Keagan De Melo",
+      "trainer": "Ricky Maingard",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.056,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.481,
+        "trainer": 0.425,
+        "weight": 0.923,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0.89,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.44,
+        "trainer": 2.13,
+        "weight": 5.54,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "placePct": 45,
+        "record": "1-11"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (55kg).",
+        "Against it: stable out of form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (55kg)"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0225,
+      "pPlace": 0.1075,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEL CANTO DREAM",
+      "key": "BEL CANTO DREAM",
+      "draw": 8,
+      "rating": 71,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Eric Sands",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.436,
+        "trainer": 0.537,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.31,
+        "trainer": 2.69,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 1,
+        "places": 5,
+        "winPct": 6,
+        "placePct": 28,
+        "record": "1-18"
+      },
+      "trainerRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (54.5kg).",
+        "Against it: lower-rated (MR 71); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 71)",
+        "well beaten lately"
+      ],
+      "rank": 9,
+      "pWin": 0.0214,
+      "pPlace": 0.1023,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "MARCUS AURELIUS",
+      "rank": 1,
+      "score": 61.4,
+      "rating": 85,
+      "draw": 2,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.778,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.757,
+        "trainer": 0.589,
+        "weight": 0.308,
+        "headToHead": 0.5,
+        "recencyMargin": 0.813
+      }
+    },
+    {
+      "no": null,
+      "name": "FUTURE FREE",
+      "rank": 2,
+      "score": 55.1,
+      "rating": 89,
+      "draw": 1,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.481,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CAPTAINS ALLIANCE",
+      "rank": 3,
+      "score": 49.6,
+      "rating": 81,
+      "draw": 9,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.556,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.683,
+        "trainer": 0.531,
+        "weight": 0.615,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MAN OF CONSEQUENCE",
+      "rank": 4,
+      "score": 49.2,
+      "rating": 80,
+      "draw": 5,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.395,
+        "trainer": 0.531,
+        "weight": 0.615,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHOW OFF",
+      "rank": 5,
+      "score": 47.1,
+      "rating": 77,
+      "draw": 6,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.333,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.636,
+        "trainer": 0.679,
+        "weight": 0.538,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CARRIACOU",
+      "rank": 6,
+      "score": 47.1,
+      "rating": 78,
+      "draw": 3,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.389,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.4,
+        "trainer": 0.537,
+        "weight": 0.462,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SIGNOR DANTE",
+      "rank": 7,
+      "score": 46,
+      "rating": 74,
+      "draw": 4,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.167,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.481,
+        "trainer": 0.679,
+        "weight": 0.769,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SET TO MUSIC",
+      "rank": 8,
+      "score": 42.7,
+      "rating": 72,
+      "draw": 7,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.056,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.481,
+        "trainer": 0.425,
+        "weight": 0.923,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEL CANTO DREAM",
+      "rank": 9,
+      "score": 42.4,
+      "rating": 71,
+      "draw": 8,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Eric Sands",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.436,
+        "trainer": 0.537,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MARCUS AURELIUS",
+      "key": "MARCUS AURELIUS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHOW OFF",
+      "key": "SHOW OFF",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SET TO MUSIC",
+      "key": "SET TO MUSIC",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CAPTAINS ALLIANCE",
+      "key": "CAPTAINS ALLIANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CARRIACOU",
+      "key": "CARRIACOU",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MAN OF CONSEQUENCE",
+      "key": "MAN OF CONSEQUENCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEL CANTO DREAM",
+      "key": "BEL CANTO DREAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "FUTURE FREE",
+  "places": 3
+}
