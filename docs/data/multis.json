@@ -1,6 +1,317 @@
 {
-  "generated": "2026-07-28T12:20:23.032Z",
+  "generated": "2026-07-28T19:16:16.294Z",
   "days": {
+    "2026-03-30": {
+      "bankers": [
+        {
+          "race": 6,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "GOLD GOLD BABY",
+          "pWin": 33.8,
+          "pPlace": 76.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "HURRICANE PAIGE",
+          "pWin": 32.5,
+          "pPlace": 74.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "FOLLOW YOUR HEART",
+          "pWin": 31.1,
+          "pPlace": 73.4,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0342,
+          "combinedPct": 3.4,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 33.8
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 32.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 31.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0091,
+          "combinedPct": 0.9,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 33.8
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 32.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 31.1
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE ABOUNDS",
+              "prob": 26.6
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0023,
+          "combinedPct": 0.2,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 33.8
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 32.5
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 31.1
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE ABOUNDS",
+              "prob": 26.6
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "STEALTH",
+              "prob": 25.4
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.2851,
+          "combinedPct": 28.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 76.9
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 74.3
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 73.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE ABOUNDS",
+              "prob": 68
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.1582,
+          "combinedPct": 15.8,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 76.9
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 74.3
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 73.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE ABOUNDS",
+              "prob": 68
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLIFFSCAPE",
+              "prob": 55.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.087,
+          "combinedPct": 8.7,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "GOLD GOLD BABY",
+              "prob": 76.9
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "HURRICANE PAIGE",
+              "prob": 74.3
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 73.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVE ABOUNDS",
+              "prob": 68
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLIFFSCAPE",
+              "prob": 55.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "TOO FAST TO FIESTA",
+              "prob": 54.9
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0342,
+        "combinedPct": 3.4,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 6,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "GOLD GOLD BABY",
+            "prob": 33.8
+          },
+          {
+            "race": 2,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "HURRICANE PAIGE",
+            "prob": 32.5
+          },
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "FOLLOW YOUR HEART",
+            "prob": 31.1
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
     "2026-07-05": {
       "bankers": [
         {

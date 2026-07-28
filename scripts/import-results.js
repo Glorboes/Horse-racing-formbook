@@ -20,6 +20,7 @@ const { classify } = require('./lib/parse-racecard');
 const { normalizeName } = require('./lib/names');
 const { scoreRace } = require('./lib/scoring');
 const { annotatePrediction } = require('./lib/multibet');
+const { parseMeeting: parseFormgrids } = require('./lib/parse-formgrids');
 const { syncDashboard } = require('./lib/sync-dashboard');
 const { autoPush } = require('./lib/autopush');
 
@@ -222,9 +223,12 @@ function main() {
   if (!file || !fs.existsSync(file)) { console.error('Usage: import-results.js <results.txt> --date YYYY-MM-DD --track <Track> [--no-push]'); process.exit(1); }
 
   const text = fs.readFileSync(file, 'utf8');
-  const races = looksComputaform(text)
-    ? parseComputaform(text, date, track, buildPredIndex(date))
-    : parse(text, date, track);
+  const looksFormgrids = /Add horse to watchlist/i.test(text) || /Previous Races\s+#\s+Horse/i.test(text);
+  const races = looksFormgrids
+    ? parseFormgrids(text).map((r) => ({ date, track, race: r.race, distance: null, going: null, classLabel: null, finishers: r.finishers }))
+    : looksComputaform(text)
+      ? parseComputaform(text, date, track, buildPredIndex(date))
+      : parse(text, date, track);
   if (!races.length) { console.error('No races parsed — check the results format.'); process.exit(1); }
 
   const book = fb.load();

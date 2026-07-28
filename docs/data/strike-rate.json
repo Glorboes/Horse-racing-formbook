@@ -1,83 +1,11 @@
 {
-  "settled": 40,
+  "settled": 49,
   "scratched": 2,
-  "topPickWins": 14,
-  "topPickPlaces": 23,
-  "winPct": 35,
-  "placePct": 57.5,
+  "topPickWins": 15,
+  "topPickPlaces": 28,
+  "winPct": 30.6,
+  "placePct": 57.1,
   "history": [
-    {
-      "id": "2026-07-05-turffontein-r1",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 1,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-05-turffontein-r2",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 2,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-05-turffontein-r3",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 3,
-      "won": false,
-      "placed": false
-    },
-    {
-      "id": "2026-07-05-turffontein-r4",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 4,
-      "won": false,
-      "placed": false
-    },
-    {
-      "id": "2026-07-05-turffontein-r5",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 5,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-05-turffontein-r6",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 6,
-      "won": false,
-      "placed": true
-    },
-    {
-      "id": "2026-07-05-turffontein-r7",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 7,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-05-turffontein-r8",
-      "date": "2026-07-05",
-      "track": "TURFFONTEIN",
-      "race": 8,
-      "won": true,
-      "placed": true
-    },
-    {
-      "id": "2026-07-07-hollywoodbets-durbanville-r1",
-      "date": "2026-07-07",
-      "track": "HOLLYWOODBETS DURBANVILLE",
-      "race": 1,
-      "won": false,
-      "placed": true
-    },
     {
       "id": "2026-07-07-hollywoodbets-durbanville-r2",
       "date": "2026-07-07",
@@ -325,6 +253,78 @@
       "race": 7,
       "won": false,
       "placed": false
+    },
+    {
+      "id": "2026-03-30-kenilworth-r1",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 1,
+      "won": true,
+      "placed": true
+    },
+    {
+      "id": "2026-03-30-kenilworth-r2",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 2,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-03-30-kenilworth-r3",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 3,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-03-30-kenilworth-r4",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 4,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-03-30-kenilworth-r5",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 5,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-03-30-kenilworth-r6",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 6,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-03-30-kenilworth-r7",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 7,
+      "won": false,
+      "placed": true
+    },
+    {
+      "id": "2026-03-30-kenilworth-r8",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 8,
+      "won": false,
+      "placed": false
+    },
+    {
+      "id": "2026-03-30-kenilworth-r9",
+      "date": "2026-03-30",
+      "track": "Kenilworth",
+      "race": 9,
+      "won": false,
+      "placed": true
     }
   ],
   "calibration": [
@@ -337,15 +337,15 @@
     },
     {
       "tier": "25–40%",
-      "n": 19,
+      "n": 24,
       "wins": 8,
       "expectedPct": 30,
-      "winPct": 42
+      "winPct": 33
     },
     {
       "tier": "15–25%",
-      "n": 16,
-      "wins": 4,
+      "n": 20,
+      "wins": 5,
       "expectedPct": 21,
       "winPct": 25
     },
@@ -358,41 +358,41 @@
     }
   ],
   "clv": {
-    "racesWithPrice": 24,
-    "runnersWithPrice": 216,
+    "racesWithPrice": 33,
+    "runnersWithPrice": 296,
     "pickAvgModelPct": 26,
-    "pickAvgClosePct": 20,
-    "pickWinPct": 17,
-    "beatClosePicks": 16,
-    "beatCloseWinPct": 0,
+    "pickAvgClosePct": 17,
+    "pickWinPct": 15,
+    "beatClosePicks": 25,
+    "beatCloseWinPct": 4,
     "buckets": [
       {
         "label": "model +10pts",
-        "n": 17,
+        "n": 26,
         "avgModelPct": 24,
         "avgClosePct": 7,
         "winPct": 0
       },
       {
         "label": "model +3–10pts",
-        "n": 49,
+        "n": 72,
         "avgModelPct": 11,
         "avgClosePct": 6,
         "winPct": 4
       },
       {
         "label": "agree (±3pts)",
-        "n": 92,
+        "n": 117,
         "avgModelPct": 8,
         "avgClosePct": 7,
-        "winPct": 5
+        "winPct": 6
       },
       {
         "label": "model −3pts+",
-        "n": 58,
+        "n": 81,
         "avgModelPct": 12,
-        "avgClosePct": 23,
-        "winPct": 29
+        "avgClosePct": 22,
+        "winPct": 28
       }
     ]
   },
@@ -400,17 +400,17 @@
     "green": false,
     "passed": 1,
     "total": 5,
-    "n": 24,
+    "n": 33,
     "target": 200,
-    "overallRoi": -57.4,
-    "recentRoi": -57.4,
+    "overallRoi": -50.8,
+    "recentRoi": -50.8,
     "criteria": [
       {
         "key": "sample",
         "label": "Enough races",
         "pass": false,
-        "detail": "24 / 200 priced races logged",
-        "progress": 0.12
+        "detail": "33 / 200 priced races logged",
+        "progress": 0.165
       },
       {
         "key": "beatclose",
@@ -423,21 +423,21 @@
         "key": "calibration",
         "label": "Well calibrated",
         "pass": true,
-        "detail": "avg gap expected vs actual 8 pts (need ≤ 8)",
-        "progress": 0.6
+        "detail": "avg gap expected vs actual 4 pts (need ≤ 8)",
+        "progress": 0.8
       },
       {
         "key": "oos",
         "label": "Holds out-of-sample",
         "pass": false,
-        "detail": "last 24 picks: -57.4% at SP",
+        "detail": "last 33 picks: -50.8% at SP",
         "progress": 0
       },
       {
         "key": "margin",
         "label": "Clears the margin (profit at SP)",
         "pass": false,
-        "detail": "flat-stake ROI -57.4% (need ≥ +2%)",
+        "detail": "flat-stake ROI -50.8% (need ≥ +2%)",
         "progress": 0
       }
     ]
