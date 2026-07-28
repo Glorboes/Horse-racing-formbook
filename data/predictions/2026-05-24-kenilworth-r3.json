@@ -1,0 +1,1362 @@
+{
+  "id": "2026-05-24-kenilworth-r3",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 3,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.660Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "draw": 7,
+      "rating": 69,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 75.4,
+      "factors": {
+        "form": 1,
+        "rating": 0.708,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.652,
+        "trainer": 0.549,
+        "weight": 0.222,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 11.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.95,
+        "trainer": 2.74,
+        "weight": 1.33,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "4-0",
+        "wins": 4,
+        "losses": 0,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DEVIL A SAINT",
+          "FORT YUKON",
+          "GIVETHATMANABELLS",
+          "TYPICALLY FRENCH"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 2,
+        "places": 5,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 11,
+        "places": 24,
+        "winPct": 21,
+        "placePct": 46,
+        "record": "11-52"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 4,
+        "places": 11,
+        "winPct": 15,
+        "record": "4-27"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: 21%-strike jockey booked; has beaten DEVIL A SAINT, FORT YUKON; strong recent form.",
+        "Jockey Craig Zackey in form (21% strike).",
+        "Has beaten DEVIL A SAINT, FORT YUKON, GIVETHATMANABELLS, TYPICALLY FRENCH before (H2H 4-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "has beaten DEVIL A SAINT, FORT YUKON",
+        "strong recent form"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.4455,
+      "pPlace": 0.9532,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "draw": 4,
+      "rating": 76,
+      "jockey": "Corne Orffer",
+      "trainer": "Piet Botha",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 73.7,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.404,
+        "trainer": 0.529,
+        "weight": 0.056,
+        "headToHead": 0.543,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.21,
+        "trainer": 2.65,
+        "weight": 0.33,
+        "headToHead": 6.52,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 0.80L at Kenilworth."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-44"
+      },
+      "trainerRec": {
+        "starts": 38,
+        "wins": 5,
+        "places": 9,
+        "winPct": 13,
+        "record": "5-38"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 0.80L at Kenilworth.",
+        "Why it can win: strong recent form; top-rated in the field (MR 76); hitting the line hard lately.",
+        "Against it: top-weight (61kg)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 76)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.3356,
+      "pPlace": 0.9207,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FORT YUKON",
+      "key": "FORT YUKON",
+      "draw": 1,
+      "rating": 76,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Adam Marcus",
+      "weight": 61,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 69,
+      "factors": {
+        "form": 0.7,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.439,
+        "trainer": 0.7,
+        "weight": 0.056,
+        "headToHead": 0.762,
+        "recencyMargin": 0.696
+      },
+      "contrib": {
+        "form": 12.6,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.32,
+        "trainer": 3.5,
+        "weight": 0.33,
+        "headToHead": 9.14,
+        "recencyMargin": 8.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DEVIL A SAINT",
+          "GIVETHATMANABELLS",
+          "TYPICALLY FRENCH"
+        ],
+        "losesTo": [
+          "NOON DAY GUN"
+        ]
+      },
+      "recentForm": [
+        "4th of 11 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 6,
+        "places": 10,
+        "winPct": 27,
+        "record": "6-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 11 last start.",
+        "Why it can win: drawn 1 — a handy low draw; stable in form (27%); top-rated in the field (MR 76).",
+        "Against it: top-weight (61kg).",
+        "Has beaten DEVIL A SAINT, GIVETHATMANABELLS, TYPICALLY FRENCH before (H2H 3-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer",
+        "rating"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "stable in form (27%)",
+        "top-rated in the field (MR 76)"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1533,
+      "pPlace": 0.7479,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RED DAWN",
+      "key": "RED DAWN",
+      "draw": 3,
+      "rating": 75,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.958,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.472,
+        "trainer": 0.602,
+        "weight": 0.167,
+        "headToHead": 0.615,
+        "recencyMargin": 0.332
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 15.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.42,
+        "trainer": 3.01,
+        "weight": 1,
+        "headToHead": 7.38,
+        "recencyMargin": 3.98
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "SIGNOR DANTE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 13 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 3,
+        "places": 9,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "3-33"
+      },
+      "trainerRec": {
+        "starts": 74,
+        "wins": 13,
+        "places": 29,
+        "winPct": 18,
+        "record": "13-74"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 13 last start.",
+        "Why it can win: stable in form (18%); well-rated (MR 75); drawn 3 — a handy low draw.",
+        "Against it: well beaten lately.",
+        "Has beaten SIGNOR DANTE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "stable in form (18%)",
+        "well-rated (MR 75)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0294,
+      "pPlace": 0.1681,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "draw": 5,
+      "rating": 73,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.6,
+      "factors": {
+        "form": 0.512,
+        "rating": 0.875,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.568,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.471,
+        "recencyMargin": 0.547
+      },
+      "contrib": {
+        "form": 9.21,
+        "rating": 14,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.7,
+        "trainer": 2.59,
+        "weight": 0,
+        "headToHead": 5.65,
+        "recencyMargin": 6.56
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "RED DAWN"
+        ]
+      },
+      "recentForm": [
+        "9th of 13 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 4,
+        "places": 8,
+        "winPct": 25,
+        "record": "4-16"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 7,
+        "places": 20,
+        "winPct": 12,
+        "record": "7-57"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 13 last start.",
+        "Why it can win: 16%-strike jockey booked.",
+        "Against it: top-weight (61.5kg); beaten by RED DAWN before.",
+        "Beaten by RED DAWN in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "16%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "beaten by RED DAWN before"
+      ],
+      "rank": 5,
+      "pWin": 0.0164,
+      "pPlace": 0.095,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TYPICALLY FRENCH",
+      "key": "TYPICALLY FRENCH",
+      "draw": 2,
+      "rating": 52,
+      "jockey": "Keanen Steyn",
+      "trainer": "Paul Reeves",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.6,
+      "factors": {
+        "form": 0.6,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.374,
+        "trainer": 0.549,
+        "weight": 1,
+        "headToHead": 0.589,
+        "recencyMargin": 0.592
+      },
+      "contrib": {
+        "form": 10.8,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.12,
+        "trainer": 2.74,
+        "weight": 6,
+        "headToHead": 7.07,
+        "recencyMargin": 7.1
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DEVIL A SAINT",
+          "GIVETHATMANABELLS"
+        ],
+        "losesTo": [
+          "FORT YUKON",
+          "NOON DAY GUN"
+        ]
+      },
+      "recentForm": [
+        "5th of 11 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 6,
+        "record": "0-17"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 4,
+        "places": 11,
+        "winPct": 15,
+        "record": "4-27"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 11 last start.",
+        "Why it can win: well-in at the weights (52.5kg); drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 52); lightly-supported jockey booking.",
+        "Has beaten DEVIL A SAINT, GIVETHATMANABELLS before (H2H 2-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 52)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 6,
+      "pWin": 0.0084,
+      "pPlace": 0.0491,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "COUNT WILLIAM",
+      "key": "COUNT WILLIAM",
+      "draw": 6,
+      "rating": 71,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.792,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.386,
+        "trainer": 0.365,
+        "weight": 0.111,
+        "headToHead": 0.543,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.67,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.16,
+        "trainer": 1.82,
+        "weight": 0.67,
+        "headToHead": 6.52,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 34,
+        "wins": 1,
+        "places": 8,
+        "winPct": 3,
+        "placePct": 24,
+        "record": "1-34"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-21"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: stable out of form; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0067,
+      "pPlace": 0.039,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIVETHATMANABELLS",
+      "key": "GIVETHATMANABELLS",
+      "draw": 8,
+      "rating": 70,
+      "jockey": "Andrew Fortune",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.597,
+        "trainer": 0.492,
+        "weight": 0.167,
+        "headToHead": 0.365,
+        "recencyMargin": 0.354
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.79,
+        "trainer": 2.46,
+        "weight": 1,
+        "headToHead": 4.37,
+        "recencyMargin": 4.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DEVIL A SAINT"
+        ],
+        "losesTo": [
+          "FORT YUKON",
+          "NOON DAY GUN",
+          "TYPICALLY FRENCH"
+        ]
+      },
+      "recentForm": [
+        "7th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 9,
+        "winPct": 19,
+        "placePct": 43,
+        "record": "4-21"
+      },
+      "trainerRec": {
+        "starts": 38,
+        "wins": 4,
+        "places": 13,
+        "winPct": 11,
+        "record": "4-38"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 11 last start.",
+        "Why it can win: 19%-strike jockey booked.",
+        "Against it: patchy recent form; beaten by FORT YUKON, NOON DAY GUN before.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Has beaten DEVIL A SAINT before (H2H 1-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by FORT YUKON, NOON DAY GUN before"
+      ],
+      "rank": 8,
+      "pWin": 0.0043,
+      "pPlace": 0.0253,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DEVIL A SAINT",
+      "key": "DEVIL A SAINT",
+      "draw": 9,
+      "rating": 69,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31.3,
+      "factors": {
+        "form": 0.1,
+        "rating": 0.708,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.369,
+        "trainer": 0.427,
+        "weight": 0.222,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 1.8,
+        "rating": 11.33,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.11,
+        "trainer": 2.14,
+        "weight": 1.33,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-4",
+        "wins": 0,
+        "losses": 4,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "FORT YUKON",
+          "NOON DAY GUN",
+          "GIVETHATMANABELLS",
+          "TYPICALLY FRENCH"
+        ]
+      },
+      "recentForm": [
+        "10th of 11 last start."
+      ],
+      "combo": {
+        "starts": 13,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 5,
+        "record": "0-19"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 2,
+        "places": 5,
+        "winPct": 6,
+        "record": "2-34"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 11 last start.",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "Beaten by FORT YUKON, NOON DAY GUN, GIVETHATMANABELLS, TYPICALLY FRENCH in the past (H2H 0-4 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 9,
+      "pWin": 0.0003,
+      "pPlace": 0.0017,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "NOON DAY GUN",
+      "rank": 1,
+      "score": 75.4,
+      "rating": 69,
+      "draw": 7,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.708,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.652,
+        "trainer": 0.549,
+        "weight": 0.222,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "PACIFIC WATERS",
+      "rank": 2,
+      "score": 73.7,
+      "rating": 76,
+      "draw": 4,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Piet Botha",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.404,
+        "trainer": 0.529,
+        "weight": 0.056,
+        "headToHead": 0.543,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "FORT YUKON",
+      "rank": 3,
+      "score": 69,
+      "rating": 76,
+      "draw": 1,
+      "weight": 61,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Adam Marcus",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.7,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.439,
+        "trainer": 0.7,
+        "weight": 0.056,
+        "headToHead": 0.762,
+        "recencyMargin": 0.696
+      }
+    },
+    {
+      "no": null,
+      "name": "RED DAWN",
+      "rank": 4,
+      "score": 59.1,
+      "rating": 75,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "73",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.958,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.472,
+        "trainer": 0.602,
+        "weight": 0.167,
+        "headToHead": 0.615,
+        "recencyMargin": 0.332
+      }
+    },
+    {
+      "no": null,
+      "name": "SIGNOR DANTE",
+      "rank": 5,
+      "score": 55.6,
+      "rating": 73,
+      "draw": 5,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "93",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.512,
+        "rating": 0.875,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.568,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.471,
+        "recencyMargin": 0.547
+      }
+    },
+    {
+      "no": null,
+      "name": "TYPICALLY FRENCH",
+      "rank": 6,
+      "score": 51.6,
+      "rating": 52,
+      "draw": 2,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Paul Reeves",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.6,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.374,
+        "trainer": 0.549,
+        "weight": 1,
+        "headToHead": 0.589,
+        "recencyMargin": 0.592
+      }
+    },
+    {
+      "no": null,
+      "name": "COUNT WILLIAM",
+      "rank": 7,
+      "score": 50.2,
+      "rating": 71,
+      "draw": 6,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.792,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.386,
+        "trainer": 0.365,
+        "weight": 0.111,
+        "headToHead": 0.543,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GIVETHATMANABELLS",
+      "rank": 8,
+      "score": 47.6,
+      "rating": 70,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.597,
+        "trainer": 0.492,
+        "weight": 0.167,
+        "headToHead": 0.365,
+        "recencyMargin": 0.354
+      }
+    },
+    {
+      "no": null,
+      "name": "DEVIL A SAINT",
+      "rank": 9,
+      "score": 31.3,
+      "rating": 69,
+      "draw": 9,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "10",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.1,
+        "rating": 0.708,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.369,
+        "trainer": 0.427,
+        "weight": 0.222,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "NOON DAY GUN",
+      "key": "NOON DAY GUN",
+      "points": 6.299,
+      "wins": 4,
+      "losses": 0,
+      "meetings": 4,
+      "beats": [
+        "DEVIL A SAINT",
+        "FORT YUKON",
+        "GIVETHATMANABELLS",
+        "TYPICALLY FRENCH"
+      ],
+      "losesTo": [],
+      "record": "4-0",
+      "smallSample": true
+    },
+    {
+      "name": "FORT YUKON",
+      "key": "FORT YUKON",
+      "points": 3.012,
+      "wins": 3,
+      "losses": 1,
+      "meetings": 4,
+      "beats": [
+        "DEVIL A SAINT",
+        "GIVETHATMANABELLS",
+        "TYPICALLY FRENCH"
+      ],
+      "losesTo": [
+        "NOON DAY GUN"
+      ],
+      "record": "3-1",
+      "smallSample": true
+    },
+    {
+      "name": "RED DAWN",
+      "key": "RED DAWN",
+      "points": 0.995,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "SIGNOR DANTE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "TYPICALLY FRENCH",
+      "key": "TYPICALLY FRENCH",
+      "points": 0.637,
+      "wins": 2,
+      "losses": 2,
+      "meetings": 4,
+      "beats": [
+        "DEVIL A SAINT",
+        "GIVETHATMANABELLS"
+      ],
+      "losesTo": [
+        "FORT YUKON",
+        "NOON DAY GUN"
+      ],
+      "record": "2-2",
+      "smallSample": true
+    },
+    {
+      "name": "PACIFIC WATERS",
+      "key": "PACIFIC WATERS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "COUNT WILLIAM",
+      "key": "COUNT WILLIAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "points": -0.995,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "RED DAWN"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "GIVETHATMANABELLS",
+      "key": "GIVETHATMANABELLS",
+      "points": -2.461,
+      "wins": 1,
+      "losses": 3,
+      "meetings": 4,
+      "beats": [
+        "DEVIL A SAINT"
+      ],
+      "losesTo": [
+        "FORT YUKON",
+        "NOON DAY GUN",
+        "TYPICALLY FRENCH"
+      ],
+      "record": "1-3",
+      "smallSample": true
+    },
+    {
+      "name": "DEVIL A SAINT",
+      "key": "DEVIL A SAINT",
+      "points": -7.486,
+      "wins": 0,
+      "losses": 4,
+      "meetings": 4,
+      "beats": [],
+      "losesTo": [
+        "FORT YUKON",
+        "NOON DAY GUN",
+        "GIVETHATMANABELLS",
+        "TYPICALLY FRENCH"
+      ],
+      "record": "0-4",
+      "smallSample": true
+    }
+  ],
+  "strongest": "NOON DAY GUN",
+  "places": 3
+}

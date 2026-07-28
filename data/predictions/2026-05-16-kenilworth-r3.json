@@ -1,0 +1,1490 @@
+{
+  "id": "2026-05-16-kenilworth-r3",
+  "date": "2026-05-16",
+  "track": "Kenilworth",
+  "race": 3,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.684Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "THE BIG BANG",
+      "key": "THE BIG BANG",
+      "draw": 9,
+      "rating": 74,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.3,
+      "factors": {
+        "form": 0.622,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.895,
+        "trainer": 0.628,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 0.917
+      },
+      "contrib": {
+        "form": 11.2,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 2.68,
+        "trainer": 3.14,
+        "weight": 3,
+        "headToHead": 12,
+        "recencyMargin": 11.01
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "HILTON HEADS",
+          "MISTER ED",
+          "PROTECTOR OF PEACE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 8 last start."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 8,
+        "places": 16,
+        "winPct": 38,
+        "record": "8-21"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 10,
+        "places": 18,
+        "winPct": 37,
+        "placePct": 67,
+        "record": "10-27"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 10,
+        "places": 21,
+        "winPct": 18,
+        "record": "10-57"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Why it can win: 37%-strike jockey booked; has beaten HILTON HEADS, MISTER ED; hitting the line hard lately.",
+        "Jockey Aldo Domeyer in form (37% strike).",
+        "Has beaten HILTON HEADS, MISTER ED, PROTECTOR OF PEACE before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "37%-strike jockey booked",
+        "has beaten HILTON HEADS, MISTER ED",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.4881,
+      "pPlace": 0.9468,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HILTON HEADS",
+      "key": "HILTON HEADS",
+      "draw": 2,
+      "rating": 74,
+      "jockey": "Gareth Wright",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 68.1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.403,
+        "trainer": 0.69,
+        "weight": 0.5,
+        "headToHead": 0.799,
+        "recencyMargin": 0.863
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 1.21,
+        "trainer": 3.45,
+        "weight": 3,
+        "headToHead": 9.59,
+        "recencyMargin": 10.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "MISTER ED",
+          "PROTECTOR OF PEACE"
+        ],
+        "losesTo": [
+          "THE BIG BANG"
+        ]
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 1,
+        "places": 9,
+        "winPct": 3,
+        "placePct": 31,
+        "record": "1-29"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 7,
+        "places": 17,
+        "winPct": 23,
+        "record": "7-31"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: stable in form (23%); drawn 2 — a handy low draw; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking.",
+        "Has beaten MISTER ED, PROTECTOR OF PEACE before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "stable in form (23%)",
+        "drawn 2 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 2,
+      "pWin": 0.2863,
+      "pPlace": 0.8626,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PROTECTOR OF PEACE",
+      "key": "PROTECTOR OF PEACE",
+      "draw": 1,
+      "rating": 74,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.6,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.448,
+        "trainer": 0.556,
+        "weight": 0.5,
+        "headToHead": 0.598,
+        "recencyMargin": 0.858
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.34,
+        "trainer": 2.78,
+        "weight": 3,
+        "headToHead": 7.17,
+        "recencyMargin": 10.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "MISTER ED"
+        ],
+        "losesTo": [
+          "THE BIG BANG",
+          "HILTON HEADS"
+        ]
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": {
+        "starts": 8,
+        "wins": 2,
+        "places": 5,
+        "winPct": 25,
+        "record": "2-8"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 3,
+        "places": 16,
+        "winPct": 7,
+        "placePct": 36,
+        "record": "3-44"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 9,
+        "places": 25,
+        "winPct": 13,
+        "record": "9-68"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: drawn 1 — a handy low draw; hitting the line hard lately.",
+        "Has beaten MISTER ED before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [],
+      "rank": 3,
+      "pWin": 0.1145,
+      "pPlace": 0.5737,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BIG DEAL",
+      "key": "BIG DEAL",
+      "draw": 10,
+      "rating": 72,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.3,
+      "factors": {
+        "form": 0.529,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.433,
+        "trainer": 0.443,
+        "weight": 0.5,
+        "headToHead": 0.903,
+        "recencyMargin": 0.524
+      },
+      "contrib": {
+        "form": 9.51,
+        "rating": 9.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.3,
+        "jockey": 1.3,
+        "trainer": 2.21,
+        "weight": 3,
+        "headToHead": 10.83,
+        "recencyMargin": 6.29
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "CAESAR'S RANSOM",
+          "BORN OF FIRE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 11 last start."
+      ],
+      "combo": {
+        "starts": 11,
+        "wins": 2,
+        "places": 5,
+        "winPct": 18,
+        "record": "2-11"
+      },
+      "jockeyRec": {
+        "starts": 35,
+        "wins": 2,
+        "places": 11,
+        "winPct": 6,
+        "placePct": 31,
+        "record": "2-35"
+      },
+      "trainerRec": {
+        "starts": 32,
+        "wins": 2,
+        "places": 9,
+        "winPct": 6,
+        "record": "2-32"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 11 last start.",
+        "Why it can win: has beaten CAESAR'S RANSOM, BORN OF FIRE.",
+        "Against it: drawn wide (10).",
+        "Has beaten CAESAR'S RANSOM, BORN OF FIRE before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead"
+      ],
+      "_concerns": [
+        "draw"
+      ],
+      "_strReasons": [
+        "has beaten CAESAR'S RANSOM, BORN OF FIRE"
+      ],
+      "_conReasons": [
+        "drawn wide (10)"
+      ],
+      "rank": 4,
+      "pWin": 0.0473,
+      "pPlace": 0.2591,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OH SO ONEDERFUL",
+      "key": "OH SO ONEDERFUL",
+      "draw": 5,
+      "rating": 66,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.5,
+      "factors": {
+        "form": 0.8,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.408,
+        "trainer": 0.452,
+        "weight": 0.5,
+        "headToHead": 0.775,
+        "recencyMargin": 0.775
+      },
+      "contrib": {
+        "form": 14.4,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.22,
+        "trainer": 2.26,
+        "weight": 3,
+        "headToHead": 9.3,
+        "recencyMargin": 9.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "BORN OF FIRE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 11 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 1,
+        "places": 6,
+        "winPct": 4,
+        "placePct": 22,
+        "record": "1-27"
+      },
+      "trainerRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 19,
+        "winPct": 7,
+        "record": "4-56"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 11 last start.",
+        "Why it can win: strong recent form.",
+        "Against it: lower-rated (MR 66); lightly-supported jockey booking.",
+        "Has beaten BORN OF FIRE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 66)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 5,
+      "pWin": 0.0351,
+      "pPlace": 0.1945,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WHATWILLBEWILLBE",
+      "key": "WHATWILLBEWILLBE",
+      "draw": 3,
+      "rating": 71,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.555,
+        "trainer": 0.556,
+        "weight": 0.5,
+        "headToHead": 0.599,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.67,
+        "trainer": 2.78,
+        "weight": 3,
+        "headToHead": 7.19,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 1,
+        "places": 1,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 5,
+        "places": 16,
+        "winPct": 14,
+        "placePct": 43,
+        "record": "5-37"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 9,
+        "places": 25,
+        "winPct": 13,
+        "record": "9-68"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 14%-strike jockey booked; drawn 3 — a handy low draw.",
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "14%-strike jockey booked",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0168,
+      "pPlace": 0.0952,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAESAR'S RANSOM",
+      "key": "CAESARS RANSOM",
+      "draw": 4,
+      "rating": 76,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.1,
+      "factors": {
+        "form": 0.1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.531,
+        "trainer": 0.438,
+        "weight": 0.5,
+        "headToHead": 0.248,
+        "recencyMargin": 0.133
+      },
+      "contrib": {
+        "form": 1.8,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.1,
+        "jockey": 1.59,
+        "trainer": 2.19,
+        "weight": 3,
+        "headToHead": 2.98,
+        "recencyMargin": 1.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "BORN OF FIRE",
+          "BIG DEAL"
+        ]
+      },
+      "recentForm": [
+        "10th of 11 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 42,
+        "wins": 5,
+        "places": 18,
+        "winPct": 12,
+        "placePct": 43,
+        "record": "5-42"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 4,
+        "winPct": 5,
+        "record": "1-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 11 last start.",
+        "Why it can win: top-rated in the field (MR 76); 12%-strike jockey booked.",
+        "Against it: patchy recent form; beaten by BORN OF FIRE, BIG DEAL before.",
+        "Beaten by BORN OF FIRE, BIG DEAL in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 76)",
+        "12%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by BORN OF FIRE, BIG DEAL before"
+      ],
+      "rank": 7,
+      "pWin": 0.0062,
+      "pPlace": 0.0354,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ROYAL CLINTON",
+      "key": "ROYAL CLINTON",
+      "draw": 6,
+      "rating": 66,
+      "jockey": "Oswald Noach",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 41.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.367,
+        "trainer": 0.55,
+        "weight": 0.5,
+        "headToHead": 0.599,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.1,
+        "trainer": 2.75,
+        "weight": 3,
+        "headToHead": 7.19,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 5,
+        "record": "0-20"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 3,
+        "places": 9,
+        "winPct": 14,
+        "record": "3-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 66); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 66)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0032,
+      "pPlace": 0.0185,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BORN OF FIRE",
+      "key": "BORN OF FIRE",
+      "draw": 8,
+      "rating": 68,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 38.5,
+      "factors": {
+        "form": 0.214,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.438,
+        "trainer": 0.383,
+        "weight": 0.5,
+        "headToHead": 0.471,
+        "recencyMargin": 0.426
+      },
+      "contrib": {
+        "form": 3.86,
+        "rating": 3.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 1.31,
+        "trainer": 1.92,
+        "weight": 3,
+        "headToHead": 5.65,
+        "recencyMargin": 5.11
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "CAESAR'S RANSOM"
+        ],
+        "losesTo": [
+          "OH SO ONEDERFUL",
+          "BIG DEAL"
+        ]
+      },
+      "recentForm": [
+        "11th of 11 last start."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "placePct": 26,
+        "record": "1-19"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Against it: stable out of form; patchy recent form.",
+        "Has beaten CAESAR'S RANSOM before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 9,
+      "pWin": 0.0021,
+      "pPlace": 0.0118,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MISTER ED",
+      "key": "MISTER ED",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Andries Steyn",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 28.8,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.411,
+        "trainer": 0.433,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 1.23,
+        "trainer": 2.17,
+        "weight": 3,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "THE BIG BANG",
+          "HILTON HEADS",
+          "PROTECTOR OF PEACE"
+        ]
+      },
+      "recentForm": [
+        "8th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 13,
+        "record": "0-8"
+      },
+      "trainerRec": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 8 last start.",
+        "Against it: patchy recent form; beaten by THE BIG BANG, HILTON HEADS before.",
+        "Beaten by THE BIG BANG, HILTON HEADS, PROTECTOR OF PEACE in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by THE BIG BANG, HILTON HEADS before"
+      ],
+      "rank": 10,
+      "pWin": 0.0004,
+      "pPlace": 0.0024,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "THE BIG BANG",
+      "rank": 1,
+      "score": 71.3,
+      "rating": 74,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.622,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.895,
+        "trainer": 0.628,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 0.917
+      }
+    },
+    {
+      "no": null,
+      "name": "HILTON HEADS",
+      "rank": 2,
+      "score": 68.1,
+      "rating": 74,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Andre Nel",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.403,
+        "trainer": 0.69,
+        "weight": 0.5,
+        "headToHead": 0.799,
+        "recencyMargin": 0.863
+      }
+    },
+    {
+      "no": null,
+      "name": "PROTECTOR OF PEACE",
+      "rank": 3,
+      "score": 62.6,
+      "rating": 74,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.448,
+        "trainer": 0.556,
+        "weight": 0.5,
+        "headToHead": 0.598,
+        "recencyMargin": 0.858
+      }
+    },
+    {
+      "no": null,
+      "name": "BIG DEAL",
+      "rank": 4,
+      "score": 57.3,
+      "rating": 72,
+      "draw": 10,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "74",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.529,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.433,
+        "trainer": 0.443,
+        "weight": 0.5,
+        "headToHead": 0.903,
+        "recencyMargin": 0.524
+      }
+    },
+    {
+      "no": null,
+      "name": "OH SO ONEDERFUL",
+      "rank": 5,
+      "score": 55.5,
+      "rating": 66,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.8,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.408,
+        "trainer": 0.452,
+        "weight": 0.5,
+        "headToHead": 0.775,
+        "recencyMargin": 0.775
+      }
+    },
+    {
+      "no": null,
+      "name": "WHATWILLBEWILLBE",
+      "rank": 6,
+      "score": 51.1,
+      "rating": 71,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.555,
+        "trainer": 0.556,
+        "weight": 0.5,
+        "headToHead": 0.599,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CAESAR'S RANSOM",
+      "rank": 7,
+      "score": 45.1,
+      "rating": 76,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "10",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.531,
+        "trainer": 0.438,
+        "weight": 0.5,
+        "headToHead": 0.248,
+        "recencyMargin": 0.133
+      }
+    },
+    {
+      "no": null,
+      "name": "ROYAL CLINTON",
+      "rank": 8,
+      "score": 41.2,
+      "rating": 66,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.367,
+        "trainer": 0.55,
+        "weight": 0.5,
+        "headToHead": 0.599,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BORN OF FIRE",
+      "rank": 9,
+      "score": 38.5,
+      "rating": 68,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Chad Little",
+      "trainer": "Glen Kotzen",
+      "lastFive": "116",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.214,
+        "rating": 0.2,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.438,
+        "trainer": 0.383,
+        "weight": 0.5,
+        "headToHead": 0.471,
+        "recencyMargin": 0.426
+      }
+    },
+    {
+      "no": null,
+      "name": "MISTER ED",
+      "rank": 10,
+      "score": 28.8,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Andries Steyn",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.411,
+        "trainer": 0.433,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "THE BIG BANG",
+      "key": "THE BIG BANG",
+      "points": 3.785,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "HILTON HEADS",
+        "MISTER ED",
+        "PROTECTOR OF PEACE"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "BIG DEAL",
+      "key": "BIG DEAL",
+      "points": 2.867,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "CAESAR'S RANSOM",
+        "BORN OF FIRE"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "HILTON HEADS",
+      "key": "HILTON HEADS",
+      "points": 1.886,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "MISTER ED",
+        "PROTECTOR OF PEACE"
+      ],
+      "losesTo": [
+        "THE BIG BANG"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "OH SO ONEDERFUL",
+      "key": "OH SO ONEDERFUL",
+      "points": 1.659,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "BORN OF FIRE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "WHATWILLBEWILLBE",
+      "key": "WHATWILLBEWILLBE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROYAL CLINTON",
+      "key": "ROYAL CLINTON",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PROTECTOR OF PEACE",
+      "key": "PROTECTOR OF PEACE",
+      "points": -0.014,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "MISTER ED"
+      ],
+      "losesTo": [
+        "THE BIG BANG",
+        "HILTON HEADS"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "BORN OF FIRE",
+      "key": "BORN OF FIRE",
+      "points": -1.211,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "CAESAR'S RANSOM"
+      ],
+      "losesTo": [
+        "OH SO ONEDERFUL",
+        "BIG DEAL"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "CAESAR'S RANSOM",
+      "key": "CAESARS RANSOM",
+      "points": -3.315,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "BORN OF FIRE",
+        "BIG DEAL"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    },
+    {
+      "name": "MISTER ED",
+      "key": "MISTER ED",
+      "points": -5.657,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "THE BIG BANG",
+        "HILTON HEADS",
+        "PROTECTOR OF PEACE"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "THE BIG BANG",
+  "places": 3
+}

@@ -1,0 +1,1213 @@
+{
+  "id": "2026-05-24-kenilworth-r8",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.759Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "CHARLIE BUCKET",
+      "key": "CHARLIE BUCKET",
+      "draw": 2,
+      "rating": 69,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71.1,
+      "factors": {
+        "form": 0.9,
+        "rating": 0.7,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.427,
+        "trainer": 0.383,
+        "weight": 0.08,
+        "headToHead": 1,
+        "recencyMargin": 0.876
+      },
+      "contrib": {
+        "form": 16.2,
+        "rating": 11.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.28,
+        "trainer": 1.92,
+        "weight": 0.48,
+        "headToHead": 12,
+        "recencyMargin": 10.52
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MUTINY IN HEAVEN (IRE)",
+          "READY FOR THE ROAD"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 11 last start."
+      ],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 2,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 11 last start.",
+        "Why it can win: strong recent form; has beaten MUTINY IN HEAVEN (IRE), READY FOR THE ROAD; drawn 2 — a handy low draw.",
+        "Against it: stable out of form; top-weight (60.5kg).",
+        "Has beaten MUTINY IN HEAVEN (IRE), READY FOR THE ROAD before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten MUTINY IN HEAVEN (IRE), READY FOR THE ROAD",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60.5kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.6176,
+      "pPlace": 0.9797,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MUTINY IN HEAVEN (IRE)",
+      "key": "MUTINY IN HEAVEN",
+      "draw": 3,
+      "rating": 75,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 64.4,
+      "factors": {
+        "form": 0.8,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.541,
+        "trainer": 0.497,
+        "weight": 0,
+        "headToHead": 0.124,
+        "recencyMargin": 0.963
+      },
+      "contrib": {
+        "form": 14.4,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.62,
+        "trainer": 2.49,
+        "weight": 0,
+        "headToHead": 1.49,
+        "recencyMargin": 11.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "CHARLIE BUCKET"
+        ]
+      },
+      "recentForm": [
+        "Beaten only half a length into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 4,
+        "places": 8,
+        "winPct": 25,
+        "record": "4-16"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 7,
+        "places": 20,
+        "winPct": 12,
+        "record": "7-57"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 3rd last start — right there.",
+        "Why it can win: top-rated in the field (MR 75); hitting the line hard lately; 16%-strike jockey booked.",
+        "Against it: top-weight (61.5kg); beaten by CHARLIE BUCKET before.",
+        "Beaten by CHARLIE BUCKET in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "recencyMargin",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 75)",
+        "hitting the line hard lately",
+        "16%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "beaten by CHARLIE BUCKET before"
+      ],
+      "rank": 2,
+      "pWin": 0.2022,
+      "pPlace": 0.8332,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FREQUENT TRAVELLER",
+      "key": "FREQUENT TRAVELLER",
+      "draw": 5,
+      "rating": 70,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.1,
+      "factors": {
+        "form": 0.561,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.396,
+        "trainer": 0.395,
+        "weight": 0.2,
+        "headToHead": 0.755,
+        "recencyMargin": 0.642
+      },
+      "contrib": {
+        "form": 10.09,
+        "rating": 12,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.19,
+        "trainer": 1.97,
+        "weight": 1.2,
+        "headToHead": 9.06,
+        "recencyMargin": 7.7
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "QUIET PLACE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 11 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-44"
+      },
+      "trainerRec": {
+        "starts": 45,
+        "wins": 2,
+        "places": 13,
+        "winPct": 4,
+        "record": "2-45"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 11 last start.",
+        "Why it can win: has beaten QUIET PLACE; well-rated (MR 70).",
+        "Against it: stable out of form.",
+        "Has beaten QUIET PLACE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "rating"
+      ],
+      "_concerns": [
+        "trainer"
+      ],
+      "_strReasons": [
+        "has beaten QUIET PLACE",
+        "well-rated (MR 70)"
+      ],
+      "_conReasons": [
+        "stable out of form"
+      ],
+      "rank": 3,
+      "pWin": 0.0836,
+      "pPlace": 0.5319,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FATE OF PACE",
+      "key": "FATE OF PACE",
+      "draw": 7,
+      "rating": 58,
+      "jockey": "Eduan Muller",
+      "trainer": "Des McLachlan",
+      "weight": 49,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.15,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.374,
+        "trainer": 0.418,
+        "weight": 1,
+        "headToHead": 0.393,
+        "recencyMargin": 0.833
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 2.4,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.12,
+        "trainer": 2.09,
+        "weight": 6,
+        "headToHead": 4.72,
+        "recencyMargin": 10
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 24,
+        "record": "0-17"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 2,
+        "places": 5,
+        "winPct": 6,
+        "record": "2-34"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: well-in at the weights (49kg); strong recent form; hitting the line hard lately.",
+        "Against it: lower-rated (MR 58); lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "weight",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (49kg)",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 58)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.0599,
+      "pPlace": 0.3971,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "QUIET PLACE",
+      "key": "QUIET PLACE",
+      "draw": 1,
+      "rating": 71,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 59.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.4,
+      "factors": {
+        "form": 0.357,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.369,
+        "trainer": 0.418,
+        "weight": 0.16,
+        "headToHead": 0.425,
+        "recencyMargin": 0.492
+      },
+      "contrib": {
+        "form": 6.43,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.11,
+        "trainer": 2.09,
+        "weight": 0.96,
+        "headToHead": 5.1,
+        "recencyMargin": 5.9
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MASTER COINER"
+        ],
+        "losesTo": [
+          "FREQUENT TRAVELLER"
+        ]
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": {
+        "starts": 13,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 5,
+        "record": "0-19"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 2,
+        "places": 5,
+        "winPct": 6,
+        "record": "2-34"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 71).",
+        "Against it: lightly-supported jockey booking; patchy recent form.",
+        "Has beaten MASTER COINER before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "rating"
+      ],
+      "_concerns": [
+        "jockey",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 71)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0232,
+      "pPlace": 0.1617,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "READY FOR THE ROAD",
+      "key": "READY FOR THE ROAD",
+      "draw": 6,
+      "rating": 66,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.55,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.571,
+        "trainer": 0.5,
+        "weight": 0.36,
+        "headToHead": 0.056,
+        "recencyMargin": 0.613
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.71,
+        "trainer": 2.5,
+        "weight": 2.16,
+        "headToHead": 0.67,
+        "recencyMargin": 7.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "CHARLIE BUCKET"
+        ]
+      },
+      "recentForm": [
+        "7th of 11 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 3,
+        "places": 6,
+        "winPct": 19,
+        "record": "3-16"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 9,
+        "winPct": 19,
+        "placePct": 43,
+        "record": "4-21"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 11 last start.",
+        "Why it can win: 19%-strike jockey booked; stable in form (13%).",
+        "Against it: beaten by CHARLIE BUCKET before.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Beaten by CHARLIE BUCKET in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked",
+        "stable in form (13%)"
+      ],
+      "_conReasons": [
+        "beaten by CHARLIE BUCKET before"
+      ],
+      "rank": 6,
+      "pWin": 0.0084,
+      "pPlace": 0.0595,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CELESTIAL ROCKET",
+      "key": "CELESTIAL ROCKET",
+      "draw": 8,
+      "rating": 55,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 50.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.1,
+      "factors": {
+        "form": 0.364,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.458,
+        "trainer": 0.5,
+        "weight": 0.88,
+        "headToHead": 0.393,
+        "recencyMargin": 0.396
+      },
+      "contrib": {
+        "form": 6.55,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.37,
+        "trainer": 2.5,
+        "weight": 5.28,
+        "headToHead": 4.72,
+        "recencyMargin": 4.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 12 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 3,
+        "places": 9,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "3-33"
+      },
+      "trainerRec": {
+        "starts": 24,
+        "wins": 3,
+        "places": 6,
+        "winPct": 13,
+        "record": "3-24"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 12 last start.",
+        "Why it can win: stable in form (13%); carries 50.5kg.",
+        "Against it: lower-rated (MR 55); well beaten lately."
+      ],
+      "_strengths": [
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "stable in form (13%)",
+        "carries 50.5kg"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 55)",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.003,
+      "pPlace": 0.0213,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "draw": 4,
+      "rating": 64,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.2,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.45,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.382,
+        "trainer": 0.418,
+        "weight": 0.44,
+        "headToHead": 0,
+        "recencyMargin": 0.354
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 7.2,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.15,
+        "trainer": 2.09,
+        "weight": 2.64,
+        "headToHead": 0,
+        "recencyMargin": 4.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "QUIET PLACE"
+        ]
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 34,
+        "wins": 1,
+        "places": 10,
+        "winPct": 3,
+        "placePct": 29,
+        "record": "1-34"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 2,
+        "places": 5,
+        "winPct": 6,
+        "record": "2-34"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Against it: patchy recent form; beaten by QUIET PLACE before.",
+        "Beaten by QUIET PLACE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by QUIET PLACE before"
+      ],
+      "rank": 8,
+      "pWin": 0.0022,
+      "pPlace": 0.0155,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "CHARLIE BUCKET",
+      "rank": 1,
+      "score": 71.1,
+      "rating": 69,
+      "draw": 2,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "22",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.9,
+        "rating": 0.7,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.427,
+        "trainer": 0.383,
+        "weight": 0.08,
+        "headToHead": 1,
+        "recencyMargin": 0.876
+      }
+    },
+    {
+      "no": null,
+      "name": "MUTINY IN HEAVEN (IRE)",
+      "rank": 2,
+      "score": 64.4,
+      "rating": 75,
+      "draw": 3,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.8,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.541,
+        "trainer": 0.497,
+        "weight": 0,
+        "headToHead": 0.124,
+        "recencyMargin": 0.963
+      }
+    },
+    {
+      "no": null,
+      "name": "FREQUENT TRAVELLER",
+      "rank": 3,
+      "score": 59.1,
+      "rating": 70,
+      "draw": 5,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "46",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.561,
+        "rating": 0.75,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.396,
+        "trainer": 0.395,
+        "weight": 0.2,
+        "headToHead": 0.755,
+        "recencyMargin": 0.642
+      }
+    },
+    {
+      "no": null,
+      "name": "FATE OF PACE",
+      "rank": 4,
+      "score": 57.1,
+      "rating": 58,
+      "draw": 7,
+      "weight": 49,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Des McLachlan",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.15,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.374,
+        "trainer": 0.418,
+        "weight": 1,
+        "headToHead": 0.393,
+        "recencyMargin": 0.833
+      }
+    },
+    {
+      "no": null,
+      "name": "QUIET PLACE",
+      "rank": 5,
+      "score": 51.4,
+      "rating": 71,
+      "draw": 1,
+      "weight": 59.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "49",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.357,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.369,
+        "trainer": 0.418,
+        "weight": 0.16,
+        "headToHead": 0.425,
+        "recencyMargin": 0.492
+      }
+    },
+    {
+      "no": null,
+      "name": "READY FOR THE ROAD",
+      "rank": 6,
+      "score": 45.3,
+      "rating": 66,
+      "draw": 6,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.55,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.571,
+        "trainer": 0.5,
+        "weight": 0.36,
+        "headToHead": 0.056,
+        "recencyMargin": 0.613
+      }
+    },
+    {
+      "no": null,
+      "name": "CELESTIAL ROCKET",
+      "rank": 7,
+      "score": 39.1,
+      "rating": 55,
+      "draw": 8,
+      "weight": 50.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.364,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.458,
+        "trainer": 0.5,
+        "weight": 0.88,
+        "headToHead": 0.393,
+        "recencyMargin": 0.396
+      }
+    },
+    {
+      "no": null,
+      "name": "MASTER COINER",
+      "rank": 8,
+      "score": 37.2,
+      "rating": 64,
+      "draw": 4,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.45,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.382,
+        "trainer": 0.418,
+        "weight": 0.44,
+        "headToHead": 0,
+        "recencyMargin": 0.354
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "CHARLIE BUCKET",
+      "key": "CHARLIE BUCKET",
+      "points": 2.04,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "MUTINY IN HEAVEN (IRE)",
+        "READY FOR THE ROAD"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "FREQUENT TRAVELLER",
+      "key": "FREQUENT TRAVELLER",
+      "points": 1.216,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "QUIET PLACE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "QUIET PLACE",
+      "key": "QUIET PLACE",
+      "points": 0.107,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "MASTER COINER"
+      ],
+      "losesTo": [
+        "FREQUENT TRAVELLER"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "FATE OF PACE",
+      "key": "FATE OF PACE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CELESTIAL ROCKET",
+      "key": "CELESTIAL ROCKET",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MUTINY IN HEAVEN (IRE)",
+      "key": "MUTINY IN HEAVEN",
+      "points": -0.905,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "CHARLIE BUCKET"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "READY FOR THE ROAD",
+      "key": "READY FOR THE ROAD",
+      "points": -1.135,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "CHARLIE BUCKET"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "points": -1.323,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "QUIET PLACE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "CHARLIE BUCKET",
+  "places": 3
+}

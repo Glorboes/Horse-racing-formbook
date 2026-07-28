@@ -1,0 +1,1660 @@
+{
+  "id": "2026-05-03-kenilworth-r1",
+  "date": "2026-05-03",
+  "track": "Kenilworth",
+  "race": 1,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.193Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.408,
+        "trainer": 0.42,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 15.43,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.22,
+        "trainer": 2.1,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "FOG IN FINLAND",
+          "CHINWAG",
+          "HURRICANE PAIGE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 8 last start."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "record": "1-9"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 1,
+        "places": 8,
+        "winPct": 3,
+        "placePct": 28,
+        "record": "1-29"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 1,
+        "places": 7,
+        "winPct": 4,
+        "record": "1-25"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 8 last start.",
+        "Why it can win: strong recent form; has beaten FOG IN FINLAND, CHINWAG; hitting the line hard lately.",
+        "Against it: top-weight (60kg); stable out of form.",
+        "Has beaten FOG IN FINLAND, CHINWAG, HURRICANE PAIGE before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten FOG IN FINLAND, CHINWAG",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "stable out of form"
+      ],
+      "rank": 1,
+      "pWin": 0.4026,
+      "pPlace": 0.8408,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PEACE GARLAND",
+      "key": "PEACE GARLAND",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.8,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.535,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.941,
+        "recencyMargin": 0.546
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.6,
+        "trainer": 2.45,
+        "weight": 0,
+        "headToHead": 11.3,
+        "recencyMargin": 6.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MACRO GRAVITY",
+          "LA BOHEME"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 1,
+        "places": 4,
+        "winPct": 11,
+        "record": "1-9"
+      },
+      "jockeyRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "4-36"
+      },
+      "trainerRec": {
+        "starts": 47,
+        "wins": 4,
+        "places": 17,
+        "winPct": 9,
+        "record": "4-47"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: has beaten MACRO GRAVITY, LA BOHEME; strong recent form; hitting the line hard lately.",
+        "Against it: top-weight (60kg).",
+        "Has beaten MACRO GRAVITY, LA BOHEME before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "has beaten MACRO GRAVITY, LA BOHEME",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.1692,
+      "pPlace": 0.5537,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OH ISABELLA",
+      "key": "OH ISABELLA",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.7,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.672,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.654,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 10,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 2.02,
+        "trainer": 2.82,
+        "weight": 0,
+        "headToHead": 7.84,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "BE RATIONAL"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 10 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "winPct": 50,
+        "record": "1-2"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 4,
+        "places": 11,
+        "winPct": 21,
+        "placePct": 58,
+        "record": "4-19"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 11,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 10 last start.",
+        "Why it can win: 21%-strike jockey booked; hitting the line hard lately; strong recent form.",
+        "Against it: top-weight (60kg).",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "Has beaten BE RATIONAL before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "recencyMargin",
+        "form"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "hitting the line hard lately",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 3,
+      "pWin": 0.1193,
+      "pPlace": 0.426,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HURRICANE PAIGE",
+      "key": "HURRICANE PAIGE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.7,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.513,
+        "trainer": 0.711,
+        "weight": 1,
+        "headToHead": 0.35,
+        "recencyMargin": 0.45
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.54,
+        "trainer": 3.56,
+        "weight": 6,
+        "headToHead": 4.2,
+        "recencyMargin": 5.4
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "FOG IN FINLAND"
+        ],
+        "losesTo": [
+          "CHINWAG",
+          "EL COHETE"
+        ]
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 4,
+        "winPct": 10,
+        "placePct": 20,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: well-in at the weights (57.5kg); stable in form (21%); drawn 4 — a handy low draw.",
+        "Against it: beaten by CHINWAG, EL COHETE before.",
+        "Has beaten FOG IN FINLAND before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (57.5kg)",
+        "stable in form (21%)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "beaten by CHINWAG, EL COHETE before"
+      ],
+      "rank": 4,
+      "pWin": 0.101,
+      "pPlace": 0.3708,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CHINWAG",
+      "key": "CHINWAG",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Callan Murray",
+      "trainer": "Michelle Rix",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.3,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.607,
+        "trainer": 0.365,
+        "weight": 0,
+        "headToHead": 0.658,
+        "recencyMargin": 0.492
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.82,
+        "trainer": 1.82,
+        "weight": 0,
+        "headToHead": 7.9,
+        "recencyMargin": 5.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "FOG IN FINLAND",
+          "HURRICANE PAIGE"
+        ],
+        "losesTo": [
+          "EL COHETE"
+        ]
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "3-18"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-21"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: strong recent form; drawn 3 — a handy low draw; has beaten FOG IN FINLAND, HURRICANE PAIGE.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Has beaten FOG IN FINLAND, HURRICANE PAIGE before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "headToHead"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 3 — a handy low draw",
+        "has beaten FOG IN FINLAND, HURRICANE PAIGE"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 5,
+      "pWin": 0.0944,
+      "pPlace": 0.3502,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LADY SUNSHINE",
+      "key": "LADY SUNSHINE",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.633,
+        "trainer": 0.467,
+        "weight": 0,
+        "headToHead": 0.502,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.9,
+        "trainer": 2.33,
+        "weight": 0,
+        "headToHead": 6.03,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 5,
+        "places": 15,
+        "winPct": 17,
+        "placePct": 52,
+        "record": "5-29"
+      },
+      "trainerRec": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; 17%-strike jockey booked.",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0384,
+      "pPlace": 0.1531,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BE RATIONAL",
+      "key": "BE RATIONAL",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.2,
+      "factors": {
+        "form": 0.444,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.369,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.35,
+        "recencyMargin": 0.542
+      },
+      "contrib": {
+        "form": 8,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.11,
+        "trainer": 2.45,
+        "weight": 0,
+        "headToHead": 4.21,
+        "recencyMargin": 6.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "OH ISABELLA"
+        ]
+      },
+      "recentForm": [
+        "6th of 10 last start."
+      ],
+      "combo": {
+        "starts": 12,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-12"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 5,
+        "record": "0-19"
+      },
+      "trainerRec": {
+        "starts": 47,
+        "wins": 4,
+        "places": 17,
+        "winPct": 9,
+        "record": "4-47"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 10 last start.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: top-weight (60kg); lightly-supported jockey booking.",
+        "Beaten by OH ISABELLA in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 7,
+      "pWin": 0.0289,
+      "pPlace": 0.1166,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RUNWAY ROMANCE",
+      "key": "RUNWAY ROMANCE",
+      "draw": 10,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.418,
+        "trainer": 0.42,
+        "weight": 0,
+        "headToHead": 0.502,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.25,
+        "trainer": 2.1,
+        "weight": 0,
+        "headToHead": 6.03,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 14,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 1,
+        "places": 7,
+        "winPct": 4,
+        "record": "1-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "stable out of form"
+      ],
+      "rank": 8,
+      "pWin": 0.0225,
+      "pPlace": 0.0914,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MACRO GRAVITY",
+      "key": "MACRO GRAVITY",
+      "draw": 11,
+      "rating": null,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.2,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.5,
+        "trainer": 0.711,
+        "weight": 0,
+        "headToHead": 0.481,
+        "recencyMargin": 0.192
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.5,
+        "trainer": 3.56,
+        "weight": 0,
+        "headToHead": 5.77,
+        "recencyMargin": 2.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "LA BOHEME"
+        ],
+        "losesTo": [
+          "PEACE GARLAND"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: stable in form (21%).",
+        "Against it: drawn wide (11); top-weight (60kg).",
+        "Has beaten LA BOHEME before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (21%)"
+      ],
+      "_conReasons": [
+        "drawn wide (11)",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0126,
+      "pPlace": 0.0516,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FOG IN FINLAND",
+      "key": "FOG IN FINLAND",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.8,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.362,
+        "trainer": 0.577,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.346
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.09,
+        "trainer": 2.89,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 4.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "CHINWAG",
+          "EL COHETE",
+          "HURRICANE PAIGE"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 23,
+        "record": "0-22"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 3,
+        "places": 4,
+        "winPct": 14,
+        "record": "3-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: drawn 1 — a handy low draw; stable in form (14%).",
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "Beaten by CHINWAG, EL COHETE, HURRICANE PAIGE in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 10,
+      "pWin": 0.0084,
+      "pPlace": 0.0347,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LA BOHEME",
+      "key": "LA BOHEME",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 30.9,
+      "factors": {
+        "form": 0.143,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.671,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.084,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 2.57,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 2.01,
+        "trainer": 2.45,
+        "weight": 0,
+        "headToHead": 1.01,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "PEACE GARLAND",
+          "MACRO GRAVITY"
+        ]
+      },
+      "recentForm": [
+        "7th of 8 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 3,
+        "places": 8,
+        "winPct": 19,
+        "record": "3-16"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 5,
+        "places": 12,
+        "winPct": 20,
+        "placePct": 48,
+        "record": "5-25"
+      },
+      "trainerRec": {
+        "starts": 47,
+        "wins": 4,
+        "places": 17,
+        "winPct": 9,
+        "record": "4-47"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 8 last start.",
+        "Why it can win: 20%-strike jockey booked.",
+        "Against it: patchy recent form; top-weight (60kg).",
+        "Jockey Sean Veale in form (20% strike).",
+        "Beaten by PEACE GARLAND, MACRO GRAVITY in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "20%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 11,
+      "pWin": 0.0027,
+      "pPlace": 0.0111,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "EL COHETE",
+      "rank": 1,
+      "score": 61,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.408,
+        "trainer": 0.42,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "PEACE GARLAND",
+      "rank": 2,
+      "score": 55.8,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.535,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.941,
+        "recencyMargin": 0.546
+      }
+    },
+    {
+      "no": null,
+      "name": "OH ISABELLA",
+      "rank": 3,
+      "score": 53.7,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.556,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.672,
+        "trainer": 0.563,
+        "weight": 0,
+        "headToHead": 0.654,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "HURRICANE PAIGE",
+      "rank": 4,
+      "score": 52.7,
+      "rating": null,
+      "draw": 4,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.513,
+        "trainer": 0.711,
+        "weight": 1,
+        "headToHead": 0.35,
+        "recencyMargin": 0.45
+      }
+    },
+    {
+      "no": null,
+      "name": "CHINWAG",
+      "rank": 5,
+      "score": 52.3,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Michelle Rix",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.607,
+        "trainer": 0.365,
+        "weight": 0,
+        "headToHead": 0.658,
+        "recencyMargin": 0.492
+      }
+    },
+    {
+      "no": null,
+      "name": "LADY SUNSHINE",
+      "rank": 6,
+      "score": 46.9,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.633,
+        "trainer": 0.467,
+        "weight": 0,
+        "headToHead": 0.502,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BE RATIONAL",
+      "rank": 7,
+      "score": 45.2,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.444,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.369,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.35,
+        "recencyMargin": 0.542
+      }
+    },
+    {
+      "no": null,
+      "name": "RUNWAY ROMANCE",
+      "rank": 8,
+      "score": 43.7,
+      "rating": null,
+      "draw": 10,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.418,
+        "trainer": 0.42,
+        "weight": 0,
+        "headToHead": 0.502,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MACRO GRAVITY",
+      "rank": 9,
+      "score": 40.2,
+      "rating": null,
+      "draw": 11,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.5,
+        "trainer": 0.711,
+        "weight": 0,
+        "headToHead": 0.481,
+        "recencyMargin": 0.192
+      }
+    },
+    {
+      "no": null,
+      "name": "FOG IN FINLAND",
+      "rank": 10,
+      "score": 37.8,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Piet Botha",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.362,
+        "trainer": 0.577,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.346
+      }
+    },
+    {
+      "no": null,
+      "name": "LA BOHEME",
+      "rank": 11,
+      "score": 30.9,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.143,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.671,
+        "trainer": 0.489,
+        "weight": 0,
+        "headToHead": 0.084,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "points": 3.333,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "FOG IN FINLAND",
+        "CHINWAG",
+        "HURRICANE PAIGE"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "PEACE GARLAND",
+      "key": "PEACE GARLAND",
+      "points": 2.941,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "MACRO GRAVITY",
+        "LA BOHEME"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "CHINWAG",
+      "key": "CHINWAG",
+      "points": 1.045,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "FOG IN FINLAND",
+        "HURRICANE PAIGE"
+      ],
+      "losesTo": [
+        "EL COHETE"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "OH ISABELLA",
+      "key": "OH ISABELLA",
+      "points": 1.015,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "BE RATIONAL"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "LADY SUNSHINE",
+      "key": "LADY SUNSHINE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RUNWAY ROMANCE",
+      "key": "RUNWAY ROMANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MACRO GRAVITY",
+      "key": "MACRO GRAVITY",
+      "points": -0.141,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "LA BOHEME"
+      ],
+      "losesTo": [
+        "PEACE GARLAND"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "BE RATIONAL",
+      "key": "BE RATIONAL",
+      "points": -1.015,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "OH ISABELLA"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "HURRICANE PAIGE",
+      "key": "HURRICANE PAIGE",
+      "points": -1.017,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "FOG IN FINLAND"
+      ],
+      "losesTo": [
+        "CHINWAG",
+        "EL COHETE"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "LA BOHEME",
+      "key": "LA BOHEME",
+      "points": -2.8,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "PEACE GARLAND",
+        "MACRO GRAVITY"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    },
+    {
+      "name": "FOG IN FINLAND",
+      "key": "FOG IN FINLAND",
+      "points": -3.361,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "CHINWAG",
+        "EL COHETE",
+        "HURRICANE PAIGE"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "EL COHETE",
+  "places": 3
+}

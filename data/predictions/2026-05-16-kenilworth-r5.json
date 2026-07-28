@@ -1,0 +1,1014 @@
+{
+  "id": "2026-05-16-kenilworth-r5",
+  "date": "2026-05-16",
+  "track": "Kenilworth",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.715Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SUPER VIKING",
+      "key": "SUPER VIKING",
+      "draw": 4,
+      "rating": 77,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 73.5,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.732,
+        "trainer": 0.539,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 2.2,
+        "trainer": 2.69,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 21,
+        "wins": 8,
+        "places": 16,
+        "winPct": 38,
+        "record": "8-21"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 10,
+        "places": 18,
+        "winPct": 37,
+        "placePct": 67,
+        "record": "10-27"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 10,
+        "places": 21,
+        "winPct": 18,
+        "record": "10-57"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: strong recent form; top-rated in the field (MR 77); 37%-strike jockey booked.",
+        "Against it: top-weight (61.5kg).",
+        "Jockey Aldo Domeyer in form (37% strike)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 77)",
+        "37%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.828,
+      "pPlace": 0.9777,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WALOYO YAMONI",
+      "key": "WALOYO YAMONI",
+      "draw": 3,
+      "rating": 76,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.923,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.421,
+        "trainer": 0.487,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 14.77,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.26,
+        "trainer": 2.44,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 1,
+        "places": 4,
+        "winPct": 10,
+        "record": "1-10"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 1,
+        "places": 5,
+        "winPct": 6,
+        "placePct": 28,
+        "record": "1-18"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 9,
+        "places": 25,
+        "winPct": 13,
+        "record": "9-68"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 76); well-in at the weights (57kg).",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "weight"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 76)",
+        "well-in at the weights (57kg)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 2,
+      "pWin": 0.0739,
+      "pPlace": 0.4368,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "draw": 1,
+      "rating": 65,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 55.9,
+      "factors": {
+        "form": 0.818,
+        "rating": 0.077,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.387,
+        "trainer": 0.486,
+        "weight": 0.889,
+        "headToHead": 0.5,
+        "recencyMargin": 0.646
+      },
+      "contrib": {
+        "form": 14.73,
+        "rating": 1.23,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.16,
+        "trainer": 2.43,
+        "weight": 5.33,
+        "headToHead": 6,
+        "recencyMargin": 7.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 12 last start."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 1,
+        "places": 6,
+        "winPct": 10,
+        "record": "1-10"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 1,
+        "places": 9,
+        "winPct": 3,
+        "placePct": 31,
+        "record": "1-29"
+      },
+      "trainerRec": {
+        "starts": 46,
+        "wins": 6,
+        "places": 18,
+        "winPct": 13,
+        "record": "6-46"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 12 last start.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 65)."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 65)"
+      ],
+      "rank": 3,
+      "pWin": 0.0441,
+      "pPlace": 0.2621,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TRIP TO CAMELOT",
+      "key": "TRIP TO CAMELOT",
+      "draw": 6,
+      "rating": 74,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.769,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.491,
+        "trainer": 0.487,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 12.31,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.47,
+        "trainer": 2.44,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 5,
+        "wins": 1,
+        "places": 1,
+        "winPct": 20,
+        "record": "1-5"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 5,
+        "places": 16,
+        "winPct": 14,
+        "placePct": 43,
+        "record": "5-37"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 9,
+        "places": 25,
+        "winPct": 13,
+        "record": "9-68"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 4,
+      "pWin": 0.0198,
+      "pPlace": 0.1183,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BALZI ROSSI",
+      "key": "BALZI ROSSI",
+      "draw": 5,
+      "rating": 72,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.3,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.473,
+        "trainer": 0.415,
+        "weight": 0.556,
+        "headToHead": 0.5,
+        "recencyMargin": 0.575
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 9.85,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.42,
+        "trainer": 2.08,
+        "weight": 3.33,
+        "headToHead": 6,
+        "recencyMargin": 6.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": {
+        "starts": 11,
+        "wins": 1,
+        "places": 5,
+        "winPct": 9,
+        "record": "1-11"
+      },
+      "jockeyRec": {
+        "starts": 42,
+        "wins": 5,
+        "places": 18,
+        "winPct": 12,
+        "placePct": 43,
+        "record": "5-42"
+      },
+      "trainerRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 19,
+        "winPct": 7,
+        "record": "4-56"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Against it: patchy recent form; stable out of form."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0147,
+      "pPlace": 0.0877,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "draw": 7,
+      "rating": 68,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.7,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.308,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.391,
+        "trainer": 0.437,
+        "weight": 0.556,
+        "headToHead": 0.5,
+        "recencyMargin": 0.642
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 4.92,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.17,
+        "trainer": 2.19,
+        "weight": 3.33,
+        "headToHead": 6,
+        "recencyMargin": 7.7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 7 last start."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-12"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 2,
+        "places": 4,
+        "winPct": 8,
+        "record": "2-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Against it: lightly-supported jockey booking; stable out of form."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 6,
+      "pWin": 0.0133,
+      "pPlace": 0.0794,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SMART HORSE",
+      "key": "SMART HORSE",
+      "draw": 2,
+      "rating": 64,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.52,
+        "trainer": 0.486,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.56,
+        "trainer": 2.43,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 1,
+        "places": 1,
+        "winPct": 33,
+        "record": "1-3"
+      },
+      "jockeyRec": {
+        "starts": 31,
+        "wins": 5,
+        "places": 13,
+        "winPct": 16,
+        "placePct": 42,
+        "record": "5-31"
+      },
+      "trainerRec": {
+        "starts": 46,
+        "wins": 6,
+        "places": 18,
+        "winPct": 13,
+        "record": "6-46"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; 16%-strike jockey booked; well-in at the weights (57kg).",
+        "Against it: lower-rated (MR 64); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "16%-strike jockey booked",
+        "well-in at the weights (57kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 64)",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.0064,
+      "pPlace": 0.0382,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SUPER VIKING",
+      "rank": 1,
+      "score": 73.5,
+      "rating": 77,
+      "draw": 4,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.732,
+        "trainer": 0.539,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "WALOYO YAMONI",
+      "rank": 2,
+      "score": 59,
+      "rating": 76,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.923,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.421,
+        "trainer": 0.487,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MIDWAY",
+      "rank": 3,
+      "score": 55.9,
+      "rating": 65,
+      "draw": 1,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "James Crawford",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.818,
+        "rating": 0.077,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.387,
+        "trainer": 0.486,
+        "weight": 0.889,
+        "headToHead": 0.5,
+        "recencyMargin": 0.646
+      }
+    },
+    {
+      "no": null,
+      "name": "TRIP TO CAMELOT",
+      "rank": 4,
+      "score": 51.1,
+      "rating": 74,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.769,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.491,
+        "trainer": 0.487,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BALZI ROSSI",
+      "rank": 5,
+      "score": 49.3,
+      "rating": 72,
+      "draw": 5,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.615,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.473,
+        "trainer": 0.415,
+        "weight": 0.556,
+        "headToHead": 0.5,
+        "recencyMargin": 0.575
+      }
+    },
+    {
+      "no": null,
+      "name": "JET A ONE",
+      "rank": 6,
+      "score": 48.7,
+      "rating": 68,
+      "draw": 7,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.308,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.391,
+        "trainer": 0.437,
+        "weight": 0.556,
+        "headToHead": 0.5,
+        "recencyMargin": 0.642
+      }
+    },
+    {
+      "no": null,
+      "name": "SMART HORSE",
+      "rank": 7,
+      "score": 44.3,
+      "rating": 64,
+      "draw": 2,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.52,
+        "trainer": 0.486,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TRIP TO CAMELOT",
+      "key": "TRIP TO CAMELOT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SUPER VIKING",
+      "key": "SUPER VIKING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BALZI ROSSI",
+      "key": "BALZI ROSSI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SMART HORSE",
+      "key": "SMART HORSE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "JET A ONE",
+      "key": "JET A ONE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WALOYO YAMONI",
+      "key": "WALOYO YAMONI",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    }
+  ],
+  "strongest": "TRIP TO CAMELOT",
+  "places": 2
+}

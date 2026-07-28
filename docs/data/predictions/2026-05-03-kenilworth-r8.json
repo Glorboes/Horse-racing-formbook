@@ -1,0 +1,1438 @@
+{
+  "id": "2026-05-03-kenilworth-r8",
+  "date": "2026-05-03",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.302Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "FOLLOW YOUR HEART",
+      "key": "FOLLOW YOUR HEART",
+      "draw": 4,
+      "rating": 88,
+      "jockey": "Sean Veale",
+      "trainer": "Candice Bass",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 69,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.643,
+        "trainer": 0.677,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.942
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.1,
+        "jockey": 1.93,
+        "trainer": 3.39,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 11.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 5,
+        "places": 12,
+        "winPct": 20,
+        "placePct": 48,
+        "record": "5-25"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 3rd last start — right there.",
+        "Why it can win: top-rated in the field (MR 88); strong recent form; 20%-strike jockey booked.",
+        "Against it: top-weight (61.5kg); outclassed by this field.",
+        "Jockey Sean Veale in form (20% strike)."
+      ],
+      "_strengths": [
+        "rating",
+        "form",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 88)",
+        "strong recent form",
+        "20%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "outclassed by this field"
+      ],
+      "rank": 1,
+      "pWin": 0.429,
+      "pPlace": 0.921,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SKY ROCKET",
+      "key": "SKY ROCKET",
+      "draw": 7,
+      "rating": 77,
+      "jockey": "Callan Murray",
+      "trainer": "Lucinda Woodruff",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.2,
+      "factors": {
+        "form": 1,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.586,
+        "trainer": 0.544,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 6.74,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.2,
+        "jockey": 1.76,
+        "trainer": 2.72,
+        "weight": 4.13,
+        "headToHead": 6,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 2,
+        "places": 2,
+        "winPct": 67,
+        "record": "2-3"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "3-18"
+      },
+      "trainerRec": {
+        "starts": 31,
+        "wins": 4,
+        "places": 11,
+        "winPct": 13,
+        "record": "4-31"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: strong recent form; hitting the line hard lately; carries 56kg.",
+        "Against it: outclassed by this field; lower-rated (MR 77)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "weight"
+      ],
+      "_concerns": [
+        "headToHead",
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "carries 56kg"
+      ],
+      "_conReasons": [
+        "outclassed by this field",
+        "lower-rated (MR 77)"
+      ],
+      "rank": 2,
+      "pWin": 0.3178,
+      "pPlace": 0.868,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "draw": 1,
+      "rating": 80,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.2,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.579,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.558,
+        "trainer": 0.62,
+        "weight": 0.313,
+        "headToHead": 1,
+        "recencyMargin": 0.542
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 9.26,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.67,
+        "trainer": 3.1,
+        "weight": 1.88,
+        "headToHead": 12,
+        "recencyMargin": 6.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "WORLDLY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 3,
+        "places": 7,
+        "winPct": 14,
+        "placePct": 33,
+        "record": "3-21"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 3,
+        "places": 7,
+        "winPct": 20,
+        "record": "3-15"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: drawn 1 — a handy low draw; has beaten WORLDLY; strong recent form.",
+        "Against it: carries 59kg.",
+        "Has beaten WORLDLY before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "has beaten WORLDLY",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "carries 59kg"
+      ],
+      "rank": 3,
+      "pWin": 0.1381,
+      "pPlace": 0.6171,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CLARK GRISWOLD",
+      "key": "CLARK GRISWOLD",
+      "draw": 6,
+      "rating": 85,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.842,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.47,
+        "trainer": 0.677,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.47,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.41,
+        "trainer": 3.39,
+        "weight": 1.13,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 1,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 3,
+        "places": 14,
+        "winPct": 8,
+        "placePct": 38,
+        "record": "3-37"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 85); stable in form (21%).",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 85)",
+        "stable in form (21%)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 4,
+      "pWin": 0.0298,
+      "pPlace": 0.153,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KLIPTOWN",
+      "key": "KLIPTOWN",
+      "draw": 2,
+      "rating": 82,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.684,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.677,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.95,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.7,
+        "jockey": 1.5,
+        "trainer": 3.39,
+        "weight": 2.25,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; stable in form (21%).",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "stable in form (21%)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0293,
+      "pPlace": 0.1505,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BLIND DATE",
+      "key": "BLIND DATE",
+      "draw": 5,
+      "rating": 83,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.737,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.633,
+        "trainer": 0.569,
+        "weight": 0.313,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 11.79,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.8,
+        "jockey": 1.9,
+        "trainer": 2.84,
+        "weight": 1.88,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 2,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 38,
+        "record": "2-8"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 8,
+        "places": 21,
+        "winPct": 14,
+        "record": "8-57"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 83); 25%-strike jockey booked.",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 83)",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0265,
+      "pPlace": 0.1366,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CORK BAY",
+      "key": "CORK BAY",
+      "draw": 10,
+      "rating": 77,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.645,
+        "trainer": 0.624,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.74,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.3,
+        "jockey": 1.93,
+        "trainer": 3.12,
+        "weight": 3,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 4,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 4,
+        "places": 11,
+        "winPct": 21,
+        "placePct": 58,
+        "record": "4-19"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 14,
+        "winPct": 19,
+        "record": "5-27"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 21%-strike jockey booked.",
+        "Against it: drawn wide (10); well beaten lately.",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "draw",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "drawn wide (10)",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.011,
+      "pPlace": 0.0573,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SOOTY",
+      "key": "SOOTY",
+      "draw": 9,
+      "rating": 75,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.316,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.608,
+        "trainer": 0.586,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.05,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.6,
+        "jockey": 1.82,
+        "trainer": 2.93,
+        "weight": 3.75,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 7,
+        "wins": 2,
+        "places": 5,
+        "winPct": 29,
+        "record": "2-7"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 5,
+        "places": 15,
+        "winPct": 17,
+        "placePct": 52,
+        "record": "5-29"
+      },
+      "trainerRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 9,
+        "winPct": 17,
+        "record": "3-18"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 8,
+      "pWin": 0.0093,
+      "pPlace": 0.0486,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FIRINGONALLENGINES",
+      "key": "FIRINGONALLENGINES",
+      "draw": 3,
+      "rating": 69,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.411,
+        "trainer": 0.365,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.4,
+        "jockey": 1.23,
+        "trainer": 1.82,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 1,
+        "places": 8,
+        "winPct": 4,
+        "placePct": 31,
+        "record": "1-26"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-21"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (53.5kg); drawn 3 — a handy low draw.",
+        "Against it: lower-rated (MR 69); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53.5kg)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 69)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 9,
+      "pWin": 0.0058,
+      "pPlace": 0.0306,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "draw": 8,
+      "rating": 77,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.8,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.387,
+        "weight": 0.813,
+        "headToHead": 0,
+        "recencyMargin": 0.425
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 6.74,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.9,
+        "jockey": 1.5,
+        "trainer": 1.93,
+        "weight": 4.88,
+        "headToHead": 0,
+        "recencyMargin": 5.1
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "KELP FOREST"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 4,
+        "winPct": 10,
+        "placePct": 20,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 13,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: carries 55kg.",
+        "Against it: patchy recent form; beaten by KELP FOREST before.",
+        "Beaten by KELP FOREST in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "carries 55kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by KELP FOREST before"
+      ],
+      "rank": 10,
+      "pWin": 0.0033,
+      "pPlace": 0.0174,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "FOLLOW YOUR HEART",
+      "rank": 1,
+      "score": 69,
+      "rating": 88,
+      "draw": 4,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Candice Bass",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.85,
+        "jockey": 0.643,
+        "trainer": 0.677,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.942
+      }
+    },
+    {
+      "no": null,
+      "name": "SKY ROCKET",
+      "rank": 2,
+      "score": 67.2,
+      "rating": 77,
+      "draw": 7,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.7,
+        "jockey": 0.586,
+        "trainer": 0.544,
+        "weight": 0.688,
+        "headToHead": 0.5,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "KELP FOREST",
+      "rank": 3,
+      "score": 62.2,
+      "rating": 80,
+      "draw": 1,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.579,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.558,
+        "trainer": 0.62,
+        "weight": 0.313,
+        "headToHead": 1,
+        "recencyMargin": 0.542
+      }
+    },
+    {
+      "no": null,
+      "name": "CLARK GRISWOLD",
+      "rank": 4,
+      "score": 53,
+      "rating": 85,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.842,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.47,
+        "trainer": 0.677,
+        "weight": 0.188,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "KLIPTOWN",
+      "rank": 5,
+      "score": 52.9,
+      "rating": 82,
+      "draw": 2,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.684,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.95,
+        "jockey": 0.5,
+        "trainer": 0.677,
+        "weight": 0.375,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BLIND DATE",
+      "rank": 6,
+      "score": 52.3,
+      "rating": 83,
+      "draw": 5,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.737,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.8,
+        "jockey": 0.633,
+        "trainer": 0.569,
+        "weight": 0.313,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "CORK BAY",
+      "rank": 7,
+      "score": 47,
+      "rating": 77,
+      "draw": 10,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.55,
+        "jockey": 0.645,
+        "trainer": 0.624,
+        "weight": 0.5,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SOOTY",
+      "rank": 8,
+      "score": 46,
+      "rating": 75,
+      "draw": 9,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.316,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.6,
+        "jockey": 0.608,
+        "trainer": 0.586,
+        "weight": 0.625,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FIRINGONALLENGINES",
+      "rank": 9,
+      "score": 43.2,
+      "rating": 69,
+      "draw": 3,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.9,
+        "jockey": 0.411,
+        "trainer": 0.365,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "WORLDLY",
+      "rank": 10,
+      "score": 39.8,
+      "rating": 77,
+      "draw": 8,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.421,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.65,
+        "jockey": 0.5,
+        "trainer": 0.387,
+        "weight": 0.813,
+        "headToHead": 0,
+        "recencyMargin": 0.425
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "points": 1.108,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "WORLDLY"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "CORK BAY",
+      "key": "CORK BAY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BLIND DATE",
+      "key": "BLIND DATE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SOOTY",
+      "key": "SOOTY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CLARK GRISWOLD",
+      "key": "CLARK GRISWOLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SKY ROCKET",
+      "key": "SKY ROCKET",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KLIPTOWN",
+      "key": "KLIPTOWN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FOLLOW YOUR HEART",
+      "key": "FOLLOW YOUR HEART",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FIRINGONALLENGINES",
+      "key": "FIRINGONALLENGINES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WORLDLY",
+      "key": "WORLDLY",
+      "points": -1.108,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "KELP FOREST"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "KELP FOREST",
+  "places": 3
+}

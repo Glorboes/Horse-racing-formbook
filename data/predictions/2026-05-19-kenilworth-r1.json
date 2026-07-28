@@ -1,0 +1,1614 @@
+{
+  "id": "2026-05-19-kenilworth-r1",
+  "date": "2026-05-19",
+  "track": "Kenilworth",
+  "race": 1,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.131Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "VIRGINIA BLUEBELL",
+      "key": "VIRGINIA BLUEBELL",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 66.2,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.446,
+        "trainer": 0.545,
+        "weight": 0.5,
+        "headToHead": 0.726,
+        "recencyMargin": 0.917
+      },
+      "contrib": {
+        "form": 16,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.34,
+        "trainer": 2.73,
+        "weight": 3,
+        "headToHead": 8.71,
+        "recencyMargin": 11
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "PRINCESS SOFIA"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1L into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-7"
+      },
+      "jockeyRec": {
+        "starts": 49,
+        "wins": 3,
+        "places": 18,
+        "winPct": 6,
+        "placePct": 37,
+        "record": "3-49"
+      },
+      "trainerRec": {
+        "starts": 52,
+        "wins": 6,
+        "places": 19,
+        "winPct": 12,
+        "record": "6-52"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1L into 2nd last start — right there.",
+        "Why it can win: strong recent form; hitting the line hard lately; has beaten PRINCESS SOFIA.",
+        "Against it: lightly-supported jockey booking.",
+        "Has beaten PRINCESS SOFIA before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "headToHead"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "has beaten PRINCESS SOFIA"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "rank": 1,
+      "pWin": 0.3942,
+      "pPlace": 0.8347,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IN HOT WATER",
+      "key": "IN HOT WATER",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.4,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.59,
+        "trainer": 0.545,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.583
+      },
+      "contrib": {
+        "form": 15.43,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.77,
+        "trainer": 2.73,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 8 last start."
+      ],
+      "combo": {
+        "starts": 13,
+        "wins": 3,
+        "places": 7,
+        "winPct": 23,
+        "record": "3-13"
+      },
+      "jockeyRec": {
+        "starts": 50,
+        "wins": 7,
+        "places": 23,
+        "winPct": 14,
+        "placePct": 46,
+        "record": "7-50"
+      },
+      "trainerRec": {
+        "starts": 52,
+        "wins": 6,
+        "places": 19,
+        "winPct": 12,
+        "record": "6-52"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 8 last start.",
+        "Why it can win: strong recent form; hitting the line hard lately; drawn 4 — a handy low draw."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin",
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.1771,
+      "pPlace": 0.5697,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PRINCESS SOFIA",
+      "key": "PRINCESS SOFIA",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Keagan De Melo",
+      "trainer": "Paul Reeves",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60.1,
+      "factors": {
+        "form": 0.778,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.711,
+        "trainer": 0.561,
+        "weight": 0.5,
+        "headToHead": 0.41,
+        "recencyMargin": 0.792
+      },
+      "contrib": {
+        "form": 14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 2.13,
+        "trainer": 2.8,
+        "weight": 3,
+        "headToHead": 4.92,
+        "recencyMargin": 9.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "VIRGINIA BLUEBELL"
+        ]
+      },
+      "recentForm": [
+        "3rd of 10 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 3,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 6,
+        "places": 15,
+        "winPct": 22,
+        "placePct": 56,
+        "record": "6-27"
+      },
+      "trainerRec": {
+        "starts": 23,
+        "wins": 3,
+        "places": 9,
+        "winPct": 13,
+        "record": "3-23"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 10 last start.",
+        "Why it can win: hitting the line hard lately; strong recent form; 22%-strike jockey booked.",
+        "Against it: beaten by VIRGINIA BLUEBELL before.",
+        "Jockey Keagan De Melo in form (22% strike).",
+        "Beaten by VIRGINIA BLUEBELL in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "form",
+        "jockey"
+      ],
+      "_concerns": [
+        "headToHead"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "strong recent form",
+        "22%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "beaten by VIRGINIA BLUEBELL before"
+      ],
+      "rank": 3,
+      "pWin": 0.1426,
+      "pPlace": 0.4889,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LADY SUNSHINE",
+      "key": "LADY SUNSHINE",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.9,
+      "factors": {
+        "form": 0.6,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.696,
+        "trainer": 0.443,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 0.25
+      },
+      "contrib": {
+        "form": 10.8,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 2.09,
+        "trainer": 2.21,
+        "weight": 3,
+        "headToHead": 12,
+        "recencyMargin": 3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "EL COHETE",
+          "RUNWAY ROMANCE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 11 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 45,
+        "wins": 9,
+        "places": 22,
+        "winPct": 20,
+        "placePct": 49,
+        "record": "9-45"
+      },
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 11 last start.",
+        "Why it can win: has beaten EL COHETE, RUNWAY ROMANCE; drawn 3 — a handy low draw; 20%-strike jockey booked.",
+        "Against it: well beaten lately; stable out of form.",
+        "Jockey Craig Zackey in form (20% strike).",
+        "Has beaten EL COHETE, RUNWAY ROMANCE before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "trainer"
+      ],
+      "_strReasons": [
+        "has beaten EL COHETE, RUNWAY ROMANCE",
+        "drawn 3 — a handy low draw",
+        "20%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0988,
+      "pPlace": 0.363,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "draw": 10,
+      "rating": null,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54,
+      "factors": {
+        "form": 0.653,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.425,
+        "trainer": 0.428,
+        "weight": 0.5,
+        "headToHead": 0.704,
+        "recencyMargin": 0.389
+      },
+      "contrib": {
+        "form": 11.76,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.28,
+        "trainer": 2.14,
+        "weight": 3,
+        "headToHead": 8.45,
+        "recencyMargin": 4.67
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "RUNWAY ROMANCE"
+        ],
+        "losesTo": [
+          "LADY SUNSHINE"
+        ]
+      },
+      "recentForm": [
+        "6th of 11 last start."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 2,
+        "places": 6,
+        "winPct": 14,
+        "record": "2-14"
+      },
+      "jockeyRec": {
+        "starts": 41,
+        "wins": 2,
+        "places": 13,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-41"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 2,
+        "places": 10,
+        "winPct": 5,
+        "record": "2-40"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 11 last start.",
+        "Why it can win: has beaten RUNWAY ROMANCE; strong recent form.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten RUNWAY ROMANCE before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "has beaten RUNWAY ROMANCE",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0516,
+      "pPlace": 0.2017,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "JULIET OF VERONA",
+      "key": "JULIET OF VERONA",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.1,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.96,
+        "trainer": 0.674,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.287
+      },
+      "contrib": {
+        "form": 9.82,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 2.88,
+        "trainer": 3.37,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 3.45
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 12 last start."
+      ],
+      "combo": {
+        "starts": 27,
+        "wins": 10,
+        "places": 19,
+        "winPct": 37,
+        "record": "10-27"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 12,
+        "places": 21,
+        "winPct": 36,
+        "placePct": 64,
+        "record": "12-33"
+      },
+      "trainerRec": {
+        "starts": 66,
+        "wins": 12,
+        "places": 25,
+        "winPct": 18,
+        "record": "12-66"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 12 last start.",
+        "Why it can win: 36%-strike jockey booked; stable in form (18%).",
+        "Against it: well beaten lately.",
+        "Jockey Aldo Domeyer in form (36% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "36%-strike jockey booked",
+        "stable in form (18%)"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0444,
+      "pPlace": 0.1751,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GOLDEN SHIMMER",
+      "key": "GOLDEN SHIMMER",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.8,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.75,
+        "trainer": 0.594,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 2.25,
+        "trainer": 2.97,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 3,
+        "places": 5,
+        "winPct": 30,
+        "record": "3-10"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 4,
+        "places": 8,
+        "winPct": 29,
+        "placePct": 57,
+        "record": "4-14"
+      },
+      "trainerRec": {
+        "starts": 79,
+        "wins": 11,
+        "places": 31,
+        "winPct": 14,
+        "record": "11-79"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; 29%-strike jockey booked; stable in form (14%).",
+        "Against it: patchy recent form.",
+        "Jockey Andrew Fortune in form (29% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey",
+        "trainer"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "29%-strike jockey booked",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0358,
+      "pPlace": 0.1424,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SPANISH WORLD",
+      "key": "SPANISH WORLD",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.478,
+        "trainer": 0.594,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.43,
+        "trainer": 2.97,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 2,
+        "places": 6,
+        "winPct": 8,
+        "placePct": 23,
+        "record": "2-26"
+      },
+      "trainerRec": {
+        "starts": 79,
+        "wins": 11,
+        "places": 31,
+        "winPct": 14,
+        "record": "11-79"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: stable in form (14%).",
+        "Against it: patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "rank": 8,
+      "pWin": 0.0236,
+      "pPlace": 0.0952,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ONE RIPPLE",
+      "key": "ONE RIPPLE",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Mike Stewart",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.454,
+        "trainer": 0.411,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 1.36,
+        "trainer": 2.06,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-3"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: stable out of form; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 9,
+      "pWin": 0.0228,
+      "pPlace": 0.0921,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LIMERANCE",
+      "key": "LIMERANCE",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 43.1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.402,
+        "trainer": 0.45,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.21,
+        "trainer": 2.25,
+        "weight": 3,
+        "headToHead": 6.82,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 31,
+        "wins": 1,
+        "places": 7,
+        "winPct": 3,
+        "placePct": 23,
+        "record": "1-31"
+      },
+      "trainerRec": {
+        "starts": 62,
+        "wins": 4,
+        "places": 23,
+        "winPct": 6,
+        "record": "4-62"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; well beaten lately."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 10,
+      "pWin": 0.0084,
+      "pPlace": 0.0344,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RUNWAY ROMANCE",
+      "key": "RUNWAY ROMANCE",
+      "draw": 11,
+      "rating": null,
+      "jockey": "Callan Murray",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 28.2,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.539,
+        "trainer": 0.428,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.62,
+        "trainer": 2.14,
+        "weight": 3,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "EL COHETE",
+          "LADY SUNSHINE"
+        ]
+      },
+      "recentForm": [
+        "11th of 11 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 3,
+        "places": 5,
+        "winPct": 12,
+        "placePct": 19,
+        "record": "3-26"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 2,
+        "places": 10,
+        "winPct": 5,
+        "record": "2-40"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Against it: patchy recent form; drawn wide (11).",
+        "Beaten by EL COHETE, LADY SUNSHINE in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "draw"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "drawn wide (11)"
+      ],
+      "rank": 11,
+      "pWin": 0.0007,
+      "pPlace": 0.0029,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "VIRGINIA BLUEBELL",
+      "rank": 1,
+      "score": 66.2,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "James Crawford",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.446,
+        "trainer": 0.545,
+        "weight": 0.5,
+        "headToHead": 0.726,
+        "recencyMargin": 0.917
+      }
+    },
+    {
+      "no": null,
+      "name": "IN HOT WATER",
+      "rank": 2,
+      "score": 61.4,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.59,
+        "trainer": 0.545,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.583
+      }
+    },
+    {
+      "no": null,
+      "name": "PRINCESS SOFIA",
+      "rank": 3,
+      "score": 60.1,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Paul Reeves",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.778,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.711,
+        "trainer": 0.561,
+        "weight": 0.5,
+        "headToHead": 0.41,
+        "recencyMargin": 0.792
+      }
+    },
+    {
+      "no": null,
+      "name": "LADY SUNSHINE",
+      "rank": 4,
+      "score": 57.9,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Dean Kannemeyer",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.6,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.696,
+        "trainer": 0.443,
+        "weight": 0.5,
+        "headToHead": 1,
+        "recencyMargin": 0.25
+      }
+    },
+    {
+      "no": null,
+      "name": "EL COHETE",
+      "rank": 5,
+      "score": 54,
+      "rating": null,
+      "draw": 10,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "62",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.653,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.425,
+        "trainer": 0.428,
+        "weight": 0.5,
+        "headToHead": 0.704,
+        "recencyMargin": 0.389
+      }
+    },
+    {
+      "no": null,
+      "name": "JULIET OF VERONA",
+      "rank": 6,
+      "score": 53.1,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.545,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.96,
+        "trainer": 0.674,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.287
+      }
+    },
+    {
+      "no": null,
+      "name": "GOLDEN SHIMMER",
+      "rank": 7,
+      "score": 51.8,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.75,
+        "trainer": 0.594,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SPANISH WORLD",
+      "rank": 8,
+      "score": 49.3,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.478,
+        "trainer": 0.594,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "ONE RIPPLE",
+      "rank": 9,
+      "score": 49.1,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Mike Stewart",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.454,
+        "trainer": 0.411,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LIMERANCE",
+      "rank": 10,
+      "score": 43.1,
+      "rating": null,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.402,
+        "trainer": 0.45,
+        "weight": 0.5,
+        "headToHead": 0.568,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "RUNWAY ROMANCE",
+      "rank": 11,
+      "score": 28.2,
+      "rating": null,
+      "draw": 11,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Greg Ennion",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.539,
+        "trainer": 0.428,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "LADY SUNSHINE",
+      "key": "LADY SUNSHINE",
+      "points": 2.949,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "EL COHETE",
+        "RUNWAY ROMANCE"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "VIRGINIA BLUEBELL",
+      "key": "VIRGINIA BLUEBELL",
+      "points": 1.078,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "PRINCESS SOFIA"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "points": 0.931,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "RUNWAY ROMANCE"
+      ],
+      "losesTo": [
+        "LADY SUNSHINE"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "IN HOT WATER",
+      "key": "IN HOT WATER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "JULIET OF VERONA",
+      "key": "JULIET OF VERONA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LIMERANCE",
+      "key": "LIMERANCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GOLDEN SHIMMER",
+      "key": "GOLDEN SHIMMER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SPANISH WORLD",
+      "key": "SPANISH WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ONE RIPPLE",
+      "key": "ONE RIPPLE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "PRINCESS SOFIA",
+      "key": "PRINCESS SOFIA",
+      "points": -1.078,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "VIRGINIA BLUEBELL"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "RUNWAY ROMANCE",
+      "key": "RUNWAY ROMANCE",
+      "points": -3.88,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "EL COHETE",
+        "LADY SUNSHINE"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "LADY SUNSHINE",
+  "places": 3
+}

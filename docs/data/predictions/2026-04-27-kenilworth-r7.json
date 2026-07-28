@@ -1,0 +1,1779 @@
+{
+  "id": "2026-04-27-kenilworth-r7",
+  "date": "2026-04-27",
+  "track": "Kenilworth",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:48.531Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "DANCE VARIETY",
+      "key": "DANCE VARIETY",
+      "draw": 7,
+      "rating": 114,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "weight": 58,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 79.2,
+      "factors": {
+        "form": 1,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.683,
+        "trainer": 0.76,
+        "weight": 0.267,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 13.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 2.05,
+        "trainer": 3.8,
+        "weight": 1.6,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "4-0",
+        "wins": 4,
+        "losses": 0,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DUMBLEDORE",
+          "KING REGENT",
+          "SARDINIA BAY",
+          "GEM KING"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by half a length at Kenilworth."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 4,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 7,
+        "winPct": 21,
+        "placePct": 50,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 6,
+        "winPct": 30,
+        "record": "3-10"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by half a length at Kenilworth.",
+        "Why it can win: strong recent form; stable in form (30%); has beaten DUMBLEDORE, KING REGENT.",
+        "Against it: carries 58kg.",
+        "Jockey Calvin Habib in form (21% strike).",
+        "Has beaten DUMBLEDORE, KING REGENT, SARDINIA BAY, GEM KING before (H2H 4-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "trainer",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "stable in form (30%)",
+        "has beaten DUMBLEDORE, KING REGENT"
+      ],
+      "_conReasons": [
+        "carries 58kg"
+      ],
+      "rank": 1,
+      "pWin": 0.7645,
+      "pPlace": 0.9955,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "draw": 6,
+      "rating": 104,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Greg Ennion",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 68.6,
+      "factors": {
+        "form": 0.917,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.536,
+        "trainer": 0.452,
+        "weight": 0.867,
+        "headToHead": 0.778,
+        "recencyMargin": 0.95
+      },
+      "contrib": {
+        "form": 16.5,
+        "rating": 5.82,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.75,
+        "jockey": 1.61,
+        "trainer": 2.26,
+        "weight": 5.2,
+        "headToHead": 9.33,
+        "recencyMargin": 11.4
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DUMBLEDORE",
+          "KING REGENT",
+          "GEM KING"
+        ],
+        "losesTo": [
+          "DANCE VARIETY"
+        ]
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 3,
+        "places": 11,
+        "winPct": 10,
+        "placePct": 38,
+        "record": "3-29"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "record": "1-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; has beaten DUMBLEDORE, KING REGENT; hitting the line hard lately.",
+        "Against it: lower-rated (MR 104); stable out of form.",
+        "Has beaten DUMBLEDORE, KING REGENT, GEM KING before (H2H 3-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten DUMBLEDORE, KING REGENT",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 104)",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.1307,
+      "pPlace": 0.8361,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GALLIC DREAM",
+      "key": "GALLIC DREAM",
+      "draw": 11,
+      "rating": 104,
+      "jockey": "Gareth Wright",
+      "trainer": "Eric Sands",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.4,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.452,
+        "trainer": 0.683,
+        "weight": 0.6,
+        "headToHead": 0.621,
+        "recencyMargin": 0.833
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 5.82,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.36,
+        "trainer": 3.42,
+        "weight": 3.6,
+        "headToHead": 7.46,
+        "recencyMargin": 10
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "POMP IT UP"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 8,
+        "winPct": 5,
+        "placePct": 42,
+        "record": "1-19"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 6,
+        "winPct": 21,
+        "record": "3-14"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: stable in form (21%); strong recent form; has beaten POMP IT UP.",
+        "Against it: lower-rated (MR 104); lightly-supported jockey booking.",
+        "Has beaten POMP IT UP before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "form",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "stable in form (21%)",
+        "strong recent form",
+        "has beaten POMP IT UP"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 104)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.0465,
+      "pPlace": 0.4957,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KING REGENT",
+      "key": "KING REGENT",
+      "draw": 10,
+      "rating": 106,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.552,
+        "trainer": 0.391,
+        "weight": 0.933,
+        "headToHead": 0.5,
+        "recencyMargin": 0.804
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 7.27,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.66,
+        "trainer": 1.95,
+        "weight": 5.6,
+        "headToHead": 6,
+        "recencyMargin": 9.65
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DUMBLEDORE",
+          "GEM KING"
+        ],
+        "losesTo": [
+          "DANCE VARIETY",
+          "SARDINIA BAY"
+        ]
+      },
+      "recentForm": [
+        "7th of 13 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 2,
+        "places": 4,
+        "winPct": 12,
+        "placePct": 24,
+        "record": "2-17"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-12"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 13 last start.",
+        "Why it can win: well-in at the weights (53kg); strong recent form; 12%-strike jockey booked.",
+        "Against it: stable out of form; beaten by DANCE VARIETY, SARDINIA BAY before.",
+        "Has beaten DUMBLEDORE, GEM KING before (H2H 2-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "form",
+        "jockey"
+      ],
+      "_concerns": [
+        "trainer",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)",
+        "strong recent form",
+        "12%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "beaten by DANCE VARIETY, SARDINIA BAY before"
+      ],
+      "rank": 4,
+      "pWin": 0.0163,
+      "pPlace": 0.1855,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAFE CULTURE",
+      "key": "CAFE CULTURE",
+      "draw": 8,
+      "rating": 118,
+      "jockey": "Callan Murray",
+      "trainer": "Lucinda Woodruff",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.609,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.25,
+        "jockey": 1.83,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6.16,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "2-12"
+      },
+      "trainerRec": {
+        "starts": 24,
+        "wins": 2,
+        "places": 9,
+        "winPct": 8,
+        "record": "2-24"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 118); 17%-strike jockey booked.",
+        "Against it: top-weight (60kg); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 118)",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "well beaten lately"
+      ],
+      "rank": 5,
+      "pWin": 0.0113,
+      "pPlace": 0.1298,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "draw": 4,
+      "rating": 108,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.622,
+        "weight": 0.8,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.5,
+        "trainer": 3.11,
+        "weight": 4.8,
+        "headToHead": 6.16,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 108); drawn 4 — a handy low draw.",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 108)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 6,
+      "pWin": 0.0092,
+      "pPlace": 0.1066,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHE'S MY WORLD",
+      "key": "SHES MY WORLD",
+      "draw": 9,
+      "rating": 106,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.463,
+        "trainer": 0.622,
+        "weight": 0.933,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.27,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.39,
+        "trainer": 3.11,
+        "weight": 5.6,
+        "headToHead": 6.16,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 5,
+        "winPct": 6,
+        "placePct": 29,
+        "record": "1-17"
+      },
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (53kg).",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0065,
+      "pPlace": 0.0755,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GEM KING",
+      "key": "GEM KING",
+      "draw": 1,
+      "rating": 108,
+      "jockey": "Grant Behr",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.8,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.418,
+        "trainer": 0.51,
+        "weight": 0.333,
+        "headToHead": 0.29,
+        "recencyMargin": 0.775
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 8.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.25,
+        "trainer": 2.55,
+        "weight": 2,
+        "headToHead": 3.48,
+        "recencyMargin": 9.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "DUMBLEDORE"
+        ],
+        "losesTo": [
+          "KING REGENT",
+          "DANCE VARIETY",
+          "SARDINIA BAY"
+        ]
+      },
+      "recentForm": [
+        "10th of 13 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-7"
+      },
+      "trainerRec": {
+        "starts": 11,
+        "wins": 1,
+        "places": 1,
+        "winPct": 9,
+        "record": "1-11"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 13 last start.",
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 108).",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "Has beaten DUMBLEDORE before (H2H 1-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 108)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0048,
+      "pPlace": 0.0561,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "POMP IT UP",
+      "key": "POMP IT UP",
+      "draw": 3,
+      "rating": 97,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Justin Snaith",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.045,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.377,
+        "trainer": 0.622,
+        "weight": 1,
+        "headToHead": 0.406,
+        "recencyMargin": 0.746
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 0.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.13,
+        "trainer": 3.11,
+        "weight": 6,
+        "headToHead": 4.87,
+        "recencyMargin": 8.95
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "GALLIC DREAM"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 31,
+        "record": "0-16"
+      },
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Why it can win: well-in at the weights (52.5kg); drawn 3 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 97).",
+        "Beaten by GALLIC DREAM in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 97)"
+      ],
+      "rank": 9,
+      "pWin": 0.0042,
+      "pPlace": 0.0491,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THE US OF",
+      "key": "THE US OF",
+      "draw": 2,
+      "rating": 104,
+      "jockey": "Richard Fourie",
+      "trainer": "Patrick Kruyer",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.549,
+        "trainer": 0.411,
+        "weight": 0.467,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.82,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.75,
+        "jockey": 1.65,
+        "trainer": 2.06,
+        "weight": 2.8,
+        "headToHead": 6.16,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 3,
+        "places": 11,
+        "winPct": 11,
+        "placePct": 41,
+        "record": "3-27"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: well beaten lately; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "stable out of form"
+      ],
+      "rank": 10,
+      "pWin": 0.0036,
+      "pPlace": 0.0423,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "POWERANDTHEGLORY",
+      "key": "POWERANDTHEGLORY",
+      "draw": 12,
+      "rating": 96,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 41.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.527,
+        "trainer": 0.622,
+        "weight": 0.733,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.25,
+        "jockey": 1.58,
+        "trainer": 3.11,
+        "weight": 4.4,
+        "headToHead": 6.16,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "placePct": 35,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 96); drawn wide (12).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "draw"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 96)",
+        "drawn wide (12)"
+      ],
+      "rank": 11,
+      "pWin": 0.0013,
+      "pPlace": 0.0156,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DUMBLEDORE",
+      "key": "DUMBLEDORE",
+      "draw": 5,
+      "rating": 105,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 55.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.6,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.409,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.783,
+        "trainer": 0.552,
+        "weight": 0.6,
+        "headToHead": 0,
+        "recencyMargin": 0.608
+      },
+      "contrib": {
+        "form": 1.5,
+        "rating": 6.55,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 2.35,
+        "trainer": 2.76,
+        "weight": 3.6,
+        "headToHead": 0,
+        "recencyMargin": 7.3
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-4",
+        "wins": 0,
+        "losses": 4,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "KING REGENT",
+          "DANCE VARIETY",
+          "SARDINIA BAY",
+          "GEM KING"
+        ]
+      },
+      "recentForm": [
+        "12th of 13 last start."
+      ],
+      "combo": {
+        "starts": 11,
+        "wins": 3,
+        "places": 7,
+        "winPct": 27,
+        "record": "3-11"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 5,
+        "places": 11,
+        "winPct": 26,
+        "placePct": 58,
+        "record": "5-19"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "12th of 13 last start.",
+        "Why it can win: 26%-strike jockey booked.",
+        "Against it: patchy recent form; beaten by KING REGENT, DANCE VARIETY before.",
+        "Jockey Sean Veale in form (26% strike).",
+        "Beaten by KING REGENT, DANCE VARIETY, SARDINIA BAY, GEM KING in the past (H2H 0-4 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "26%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by KING REGENT, DANCE VARIETY before"
+      ],
+      "rank": 12,
+      "pWin": 0.001,
+      "pPlace": 0.0122,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "DANCE VARIETY",
+      "rank": 1,
+      "score": 79.2,
+      "rating": 114,
+      "draw": 7,
+      "weight": 58,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.683,
+        "trainer": 0.76,
+        "weight": 0.267,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "SARDINIA BAY",
+      "rank": 2,
+      "score": 68.6,
+      "rating": 104,
+      "draw": 6,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Greg Ennion",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.917,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.536,
+        "trainer": 0.452,
+        "weight": 0.867,
+        "headToHead": 0.778,
+        "recencyMargin": 0.95
+      }
+    },
+    {
+      "no": null,
+      "name": "GALLIC DREAM",
+      "rank": 3,
+      "score": 62.4,
+      "rating": 104,
+      "draw": 11,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Eric Sands",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.452,
+        "trainer": 0.683,
+        "weight": 0.6,
+        "headToHead": 0.621,
+        "recencyMargin": 0.833
+      }
+    },
+    {
+      "no": null,
+      "name": "KING REGENT",
+      "rank": 4,
+      "score": 56.1,
+      "rating": 106,
+      "draw": 10,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Glen Kotzen",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.552,
+        "trainer": 0.391,
+        "weight": 0.933,
+        "headToHead": 0.5,
+        "recencyMargin": 0.804
+      }
+    },
+    {
+      "no": null,
+      "name": "CAFE CULTURE",
+      "rank": 5,
+      "score": 53.9,
+      "rating": 118,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.609,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BEWARE THE BOMB",
+      "rank": 6,
+      "score": 52.7,
+      "rating": 108,
+      "draw": 4,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.622,
+        "weight": 0.8,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHE'S MY WORLD",
+      "rank": 7,
+      "score": 50.6,
+      "rating": 106,
+      "draw": 9,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.455,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.463,
+        "trainer": 0.622,
+        "weight": 0.933,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GEM KING",
+      "rank": 8,
+      "score": 48.8,
+      "rating": 108,
+      "draw": 1,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "10",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.418,
+        "trainer": 0.51,
+        "weight": 0.333,
+        "headToHead": 0.29,
+        "recencyMargin": 0.775
+      }
+    },
+    {
+      "no": null,
+      "name": "POMP IT UP",
+      "rank": 9,
+      "score": 48,
+      "rating": 97,
+      "draw": 3,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Justin Snaith",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.045,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.377,
+        "trainer": 0.622,
+        "weight": 1,
+        "headToHead": 0.406,
+        "recencyMargin": 0.746
+      }
+    },
+    {
+      "no": null,
+      "name": "THE US OF",
+      "rank": 10,
+      "score": 47.1,
+      "rating": 104,
+      "draw": 2,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.364,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.549,
+        "trainer": 0.411,
+        "weight": 0.467,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "POWERANDTHEGLORY",
+      "rank": 11,
+      "score": 41.1,
+      "rating": 96,
+      "draw": 12,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.527,
+        "trainer": 0.622,
+        "weight": 0.733,
+        "headToHead": 0.514,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "DUMBLEDORE",
+      "rank": 12,
+      "score": 39.6,
+      "rating": 105,
+      "draw": 5,
+      "weight": 55.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "12",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.409,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.783,
+        "trainer": 0.552,
+        "weight": 0.6,
+        "headToHead": 0,
+        "recencyMargin": 0.608
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "DANCE VARIETY",
+      "key": "DANCE VARIETY",
+      "points": 4.792,
+      "wins": 4,
+      "losses": 0,
+      "meetings": 4,
+      "beats": [
+        "DUMBLEDORE",
+        "KING REGENT",
+        "SARDINIA BAY",
+        "GEM KING"
+      ],
+      "losesTo": [],
+      "record": "4-0",
+      "smallSample": true
+    },
+    {
+      "name": "SARDINIA BAY",
+      "key": "SARDINIA BAY",
+      "points": 2.603,
+      "wins": 3,
+      "losses": 1,
+      "meetings": 4,
+      "beats": [
+        "DUMBLEDORE",
+        "KING REGENT",
+        "GEM KING"
+      ],
+      "losesTo": [
+        "DANCE VARIETY"
+      ],
+      "record": "3-1",
+      "smallSample": true
+    },
+    {
+      "name": "GALLIC DREAM",
+      "key": "GALLIC DREAM",
+      "points": 1.062,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "POMP IT UP"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "CAFE CULTURE",
+      "key": "CAFE CULTURE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "THE US OF",
+      "key": "THE US OF",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "POWERANDTHEGLORY",
+      "key": "POWERANDTHEGLORY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHE'S MY WORLD",
+      "key": "SHES MY WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KING REGENT",
+      "key": "KING REGENT",
+      "points": -0.133,
+      "wins": 2,
+      "losses": 2,
+      "meetings": 4,
+      "beats": [
+        "DUMBLEDORE",
+        "GEM KING"
+      ],
+      "losesTo": [
+        "DANCE VARIETY",
+        "SARDINIA BAY"
+      ],
+      "record": "2-2",
+      "smallSample": true
+    },
+    {
+      "name": "POMP IT UP",
+      "key": "POMP IT UP",
+      "points": -1.062,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "GALLIC DREAM"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "GEM KING",
+      "key": "GEM KING",
+      "points": -2.203,
+      "wins": 1,
+      "losses": 3,
+      "meetings": 4,
+      "beats": [
+        "DUMBLEDORE"
+      ],
+      "losesTo": [
+        "KING REGENT",
+        "DANCE VARIETY",
+        "SARDINIA BAY"
+      ],
+      "record": "1-3",
+      "smallSample": true
+    },
+    {
+      "name": "DUMBLEDORE",
+      "key": "DUMBLEDORE",
+      "points": -5.059,
+      "wins": 0,
+      "losses": 4,
+      "meetings": 4,
+      "beats": [],
+      "losesTo": [
+        "KING REGENT",
+        "DANCE VARIETY",
+        "SARDINIA BAY",
+        "GEM KING"
+      ],
+      "record": "0-4",
+      "smallSample": true
+    }
+  ],
+  "strongest": "DANCE VARIETY",
+  "places": 3
+}

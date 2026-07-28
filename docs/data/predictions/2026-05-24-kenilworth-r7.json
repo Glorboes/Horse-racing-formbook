@@ -1,0 +1,1057 @@
+{
+  "id": "2026-05-24-kenilworth-r7",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.746Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "draw": 6,
+      "rating": 97,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 70,
+      "factors": {
+        "form": 0.837,
+        "rating": 0.407,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.545,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 1,
+        "recencyMargin": 0.899
+      },
+      "contrib": {
+        "form": 15.06,
+        "rating": 6.52,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.86,
+        "jockey": 1.64,
+        "trainer": 2.39,
+        "weight": 6,
+        "headToHead": 12,
+        "recencyMargin": 10.79
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "OTTO LUYKEN",
+          "MAGIC VERSE",
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 8 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 3,
+        "places": 6,
+        "winPct": 19,
+        "record": "3-16"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 9,
+        "winPct": 19,
+        "placePct": 43,
+        "record": "4-21"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 1,
+        "places": 2,
+        "newPartnership": false,
+        "record": "1-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Why it can win: strong recent form; has beaten OTTO LUYKEN, MAGIC VERSE; hitting the line hard lately.",
+        "Winning partnership: Andrew Fortune 1-2 on this horse.",
+        "Has beaten OTTO LUYKEN, MAGIC VERSE, SHERIFF JOHN STONE before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten OTTO LUYKEN, MAGIC VERSE",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [],
+      "rank": 1,
+      "pWin": 0.6597,
+      "pPlace": 0.914,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OTTO LUYKEN",
+      "key": "OTTO LUYKEN",
+      "draw": 2,
+      "rating": 113,
+      "jockey": "Mickaelle Michel",
+      "trainer": "James Crawford",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.4,
+      "factors": {
+        "form": 0.352,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.476,
+        "weight": 0.125,
+        "headToHead": 0.742,
+        "recencyMargin": 0.707
+      },
+      "contrib": {
+        "form": 6.34,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.57,
+        "jockey": 1.5,
+        "trainer": 2.38,
+        "weight": 0.75,
+        "headToHead": 8.9,
+        "recencyMargin": 8.49
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "3-2",
+        "wins": 3,
+        "losses": 2,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "MAGIC VERSE",
+          "PAY THE PALACE",
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": [
+          "FUTURE FREE",
+          "MAGIC VERSE"
+        ]
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 57,
+        "wins": 7,
+        "places": 20,
+        "winPct": 12,
+        "record": "7-57"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: top-rated in the field (MR 113); drawn 2 — a handy low draw; has beaten MAGIC VERSE, PAY THE PALACE.",
+        "Against it: top-weight (58.5kg).",
+        "Has beaten MAGIC VERSE, PAY THE PALACE, SHERIFF JOHN STONE before (H2H 3-2)."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 113)",
+        "drawn 2 — a handy low draw",
+        "has beaten MAGIC VERSE, PAY THE PALACE"
+      ],
+      "_conReasons": [
+        "top-weight (58.5kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.1573,
+      "pPlace": 0.4936,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PAY THE PALACE",
+      "key": "PAY THE PALACE",
+      "draw": 1,
+      "rating": 103,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "weight": 56,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.3,
+      "factors": {
+        "form": 0.435,
+        "rating": 0.63,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.515,
+        "trainer": 0.482,
+        "weight": 0.75,
+        "headToHead": 0.621,
+        "recencyMargin": 0.675
+      },
+      "contrib": {
+        "form": 7.82,
+        "rating": 10.07,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.54,
+        "trainer": 2.41,
+        "weight": 4.5,
+        "headToHead": 7.45,
+        "recencyMargin": 8.1
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "OTTO LUYKEN"
+        ]
+      },
+      "recentForm": [
+        "3rd of 7 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 4,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 24,
+        "wins": 3,
+        "places": 6,
+        "winPct": 13,
+        "record": "3-24"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Why it can win: drawn 1 — a handy low draw.",
+        "Has beaten MAGIC VERSE before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [],
+      "rank": 3,
+      "pWin": 0.1109,
+      "pPlace": 0.3547,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TIME FOR LOVE",
+      "key": "TIME FOR LOVE",
+      "draw": 4,
+      "rating": 105,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.6,
+      "factors": {
+        "form": 0.405,
+        "rating": 0.704,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.414,
+        "trainer": 0.345,
+        "weight": 0.625,
+        "headToHead": 0.708,
+        "recencyMargin": 0.169
+      },
+      "contrib": {
+        "form": 7.29,
+        "rating": 11.26,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.71,
+        "jockey": 1.24,
+        "trainer": 1.73,
+        "weight": 3.75,
+        "headToHead": 8.5,
+        "recencyMargin": 2.03
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 10 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 2,
+        "places": 7,
+        "winPct": 6,
+        "placePct": 22,
+        "record": "2-32"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 0,
+        "places": 9,
+        "winPct": 0,
+        "record": "0-34"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 10 last start.",
+        "Against it: stable out of form; well beaten lately.",
+        "Has beaten SHERIFF JOHN STONE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0307,
+      "pPlace": 0.1012,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAGIC VERSE",
+      "key": "MAGIC VERSE",
+      "draw": 7,
+      "rating": 112,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 51.1,
+      "factors": {
+        "form": 0.327,
+        "rating": 0.963,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.415,
+        "trainer": 0.477,
+        "weight": 0,
+        "headToHead": 0.401,
+        "recencyMargin": 0.572
+      },
+      "contrib": {
+        "form": 5.88,
+        "rating": 15.41,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.43,
+        "jockey": 1.25,
+        "trainer": 2.39,
+        "weight": 0,
+        "headToHead": 4.81,
+        "recencyMargin": 6.87
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "2-3",
+        "wins": 2,
+        "losses": 3,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "OTTO LUYKEN",
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": [
+          "FUTURE FREE",
+          "OTTO LUYKEN",
+          "PAY THE PALACE"
+        ]
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 15,
+        "wins": 3,
+        "places": 8,
+        "winPct": 20,
+        "record": "3-15"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: well-rated (MR 112).",
+        "Against it: top-weight (59kg); patchy recent form.",
+        "Has beaten OTTO LUYKEN, SHERIFF JOHN STONE before (H2H 2-3)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 112)"
+      ],
+      "_conReasons": [
+        "top-weight (59kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0283,
+      "pPlace": 0.0931,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PRAIRIE DAWN",
+      "key": "PRAIRIE DAWN",
+      "draw": 5,
+      "rating": 89,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.581,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 0.579,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 1.78,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.29,
+        "jockey": 1.74,
+        "trainer": 2.39,
+        "weight": 6,
+        "headToHead": 6.94,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 10,
+        "wins": 2,
+        "places": 4,
+        "winPct": 20,
+        "record": "2-10"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 11,
+        "places": 24,
+        "winPct": 21,
+        "placePct": 46,
+        "record": "11-52"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 21%-strike jockey booked; well-in at the weights (55kg).",
+        "Against it: lower-rated (MR 89); well beaten lately.",
+        "Jockey Craig Zackey in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "well-in at the weights (55kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 89)",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0121,
+      "pPlace": 0.04,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHERIFF JOHN STONE",
+      "key": "SHERIFF JOHN STONE",
+      "draw": 3,
+      "rating": 86,
+      "jockey": "Corne Orffer",
+      "trainer": "Patrick Kruyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31.1,
+      "factors": {
+        "form": 0.235,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.389,
+        "trainer": 0.383,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0.449
+      },
+      "contrib": {
+        "form": 4.22,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.14,
+        "jockey": 1.17,
+        "trainer": 1.92,
+        "weight": 3,
+        "headToHead": 0,
+        "recencyMargin": 5.39
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-4",
+        "wins": 0,
+        "losses": 4,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "FUTURE FREE",
+          "OTTO LUYKEN",
+          "MAGIC VERSE",
+          "TIME FOR LOVE"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-44"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Against it: patchy recent form; lower-rated (MR 86).",
+        "Beaten by FUTURE FREE, OTTO LUYKEN, MAGIC VERSE, TIME FOR LOVE in the past (H2H 0-4 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "lower-rated (MR 86)"
+      ],
+      "rank": 7,
+      "pWin": 0.001,
+      "pPlace": 0.0034,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "FUTURE FREE",
+      "rank": 1,
+      "score": 70,
+      "rating": 97,
+      "draw": 6,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "31",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.837,
+        "rating": 0.407,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.643,
+        "jockey": 0.545,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 1,
+        "recencyMargin": 0.899
+      }
+    },
+    {
+      "no": null,
+      "name": "OTTO LUYKEN",
+      "rank": 2,
+      "score": 61.4,
+      "rating": 113,
+      "draw": 2,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "James Crawford",
+      "lastFive": "57",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.352,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.929,
+        "jockey": 0.5,
+        "trainer": 0.476,
+        "weight": 0.125,
+        "headToHead": 0.742,
+        "recencyMargin": 0.707
+      }
+    },
+    {
+      "no": null,
+      "name": "PAY THE PALACE",
+      "rank": 3,
+      "score": 59.3,
+      "rating": 103,
+      "draw": 1,
+      "weight": 56,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Piet/Elbert Steyn",
+      "lastFive": "38",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.435,
+        "rating": 0.63,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.515,
+        "trainer": 0.482,
+        "weight": 0.75,
+        "headToHead": 0.621,
+        "recencyMargin": 0.675
+      }
+    },
+    {
+      "no": null,
+      "name": "TIME FOR LOVE",
+      "rank": 4,
+      "score": 51.6,
+      "rating": 105,
+      "draw": 4,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "lastFive": "74",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.405,
+        "rating": 0.704,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.786,
+        "jockey": 0.414,
+        "trainer": 0.345,
+        "weight": 0.625,
+        "headToHead": 0.708,
+        "recencyMargin": 0.169
+      }
+    },
+    {
+      "no": null,
+      "name": "MAGIC VERSE",
+      "rank": 5,
+      "score": 51.1,
+      "rating": 112,
+      "draw": 7,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "49",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.327,
+        "rating": 0.963,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.571,
+        "jockey": 0.415,
+        "trainer": 0.477,
+        "weight": 0,
+        "headToHead": 0.401,
+        "recencyMargin": 0.572
+      }
+    },
+    {
+      "no": null,
+      "name": "PRAIRIE DAWN",
+      "rank": 6,
+      "score": 46,
+      "rating": 89,
+      "draw": 5,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.111,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.714,
+        "jockey": 0.581,
+        "trainer": 0.477,
+        "weight": 1,
+        "headToHead": 0.579,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "SHERIFF JOHN STONE",
+      "rank": 7,
+      "score": 31.1,
+      "rating": 86,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "66",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.235,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.857,
+        "jockey": 0.389,
+        "trainer": 0.383,
+        "weight": 0.5,
+        "headToHead": 0,
+        "recencyMargin": 0.449
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "points": 3.238,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "OTTO LUYKEN",
+        "MAGIC VERSE",
+        "SHERIFF JOHN STONE"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "OTTO LUYKEN",
+      "key": "OTTO LUYKEN",
+      "points": 1.253,
+      "wins": 3,
+      "losses": 2,
+      "meetings": 5,
+      "beats": [
+        "MAGIC VERSE",
+        "PAY THE PALACE",
+        "SHERIFF JOHN STONE"
+      ],
+      "losesTo": [
+        "FUTURE FREE",
+        "MAGIC VERSE"
+      ],
+      "record": "3-2",
+      "smallSample": false
+    },
+    {
+      "name": "TIME FOR LOVE",
+      "key": "TIME FOR LOVE",
+      "points": 0.995,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "SHERIFF JOHN STONE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "PAY THE PALACE",
+      "key": "PAY THE PALACE",
+      "points": 0.324,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "MAGIC VERSE"
+      ],
+      "losesTo": [
+        "OTTO LUYKEN"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "PRAIRIE DAWN",
+      "key": "PRAIRIE DAWN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MAGIC VERSE",
+      "key": "MAGIC VERSE",
+      "points": -1.366,
+      "wins": 2,
+      "losses": 3,
+      "meetings": 5,
+      "beats": [
+        "OTTO LUYKEN",
+        "SHERIFF JOHN STONE"
+      ],
+      "losesTo": [
+        "FUTURE FREE",
+        "OTTO LUYKEN",
+        "PAY THE PALACE"
+      ],
+      "record": "2-3",
+      "smallSample": false
+    },
+    {
+      "name": "SHERIFF JOHN STONE",
+      "key": "SHERIFF JOHN STONE",
+      "points": -4.445,
+      "wins": 0,
+      "losses": 4,
+      "meetings": 4,
+      "beats": [],
+      "losesTo": [
+        "FUTURE FREE",
+        "OTTO LUYKEN",
+        "MAGIC VERSE",
+        "TIME FOR LOVE"
+      ],
+      "record": "0-4",
+      "smallSample": true
+    }
+  ],
+  "strongest": "FUTURE FREE",
+  "places": 2
+}

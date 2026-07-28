@@ -1,0 +1,1191 @@
+{
+  "id": "2026-05-03-kenilworth-r7",
+  "date": "2026-05-03",
+  "track": "Kenilworth",
+  "race": 7,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.291Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "LA PULGA",
+      "key": "LA PULGA",
+      "draw": 4,
+      "rating": 99,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 71,
+      "factors": {
+        "form": 1,
+        "rating": 0.448,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.5,
+        "trainer": 0.609,
+        "weight": 0.545,
+        "headToHead": 0.777,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 7.17,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.5,
+        "trainer": 3.05,
+        "weight": 3.27,
+        "headToHead": 9.32,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "SHERIFF JOHN STONE"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 3L at Kenilworth.",
+        "Won by 3L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 3L at Kenilworth.",
+        "Won by 3L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; stable in form (21%); has beaten SHERIFF JOHN STONE.",
+        "Against it: lower-rated (MR 99).",
+        "Has beaten SHERIFF JOHN STONE before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "trainer",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "stable in form (21%)",
+        "has beaten SHERIFF JOHN STONE"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 99)"
+      ],
+      "rank": 1,
+      "pWin": 0.3334,
+      "pPlace": 0.8529,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "VIVA'S LIBERTE",
+      "key": "VIVAS LIBERTE",
+      "draw": 3,
+      "rating": 114,
+      "jockey": "Craig Zackey",
+      "trainer": "Candice Bass",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 70.9,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.966,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.556,
+        "trainer": 0.609,
+        "weight": 0.636,
+        "headToHead": 0.752,
+        "recencyMargin": 0.796
+      },
+      "contrib": {
+        "form": 11.25,
+        "rating": 15.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.67,
+        "trainer": 3.05,
+        "weight": 3.82,
+        "headToHead": 9.02,
+        "recencyMargin": 9.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "MAGIC VERSE",
+          "OTTO LUYKEN"
+        ],
+        "losesTo": [
+          "TENPENNY"
+        ]
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 5,
+        "places": 15,
+        "winPct": 17,
+        "placePct": 52,
+        "record": "5-29"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: well-rated (MR 114); stable in form (21%); carries 56.5kg.",
+        "Has beaten MAGIC VERSE, OTTO LUYKEN before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "trainer",
+        "weight"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "well-rated (MR 114)",
+        "stable in form (21%)",
+        "carries 56.5kg"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.3279,
+      "pPlace": 0.8489,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "draw": 2,
+      "rating": 91,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67,
+      "factors": {
+        "form": 1,
+        "rating": 0.172,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.589,
+        "trainer": 0.521,
+        "weight": 1,
+        "headToHead": 0.548,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 2.76,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.77,
+        "trainer": 2.6,
+        "weight": 6,
+        "headToHead": 6.57,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 0.80L at Kenilworth."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 2,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 38,
+        "record": "2-8"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 8,
+        "places": 21,
+        "winPct": 14,
+        "record": "8-57"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 0.80L at Kenilworth.",
+        "Why it can win: well-in at the weights (54.5kg); strong recent form; drawn 2 — a handy low draw.",
+        "Against it: lower-rated (MR 91)."
+      ],
+      "_strengths": [
+        "weight",
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "rating"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54.5kg)",
+        "strong recent form",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 91)"
+      ],
+      "rank": 3,
+      "pWin": 0.1712,
+      "pPlace": 0.632,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TENPENNY",
+      "key": "TENPENNY",
+      "draw": 7,
+      "rating": 105,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 65.9,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.655,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.445,
+        "trainer": 0.4,
+        "weight": 0.273,
+        "headToHead": 1,
+        "recencyMargin": 0.8
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 10.48,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.33,
+        "trainer": 2,
+        "weight": 1.64,
+        "headToHead": 12,
+        "recencyMargin": 9.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "VIVA'S LIBERTE",
+          "MAGIC VERSE",
+          "OTTO LUYKEN"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 3,
+        "places": 14,
+        "winPct": 8,
+        "placePct": 38,
+        "record": "3-37"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: has beaten VIVA'S LIBERTE, MAGIC VERSE; strong recent form; hitting the line hard lately.",
+        "Against it: stable out of form; lightly-supported jockey booking.",
+        "Has beaten VIVA'S LIBERTE, MAGIC VERSE, OTTO LUYKEN before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "trainer",
+        "jockey"
+      ],
+      "_strReasons": [
+        "has beaten VIVA'S LIBERTE, MAGIC VERSE",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 4,
+      "pWin": 0.1425,
+      "pPlace": 0.5518,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OTTO LUYKEN",
+      "key": "OTTO LUYKEN",
+      "draw": 8,
+      "rating": 115,
+      "jockey": "Callan Murray",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.6,
+      "factors": {
+        "form": 0.25,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.543,
+        "trainer": 0.504,
+        "weight": 0,
+        "headToHead": 0.44,
+        "recencyMargin": 0.683
+      },
+      "contrib": {
+        "form": 4.5,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.63,
+        "trainer": 2.52,
+        "weight": 0,
+        "headToHead": 5.28,
+        "recencyMargin": 8.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "MAGIC VERSE"
+        ],
+        "losesTo": [
+          "VIVA'S LIBERTE",
+          "TENPENNY"
+        ]
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 1,
+        "places": 1,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "3-18"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "record": "5-39"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: top-rated in the field (MR 115).",
+        "Against it: top-weight (60kg); patchy recent form.",
+        "Has beaten MAGIC VERSE before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "weight",
+        "form"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 115)"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0155,
+      "pPlace": 0.0705,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LANDOFTHERISINGSUN",
+      "key": "LANDOFTHERISINGSUN",
+      "draw": 6,
+      "rating": 99,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.448,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.483,
+        "trainer": 0.521,
+        "weight": 0.455,
+        "headToHead": 0.548,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.17,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.45,
+        "trainer": 2.6,
+        "weight": 2.73,
+        "headToHead": 6.57,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "4-36"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 8,
+        "places": 21,
+        "winPct": 14,
+        "record": "8-57"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lower-rated (MR 99); lightly-supported jockey booking.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 99)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 6,
+      "pWin": 0.0067,
+      "pPlace": 0.0309,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MAGIC VERSE",
+      "key": "MAGIC VERSE",
+      "draw": 1,
+      "rating": 113,
+      "jockey": "Keagan De Melo",
+      "trainer": "Justin Snaith",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 41.3,
+      "factors": {
+        "form": 0,
+        "rating": 0.931,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.59,
+        "trainer": 0.521,
+        "weight": 0.182,
+        "headToHead": 0,
+        "recencyMargin": 0.354
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 14.9,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.77,
+        "trainer": 2.6,
+        "weight": 1.09,
+        "headToHead": 0,
+        "recencyMargin": 4.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "VIVA'S LIBERTE",
+          "OTTO LUYKEN",
+          "TENPENNY"
+        ]
+      },
+      "recentForm": [
+        "9th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 4,
+        "places": 11,
+        "winPct": 21,
+        "placePct": 58,
+        "record": "4-19"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 8,
+        "places": 21,
+        "winPct": 14,
+        "record": "8-57"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 9 last start.",
+        "Why it can win: drawn 1 — a handy low draw; 21%-strike jockey booked; well-rated (MR 113).",
+        "Against it: patchy recent form; beaten by VIVA'S LIBERTE, OTTO LUYKEN before.",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "Beaten by VIVA'S LIBERTE, OTTO LUYKEN, TENPENNY in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey",
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "21%-strike jockey booked",
+        "well-rated (MR 113)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by VIVA'S LIBERTE, OTTO LUYKEN before"
+      ],
+      "rank": 7,
+      "pWin": 0.0024,
+      "pPlace": 0.0109,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHERIFF JOHN STONE",
+      "key": "SHERIFF JOHN STONE",
+      "draw": 5,
+      "rating": 86,
+      "jockey": "Corne Orffer",
+      "trainer": "Patrick Kruyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31.4,
+      "factors": {
+        "form": 0.167,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.392,
+        "trainer": 0.4,
+        "weight": 0.545,
+        "headToHead": 0.319,
+        "recencyMargin": 0.279
+      },
+      "contrib": {
+        "form": 3,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.18,
+        "trainer": 2,
+        "weight": 3.27,
+        "headToHead": 3.83,
+        "recencyMargin": 3.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "LA PULGA"
+        ]
+      },
+      "recentForm": [
+        "6th of 7 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 1,
+        "places": 8,
+        "winPct": 3,
+        "placePct": 28,
+        "record": "1-29"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 7 last start.",
+        "Against it: lower-rated (MR 86); lightly-supported jockey booking.",
+        "Beaten by LA PULGA in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lower-rated (MR 86)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 8,
+      "pWin": 0.0005,
+      "pPlace": 0.0021,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "LA PULGA",
+      "rank": 1,
+      "score": 71,
+      "rating": 99,
+      "draw": 4,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Serino Moodley",
+      "trainer": "Candice Bass",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.448,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.5,
+        "trainer": 0.609,
+        "weight": 0.545,
+        "headToHead": 0.777,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "VIVA'S LIBERTE",
+      "rank": 2,
+      "score": 70.9,
+      "rating": 114,
+      "draw": 3,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Candice Bass",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.966,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.556,
+        "trainer": 0.609,
+        "weight": 0.636,
+        "headToHead": 0.752,
+        "recencyMargin": 0.796
+      }
+    },
+    {
+      "no": null,
+      "name": "FUTURE FREE",
+      "rank": 3,
+      "score": 67,
+      "rating": 91,
+      "draw": 2,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.172,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.589,
+        "trainer": 0.521,
+        "weight": 1,
+        "headToHead": 0.548,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "TENPENNY",
+      "rank": 4,
+      "score": 65.9,
+      "rating": 105,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.655,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.445,
+        "trainer": 0.4,
+        "weight": 0.273,
+        "headToHead": 1,
+        "recencyMargin": 0.8
+      }
+    },
+    {
+      "no": null,
+      "name": "OTTO LUYKEN",
+      "rank": 5,
+      "score": 52.6,
+      "rating": 115,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "James Crawford",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.25,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.543,
+        "trainer": 0.504,
+        "weight": 0,
+        "headToHead": 0.44,
+        "recencyMargin": 0.683
+      }
+    },
+    {
+      "no": null,
+      "name": "LANDOFTHERISINGSUN",
+      "rank": 6,
+      "score": 47.6,
+      "rating": 99,
+      "draw": 6,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.448,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.483,
+        "trainer": 0.521,
+        "weight": 0.455,
+        "headToHead": 0.548,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "MAGIC VERSE",
+      "rank": 7,
+      "score": 41.3,
+      "rating": 113,
+      "draw": 1,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Justin Snaith",
+      "lastFive": "9",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.931,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.59,
+        "trainer": 0.521,
+        "weight": 0.182,
+        "headToHead": 0,
+        "recencyMargin": 0.354
+      }
+    },
+    {
+      "no": null,
+      "name": "SHERIFF JOHN STONE",
+      "rank": 8,
+      "score": 31.4,
+      "rating": 86,
+      "draw": 5,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.167,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.392,
+        "trainer": 0.4,
+        "weight": 0.545,
+        "headToHead": 0.319,
+        "recencyMargin": 0.279
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "TENPENNY",
+      "key": "TENPENNY",
+      "points": 3.496,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "VIVA'S LIBERTE",
+        "MAGIC VERSE",
+        "OTTO LUYKEN"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "LA PULGA",
+      "key": "LA PULGA",
+      "points": 1.772,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "SHERIFF JOHN STONE"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "VIVA'S LIBERTE",
+      "key": "VIVAS LIBERTE",
+      "points": 1.577,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "MAGIC VERSE",
+        "OTTO LUYKEN"
+      ],
+      "losesTo": [
+        "TENPENNY"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "FUTURE FREE",
+      "key": "FUTURE FREE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LANDOFTHERISINGSUN",
+      "key": "LANDOFTHERISINGSUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OTTO LUYKEN",
+      "key": "OTTO LUYKEN",
+      "points": -0.836,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "MAGIC VERSE"
+      ],
+      "losesTo": [
+        "VIVA'S LIBERTE",
+        "TENPENNY"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "SHERIFF JOHN STONE",
+      "key": "SHERIFF JOHN STONE",
+      "points": -1.772,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "LA PULGA"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "MAGIC VERSE",
+      "key": "MAGIC VERSE",
+      "points": -4.237,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "VIVA'S LIBERTE",
+        "OTTO LUYKEN",
+        "TENPENNY"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "TENPENNY",
+  "places": 3
+}

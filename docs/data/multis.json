@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:29:46.817Z",
+  "generated": "2026-07-28T20:05:51.221Z",
   "days": {
     "2026-03-30": {
       "bankers": [
@@ -1551,6 +1551,1561 @@
             "time": null,
             "selection": "CHARLIE BUCKET",
             "prob": 72.7
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-04-27": {
+      "bankers": [
+        {
+          "race": 8,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "OBJET D' ART",
+          "pWin": 80,
+          "pPlace": 99.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "DANCE VARIETY",
+          "pWin": 76.4,
+          "pPlace": 99.6,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SPANISH VERSE",
+          "pWin": 70.3,
+          "pPlace": 99,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.4298,
+          "combinedPct": 43,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 80
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 76.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 70.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.2915,
+          "combinedPct": 29.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 80
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 76.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 70.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLAIR DE LUNE",
+              "prob": 67.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.1678,
+          "combinedPct": 16.8,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 80
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 76.4
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 70.3
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLAIR DE LUNE",
+              "prob": 67.8
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "IT IS MY TIME",
+              "prob": 57.6
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9675,
+          "combinedPct": 96.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 99.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 99.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 99
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLAIR DE LUNE",
+              "prob": 98.8
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.9139,
+          "combinedPct": 91.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 99.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 99.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 99
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLAIR DE LUNE",
+              "prob": 98.8
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MON PAPILLON",
+              "prob": 94.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.7867,
+          "combinedPct": 78.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "DANCE VARIETY",
+              "prob": 99.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "OBJET D' ART",
+              "prob": 99.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPANISH VERSE",
+              "prob": 99
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CLAIR DE LUNE",
+              "prob": 98.8
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MON PAPILLON",
+              "prob": 94.5
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE CULLINAN",
+              "prob": 86.1
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.4298,
+        "combinedPct": 43,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 8,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "OBJET D' ART",
+            "prob": 80
+          },
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "DANCE VARIETY",
+            "prob": 76.4
+          },
+          {
+            "race": 4,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SPANISH VERSE",
+            "prob": 70.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-05-03": {
+      "bankers": [
+        {
+          "race": 3,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "CHANCE ENCOUNTER",
+          "pWin": 67.2,
+          "pPlace": 97.8,
+          "confidence": "strong"
+        },
+        {
+          "race": 2,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SWIFT SERENITY",
+          "pWin": 58.5,
+          "pPlace": 88.9,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "PENTOLINA",
+          "pWin": 57,
+          "pPlace": 97,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.2238,
+          "combinedPct": 22.4,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 67.2
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SWIFT SERENITY",
+              "prob": 58.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 57
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.1275,
+          "combinedPct": 12.7,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 67.2
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SWIFT SERENITY",
+              "prob": 58.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 57
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUEEN REGENT",
+              "prob": 57
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0718,
+          "combinedPct": 7.2,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 67.2
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SWIFT SERENITY",
+              "prob": 58.5
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 57
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUEEN REGENT",
+              "prob": 57
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MYSTIC INFERNO",
+              "prob": 56.4
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8981,
+          "combinedPct": 89.8,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUEEN REGENT",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 97.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 97
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MYSTIC INFERNO",
+              "prob": 96.3
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.8272,
+          "combinedPct": 82.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUEEN REGENT",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 97.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 97
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MYSTIC INFERNO",
+              "prob": 96.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 92.1
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.7354,
+          "combinedPct": 73.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "QUEEN REGENT",
+              "prob": 98.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHANCE ENCOUNTER",
+              "prob": 97.8
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PENTOLINA",
+              "prob": 97
+            },
+            {
+              "race": 9,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MYSTIC INFERNO",
+              "prob": 96.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FOLLOW YOUR HEART",
+              "prob": 92.1
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SWIFT SERENITY",
+              "prob": 88.9
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.2238,
+        "combinedPct": 22.4,
+        "confidence": "fair",
+        "selections": [
+          {
+            "race": 3,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "CHANCE ENCOUNTER",
+            "prob": 67.2
+          },
+          {
+            "race": 2,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SWIFT SERENITY",
+            "prob": 58.5
+          },
+          {
+            "race": 4,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "PENTOLINA",
+            "prob": 57
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-05-16": {
+      "bankers": [
+        {
+          "race": 5,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SUPER VIKING",
+          "pWin": 82.8,
+          "pPlace": 97.8,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "MARCUS AURELIUS",
+          "pWin": 66,
+          "pPlace": 99.8,
+          "confidence": "strong"
+        },
+        {
+          "race": 6,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "SOMEBODY SOMEWHERE",
+          "pWin": 64.4,
+          "pPlace": 99.1,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.3521,
+          "combinedPct": 35.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 82.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 66
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 64.4
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.2017,
+          "combinedPct": 20.2,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 82.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 66
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 64.4
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ROMAN BEAUTY",
+              "prob": 57.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0985,
+          "combinedPct": 9.8,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 82.8
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 66
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 64.4
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ROMAN BEAUTY",
+              "prob": 57.3
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE BIG BANG",
+              "prob": 48.8
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9523,
+          "combinedPct": 95.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.1
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ROMAN BEAUTY",
+              "prob": 98.5
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 97.8
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.9016,
+          "combinedPct": 90.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.1
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ROMAN BEAUTY",
+              "prob": 98.5
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 97.8
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE BIG BANG",
+              "prob": 94.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.731,
+          "combinedPct": 73.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MARCUS AURELIUS",
+              "prob": 99.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SOMEBODY SOMEWHERE",
+              "prob": 99.1
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ROMAN BEAUTY",
+              "prob": 98.5
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SUPER VIKING",
+              "prob": 97.8
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "THE BIG BANG",
+              "prob": 94.7
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MASTERONTHEMOON",
+              "prob": 81.1
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.3521,
+        "combinedPct": 35.2,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 5,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SUPER VIKING",
+            "prob": 82.8
+          },
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "MARCUS AURELIUS",
+            "prob": 66
+          },
+          {
+            "race": 6,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "SOMEBODY SOMEWHERE",
+            "prob": 64.4
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-05-19": {
+      "bankers": [
+        {
+          "race": 6,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "BACKINTHEFASTLANE",
+          "pWin": 91.2,
+          "pPlace": 100,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "RACHETTU",
+          "pWin": 71.3,
+          "pPlace": 99.7,
+          "confidence": "strong"
+        },
+        {
+          "race": 5,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "PLEASE BE TRUE",
+          "pWin": 63.3,
+          "pPlace": 97,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.4117,
+          "combinedPct": 41.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 91.2
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 71.3
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PLEASE BE TRUE",
+              "prob": 63.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.2593,
+          "combinedPct": 25.9,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 91.2
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 71.3
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PLEASE BE TRUE",
+              "prob": 63.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MAGICAL PLACE",
+              "prob": 63
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.1606,
+          "combinedPct": 16.1,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 91.2
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 71.3
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PLEASE BE TRUE",
+              "prob": 63.3
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MAGICAL PLACE",
+              "prob": 63
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "VERCICAT",
+              "prob": 61.9
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.9565,
+          "combinedPct": 95.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 100
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 99.7
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "VERCICAT",
+              "prob": 98.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MAGICAL PLACE",
+              "prob": 97.4
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.9276,
+          "combinedPct": 92.8,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 100
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 99.7
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "VERCICAT",
+              "prob": 98.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MAGICAL PLACE",
+              "prob": 97.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PLEASE BE TRUE",
+              "prob": 97
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.8706,
+          "combinedPct": 87.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "BACKINTHEFASTLANE",
+              "prob": 100
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "RACHETTU",
+              "prob": 99.7
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "VERCICAT",
+              "prob": 98.6
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "MAGICAL PLACE",
+              "prob": 97.4
+            },
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "PLEASE BE TRUE",
+              "prob": 97
+            },
+            {
+              "race": 4,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SCANDALIZE",
+              "prob": 93.8
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.4117,
+        "combinedPct": 41.2,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 6,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "BACKINTHEFASTLANE",
+            "prob": 91.2
+          },
+          {
+            "race": 3,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "RACHETTU",
+            "prob": 71.3
+          },
+          {
+            "race": 5,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "PLEASE BE TRUE",
+            "prob": 63.3
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-05-24": {
+      "bankers": [
+        {
+          "race": 5,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "LOVING PRAGUE (AUS)",
+          "pWin": 67.9,
+          "pPlace": 98.2,
+          "confidence": "strong"
+        },
+        {
+          "race": 7,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "FUTURE FREE",
+          "pWin": 66,
+          "pPlace": 91.4,
+          "confidence": "strong"
+        },
+        {
+          "race": 8,
+          "track": "Kenilworth",
+          "time": null,
+          "selection": "CHARLIE BUCKET",
+          "pWin": 61.8,
+          "pPlace": 98,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.2767,
+          "combinedPct": 27.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 67.9
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FUTURE FREE",
+              "prob": 66
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 61.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.1473,
+          "combinedPct": 14.7,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 67.9
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FUTURE FREE",
+              "prob": 66
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 61.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ERIC LIDDELL",
+              "prob": 53.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.067,
+          "combinedPct": 6.7,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 67.9
+            },
+            {
+              "race": 7,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "FUTURE FREE",
+              "prob": 66
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 61.8
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ERIC LIDDELL",
+              "prob": 53.3
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPINNAKER",
+              "prob": 45.5
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.8849,
+          "combinedPct": 88.5,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 98.2
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ERIC LIDDELL",
+              "prob": 96.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NOON DAY GUN",
+              "prob": 95.3
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.837,
+          "combinedPct": 83.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 98.2
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ERIC LIDDELL",
+              "prob": 96.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NOON DAY GUN",
+              "prob": 95.3
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPINNAKER",
+              "prob": 94.6
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.7672,
+          "combinedPct": 76.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 5,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "LOVING PRAGUE (AUS)",
+              "prob": 98.2
+            },
+            {
+              "race": 8,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "CHARLIE BUCKET",
+              "prob": 98
+            },
+            {
+              "race": 6,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "ERIC LIDDELL",
+              "prob": 96.5
+            },
+            {
+              "race": 3,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "NOON DAY GUN",
+              "prob": 95.3
+            },
+            {
+              "race": 2,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "SPINNAKER",
+              "prob": 94.6
+            },
+            {
+              "race": 1,
+              "track": "Kenilworth",
+              "time": null,
+              "selection": "AQUAE CALIDAE",
+              "prob": 91.7
+            }
+          ]
+        }
+      ],
+      "edges": [],
+      "valuePicks": [],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.2767,
+        "combinedPct": 27.7,
+        "confidence": "strong",
+        "selections": [
+          {
+            "race": 5,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "LOVING PRAGUE (AUS)",
+            "prob": 67.9
+          },
+          {
+            "race": 7,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "FUTURE FREE",
+            "prob": 66
+          },
+          {
+            "race": 8,
+            "track": "Kenilworth",
+            "time": null,
+            "selection": "CHARLIE BUCKET",
+            "prob": 61.8
           }
         ]
       },

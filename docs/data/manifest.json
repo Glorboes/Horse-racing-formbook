@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T19:29:46.808Z",
-  "count": 85,
+  "generated": "2026-07-28T20:05:51.175Z",
+  "count": 128,
   "days": [
     {
       "date": "2026-07-25",
@@ -46,6 +46,51 @@
       ],
       "circuit": "Highveld",
       "settled": 10
+    },
+    {
+      "date": "2026-05-24",
+      "races": 8,
+      "tracks": [
+        "Kenilworth"
+      ],
+      "circuit": "Cape",
+      "settled": 8
+    },
+    {
+      "date": "2026-05-19",
+      "races": 9,
+      "tracks": [
+        "Kenilworth"
+      ],
+      "circuit": "Cape",
+      "settled": 9
+    },
+    {
+      "date": "2026-05-16",
+      "races": 8,
+      "tracks": [
+        "Kenilworth"
+      ],
+      "circuit": "Cape",
+      "settled": 8
+    },
+    {
+      "date": "2026-05-03",
+      "races": 9,
+      "tracks": [
+        "Kenilworth"
+      ],
+      "circuit": "Cape",
+      "settled": 9
+    },
+    {
+      "date": "2026-04-27",
+      "races": 9,
+      "tracks": [
+        "Kenilworth"
+      ],
+      "circuit": "Cape",
+      "settled": 9
     },
     {
       "date": "2026-04-18",
@@ -3302,6 +3347,5047 @@
         "topPickScratched": false,
         "topPickWon": true,
         "topPickPlaced": true
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r8.json",
+      "id": "2026-05-24-kenilworth-r8",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "CHARLIE BUCKET",
+      "mostLikely": {
+        "name": "CHARLIE BUCKET",
+        "pWin": 61.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "MUTINY IN HEAVEN (IRE)",
+        "topPick": "CHARLIE BUCKET",
+        "pickPWin": 0.6176,
+        "pickScore": 71.1,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "CHARLIE BUCKET",
+            "pModel": 0.6176,
+            "pClose": 0.2528,
+            "edge": 0.3648,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MUTINY IN HEAVEN (IRE)",
+            "pModel": 0.2022,
+            "pClose": 0.2528,
+            "edge": -0.0506,
+            "odds": 3.25,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "FREQUENT TRAVELLER",
+            "pModel": 0.0836,
+            "pClose": 0.2027,
+            "edge": -0.1191,
+            "odds": 4.3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FATE OF PACE",
+            "pModel": 0.0599,
+            "pClose": 0.0671,
+            "edge": -0.0072,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "QUIET PLACE",
+            "pModel": 0.0232,
+            "pClose": 0.0597,
+            "edge": -0.0365,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "READY FOR THE ROAD",
+            "pModel": 0.0084,
+            "pClose": 0.0895,
+            "edge": -0.0811,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "CELESTIAL ROCKET",
+            "pModel": 0.003,
+            "pClose": 0.0158,
+            "edge": -0.0128,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MASTER COINER",
+            "pModel": 0.0022,
+            "pClose": 0.0597,
+            "edge": -0.0575,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r7.json",
+      "id": "2026-05-24-kenilworth-r7",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "FUTURE FREE",
+      "mostLikely": {
+        "name": "FUTURE FREE",
+        "pWin": 66,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "FUTURE FREE",
+        "topPick": "FUTURE FREE",
+        "pickPWin": 0.6597,
+        "pickScore": 70,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "FUTURE FREE",
+            "pModel": 0.6597,
+            "pClose": 0.1797,
+            "edge": 0.48,
+            "odds": 5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "OTTO LUYKEN",
+            "pModel": 0.1573,
+            "pClose": 0.1437,
+            "edge": 0.0136,
+            "odds": 6.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PAY THE PALACE",
+            "pModel": 0.1109,
+            "pClose": 0.2913,
+            "edge": -0.1804,
+            "odds": 2.7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TIME FOR LOVE",
+            "pModel": 0.0307,
+            "pClose": 0.0399,
+            "edge": -0.0092,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAGIC VERSE",
+            "pModel": 0.0283,
+            "pClose": 0.0898,
+            "edge": -0.0615,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PRAIRIE DAWN",
+            "pModel": 0.0121,
+            "pClose": 0.2156,
+            "edge": -0.2035,
+            "odds": 4,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SHERIFF JOHN STONE",
+            "pModel": 0.001,
+            "pClose": 0.0399,
+            "edge": -0.0389,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r6.json",
+      "id": "2026-05-24-kenilworth-r6",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "ERIC LIDDELL",
+      "mostLikely": {
+        "name": "ERIC LIDDELL",
+        "pWin": 53.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "TUNGUSKA",
+        "topPick": "ERIC LIDDELL",
+        "pickPWin": 0.5325,
+        "pickScore": 73,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "ERIC LIDDELL",
+            "pModel": 0.5325,
+            "pClose": 0.1657,
+            "edge": 0.3668,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PHANTOM MAN",
+            "pModel": 0.2874,
+            "pClose": 0.0743,
+            "edge": 0.2131,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORT LIAM",
+            "pModel": 0.0745,
+            "pClose": 0.1077,
+            "edge": -0.0332,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SCOTTISH LINKS",
+            "pModel": 0.0491,
+            "pClose": 0.2243,
+            "edge": -0.1752,
+            "odds": 3.8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TUNGUSKA",
+            "pModel": 0.0187,
+            "pClose": 0.295,
+            "edge": -0.2763,
+            "odds": 2.65,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "LOUI'S STAR",
+            "pModel": 0.0169,
+            "pClose": 0.0598,
+            "edge": -0.0429,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SONG TO THE MOON",
+            "pModel": 0.0103,
+            "pClose": 0.0489,
+            "edge": -0.0386,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TOTHEMOONANDBACK",
+            "pModel": 0.0098,
+            "pClose": 0.0158,
+            "edge": -0.006,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ETOILEFILLANTE",
+            "pModel": 0.0008,
+            "pClose": 0.0085,
+            "edge": -0.0077,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r5.json",
+      "id": "2026-05-24-kenilworth-r5",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "LOVING PRAGUE (AUS)",
+      "mostLikely": {
+        "name": "LOVING PRAGUE (AUS)",
+        "pWin": 67.9,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "FAST TRAIN",
+        "topPick": "LOVING PRAGUE (AUS)",
+        "pickPWin": 0.6791,
+        "pickScore": 70.4,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "LOVING PRAGUE (AUS)",
+            "pModel": 0.6791,
+            "pClose": 0.2582,
+            "edge": 0.4209,
+            "odds": 3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KELP FOREST",
+            "pModel": 0.1262,
+            "pClose": 0.1589,
+            "edge": -0.0327,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WINTER PEARL",
+            "pModel": 0.0626,
+            "pClose": 0.1148,
+            "edge": -0.0522,
+            "odds": 8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FAST TRAIN",
+            "pModel": 0.0413,
+            "pClose": 0.1148,
+            "edge": -0.0735,
+            "odds": 8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MOODY BLUE",
+            "pModel": 0.0386,
+            "pClose": 0.0574,
+            "edge": -0.0188,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GROOVEJET",
+            "pModel": 0.0327,
+            "pClose": 0.1033,
+            "edge": -0.0706,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "OCTOBER STORM",
+            "pModel": 0.0104,
+            "pClose": 0.1215,
+            "edge": -0.1111,
+            "odds": 7.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KLIPTOWN",
+            "pModel": 0.0091,
+            "pClose": 0.0712,
+            "edge": -0.0621,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r4.json",
+      "id": "2026-05-24-kenilworth-r4",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "LAVA STRIKE",
+      "mostLikely": {
+        "name": "LAVA STRIKE",
+        "pWin": 34,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "LAVA STRIKE",
+        "topPick": "LAVA STRIKE",
+        "pickPWin": 0.3395,
+        "pickScore": 61.4,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "LAVA STRIKE",
+            "pModel": 0.3395,
+            "pClose": 0.2813,
+            "edge": 0.0582,
+            "odds": 2.7,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "THE MUFFIN MAN",
+            "pModel": 0.2201,
+            "pClose": 0.1735,
+            "edge": 0.0466,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "REFINER'S FIRE",
+            "pModel": 0.1403,
+            "pClose": 0.0718,
+            "edge": 0.0685,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COFFEE CRUNCH",
+            "pModel": 0.1403,
+            "pClose": 0.1388,
+            "edge": 0.0015,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL CLINTON",
+            "pModel": 0.0467,
+            "pClose": 0.0297,
+            "edge": 0.017,
+            "odds": 34,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ZANFAN MORIS",
+            "pModel": 0.0358,
+            "pClose": 0.0651,
+            "edge": -0.0293,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LOVE FROM AFAR",
+            "pModel": 0.0318,
+            "pClose": 0.0718,
+            "edge": -0.04,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MONTICELLO",
+            "pModel": 0.0298,
+            "pClose": 0.1301,
+            "edge": -0.1003,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LADY AMBER",
+            "pModel": 0.0136,
+            "pClose": 0.0082,
+            "edge": 0.0054,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WORLD AT ONE",
+            "pModel": 0.0021,
+            "pClose": 0.0297,
+            "edge": -0.0276,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r3.json",
+      "id": "2026-05-24-kenilworth-r3",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "NOON DAY GUN",
+      "mostLikely": {
+        "name": "NOON DAY GUN",
+        "pWin": 44.5,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "SIGNOR DANTE",
+        "topPick": "NOON DAY GUN",
+        "pickPWin": 0.4455,
+        "pickScore": 75.4,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "NOON DAY GUN",
+            "pModel": 0.4455,
+            "pClose": 0.218,
+            "edge": 0.2275,
+            "odds": 3.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PACIFIC WATERS",
+            "pModel": 0.3356,
+            "pClose": 0.0388,
+            "edge": 0.2968,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORT YUKON",
+            "pModel": 0.1533,
+            "pClose": 0.161,
+            "edge": -0.0077,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "RED DAWN",
+            "pModel": 0.0294,
+            "pClose": 0.1495,
+            "edge": -0.1201,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SIGNOR DANTE",
+            "pModel": 0.0164,
+            "pClose": 0.218,
+            "edge": -0.2016,
+            "odds": 3.8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "TYPICALLY FRENCH",
+            "pModel": 0.0084,
+            "pClose": 0.0299,
+            "edge": -0.0215,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COUNT WILLIAM",
+            "pModel": 0.0067,
+            "pClose": 0.0299,
+            "edge": -0.0232,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVETHATMANABELLS",
+            "pModel": 0.0043,
+            "pClose": 0.1163,
+            "edge": -0.112,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DEVIL A SAINT",
+            "pModel": 0.0003,
+            "pClose": 0.0388,
+            "edge": -0.0385,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r2.json",
+      "id": "2026-05-24-kenilworth-r2",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "SPINNAKER",
+      "mostLikely": {
+        "name": "SPINNAKER",
+        "pWin": 45.5,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "HERO'S JOURNEY",
+        "topPick": "SPINNAKER",
+        "pickPWin": 0.455,
+        "pickScore": 65.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "SPINNAKER",
+            "pModel": 0.455,
+            "pClose": 0.1495,
+            "edge": 0.3055,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IT'SGOOD IT'SNICE",
+            "pModel": 0.326,
+            "pClose": 0.2326,
+            "edge": 0.0934,
+            "odds": 3.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MADE IN CHELSEA",
+            "pModel": 0.1326,
+            "pClose": 0.1611,
+            "edge": -0.0285,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WHAT THE FLUFF",
+            "pModel": 0.0311,
+            "pClose": 0.0249,
+            "edge": 0.0062,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HERO'S JOURNEY",
+            "pModel": 0.0195,
+            "pClose": 0.1611,
+            "edge": -0.1416,
+            "odds": 5.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "CAPTAIN'S ANGEL",
+            "pModel": 0.0168,
+            "pClose": 0.1745,
+            "edge": -0.1577,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "YOU MADE ME LOOK",
+            "pModel": 0.0086,
+            "pClose": 0.0582,
+            "edge": -0.0496,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WARRIOR OF DESTINY",
+            "pModel": 0.0063,
+            "pClose": 0.0299,
+            "edge": -0.0236,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUN JOHNNY RUN",
+            "pModel": 0.0041,
+            "pClose": 0.0082,
+            "edge": -0.0041,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-24-kenilworth-r1.json",
+      "id": "2026-05-24-kenilworth-r1",
+      "date": "2026-05-24",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "AQUAE CALIDAE",
+      "mostLikely": {
+        "name": "AQUAE CALIDAE",
+        "pWin": 45.1,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "AQUAE CALIDAE",
+        "topPick": "AQUAE CALIDAE",
+        "pickPWin": 0.4506,
+        "pickScore": 59.1,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "AQUAE CALIDAE",
+            "pModel": 0.4506,
+            "pClose": 0.5395,
+            "edge": -0.0889,
+            "odds": 1.36,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ANOTHER HERO",
+            "pModel": 0.2873,
+            "pClose": 0.1273,
+            "edge": 0.16,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "IN UNITY",
+            "pModel": 0.1039,
+            "pClose": 0.0245,
+            "edge": 0.0794,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GODRIC GRYFFINDOR",
+            "pModel": 0.0491,
+            "pClose": 0.1061,
+            "edge": -0.057,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LE SOLEIL",
+            "pModel": 0.0409,
+            "pClose": 0.1592,
+            "edge": -0.1183,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LIKE DYNAMITE",
+            "pModel": 0.0389,
+            "pClose": 0.0125,
+            "edge": 0.0264,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIMMEAGAMBLE",
+            "pModel": 0.0175,
+            "pClose": 0.01,
+            "edge": 0.0075,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TORRENT OF GOLD",
+            "pModel": 0.0066,
+            "pClose": 0.0084,
+            "edge": -0.0018,
+            "odds": 151,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HAPPY WINTER",
+            "pModel": 0.0052,
+            "pClose": 0.0125,
+            "edge": -0.0073,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r9.json",
+      "id": "2026-05-19-kenilworth-r9",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 9,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "VOLEGOV",
+      "mostLikely": {
+        "name": "VOLEGOV",
+        "pWin": 32.6,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "ALL ABOUT AL",
+        "topPick": "VOLEGOV",
+        "pickPWin": 0.3265,
+        "pickScore": 71.7,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "VOLEGOV",
+            "pModel": 0.3265,
+            "pClose": 0.1257,
+            "edge": 0.2008,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TAKE THAT",
+            "pModel": 0.3105,
+            "pClose": 0.1547,
+            "edge": 0.1558,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HEDRIVESMECRAZY",
+            "pModel": 0.1568,
+            "pClose": 0.0628,
+            "edge": 0.094,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LYRICAL GANGSTER",
+            "pModel": 0.089,
+            "pClose": 0.1676,
+            "edge": -0.0786,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ALL ABOUT AL",
+            "pModel": 0.0805,
+            "pClose": 0.1547,
+            "edge": -0.0742,
+            "odds": 5.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ESCARPMENT",
+            "pModel": 0.0122,
+            "pClose": 0.0148,
+            "edge": -0.0026,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORT RED",
+            "pModel": 0.0091,
+            "pClose": 0.0239,
+            "edge": -0.0148,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GALACTUS",
+            "pModel": 0.0077,
+            "pClose": 0.0457,
+            "edge": -0.038,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "STREET OUTLAW",
+            "pModel": 0.0043,
+            "pClose": 0.1257,
+            "edge": -0.1214,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TRAILFINDER",
+            "pModel": 0.0025,
+            "pClose": 0.1005,
+            "edge": -0.098,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAJOR APOLLO",
+            "pModel": 0.0009,
+            "pClose": 0.0239,
+            "edge": -0.023,
+            "odds": 41,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r8.json",
+      "id": "2026-05-19-kenilworth-r8",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "MAGICAL PLACE",
+      "mostLikely": {
+        "name": "MAGICAL PLACE",
+        "pWin": 63,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "FLYING FINLEY",
+        "topPick": "MAGICAL PLACE",
+        "pickPWin": 0.6298,
+        "pickScore": 73.8,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MAGICAL PLACE",
+            "pModel": 0.6298,
+            "pClose": 0.1299,
+            "edge": 0.4999,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DEMANDING DAVE",
+            "pModel": 0.1429,
+            "pClose": 0.1732,
+            "edge": -0.0303,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FLYING FINLEY",
+            "pModel": 0.1007,
+            "pClose": 0.2078,
+            "edge": -0.1071,
+            "odds": 4,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "NORTH POINT",
+            "pModel": 0.0534,
+            "pClose": 0.0866,
+            "edge": -0.0332,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "UN BEL DI",
+            "pModel": 0.0228,
+            "pClose": 0.0247,
+            "edge": -0.0019,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHURCHILLIAN",
+            "pModel": 0.0151,
+            "pClose": 0.1039,
+            "edge": -0.0888,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ELUSIVE WINTER",
+            "pModel": 0.0134,
+            "pClose": 0.0577,
+            "edge": -0.0443,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GOLD GIBOSKI",
+            "pModel": 0.0096,
+            "pClose": 0.1039,
+            "edge": -0.0943,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BLACK CHEETAH",
+            "pModel": 0.0079,
+            "pClose": 0.1039,
+            "edge": -0.096,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DREAMLAND",
+            "pModel": 0.0044,
+            "pClose": 0.0082,
+            "edge": -0.0038,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r7.json",
+      "id": "2026-05-19-kenilworth-r7",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "VERCICAT",
+      "mostLikely": {
+        "name": "VERCICAT",
+        "pWin": 61.9,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "PRINCE OF TIBET",
+        "topPick": "VERCICAT",
+        "pickPWin": 0.6194,
+        "pickScore": 75.7,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "VERCICAT",
+            "pModel": 0.6194,
+            "pClose": 0.152,
+            "edge": 0.4674,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "AVIGNON",
+            "pModel": 0.2396,
+            "pClose": 0.0988,
+            "edge": 0.1408,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PRINCE OF TIBET",
+            "pModel": 0.0838,
+            "pClose": 0.0988,
+            "edge": -0.015,
+            "odds": 9,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "OZARK",
+            "pModel": 0.0184,
+            "pClose": 0.1796,
+            "edge": -0.1612,
+            "odds": 4.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FORTUNE ONE",
+            "pModel": 0.0108,
+            "pClose": 0.1317,
+            "edge": -0.1209,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FLYING SOUTH",
+            "pModel": 0.0061,
+            "pClose": 0.0823,
+            "edge": -0.0762,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WEHAVEASITUATION",
+            "pModel": 0.006,
+            "pClose": 0.0366,
+            "edge": -0.0306,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHIFTING PATH",
+            "pModel": 0.0052,
+            "pClose": 0.0617,
+            "edge": -0.0565,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DAWN'S EARLY LIGHT",
+            "pModel": 0.0044,
+            "pClose": 0.0617,
+            "edge": -0.0573,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVERS LANE",
+            "pModel": 0.0031,
+            "pClose": 0.0449,
+            "edge": -0.0418,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUN FOR COVER",
+            "pModel": 0.0017,
+            "pClose": 0.0235,
+            "edge": -0.0218,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "VIVO PER LEI",
+            "pModel": 0.0014,
+            "pClose": 0.0282,
+            "edge": -0.0268,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r6.json",
+      "id": "2026-05-19-kenilworth-r6",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "BACKINTHEFASTLANE",
+      "mostLikely": {
+        "name": "BACKINTHEFASTLANE",
+        "pWin": 91.2,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "HEAVENLY PRINCE",
+        "topPick": "BACKINTHEFASTLANE",
+        "pickPWin": 0.9121,
+        "pickScore": 82.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "BACKINTHEFASTLANE",
+            "pModel": 0.9121,
+            "pClose": 0.3151,
+            "edge": 0.597,
+            "odds": 2.4,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BATON ROUGE",
+            "pModel": 0.0384,
+            "pClose": 0.1428,
+            "edge": -0.1044,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPECIAL GLAMOUR",
+            "pModel": 0.0226,
+            "pClose": 0.1428,
+            "edge": -0.1202,
+            "odds": 6.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "HEAVENLY PRINCE",
+            "pModel": 0.0215,
+            "pClose": 0.153,
+            "edge": -0.1315,
+            "odds": 6,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "LOUI'S STAR",
+            "pModel": 0.0029,
+            "pClose": 0.102,
+            "edge": -0.0991,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RED STATE",
+            "pModel": 0.0012,
+            "pClose": 0.0397,
+            "edge": -0.0385,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BEER WITH THE BOYS",
+            "pModel": 0.0008,
+            "pClose": 0.0739,
+            "edge": -0.0731,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DOUBLE DASH",
+            "pModel": 0.0006,
+            "pClose": 0.0306,
+            "edge": -0.03,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r5.json",
+      "id": "2026-05-19-kenilworth-r5",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "PLEASE BE TRUE",
+      "mostLikely": {
+        "name": "PLEASE BE TRUE",
+        "pWin": 63.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "CHASINGTHERAINBOW",
+        "topPick": "PLEASE BE TRUE",
+        "pickPWin": 0.6334,
+        "pickScore": 69.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "PLEASE BE TRUE",
+            "pModel": 0.6334,
+            "pClose": 0.1568,
+            "edge": 0.4766,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BOOGIEFIED (AUS)",
+            "pModel": 0.1367,
+            "pClose": 0.1699,
+            "edge": -0.0332,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "OLIVER",
+            "pModel": 0.0714,
+            "pClose": 0.0463,
+            "edge": 0.0251,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HANDSOME PRINCE",
+            "pModel": 0.0433,
+            "pClose": 0.0463,
+            "edge": -0.003,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN A TIMELY MANNER",
+            "pModel": 0.0276,
+            "pClose": 0.0703,
+            "edge": -0.0427,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHASINGTHERAINBOW",
+            "pModel": 0.0188,
+            "pClose": 0.0971,
+            "edge": -0.0783,
+            "odds": 9.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MENTE ET MANU",
+            "pModel": 0.0185,
+            "pClose": 0.1133,
+            "edge": -0.0948,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IT IS MY TIME",
+            "pModel": 0.0173,
+            "pClose": 0.0291,
+            "edge": -0.0118,
+            "odds": 34,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SOHO HEARTTHROB",
+            "pModel": 0.0154,
+            "pClose": 0.0291,
+            "edge": -0.0137,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KING'S QUEST",
+            "pModel": 0.012,
+            "pClose": 0.2039,
+            "edge": -0.1919,
+            "odds": 4,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DREAM SEARCHER",
+            "pModel": 0.0057,
+            "pClose": 0.0378,
+            "edge": -0.0321,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r4.json",
+      "id": "2026-05-19-kenilworth-r4",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "SCANDALIZE",
+      "mostLikely": {
+        "name": "SCANDALIZE",
+        "pWin": 48,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "KITUBA",
+        "topPick": "SCANDALIZE",
+        "pickPWin": 0.4799,
+        "pickScore": 71.6,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "SCANDALIZE",
+            "pModel": 0.4799,
+            "pClose": 0.1747,
+            "edge": 0.3052,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "REDLIGHT LANE",
+            "pModel": 0.2229,
+            "pClose": 0.1978,
+            "edge": 0.0251,
+            "odds": 4.3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BEFORE SUNRISE",
+            "pModel": 0.1887,
+            "pClose": 0.1747,
+            "edge": 0.014,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "AUTUMN RUSH",
+            "pModel": 0.0481,
+            "pClose": 0.0388,
+            "edge": 0.0093,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KITUBA",
+            "pModel": 0.0239,
+            "pClose": 0.0998,
+            "edge": -0.0759,
+            "odds": 9.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "NICCI'S LAW",
+            "pModel": 0.0192,
+            "pClose": 0.1747,
+            "edge": -0.1555,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GIDDY UP GRACE",
+            "pModel": 0.0136,
+            "pClose": 0.1311,
+            "edge": -0.1175,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ONSSILVERJET",
+            "pModel": 0.0036,
+            "pClose": 0.0083,
+            "edge": -0.0047,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r3.json",
+      "id": "2026-05-19-kenilworth-r3",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "RACHETTU",
+      "mostLikely": {
+        "name": "RACHETTU",
+        "pWin": 71.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "DIAMOND BARON",
+        "topPick": "RACHETTU",
+        "pickPWin": 0.7126,
+        "pickScore": 71.1,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "RACHETTU",
+            "pModel": 0.7126,
+            "pClose": 0.2292,
+            "edge": 0.4834,
+            "odds": 3.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PITERAQ",
+            "pModel": 0.2146,
+            "pClose": 0.2589,
+            "edge": -0.0443,
+            "odds": 3.25,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RABDAN",
+            "pModel": 0.0267,
+            "pClose": 0.2751,
+            "edge": -0.2484,
+            "odds": 3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN THE AIR TONIGHT",
+            "pModel": 0.0222,
+            "pClose": 0.0314,
+            "edge": -0.0092,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DIAMOND BARON",
+            "pModel": 0.0107,
+            "pClose": 0.1223,
+            "edge": -0.1116,
+            "odds": 8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "GIMME MORE APACHE",
+            "pModel": 0.01,
+            "pClose": 0.0212,
+            "edge": -0.0112,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LE TISSIER",
+            "pModel": 0.0021,
+            "pClose": 0.0408,
+            "edge": -0.0387,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "KIM CHANEL",
+            "pModel": 0.0009,
+            "pClose": 0.0212,
+            "edge": -0.0203,
+            "odds": 51,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r2.json",
+      "id": "2026-05-19-kenilworth-r2",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "REDFORD",
+      "mostLikely": {
+        "name": "REDFORD",
+        "pWin": 32.2,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "BACHATA",
+        "topPick": "REDFORD",
+        "pickPWin": 0.3224,
+        "pickScore": 58.4,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "REDFORD",
+            "pModel": 0.3224,
+            "pClose": 0.432,
+            "edge": -0.1096,
+            "odds": 1.67,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SPEAK NO EVIL",
+            "pModel": 0.2511,
+            "pClose": 0.0275,
+            "edge": 0.2236,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUBEE KING",
+            "pModel": 0.1355,
+            "pClose": 0.1442,
+            "edge": -0.0087,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL LIGHT",
+            "pModel": 0.0589,
+            "pClose": 0.1098,
+            "edge": -0.0509,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BACHATA",
+            "pModel": 0.0499,
+            "pClose": 0.0961,
+            "edge": -0.0462,
+            "odds": 11,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "WISE ADVICE",
+            "pModel": 0.0363,
+            "pClose": 0.0113,
+            "edge": 0.025,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "AFRICAN WILD DOG",
+            "pModel": 0.0357,
+            "pClose": 0.0721,
+            "edge": -0.0364,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DARK FORTUNE",
+            "pModel": 0.0357,
+            "pClose": 0.0113,
+            "edge": 0.0244,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPICKERISH",
+            "pModel": 0.0351,
+            "pClose": 0.0113,
+            "edge": 0.0238,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SARATOGA SUNRISE",
+            "pModel": 0.0329,
+            "pClose": 0.0641,
+            "edge": -0.0312,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NOBLE SALUTE",
+            "pModel": 0.0048,
+            "pClose": 0.0113,
+            "edge": -0.0065,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MOTIONS MAC",
+            "pModel": 0.0016,
+            "pClose": 0.0091,
+            "edge": -0.0075,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-19-kenilworth-r1.json",
+      "id": "2026-05-19-kenilworth-r1",
+      "date": "2026-05-19",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "VIRGINIA BLUEBELL",
+      "mostLikely": {
+        "name": "VIRGINIA BLUEBELL",
+        "pWin": 39.4,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "IN HOT WATER",
+        "topPick": "VIRGINIA BLUEBELL",
+        "pickPWin": 0.3942,
+        "pickScore": 66.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "VIRGINIA BLUEBELL",
+            "pModel": 0.3942,
+            "pClose": 0.1582,
+            "edge": 0.236,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "IN HOT WATER",
+            "pModel": 0.1771,
+            "pClose": 0.3805,
+            "edge": -0.2034,
+            "odds": 1.91,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PRINCESS SOFIA",
+            "pModel": 0.1426,
+            "pClose": 0.123,
+            "edge": 0.0196,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LADY SUNSHINE",
+            "pModel": 0.0988,
+            "pClose": 0.0764,
+            "edge": 0.0224,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EL COHETE",
+            "pModel": 0.0516,
+            "pClose": 0.0615,
+            "edge": -0.0099,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "JULIET OF VERONA",
+            "pModel": 0.0444,
+            "pClose": 0.0615,
+            "edge": -0.0171,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "GOLDEN SHIMMER",
+            "pModel": 0.0358,
+            "pClose": 0.0764,
+            "edge": -0.0406,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPANISH WORLD",
+            "pModel": 0.0236,
+            "pClose": 0.0163,
+            "edge": 0.0073,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ONE RIPPLE",
+            "pModel": 0.0228,
+            "pClose": 0.0213,
+            "edge": 0.0015,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LIMERANCE",
+            "pModel": 0.0084,
+            "pClose": 0.0163,
+            "edge": -0.0079,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUNWAY ROMANCE",
+            "pModel": 0.0007,
+            "pClose": 0.0087,
+            "edge": -0.008,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r8.json",
+      "id": "2026-05-16-kenilworth-r8",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "SAACHI ONE",
+      "mostLikely": {
+        "name": "SAACHI ONE",
+        "pWin": 40.6,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "BLACK ERIKA",
+        "topPick": "SAACHI ONE",
+        "pickPWin": 0.4061,
+        "pickScore": 57,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "SAACHI ONE",
+            "pModel": 0.4061,
+            "pClose": 0.1224,
+            "edge": 0.2837,
+            "odds": 7.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIN PALACE",
+            "pModel": 0.2422,
+            "pClose": 0.1892,
+            "edge": 0.053,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WORLDCRAFT",
+            "pModel": 0.1765,
+            "pClose": 0.1734,
+            "edge": 0.0031,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BLACK ERIKA",
+            "pModel": 0.1203,
+            "pClose": 0.1963,
+            "edge": -0.076,
+            "odds": 4.3,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PUSHING LIMITS",
+            "pModel": 0.0407,
+            "pClose": 0.1156,
+            "edge": -0.0749,
+            "odds": 8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MARKETA",
+            "pModel": 0.0127,
+            "pClose": 0.0297,
+            "edge": -0.017,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PEACE OF MIND",
+            "pModel": 0.0016,
+            "pClose": 0.1734,
+            "edge": -0.1718,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r7.json",
+      "id": "2026-05-16-kenilworth-r7",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "MARCUS AURELIUS",
+      "mostLikely": {
+        "name": "MARCUS AURELIUS",
+        "pWin": 66,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "MARCUS AURELIUS",
+        "topPick": "MARCUS AURELIUS",
+        "pickPWin": 0.66,
+        "pickScore": 73.8,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "MARCUS AURELIUS",
+            "pModel": 0.66,
+            "pClose": 0.2954,
+            "edge": 0.3646,
+            "odds": 2.65,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "FERRYMAN",
+            "pModel": 0.2917,
+            "pClose": 0.1961,
+            "edge": 0.0956,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAPTAINS ALLIANCE",
+            "pModel": 0.0183,
+            "pClose": 0.1797,
+            "edge": -0.1614,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "IN MOTION",
+            "pModel": 0.0119,
+            "pClose": 0.1438,
+            "edge": -0.1319,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROCKANROLLIN (AUS)",
+            "pModel": 0.0109,
+            "pClose": 0.049,
+            "edge": -0.0381,
+            "odds": 21,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DIAMOND ROCK",
+            "pModel": 0.0033,
+            "pClose": 0.0308,
+            "edge": -0.0275,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CARRIACOU",
+            "pModel": 0.0024,
+            "pClose": 0.0744,
+            "edge": -0.072,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAN OF CONSEQUENCE",
+            "pModel": 0.0014,
+            "pClose": 0.0308,
+            "edge": -0.0294,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r6.json",
+      "id": "2026-05-16-kenilworth-r6",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "SOMEBODY SOMEWHERE",
+      "mostLikely": {
+        "name": "SOMEBODY SOMEWHERE",
+        "pWin": 64.4,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "RAFFISH TREND",
+        "topPick": "SOMEBODY SOMEWHERE",
+        "pickPWin": 0.6443,
+        "pickScore": 77.7,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SOMEBODY SOMEWHERE",
+            "pModel": 0.6443,
+            "pClose": 0.2434,
+            "edge": 0.4009,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PEACHES AND CREAM",
+            "pModel": 0.2292,
+            "pClose": 0.1881,
+            "edge": 0.0411,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "APRICITY",
+            "pModel": 0.0843,
+            "pClose": 0.1952,
+            "edge": -0.1109,
+            "odds": 4.3,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ELUSIVE GIFT",
+            "pModel": 0.0112,
+            "pClose": 0.0296,
+            "edge": -0.0184,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LITTLE NIMBUS",
+            "pModel": 0.0107,
+            "pClose": 0.0575,
+            "edge": -0.0468,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RAFFISH TREND",
+            "pModel": 0.0097,
+            "pClose": 0.1089,
+            "edge": -0.0992,
+            "odds": 8.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MONEY EXTRACTOR",
+            "pModel": 0.005,
+            "pClose": 0.0713,
+            "edge": -0.0663,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LADY ORBIT",
+            "pModel": 0.0046,
+            "pClose": 0.047,
+            "edge": -0.0424,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MISS NEW YORK",
+            "pModel": 0.0005,
+            "pClose": 0.0296,
+            "edge": -0.0291,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PLAYFUL JOULES",
+            "pModel": 0.0005,
+            "pClose": 0.0296,
+            "edge": -0.0291,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r5.json",
+      "id": "2026-05-16-kenilworth-r5",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "SUPER VIKING",
+      "mostLikely": {
+        "name": "SUPER VIKING",
+        "pWin": 82.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "TRIP TO CAMELOT",
+        "topPick": "SUPER VIKING",
+        "pickPWin": 0.828,
+        "pickScore": 73.5,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SUPER VIKING",
+            "pModel": 0.828,
+            "pClose": 0.2408,
+            "edge": 0.5872,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WALOYO YAMONI",
+            "pModel": 0.0739,
+            "pClose": 0.0706,
+            "edge": 0.0033,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MIDWAY",
+            "pModel": 0.0441,
+            "pClose": 0.1077,
+            "edge": -0.0636,
+            "odds": 8.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TRIP TO CAMELOT",
+            "pModel": 0.0198,
+            "pClose": 0.1931,
+            "edge": -0.1733,
+            "odds": 4.3,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "BALZI ROSSI",
+            "pModel": 0.0147,
+            "pClose": 0.1575,
+            "edge": -0.1428,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "JET A ONE",
+            "pModel": 0.0133,
+            "pClose": 0.1023,
+            "edge": -0.089,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SMART HORSE",
+            "pModel": 0.0064,
+            "pClose": 0.1279,
+            "edge": -0.1215,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r4.json",
+      "id": "2026-05-16-kenilworth-r4",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "MASTERONTHEMOON",
+      "mostLikely": {
+        "name": "MASTERONTHEMOON",
+        "pWin": 31,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "BOURBON KING",
+        "topPick": "MASTERONTHEMOON",
+        "pickPWin": 0.3097,
+        "pickScore": 67.1,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MASTERONTHEMOON",
+            "pModel": 0.3097,
+            "pClose": 0.2958,
+            "edge": 0.0139,
+            "odds": 2.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOURBON KING",
+            "pModel": 0.2711,
+            "pClose": 0.3079,
+            "edge": -0.0368,
+            "odds": 2.65,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SPARKLING SKY",
+            "pModel": 0.2076,
+            "pClose": 0.0702,
+            "edge": 0.1374,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ROYAL INFLUENCER",
+            "pModel": 0.1817,
+            "pClose": 0.1873,
+            "edge": -0.0056,
+            "odds": 5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "BRIGADIER BILLY",
+            "pModel": 0.0165,
+            "pClose": 0.0624,
+            "edge": -0.0459,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CONDITIONALLY",
+            "pModel": 0.0077,
+            "pClose": 0.0165,
+            "edge": -0.0088,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAPRANICA",
+            "pModel": 0.0037,
+            "pClose": 0.0216,
+            "edge": -0.0179,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "UNDOUBTED THE BOY",
+            "pModel": 0.002,
+            "pClose": 0.0165,
+            "edge": -0.0145,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ROYAL CELEB",
+            "pModel": 0.0001,
+            "pClose": 0.0216,
+            "edge": -0.0215,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r3.json",
+      "id": "2026-05-16-kenilworth-r3",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "THE BIG BANG",
+      "mostLikely": {
+        "name": "THE BIG BANG",
+        "pWin": 48.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "CAESAR'S RANSOM",
+        "topPick": "THE BIG BANG",
+        "pickPWin": 0.4881,
+        "pickScore": 71.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "THE BIG BANG",
+            "pModel": 0.4881,
+            "pClose": 0.0979,
+            "edge": 0.3902,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HILTON HEADS",
+            "pModel": 0.2863,
+            "pClose": 0.0979,
+            "edge": 0.1884,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PROTECTOR OF PEACE",
+            "pModel": 0.1145,
+            "pClose": 0.2705,
+            "edge": -0.156,
+            "odds": 2.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BIG DEAL",
+            "pModel": 0.0473,
+            "pClose": 0.0467,
+            "edge": 0.0006,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "OH SO ONEDERFUL",
+            "pModel": 0.0351,
+            "pClose": 0.0979,
+            "edge": -0.0628,
+            "odds": 9.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "WHATWILLBEWILLBE",
+            "pModel": 0.0168,
+            "pClose": 0.194,
+            "edge": -0.1772,
+            "odds": 4.3,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "CAESAR'S RANSOM",
+            "pModel": 0.0062,
+            "pClose": 0.1469,
+            "edge": -0.1407,
+            "odds": 6,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "ROYAL CLINTON",
+            "pModel": 0.0032,
+            "pClose": 0.0151,
+            "edge": -0.0119,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BORN OF FIRE",
+            "pModel": 0.0021,
+            "pClose": 0.0198,
+            "edge": -0.0177,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MISTER ED",
+            "pModel": 0.0004,
+            "pClose": 0.0134,
+            "edge": -0.013,
+            "odds": 76,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r2.json",
+      "id": "2026-05-16-kenilworth-r2",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "ROMAN BEAUTY",
+      "mostLikely": {
+        "name": "ROMAN BEAUTY",
+        "pWin": 57.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "REEF RUNNER",
+        "topPick": "ROMAN BEAUTY",
+        "pickPWin": 0.5729,
+        "pickScore": 65.1,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "ROMAN BEAUTY",
+            "pModel": 0.5729,
+            "pClose": 0.255,
+            "edge": 0.3179,
+            "odds": 3.25,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NAVASNINE",
+            "pModel": 0.3197,
+            "pClose": 0.297,
+            "edge": 0.0227,
+            "odds": 2.65,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SCOTLAND YARD",
+            "pModel": 0.0281,
+            "pClose": 0.0159,
+            "edge": 0.0122,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LET'S CELEBRATE",
+            "pModel": 0.0198,
+            "pClose": 0.0748,
+            "edge": -0.055,
+            "odds": 13.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "VESSEL OF LIGHT",
+            "pModel": 0.0194,
+            "pClose": 0.0602,
+            "edge": -0.0408,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BLACKBIRD",
+            "pModel": 0.0188,
+            "pClose": 0.1548,
+            "edge": -0.136,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "REEF RUNNER",
+            "pModel": 0.0179,
+            "pClose": 0.1141,
+            "edge": -0.0962,
+            "odds": 8.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "VULCAN ROCK",
+            "pModel": 0.0025,
+            "pClose": 0.0141,
+            "edge": -0.0116,
+            "odds": 76,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SILVER PROPHECY",
+            "pModel": 0.001,
+            "pClose": 0.0141,
+            "edge": -0.0131,
+            "odds": 76,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-16-kenilworth-r1.json",
+      "id": "2026-05-16-kenilworth-r1",
+      "date": "2026-05-16",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "SPARKLING STAR",
+      "mostLikely": {
+        "name": "SPARKLING STAR",
+        "pWin": 39.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "SPARKLING STAR",
+        "topPick": "SPARKLING STAR",
+        "pickPWin": 0.398,
+        "pickScore": 56.5,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SPARKLING STAR",
+            "pModel": 0.398,
+            "pClose": 0.4951,
+            "edge": -0.0971,
+            "odds": 1.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "FUN RUN",
+            "pModel": 0.1347,
+            "pClose": 0.0295,
+            "edge": 0.1052,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAPTAIN'S LASS",
+            "pModel": 0.1239,
+            "pClose": 0.165,
+            "edge": -0.0411,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ONTHEWINGSOFADOVE",
+            "pModel": 0.1179,
+            "pClose": 0.0688,
+            "edge": 0.0491,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SPIRIT OF LIFE",
+            "pModel": 0.0998,
+            "pClose": 0.0354,
+            "edge": 0.0644,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "JEWEL MULE",
+            "pModel": 0.0845,
+            "pClose": 0.1031,
+            "edge": -0.0186,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "NOBODY'S PERFECT",
+            "pModel": 0.0413,
+            "pClose": 0.1031,
+            "edge": -0.0618,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r9.json",
+      "id": "2026-05-03-kenilworth-r9",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 9,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 14,
+      "topPick": "MYSTIC INFERNO",
+      "mostLikely": {
+        "name": "MYSTIC INFERNO",
+        "pWin": 56.4,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "EASY MONEY",
+        "topPick": "MYSTIC INFERNO",
+        "pickPWin": 0.5635,
+        "pickScore": 76.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MYSTIC INFERNO",
+            "pModel": 0.5635,
+            "pClose": 0.1405,
+            "edge": 0.423,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BLUE LAGOON",
+            "pModel": 0.1814,
+            "pClose": 0.2048,
+            "edge": -0.0234,
+            "odds": 3.8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FINAL CALL",
+            "pModel": 0.151,
+            "pClose": 0.0983,
+            "edge": 0.0527,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WHY NOT JACKIE",
+            "pModel": 0.0385,
+            "pClose": 0.0678,
+            "edge": -0.0293,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "INNERBLOOM",
+            "pModel": 0.0179,
+            "pClose": 0.0615,
+            "edge": -0.0436,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HERITAGE RIDGE",
+            "pModel": 0.0107,
+            "pClose": 0.0364,
+            "edge": -0.0257,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "VROOM VROOM",
+            "pModel": 0.0098,
+            "pClose": 0.0364,
+            "edge": -0.0266,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPLASH OF COLOUR",
+            "pModel": 0.0082,
+            "pClose": 0.0615,
+            "edge": -0.0533,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LHASA",
+            "pModel": 0.0063,
+            "pClose": 0.1229,
+            "edge": -0.1166,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EASY MONEY",
+            "pModel": 0.0044,
+            "pClose": 0.0234,
+            "edge": -0.019,
+            "odds": 41,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "TRUE HORIZON",
+            "pModel": 0.0036,
+            "pClose": 0.0546,
+            "edge": -0.051,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PARALEGAL",
+            "pModel": 0.0017,
+            "pClose": 0.0096,
+            "edge": -0.0079,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TAKE IT AS RED",
+            "pModel": 0.0016,
+            "pClose": 0.0678,
+            "edge": -0.0662,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ALESSIA ASHEVILLE",
+            "pModel": 0.0015,
+            "pClose": 0.0145,
+            "edge": -0.013,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r8.json",
+      "id": "2026-05-03-kenilworth-r8",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "FOLLOW YOUR HEART",
+      "mostLikely": {
+        "name": "FOLLOW YOUR HEART",
+        "pWin": 42.9,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "CORK BAY",
+        "topPick": "FOLLOW YOUR HEART",
+        "pickPWin": 0.429,
+        "pickScore": 69,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "FOLLOW YOUR HEART",
+            "pModel": 0.429,
+            "pClose": 0.1331,
+            "edge": 0.2959,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SKY ROCKET",
+            "pModel": 0.3178,
+            "pClose": 0.0554,
+            "edge": 0.2624,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KELP FOREST",
+            "pModel": 0.1381,
+            "pClose": 0.0832,
+            "edge": 0.0549,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CLARK GRISWOLD",
+            "pModel": 0.0298,
+            "pClose": 0.1331,
+            "edge": -0.1033,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KLIPTOWN",
+            "pModel": 0.0293,
+            "pClose": 0.0998,
+            "edge": -0.0705,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BLIND DATE",
+            "pModel": 0.0265,
+            "pClose": 0.1426,
+            "edge": -0.1161,
+            "odds": 6,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "CORK BAY",
+            "pModel": 0.011,
+            "pClose": 0.1109,
+            "edge": -0.0999,
+            "odds": 8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "SOOTY",
+            "pModel": 0.0093,
+            "pClose": 0.1426,
+            "edge": -0.1333,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FIRINGONALLENGINES",
+            "pModel": 0.0058,
+            "pClose": 0.037,
+            "edge": -0.0312,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WORLDLY",
+            "pModel": 0.0033,
+            "pClose": 0.0624,
+            "edge": -0.0591,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r7.json",
+      "id": "2026-05-03-kenilworth-r7",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "LA PULGA",
+      "mostLikely": {
+        "name": "LA PULGA",
+        "pWin": 33.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "LA PULGA",
+        "topPick": "LA PULGA",
+        "pickPWin": 0.3334,
+        "pickScore": 71,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "LA PULGA",
+            "pModel": 0.3334,
+            "pClose": 0.2013,
+            "edge": 0.1321,
+            "odds": 4.3,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "VIVA'S LIBERTE",
+            "pModel": 0.3279,
+            "pClose": 0.237,
+            "edge": 0.0909,
+            "odds": 3.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FUTURE FREE",
+            "pModel": 0.1712,
+            "pClose": 0.1524,
+            "edge": 0.0188,
+            "odds": 6,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TENPENNY",
+            "pModel": 0.1425,
+            "pClose": 0.2013,
+            "edge": -0.0588,
+            "odds": 4.3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "OTTO LUYKEN",
+            "pModel": 0.0155,
+            "pClose": 0.0485,
+            "edge": -0.033,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LANDOFTHERISINGSUN",
+            "pModel": 0.0067,
+            "pClose": 0.1185,
+            "edge": -0.1118,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAGIC VERSE",
+            "pModel": 0.0024,
+            "pClose": 0.0254,
+            "edge": -0.023,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHERIFF JOHN STONE",
+            "pModel": 0.0005,
+            "pClose": 0.0157,
+            "edge": -0.0152,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r6.json",
+      "id": "2026-05-03-kenilworth-r6",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "MARGATE",
+      "mostLikely": {
+        "name": "MARGATE",
+        "pWin": 45.2,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "TAG AND RELEASE",
+        "topPick": "MARGATE",
+        "pickPWin": 0.4516,
+        "pickScore": 72.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "MARGATE",
+            "pModel": 0.4516,
+            "pClose": 0.1235,
+            "edge": 0.3281,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KALAHARI KING",
+            "pModel": 0.2785,
+            "pClose": 0.4824,
+            "edge": -0.2039,
+            "odds": 1.56,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EARN THE WEEKEND",
+            "pModel": 0.1231,
+            "pClose": 0.0353,
+            "edge": 0.0878,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAGMA FLOW",
+            "pModel": 0.1095,
+            "pClose": 0.0294,
+            "edge": 0.0801,
+            "odds": 41,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SHEZARIPPER",
+            "pModel": 0.0172,
+            "pClose": 0.1235,
+            "edge": -0.1063,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TAG AND RELEASE",
+            "pModel": 0.0151,
+            "pClose": 0.1764,
+            "edge": -0.1613,
+            "odds": 6,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "CATCH ME",
+            "pModel": 0.005,
+            "pClose": 0.0294,
+            "edge": -0.0244,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r5.json",
+      "id": "2026-05-03-kenilworth-r5",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "QUEEN REGENT",
+      "mostLikely": {
+        "name": "QUEEN REGENT",
+        "pWin": 57,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "STORMWATCH",
+        "topPick": "QUEEN REGENT",
+        "pickPWin": 0.5697,
+        "pickScore": 79,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "QUEEN REGENT",
+            "pModel": 0.5697,
+            "pClose": 0.2141,
+            "edge": 0.3556,
+            "odds": 3.8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ROCCAPINA",
+            "pModel": 0.3024,
+            "pClose": 0.137,
+            "edge": 0.1654,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "STORMWATCH",
+            "pModel": 0.059,
+            "pClose": 0.1468,
+            "edge": -0.0878,
+            "odds": 6,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "VIVA LA VIDA",
+            "pModel": 0.0383,
+            "pClose": 0.0979,
+            "edge": -0.0596,
+            "odds": 9.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SWIATEK",
+            "pModel": 0.007,
+            "pClose": 0.1468,
+            "edge": -0.1398,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LITTLE SUZIE",
+            "pModel": 0.0065,
+            "pClose": 0.0294,
+            "edge": -0.0229,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVE ME EVERYTHING",
+            "pModel": 0.0059,
+            "pClose": 0.1468,
+            "edge": -0.1409,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TIME FOR LOVE",
+            "pModel": 0.005,
+            "pClose": 0.0245,
+            "edge": -0.0195,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KINDA WONDERFUL",
+            "pModel": 0.0048,
+            "pClose": 0.0467,
+            "edge": -0.0419,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "UKUDUMA",
+            "pModel": 0.0013,
+            "pClose": 0.0101,
+            "edge": -0.0088,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r4.json",
+      "id": "2026-05-03-kenilworth-r4",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "PENTOLINA",
+      "mostLikely": {
+        "name": "PENTOLINA",
+        "pWin": 57,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "LARK'S SONG",
+        "topPick": "PENTOLINA",
+        "pickPWin": 0.5701,
+        "pickScore": 77.3,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "PENTOLINA",
+            "pModel": 0.5701,
+            "pClose": 0.1185,
+            "edge": 0.4516,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LARK'S SONG",
+            "pModel": 0.2168,
+            "pClose": 0.3281,
+            "edge": -0.1113,
+            "odds": 2.25,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "WHO IS SHE",
+            "pModel": 0.1272,
+            "pClose": 0.0305,
+            "edge": 0.0967,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BENEATH THE CLOUDS",
+            "pModel": 0.033,
+            "pClose": 0.1066,
+            "edge": -0.0736,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "EBISU",
+            "pModel": 0.0257,
+            "pClose": 0.0485,
+            "edge": -0.0228,
+            "odds": 21,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LADY VERITAS",
+            "pModel": 0.0113,
+            "pClose": 0.1066,
+            "edge": -0.0953,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVEN TO FLY",
+            "pModel": 0.0071,
+            "pClose": 0.1066,
+            "edge": -0.0995,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RED CORAL",
+            "pModel": 0.0044,
+            "pClose": 0.0395,
+            "edge": -0.0351,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DOUBLE DASH",
+            "pModel": 0.0024,
+            "pClose": 0.0592,
+            "edge": -0.0568,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HER WORLD",
+            "pModel": 0.0018,
+            "pClose": 0.0305,
+            "edge": -0.0287,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RED STATE",
+            "pModel": 0.0003,
+            "pClose": 0.0254,
+            "edge": -0.0251,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r3.json",
+      "id": "2026-05-03-kenilworth-r3",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 13,
+      "topPick": "CHANCE ENCOUNTER",
+      "mostLikely": {
+        "name": "CHANCE ENCOUNTER",
+        "pWin": 67.2,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "ERIC LIDDELL",
+        "topPick": "CHANCE ENCOUNTER",
+        "pickPWin": 0.6715,
+        "pickScore": 78.5,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "CHANCE ENCOUNTER",
+            "pModel": 0.6715,
+            "pClose": 0.2111,
+            "edge": 0.4604,
+            "odds": 3.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SIGNOR DANTE",
+            "pModel": 0.1148,
+            "pClose": 0.1351,
+            "edge": -0.0203,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RED DAWN",
+            "pModel": 0.0524,
+            "pClose": 0.0563,
+            "edge": -0.0039,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ERIC LIDDELL",
+            "pModel": 0.0451,
+            "pClose": 0.1266,
+            "edge": -0.0815,
+            "odds": 7,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "TUNGUSKA",
+            "pModel": 0.0451,
+            "pClose": 0.046,
+            "edge": -0.0009,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHOW OFF",
+            "pModel": 0.0308,
+            "pClose": 0.1911,
+            "edge": -0.1603,
+            "odds": 4.3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FORT LIAM",
+            "pModel": 0.0106,
+            "pClose": 0.0563,
+            "edge": -0.0457,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BATON ROUGE",
+            "pModel": 0.009,
+            "pClose": 0.046,
+            "edge": -0.037,
+            "odds": 21,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TOTHEMOONANDBACK",
+            "pModel": 0.0065,
+            "pClose": 0.0241,
+            "edge": -0.0176,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COASTAL COMMANDER",
+            "pModel": 0.0063,
+            "pClose": 0.0099,
+            "edge": -0.0036,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ETOILEFILLANTE",
+            "pModel": 0.0043,
+            "pClose": 0.0099,
+            "edge": -0.0056,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SCOTTISH LINKS",
+            "pModel": 0.0024,
+            "pClose": 0.0633,
+            "edge": -0.0609,
+            "odds": 15,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "DUBBELOSIX",
+            "pModel": 0.0013,
+            "pClose": 0.0241,
+            "edge": -0.0228,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r2.json",
+      "id": "2026-05-03-kenilworth-r2",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "SWIFT SERENITY",
+      "mostLikely": {
+        "name": "SWIFT SERENITY",
+        "pWin": 58.5,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "TAKE THAT",
+        "topPick": "SWIFT SERENITY",
+        "pickPWin": 0.5846,
+        "pickScore": 59.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SWIFT SERENITY",
+            "pModel": 0.5846,
+            "pClose": 0.3783,
+            "edge": 0.2063,
+            "odds": 2.1,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SHE'S CHOSEN",
+            "pModel": 0.2671,
+            "pClose": 0.0434,
+            "edge": 0.2237,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "PIPSQUEAK",
+            "pModel": 0.0637,
+            "pClose": 0.0434,
+            "edge": 0.0203,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "TAKE THAT",
+            "pModel": 0.0557,
+            "pClose": 0.3351,
+            "edge": -0.2794,
+            "odds": 2.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "MISS SMILEY",
+            "pModel": 0.0147,
+            "pClose": 0.1173,
+            "edge": -0.1026,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LOVE HER MADLY",
+            "pModel": 0.0086,
+            "pClose": 0.0652,
+            "edge": -0.0566,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GLITTER AND GLAM",
+            "pModel": 0.0056,
+            "pClose": 0.0172,
+            "edge": -0.0116,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-05-03-kenilworth-r1.json",
+      "id": "2026-05-03-kenilworth-r1",
+      "date": "2026-05-03",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "EL COHETE",
+      "mostLikely": {
+        "name": "EL COHETE",
+        "pWin": 40.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "FOG IN FINLAND",
+        "topPick": "EL COHETE",
+        "pickPWin": 0.4026,
+        "pickScore": 61,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "EL COHETE",
+            "pModel": 0.4026,
+            "pClose": 0.2805,
+            "edge": 0.1221,
+            "odds": 2.8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PEACE GARLAND",
+            "pModel": 0.1692,
+            "pClose": 0.2508,
+            "edge": -0.0816,
+            "odds": 3.25,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "OH ISABELLA",
+            "pModel": 0.1193,
+            "pClose": 0.1066,
+            "edge": 0.0127,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HURRICANE PAIGE",
+            "pModel": 0.101,
+            "pClose": 0.0395,
+            "edge": 0.0615,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHINWAG",
+            "pModel": 0.0944,
+            "pClose": 0.1066,
+            "edge": -0.0122,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "LADY SUNSHINE",
+            "pModel": 0.0384,
+            "pClose": 0.0485,
+            "edge": -0.0101,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BE RATIONAL",
+            "pModel": 0.0289,
+            "pClose": 0.0395,
+            "edge": -0.0106,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RUNWAY ROMANCE",
+            "pModel": 0.0225,
+            "pClose": 0.0105,
+            "edge": 0.012,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MACRO GRAVITY",
+            "pModel": 0.0126,
+            "pClose": 0.0666,
+            "edge": -0.054,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "FOG IN FINLAND",
+            "pModel": 0.0084,
+            "pClose": 0.0205,
+            "edge": -0.0121,
+            "odds": 51,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "LA BOHEME",
+            "pModel": 0.0027,
+            "pClose": 0.0305,
+            "edge": -0.0278,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r9.json",
+      "id": "2026-04-27-kenilworth-r9",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 9,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "CLAIR DE LUNE",
+      "mostLikely": {
+        "name": "CLAIR DE LUNE",
+        "pWin": 67.8,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "BERRY'S BOOGIE (AUS)",
+        "topPick": "CLAIR DE LUNE",
+        "pickPWin": 0.6782,
+        "pickScore": 76.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "CLAIR DE LUNE",
+            "pModel": 0.6782,
+            "pClose": 0.0824,
+            "edge": 0.5958,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "IONA CASTLE",
+            "pModel": 0.1848,
+            "pClose": 0.0988,
+            "edge": 0.086,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HAMPSTEAD HEATH",
+            "pModel": 0.0479,
+            "pClose": 0.1647,
+            "edge": -0.1168,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MUSIC OF THE NIGHT",
+            "pModel": 0.023,
+            "pClose": 0.0449,
+            "edge": -0.0219,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "EISTEDDFOD",
+            "pModel": 0.0176,
+            "pClose": 0.0618,
+            "edge": -0.0442,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BERRY'S BOOGIE (AUS)",
+            "pModel": 0.0112,
+            "pClose": 0.0618,
+            "edge": -0.0506,
+            "odds": 15,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "STAR WORLD",
+            "pModel": 0.0109,
+            "pClose": 0.1521,
+            "edge": -0.1412,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MISS WILLIAM",
+            "pModel": 0.009,
+            "pClose": 0.0282,
+            "edge": -0.0192,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SEVEN NO TRUMP",
+            "pModel": 0.0067,
+            "pClose": 0.0824,
+            "edge": -0.0757,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIRL LIKE US",
+            "pModel": 0.0047,
+            "pClose": 0.1098,
+            "edge": -0.1051,
+            "odds": 8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SUPREME FATE",
+            "pModel": 0.0042,
+            "pClose": 0.0682,
+            "edge": -0.064,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MARITZBURG MEMORY",
+            "pModel": 0.0017,
+            "pClose": 0.0449,
+            "edge": -0.0432,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r8.json",
+      "id": "2026-04-27-kenilworth-r8",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 8,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "OBJET D' ART",
+      "mostLikely": {
+        "name": "OBJET D' ART",
+        "pWin": 80,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "GIVE IT LALDY",
+        "topPick": "OBJET D' ART",
+        "pickPWin": 0.7995,
+        "pickScore": 75.9,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "OBJET D' ART",
+            "pModel": 0.7995,
+            "pClose": 0.1909,
+            "edge": 0.6086,
+            "odds": 4.3,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "OCTOBER STORM",
+            "pModel": 0.0412,
+            "pClose": 0.046,
+            "edge": -0.0048,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHESGOTCLASS",
+            "pModel": 0.0405,
+            "pClose": 0.184,
+            "edge": -0.1435,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHURCHILLIAN",
+            "pModel": 0.0354,
+            "pClose": 0.0698,
+            "edge": -0.0344,
+            "odds": 13.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SCOTTISH KISS",
+            "pModel": 0.0211,
+            "pClose": 0.0562,
+            "edge": -0.0351,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BILLY BOWLEGS",
+            "pModel": 0.0191,
+            "pClose": 0.008,
+            "edge": 0.0111,
+            "odds": 126,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVE IT LALDY",
+            "pModel": 0.0116,
+            "pClose": 0.1909,
+            "edge": -0.1793,
+            "odds": 4.3,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "OLIVER",
+            "pModel": 0.0112,
+            "pClose": 0.0289,
+            "edge": -0.0177,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PLEASE BE TRUE",
+            "pModel": 0.0068,
+            "pClose": 0.0289,
+            "edge": -0.0221,
+            "odds": 34,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FAST TRAIN",
+            "pModel": 0.0052,
+            "pClose": 0.1349,
+            "edge": -0.1297,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "HANDSOME PRINCE",
+            "pModel": 0.0043,
+            "pClose": 0.0241,
+            "edge": -0.0198,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "THREE TIGERS",
+            "pModel": 0.0041,
+            "pClose": 0.0375,
+            "edge": -0.0334,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r7.json",
+      "id": "2026-04-27-kenilworth-r7",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 7,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "DANCE VARIETY",
+      "mostLikely": {
+        "name": "DANCE VARIETY",
+        "pWin": 76.4,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "CAFE CULTURE",
+        "topPick": "DANCE VARIETY",
+        "pickPWin": 0.7645,
+        "pickScore": 79.2,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "DANCE VARIETY",
+            "pModel": 0.7645,
+            "pClose": 0.0985,
+            "edge": 0.666,
+            "odds": 9,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SARDINIA BAY",
+            "pModel": 0.1307,
+            "pClose": 0.1641,
+            "edge": -0.0334,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GALLIC DREAM",
+            "pModel": 0.0465,
+            "pClose": 0.1094,
+            "edge": -0.0629,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KING REGENT",
+            "pModel": 0.0163,
+            "pClose": 0.0448,
+            "edge": -0.0285,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAFE CULTURE",
+            "pModel": 0.0113,
+            "pClose": 0.082,
+            "edge": -0.0707,
+            "odds": 11,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "BEWARE THE BOMB",
+            "pModel": 0.0092,
+            "pClose": 0.0281,
+            "edge": -0.0189,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SHE'S MY WORLD",
+            "pModel": 0.0065,
+            "pClose": 0.0448,
+            "edge": -0.0383,
+            "odds": 21,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GEM KING",
+            "pModel": 0.0048,
+            "pClose": 0.0281,
+            "edge": -0.0233,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "POMP IT UP",
+            "pModel": 0.0042,
+            "pClose": 0.1094,
+            "edge": -0.1052,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "THE US OF",
+            "pModel": 0.0036,
+            "pClose": 0.1231,
+            "edge": -0.1195,
+            "odds": 7,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "POWERANDTHEGLORY",
+            "pModel": 0.0013,
+            "pClose": 0.1313,
+            "edge": -0.13,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DUMBLEDORE",
+            "pModel": 0.001,
+            "pClose": 0.0365,
+            "edge": -0.0355,
+            "odds": 26,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r6.json",
+      "id": "2026-04-27-kenilworth-r6",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 6,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "FORT YUKON",
+      "mostLikely": {
+        "name": "FORT YUKON",
+        "pWin": 23.2,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "NOON DAY GUN",
+        "topPick": "FORT YUKON",
+        "pickPWin": 0.232,
+        "pickScore": 56.6,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "FORT YUKON",
+            "pModel": 0.232,
+            "pClose": 0.1543,
+            "edge": 0.0777,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CEDAR POINT",
+            "pModel": 0.1504,
+            "pClose": 0.1823,
+            "edge": -0.0319,
+            "odds": 4.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "RUN FOR COVER",
+            "pModel": 0.1252,
+            "pClose": 0.0286,
+            "edge": 0.0966,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DISTRICT MASTER",
+            "pModel": 0.0897,
+            "pClose": 0.1114,
+            "edge": -0.0217,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GIVETHATMANABELLS",
+            "pModel": 0.0825,
+            "pClose": 0.0955,
+            "edge": -0.013,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "DEVIL A SAINT",
+            "pModel": 0.0687,
+            "pClose": 0.0836,
+            "edge": -0.0149,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KLEIN KAROO",
+            "pModel": 0.0632,
+            "pClose": 0.1253,
+            "edge": -0.0621,
+            "odds": 7,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MAJOR APOLLO",
+            "pModel": 0.0622,
+            "pClose": 0.0147,
+            "edge": 0.0475,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NOON DAY GUN",
+            "pModel": 0.0484,
+            "pClose": 0.1114,
+            "edge": -0.063,
+            "odds": 8,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PRINCE OF TIBET",
+            "pModel": 0.0468,
+            "pClose": 0.0557,
+            "edge": -0.0089,
+            "odds": 17,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "TYPICALLY FRENCH",
+            "pModel": 0.0309,
+            "pClose": 0.0371,
+            "edge": -0.0062,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r5.json",
+      "id": "2026-04-27-kenilworth-r5",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 5,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 9,
+      "topPick": "MON PAPILLON",
+      "mostLikely": {
+        "name": "MON PAPILLON",
+        "pWin": 55.4,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "MON PAPILLON",
+        "topPick": "MON PAPILLON",
+        "pickPWin": 0.554,
+        "pickScore": 63.4,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "MON PAPILLON",
+            "pModel": 0.554,
+            "pClose": 0.1696,
+            "edge": 0.3844,
+            "odds": 5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "REDLIGHT LANE",
+            "pModel": 0.1614,
+            "pClose": 0.1566,
+            "edge": 0.0048,
+            "odds": 5.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "UP IN FLAMES",
+            "pModel": 0.0801,
+            "pClose": 0.1131,
+            "edge": -0.033,
+            "odds": 8,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BURNING DESIRE",
+            "pModel": 0.0656,
+            "pClose": 0.185,
+            "edge": -0.1194,
+            "odds": 4.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPIRIT OF NICAL",
+            "pModel": 0.0656,
+            "pClose": 0.1357,
+            "edge": -0.0701,
+            "odds": 6.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GQEBERHA",
+            "pModel": 0.0276,
+            "pClose": 0.0848,
+            "edge": -0.0572,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "RARE EARTH",
+            "pModel": 0.0241,
+            "pClose": 0.0848,
+            "edge": -0.0607,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CHIHIRO",
+            "pModel": 0.0201,
+            "pClose": 0.0242,
+            "edge": -0.0041,
+            "odds": 41,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "NICCI'S LAW",
+            "pModel": 0.0014,
+            "pClose": 0.0463,
+            "edge": -0.0449,
+            "odds": 21,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r4.json",
+      "id": "2026-04-27-kenilworth-r4",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 4,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 11,
+      "topPick": "SPANISH VERSE",
+      "mostLikely": {
+        "name": "SPANISH VERSE",
+        "pWin": 70.3,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "SPANISH VERSE",
+        "topPick": "SPANISH VERSE",
+        "pickPWin": 0.7032,
+        "pickScore": 76.8,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "SPANISH VERSE",
+            "pModel": 0.7032,
+            "pClose": 0.2932,
+            "edge": 0.41,
+            "odds": 2.65,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "BIG DEAL",
+            "pModel": 0.142,
+            "pClose": 0.1529,
+            "edge": -0.0109,
+            "odds": 6,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOURBON KING",
+            "pModel": 0.0597,
+            "pClose": 0.1259,
+            "edge": -0.0662,
+            "odds": 7.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "ZAGREB",
+            "pModel": 0.0577,
+            "pClose": 0.2141,
+            "edge": -0.1564,
+            "odds": 4,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FREQUENT TRAVELLER",
+            "pModel": 0.0085,
+            "pClose": 0.0669,
+            "edge": -0.0584,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SEE THE SIGN",
+            "pModel": 0.0078,
+            "pClose": 0.0139,
+            "edge": -0.0061,
+            "odds": 76,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GEORGE REX",
+            "pModel": 0.0067,
+            "pClose": 0.0105,
+            "edge": -0.0038,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "AIN'T NO SUNSHINE",
+            "pModel": 0.0063,
+            "pClose": 0.0595,
+            "edge": -0.0532,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GLENALMOND",
+            "pModel": 0.0054,
+            "pClose": 0.0396,
+            "edge": -0.0342,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WIZARDING WORLD",
+            "pModel": 0.0023,
+            "pClose": 0.0131,
+            "edge": -0.0108,
+            "odds": 81,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BORN TO MASTER",
+            "pModel": 0.0003,
+            "pClose": 0.0105,
+            "edge": -0.0102,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r3.json",
+      "id": "2026-04-27-kenilworth-r3",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 3,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 7,
+      "topPick": "IT IS MY TIME",
+      "mostLikely": {
+        "name": "IT IS MY TIME",
+        "pWin": 57.6,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "MAJOR MASTER",
+        "topPick": "IT IS MY TIME",
+        "pickPWin": 0.5755,
+        "pickScore": 64.5,
+        "topPickScratched": false,
+        "topPickWon": false,
+        "topPickPlaced": false,
+        "value": [
+          {
+            "name": "IT IS MY TIME",
+            "pModel": 0.5755,
+            "pClose": 0.0902,
+            "edge": 0.4853,
+            "odds": 11,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "KATSU",
+            "pModel": 0.1622,
+            "pClose": 0.1803,
+            "edge": -0.0181,
+            "odds": 5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "PAY THE PALACE",
+            "pModel": 0.0833,
+            "pClose": 0.1967,
+            "edge": -0.1134,
+            "odds": 4.5,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "MAJOR MASTER",
+            "pModel": 0.0648,
+            "pClose": 0.1664,
+            "edge": -0.1016,
+            "odds": 5.5,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "PROMETTERE",
+            "pModel": 0.0607,
+            "pClose": 0.0141,
+            "edge": 0.0466,
+            "odds": 76,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "BOOGIEFIED (AUS)",
+            "pModel": 0.0368,
+            "pClose": 0.2847,
+            "edge": -0.2479,
+            "odds": 2.8,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SONG TO THE MOON",
+            "pModel": 0.0168,
+            "pClose": 0.0676,
+            "edge": -0.0508,
+            "odds": 15,
+            "won": false,
+            "placed": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r2.json",
+      "id": "2026-04-27-kenilworth-r2",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 2,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 12,
+      "topPick": "VERCICAT",
+      "mostLikely": {
+        "name": "VERCICAT",
+        "pWin": 37.9,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "VERCICAT",
+        "topPick": "VERCICAT",
+        "pickPWin": 0.3787,
+        "pickScore": 62.4,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "VERCICAT",
+            "pModel": 0.3787,
+            "pClose": 0.2062,
+            "edge": 0.1725,
+            "odds": 4,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "EUGENIUS",
+            "pModel": 0.2297,
+            "pClose": 0.2578,
+            "edge": -0.0281,
+            "odds": 3,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CAPRANICA",
+            "pModel": 0.0845,
+            "pClose": 0.0152,
+            "edge": 0.0693,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CRAZY LITTLE THING",
+            "pModel": 0.0703,
+            "pClose": 0.1031,
+            "edge": -0.0328,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "THE MUFFIN MAN",
+            "pModel": 0.0658,
+            "pClose": 0.1586,
+            "edge": -0.0928,
+            "odds": 5.5,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CELESTIAL ROCKET",
+            "pModel": 0.0321,
+            "pClose": 0.0382,
+            "edge": -0.0061,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MUSICAL SWORD",
+            "pModel": 0.0316,
+            "pClose": 0.0152,
+            "edge": 0.0164,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "COFFEE CRUNCH",
+            "pModel": 0.0291,
+            "pClose": 0.0198,
+            "edge": 0.0093,
+            "odds": 51,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "CUBA LIBRE",
+            "pModel": 0.0281,
+            "pClose": 0.0382,
+            "edge": -0.0101,
+            "odds": 26,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "WORLD AT ONE",
+            "pModel": 0.0215,
+            "pClose": 0.0152,
+            "edge": 0.0063,
+            "odds": 67,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LIFELONG DANCE",
+            "pModel": 0.0173,
+            "pClose": 0.0295,
+            "edge": -0.0122,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "LAVA STRIKE",
+            "pModel": 0.0111,
+            "pClose": 0.1031,
+            "edge": -0.092,
+            "odds": 9,
+            "won": false,
+            "placed": true
+          }
+        ]
+      }
+    },
+    {
+      "file": "data/predictions/2026-04-27-kenilworth-r1.json",
+      "id": "2026-04-27-kenilworth-r1",
+      "date": "2026-04-27",
+      "track": "Kenilworth",
+      "circuit": "Cape",
+      "race": 1,
+      "time": null,
+      "distance": null,
+      "going": null,
+      "classLabel": null,
+      "runners": 8,
+      "topPick": "THE CULLINAN",
+      "mostLikely": {
+        "name": "THE CULLINAN",
+        "pWin": 43.6,
+        "modelRank": 1
+      },
+      "settled": true,
+      "result": {
+        "winner": "THE CULLINAN",
+        "topPick": "THE CULLINAN",
+        "pickPWin": 0.4356,
+        "pickScore": 58,
+        "topPickScratched": false,
+        "topPickWon": true,
+        "topPickPlaced": true,
+        "value": [
+          {
+            "name": "THE CULLINAN",
+            "pModel": 0.4356,
+            "pClose": 0.2687,
+            "edge": 0.1669,
+            "odds": 3.25,
+            "won": true,
+            "placed": true
+          },
+          {
+            "name": "YOU MADE ME LOOK",
+            "pModel": 0.111,
+            "pClose": 0.0326,
+            "edge": 0.0784,
+            "odds": 34,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "SPINNAKER",
+            "pModel": 0.1022,
+            "pClose": 0.0519,
+            "edge": 0.0503,
+            "odds": 21,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "SPEAK NO EVIL",
+            "pModel": 0.0972,
+            "pClose": 0.0634,
+            "edge": 0.0338,
+            "odds": 17,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "MOTIONS MAC",
+            "pModel": 0.0796,
+            "pClose": 0.0112,
+            "edge": 0.0684,
+            "odds": 101,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "GODRIC GRYFFINDOR",
+            "pModel": 0.0708,
+            "pClose": 0.3683,
+            "edge": -0.2975,
+            "odds": 2.1,
+            "won": false,
+            "placed": false
+          },
+          {
+            "name": "ANOTHER HERO",
+            "pModel": 0.0685,
+            "pClose": 0.0951,
+            "edge": -0.0266,
+            "odds": 11,
+            "won": false,
+            "placed": true
+          },
+          {
+            "name": "FAIR FATE",
+            "pModel": 0.0352,
+            "pClose": 0.1087,
+            "edge": -0.0735,
+            "odds": 9.5,
+            "won": false,
+            "placed": false
+          }
+        ]
       }
     },
     {

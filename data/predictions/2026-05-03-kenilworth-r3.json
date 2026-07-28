@@ -1,0 +1,1939 @@
+{
+  "id": "2026-05-03-kenilworth-r3",
+  "date": "2026-05-03",
+  "track": "Kenilworth",
+  "race": 3,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:49.229Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "CHANCE ENCOUNTER",
+      "key": "CHANCE ENCOUNTER",
+      "draw": 4,
+      "rating": 80,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 78.5,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.906,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.728,
+        "trainer": 0.705,
+        "weight": 0.286,
+        "headToHead": 1,
+        "recencyMargin": 0.95
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 14.5,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.31,
+        "jockey": 2.18,
+        "trainer": 3.53,
+        "weight": 1.71,
+        "headToHead": 12,
+        "recencyMargin": 11.4
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "ERIC LIDDELL",
+          "SCOTTISH LINKS",
+          "TUNGUSKA"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 4,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 4,
+        "places": 11,
+        "winPct": 21,
+        "placePct": 58,
+        "record": "4-19"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 5,
+        "places": 14,
+        "winPct": 19,
+        "record": "5-27"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: strong recent form; has beaten ERIC LIDDELL, SCOTTISH LINKS; hitting the line hard lately.",
+        "Against it: carries 60kg.",
+        "Jockey Keagan De Melo in form (21% strike).",
+        "Has beaten ERIC LIDDELL, SCOTTISH LINKS, TUNGUSKA before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten ERIC LIDDELL, SCOTTISH LINKS",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 60kg"
+      ],
+      "rank": 1,
+      "pWin": 0.6715,
+      "pPlace": 0.9782,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "draw": 6,
+      "rating": 74,
+      "jockey": "Callan Murray",
+      "trainer": "James Crawford",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.9,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.719,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.65,
+        "trainer": 0.606,
+        "weight": 0.429,
+        "headToHead": 0.639,
+        "recencyMargin": 0.929
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 11.5,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.85,
+        "jockey": 1.95,
+        "trainer": 3.03,
+        "weight": 2.57,
+        "headToHead": 7.66,
+        "recencyMargin": 11.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "SHOW OFF"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.85L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 7,
+        "wins": 1,
+        "places": 1,
+        "winPct": 14,
+        "record": "1-7"
+      },
+      "jockeyRec": {
+        "starts": 18,
+        "wins": 3,
+        "places": 3,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "3-18"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "record": "5-39"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.85L into 3rd last start — right there.",
+        "Why it can win: hitting the line hard lately; strong recent form; has beaten SHOW OFF.",
+        "Has beaten SHOW OFF before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "form",
+        "headToHead"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "strong recent form",
+        "has beaten SHOW OFF"
+      ],
+      "_conReasons": [],
+      "rank": 2,
+      "pWin": 0.1148,
+      "pPlace": 0.6117,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RED DAWN",
+      "key": "RED DAWN",
+      "draw": 2,
+      "rating": 78,
+      "jockey": "Sean Veale",
+      "trainer": "Candice Bass",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 63.2,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.844,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.729,
+        "trainer": 0.779,
+        "weight": 0.143,
+        "headToHead": 0.667,
+        "recencyMargin": 0.458
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 13.5,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.77,
+        "jockey": 2.19,
+        "trainer": 3.9,
+        "weight": 0.86,
+        "headToHead": 8.01,
+        "recencyMargin": 5.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "DUBBELOSIX"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 7 last start."
+      ],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 5,
+        "places": 12,
+        "winPct": 20,
+        "placePct": 48,
+        "record": "5-25"
+      },
+      "trainerRec": {
+        "starts": 43,
+        "wins": 9,
+        "places": 19,
+        "winPct": 21,
+        "record": "9-43"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 7 last start.",
+        "Why it can win: 20%-strike jockey booked; stable in form (21%); drawn 2 — a handy low draw.",
+        "Against it: carries 61.5kg.",
+        "Jockey Sean Veale in form (20% strike).",
+        "Has beaten DUBBELOSIX before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "draw"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "20%-strike jockey booked",
+        "stable in form (21%)",
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "carries 61.5kg"
+      ],
+      "rank": 3,
+      "pWin": 0.0524,
+      "pPlace": 0.3363,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ERIC LIDDELL",
+      "key": "ERIC LIDDELL",
+      "draw": 1,
+      "rating": 82,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.3,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.969,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.7,
+        "trainer": 0.64,
+        "weight": 0.286,
+        "headToHead": 0.284,
+        "recencyMargin": 0.637
+      },
+      "contrib": {
+        "form": 11.25,
+        "rating": 15.5,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 2.1,
+        "trainer": 3.2,
+        "weight": 1.71,
+        "headToHead": 3.41,
+        "recencyMargin": 7.65
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "SCOTTISH LINKS"
+        ],
+        "losesTo": [
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA"
+        ]
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 2,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 3,
+        "winPct": 25,
+        "placePct": 38,
+        "record": "2-8"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 8,
+        "places": 21,
+        "winPct": 14,
+        "record": "8-57"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: drawn 1 — a handy low draw; well-rated (MR 82); 25%-strike jockey booked.",
+        "Against it: beaten by CHANCE ENCOUNTER, TUNGUSKA before; carries 60kg.",
+        "Has beaten SCOTTISH LINKS before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "headToHead",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-rated (MR 82)",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "beaten by CHANCE ENCOUNTER, TUNGUSKA before",
+        "carries 60kg"
+      ],
+      "rank": 4,
+      "pWin": 0.0451,
+      "pPlace": 0.2939,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TUNGUSKA",
+      "key": "TUNGUSKA",
+      "draw": 11,
+      "rating": 69,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62.3,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.362,
+        "trainer": 0.38,
+        "weight": 0.571,
+        "headToHead": 0.674,
+        "recencyMargin": 0.846
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 9,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.69,
+        "jockey": 1.09,
+        "trainer": 1.9,
+        "weight": 3.43,
+        "headToHead": 8.09,
+        "recencyMargin": 10.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "ERIC LIDDELL",
+          "SCOTTISH LINKS"
+        ],
+        "losesTo": [
+          "CHANCE ENCOUNTER"
+        ]
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 23,
+        "record": "0-22"
+      },
+      "trainerRec": {
+        "starts": 15,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-15"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: has beaten ERIC LIDDELL, SCOTTISH LINKS; strong recent form; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten ERIC LIDDELL, SCOTTISH LINKS before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [
+        "has beaten ERIC LIDDELL, SCOTTISH LINKS",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0451,
+      "pPlace": 0.2939,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHOW OFF",
+      "key": "SHOW OFF",
+      "draw": 8,
+      "rating": 76,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.781,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.57,
+        "trainer": 0.606,
+        "weight": 0.286,
+        "headToHead": 0.341,
+        "recencyMargin": 0.825
+      },
+      "contrib": {
+        "form": 11.25,
+        "rating": 12.5,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.38,
+        "jockey": 1.71,
+        "trainer": 3.03,
+        "weight": 1.71,
+        "headToHead": 4.09,
+        "recencyMargin": 9.9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SIGNOR DANTE"
+        ]
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 2,
+        "places": 5,
+        "winPct": 22,
+        "record": "2-9"
+      },
+      "jockeyRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "placePct": 44,
+        "record": "4-36"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "record": "5-39"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: carries 60kg; beaten by SIGNOR DANTE before.",
+        "Beaten by SIGNOR DANTE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 60kg",
+        "beaten by SIGNOR DANTE before"
+      ],
+      "rank": 6,
+      "pWin": 0.0308,
+      "pPlace": 0.2058,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "draw": 9,
+      "rating": 81,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.938,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.525,
+        "trainer": 0.431,
+        "weight": 0.286,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 15,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.15,
+        "jockey": 1.58,
+        "trainer": 2.16,
+        "weight": 1.71,
+        "headToHead": 5.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 22,
+        "wins": 2,
+        "places": 6,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "2-22"
+      },
+      "trainerRec": {
+        "starts": 25,
+        "wins": 1,
+        "places": 7,
+        "winPct": 4,
+        "record": "1-25"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 81).",
+        "Against it: well beaten lately; stable out of form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 81)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "stable out of form"
+      ],
+      "rank": 7,
+      "pWin": 0.0106,
+      "pPlace": 0.0732,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BATON ROUGE",
+      "key": "BATON ROUGE",
+      "draw": 5,
+      "rating": 69,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.54,
+        "trainer": 0.616,
+        "weight": 0.81,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.08,
+        "jockey": 1.62,
+        "trainer": 3.08,
+        "weight": 4.86,
+        "headToHead": 5.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 7,
+        "wins": 2,
+        "places": 2,
+        "winPct": 29,
+        "record": "2-7"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 4,
+        "winPct": 10,
+        "placePct": 20,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 3,
+        "places": 4,
+        "winPct": 14,
+        "record": "3-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: carries 54.5kg; stable in form (14%).",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "carries 54.5kg",
+        "stable in form (14%)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 8,
+      "pWin": 0.009,
+      "pPlace": 0.0621,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "draw": 3,
+      "rating": 69,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.395,
+        "trainer": 0.525,
+        "weight": 0.571,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.54,
+        "jockey": 1.19,
+        "trainer": 2.63,
+        "weight": 3.43,
+        "headToHead": 5.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "jockeyRec": {
+        "starts": 11,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-11"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 2,
+        "places": 4,
+        "winPct": 9,
+        "record": "2-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 9,
+      "pWin": 0.0065,
+      "pPlace": 0.0454,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "COASTAL COMMANDER",
+      "key": "COASTAL COMMANDER",
+      "draw": 13,
+      "rating": 77,
+      "jockey": "Calvin Habib",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.5,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.813,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.616,
+        "trainer": 0.518,
+        "weight": 0.286,
+        "headToHead": 0.49,
+        "recencyMargin": 0.683
+      },
+      "contrib": {
+        "form": 3,
+        "rating": 13,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.23,
+        "jockey": 1.85,
+        "trainer": 2.59,
+        "weight": 1.71,
+        "headToHead": 5.88,
+        "recencyMargin": 8.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 7 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 3,
+        "places": 7,
+        "winPct": 14,
+        "placePct": 33,
+        "record": "3-21"
+      },
+      "trainerRec": {
+        "starts": 47,
+        "wins": 4,
+        "places": 17,
+        "winPct": 9,
+        "record": "4-47"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 7 last start.",
+        "Against it: drawn wide (13); patchy recent form."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "draw",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "drawn wide (13)",
+        "patchy recent form"
+      ],
+      "rank": 10,
+      "pWin": 0.0063,
+      "pPlace": 0.044,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ETOILEFILLANTE",
+      "key": "ETOILEFILLANTE",
+      "draw": 7,
+      "rating": 51,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Des McLachlan",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.2,
+      "factors": {
+        "form": 0.636,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.482,
+        "trainer": 0.525,
+        "weight": 1,
+        "headToHead": 0.49,
+        "recencyMargin": 0.438
+      },
+      "contrib": {
+        "form": 11.45,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.62,
+        "jockey": 1.45,
+        "trainer": 2.63,
+        "weight": 6,
+        "headToHead": 5.88,
+        "recencyMargin": 5.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 12 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-1"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 2,
+        "places": 4,
+        "winPct": 9,
+        "record": "2-22"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 12 last start.",
+        "Why it can win: well-in at the weights (52.5kg).",
+        "Against it: lower-rated (MR 51); lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 51)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 11,
+      "pWin": 0.0043,
+      "pPlace": 0.0301,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCOTTISH LINKS",
+      "key": "SCOTTISH LINKS",
+      "draw": 10,
+      "rating": 69,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 57,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.6,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.509,
+        "trainer": 0.4,
+        "weight": 0.571,
+        "headToHead": 0,
+        "recencyMargin": 0.6
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 9,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.92,
+        "jockey": 1.53,
+        "trainer": 2,
+        "weight": 3.43,
+        "headToHead": 0,
+        "recencyMargin": 7.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "ERIC LIDDELL",
+          "CHANCE ENCOUNTER",
+          "TUNGUSKA"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-6"
+      },
+      "jockeyRec": {
+        "starts": 37,
+        "wins": 3,
+        "places": 14,
+        "winPct": 8,
+        "placePct": 38,
+        "record": "3-37"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-10"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Against it: beaten by ERIC LIDDELL, CHANCE ENCOUNTER before; stable out of form.",
+        "Beaten by ERIC LIDDELL, CHANCE ENCOUNTER, TUNGUSKA in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "headToHead",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "beaten by ERIC LIDDELL, CHANCE ENCOUNTER before",
+        "stable out of form"
+      ],
+      "rank": 12,
+      "pWin": 0.0024,
+      "pPlace": 0.0165,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "DUBBELOSIX",
+      "key": "DUBBELOSIX",
+      "draw": 12,
+      "rating": 83,
+      "jockey": "Craig Zackey",
+      "trainer": "James Crawford",
+      "weight": 63,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.8,
+      "factors": {
+        "form": 0,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.685,
+        "trainer": 0.606,
+        "weight": 0,
+        "headToHead": 0.312,
+        "recencyMargin": 0.154
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.46,
+        "jockey": 2.05,
+        "trainer": 3.03,
+        "weight": 0,
+        "headToHead": 3.74,
+        "recencyMargin": 1.85
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "RED DAWN"
+        ]
+      },
+      "recentForm": [
+        "7th of 7 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 5,
+        "places": 15,
+        "winPct": 17,
+        "placePct": 52,
+        "record": "5-29"
+      },
+      "trainerRec": {
+        "starts": 39,
+        "wins": 5,
+        "places": 16,
+        "winPct": 13,
+        "record": "5-39"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 7 last start.",
+        "Why it can win: top-rated in the field (MR 83); 17%-strike jockey booked.",
+        "Against it: patchy recent form; top-weight (63kg).",
+        "Beaten by RED DAWN in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 83)",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (63kg)"
+      ],
+      "rank": 13,
+      "pWin": 0.0013,
+      "pPlace": 0.0088,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "CHANCE ENCOUNTER",
+      "rank": 1,
+      "score": 78.5,
+      "rating": 80,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keagan De Melo",
+      "trainer": "Andre Nel",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.906,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.728,
+        "trainer": 0.705,
+        "weight": 0.286,
+        "headToHead": 1,
+        "recencyMargin": 0.95
+      }
+    },
+    {
+      "no": null,
+      "name": "SIGNOR DANTE",
+      "rank": 2,
+      "score": 67.9,
+      "rating": 74,
+      "draw": 6,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "James Crawford",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.719,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.65,
+        "trainer": 0.606,
+        "weight": 0.429,
+        "headToHead": 0.639,
+        "recencyMargin": 0.929
+      }
+    },
+    {
+      "no": null,
+      "name": "RED DAWN",
+      "rank": 3,
+      "score": 63.2,
+      "rating": 78,
+      "draw": 2,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Candice Bass",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.844,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.729,
+        "trainer": 0.779,
+        "weight": 0.143,
+        "headToHead": 0.667,
+        "recencyMargin": 0.458
+      }
+    },
+    {
+      "no": null,
+      "name": "ERIC LIDDELL",
+      "rank": 4,
+      "score": 62.3,
+      "rating": 82,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.969,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.7,
+        "trainer": 0.64,
+        "weight": 0.286,
+        "headToHead": 0.284,
+        "recencyMargin": 0.637
+      }
+    },
+    {
+      "no": null,
+      "name": "TUNGUSKA",
+      "rank": 5,
+      "score": 62.3,
+      "rating": 69,
+      "draw": 11,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.362,
+        "trainer": 0.38,
+        "weight": 0.571,
+        "headToHead": 0.674,
+        "recencyMargin": 0.846
+      }
+    },
+    {
+      "no": null,
+      "name": "SHOW OFF",
+      "rank": 6,
+      "score": 60,
+      "rating": 76,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "James Crawford",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.781,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.57,
+        "trainer": 0.606,
+        "weight": 0.286,
+        "headToHead": 0.341,
+        "recencyMargin": 0.825
+      }
+    },
+    {
+      "no": null,
+      "name": "FORT LIAM",
+      "rank": 7,
+      "score": 53.6,
+      "rating": 81,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Greg Ennion",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.938,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.525,
+        "trainer": 0.431,
+        "weight": 0.286,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BATON ROUGE",
+      "rank": 8,
+      "score": 52.6,
+      "rating": 69,
+      "draw": 5,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.54,
+        "trainer": 0.616,
+        "weight": 0.81,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "TOTHEMOONANDBACK",
+      "rank": 9,
+      "score": 50.7,
+      "rating": 69,
+      "draw": 3,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Grant Behr",
+      "trainer": "Des McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.395,
+        "trainer": 0.525,
+        "weight": 0.571,
+        "headToHead": 0.49,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "COASTAL COMMANDER",
+      "rank": 10,
+      "score": 50.5,
+      "rating": 77,
+      "draw": 13,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.813,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.616,
+        "trainer": 0.518,
+        "weight": 0.286,
+        "headToHead": 0.49,
+        "recencyMargin": 0.683
+      }
+    },
+    {
+      "no": null,
+      "name": "ETOILEFILLANTE",
+      "rank": 11,
+      "score": 48.2,
+      "rating": 51,
+      "draw": 7,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mpumelelo Mjoka",
+      "trainer": "Des McLachlan",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.636,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.482,
+        "trainer": 0.525,
+        "weight": 1,
+        "headToHead": 0.49,
+        "recencyMargin": 0.438
+      }
+    },
+    {
+      "no": null,
+      "name": "SCOTTISH LINKS",
+      "rank": 12,
+      "score": 44.6,
+      "rating": 69,
+      "draw": 10,
+      "weight": 57,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.563,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.509,
+        "trainer": 0.4,
+        "weight": 0.571,
+        "headToHead": 0,
+        "recencyMargin": 0.6
+      }
+    },
+    {
+      "no": null,
+      "name": "DUBBELOSIX",
+      "rank": 13,
+      "score": 40.8,
+      "rating": 83,
+      "draw": 12,
+      "weight": 63,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "James Crawford",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.685,
+        "trainer": 0.606,
+        "weight": 0,
+        "headToHead": 0.312,
+        "recencyMargin": 0.154
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "CHANCE ENCOUNTER",
+      "key": "CHANCE ENCOUNTER",
+      "points": 3.724,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "ERIC LIDDELL",
+        "SCOTTISH LINKS",
+        "TUNGUSKA"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "TUNGUSKA",
+      "key": "TUNGUSKA",
+      "points": 1.349,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "ERIC LIDDELL",
+        "SCOTTISH LINKS"
+      ],
+      "losesTo": [
+        "CHANCE ENCOUNTER"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "RED DAWN",
+      "key": "RED DAWN",
+      "points": 1.297,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "DUBBELOSIX"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SIGNOR DANTE",
+      "key": "SIGNOR DANTE",
+      "points": 1.087,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "SHOW OFF"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "BATON ROUGE",
+      "key": "BATON ROUGE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FORT LIAM",
+      "key": "FORT LIAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ETOILEFILLANTE",
+      "key": "ETOILEFILLANTE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "COASTAL COMMANDER",
+      "key": "COASTAL COMMANDER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHOW OFF",
+      "key": "SHOW OFF",
+      "points": -1.087,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SIGNOR DANTE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "DUBBELOSIX",
+      "key": "DUBBELOSIX",
+      "points": -1.297,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "RED DAWN"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "ERIC LIDDELL",
+      "key": "ERIC LIDDELL",
+      "points": -1.501,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "SCOTTISH LINKS"
+      ],
+      "losesTo": [
+        "CHANCE ENCOUNTER",
+        "TUNGUSKA"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "SCOTTISH LINKS",
+      "key": "SCOTTISH LINKS",
+      "points": -3.572,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "ERIC LIDDELL",
+        "CHANCE ENCOUNTER",
+        "TUNGUSKA"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "CHANCE ENCOUNTER",
+  "places": 3
+}

@@ -1,0 +1,1621 @@
+{
+  "id": "2026-04-27-kenilworth-r4",
+  "date": "2026-04-27",
+  "track": "Kenilworth",
+  "race": 4,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:48.447Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SPANISH VERSE",
+      "key": "SPANISH VERSE",
+      "draw": 4,
+      "rating": 75,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 76.8,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.86,
+        "trainer": 0.648,
+        "weight": 0.12,
+        "headToHead": 1,
+        "recencyMargin": 0.933
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 14.08,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 2.58,
+        "trainer": 3.24,
+        "weight": 0.72,
+        "headToHead": 12,
+        "recencyMargin": 11.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "BOURBON KING",
+          "FREQUENT TRAVELLER",
+          "BORN TO MASTER"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.80L into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 19,
+        "wins": 6,
+        "places": 14,
+        "winPct": 32,
+        "record": "6-19"
+      },
+      "jockeyRec": {
+        "starts": 25,
+        "wins": 8,
+        "places": 16,
+        "winPct": 32,
+        "placePct": 64,
+        "record": "8-25"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 7,
+        "places": 17,
+        "winPct": 18,
+        "record": "7-40"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.80L into 2nd last start — right there.",
+        "Why it can win: strong recent form; 32%-strike jockey booked; has beaten BOURBON KING, FREQUENT TRAVELLER.",
+        "Against it: carries 60kg.",
+        "Jockey Aldo Domeyer in form (32% strike).",
+        "Has beaten BOURBON KING, FREQUENT TRAVELLER, BORN TO MASTER before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "headToHead"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "32%-strike jockey booked",
+        "has beaten BOURBON KING, FREQUENT TRAVELLER"
+      ],
+      "_conReasons": [
+        "carries 60kg"
+      ],
+      "rank": 1,
+      "pWin": 0.7032,
+      "pPlace": 0.9895,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BIG DEAL",
+      "key": "BIG DEAL",
+      "draw": 1,
+      "rating": 75,
+      "jockey": "Richard Fourie",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 67.2,
+      "factors": {
+        "form": 0.7,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.532,
+        "trainer": 0.445,
+        "weight": 0.12,
+        "headToHead": 0.621,
+        "recencyMargin": 0.9
+      },
+      "contrib": {
+        "form": 12.6,
+        "rating": 14.08,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.6,
+        "trainer": 2.22,
+        "weight": 0.72,
+        "headToHead": 7.45,
+        "recencyMargin": 10.8
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "ZAGREB"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1.20L into 4th last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 3,
+        "places": 11,
+        "winPct": 11,
+        "placePct": 41,
+        "record": "3-27"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "record": "1-19"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.20L into 4th last start — right there.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form; hitting the line hard lately.",
+        "Against it: carries 60kg; stable out of form.",
+        "Has beaten ZAGREB before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 60kg",
+        "stable out of form"
+      ],
+      "rank": 2,
+      "pWin": 0.142,
+      "pPlace": 0.7788,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BOURBON KING",
+      "key": "BOURBON KING",
+      "draw": 11,
+      "rating": 75,
+      "jockey": "Craig Zackey",
+      "trainer": "Andre Nel",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 62,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.513,
+        "trainer": 0.648,
+        "weight": 0.12,
+        "headToHead": 0.663,
+        "recencyMargin": 0.704
+      },
+      "contrib": {
+        "form": 11.25,
+        "rating": 14.08,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.54,
+        "trainer": 3.24,
+        "weight": 0.72,
+        "headToHead": 7.96,
+        "recencyMargin": 8.45
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "FREQUENT TRAVELLER",
+          "BORN TO MASTER"
+        ],
+        "losesTo": [
+          "SPANISH VERSE"
+        ]
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "placePct": 35,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 11,
+        "winPct": 19,
+        "record": "4-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: stable in form (19%); has beaten FREQUENT TRAVELLER, BORN TO MASTER; strong recent form.",
+        "Against it: drawn wide (11); carries 60kg.",
+        "Has beaten FREQUENT TRAVELLER, BORN TO MASTER before (H2H 2-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (19%)",
+        "has beaten FREQUENT TRAVELLER, BORN TO MASTER",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "drawn wide (11)",
+        "carries 60kg"
+      ],
+      "rank": 3,
+      "pWin": 0.0597,
+      "pPlace": 0.4626,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ZAGREB",
+      "key": "ZAGREB",
+      "draw": 5,
+      "rating": 78,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Ricky Maingard",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 61.8,
+      "factors": {
+        "form": 0.6,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.521,
+        "trainer": 0.391,
+        "weight": 0,
+        "headToHead": 0.395,
+        "recencyMargin": 0.867
+      },
+      "contrib": {
+        "form": 10.8,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 1.56,
+        "trainer": 1.95,
+        "weight": 0,
+        "headToHead": 4.74,
+        "recencyMargin": 10.4
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "BIG DEAL"
+        ]
+      },
+      "recentForm": [
+        "5th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 3,
+        "places": 11,
+        "winPct": 10,
+        "placePct": 38,
+        "record": "3-29"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-12"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 11 last start.",
+        "Why it can win: top-rated in the field (MR 78); hitting the line hard lately; 10%-strike jockey booked.",
+        "Against it: top-weight (61.5kg); stable out of form.",
+        "Beaten by BIG DEAL in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "recencyMargin",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "trainer"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 78)",
+        "hitting the line hard lately",
+        "10%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0577,
+      "pPlace": 0.4495,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FREQUENT TRAVELLER",
+      "key": "FREQUENT TRAVELLER",
+      "draw": 7,
+      "rating": 72,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.3,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.76,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.424,
+        "trainer": 0.445,
+        "weight": 0.24,
+        "headToHead": 0.367,
+        "recencyMargin": 0.554
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 12.16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.27,
+        "trainer": 2.22,
+        "weight": 1.44,
+        "headToHead": 4.41,
+        "recencyMargin": 6.65
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "BORN TO MASTER"
+        ],
+        "losesTo": [
+          "SPANISH VERSE",
+          "BOURBON KING"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 3,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 1,
+        "places": 7,
+        "winPct": 4,
+        "placePct": 29,
+        "record": "1-24"
+      },
+      "trainerRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 5,
+        "winPct": 5,
+        "record": "1-19"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Against it: patchy recent form; beaten by SPANISH VERSE, BOURBON KING before.",
+        "Has beaten BORN TO MASTER before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by SPANISH VERSE, BOURBON KING before"
+      ],
+      "rank": 5,
+      "pWin": 0.0085,
+      "pPlace": 0.0724,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SEE THE SIGN",
+      "key": "SEE THE SIGN",
+      "draw": 3,
+      "rating": 54,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.8,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.04,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.445,
+        "trainer": 0.546,
+        "weight": 0.68,
+        "headToHead": 0.508,
+        "recencyMargin": 0.604
+      },
+      "contrib": {
+        "form": 11.25,
+        "rating": 0.64,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.33,
+        "trainer": 2.73,
+        "weight": 4.08,
+        "headToHead": 6.09,
+        "recencyMargin": 7.25
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 9 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 8,
+        "winPct": 5,
+        "placePct": 42,
+        "record": "1-19"
+      },
+      "trainerRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 4,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 9 last start.",
+        "Why it can win: drawn 3 — a handy low draw; strong recent form; stable in form (13%).",
+        "Against it: lower-rated (MR 54); outclassed by this field."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "trainer"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "strong recent form",
+        "stable in form (13%)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 54)",
+        "outclassed by this field"
+      ],
+      "rank": 6,
+      "pWin": 0.0078,
+      "pPlace": 0.0667,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GEORGE REX",
+      "key": "GEORGE REX",
+      "draw": 6,
+      "rating": 65,
+      "jockey": "Calvin Habib",
+      "trainer": "Paul Reeves",
+      "weight": 55,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.48,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.658,
+        "trainer": 0.483,
+        "weight": 0.52,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 7.68,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 1.98,
+        "trainer": 2.41,
+        "weight": 3.12,
+        "headToHead": 6.09,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 7,
+        "winPct": 21,
+        "placePct": 50,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 13,
+        "wins": 1,
+        "places": 6,
+        "winPct": 8,
+        "record": "1-13"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 21%-strike jockey booked.",
+        "Against it: well beaten lately; patchy recent form.",
+        "Jockey Calvin Habib in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 7,
+      "pWin": 0.0067,
+      "pPlace": 0.0575,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "AIN'T NO SUNSHINE",
+      "key": "AINT NO SUNSHINE",
+      "draw": 2,
+      "rating": 62,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "weight": 53.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 48.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.36,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.377,
+        "trainer": 0.595,
+        "weight": 0.64,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 5.76,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.13,
+        "trainer": 2.98,
+        "weight": 3.84,
+        "headToHead": 6.09,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-2"
+      },
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "placePct": 31,
+        "record": "0-16"
+      },
+      "trainerRec": {
+        "starts": 34,
+        "wins": 5,
+        "places": 16,
+        "winPct": 15,
+        "record": "5-34"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw; stable in form (15%).",
+        "Against it: lightly-supported jockey booking; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "stable in form (15%)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0063,
+      "pPlace": 0.0538,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GLENALMOND",
+      "key": "GLENALMOND",
+      "draw": 8,
+      "rating": 56,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.6,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.12,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.456,
+        "trainer": 0.374,
+        "weight": 0.72,
+        "headToHead": 0.508,
+        "recencyMargin": 0.667
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 1.92,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.37,
+        "trainer": 1.87,
+        "weight": 4.32,
+        "headToHead": 6.09,
+        "recencyMargin": 8
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 9 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 5,
+        "winPct": 6,
+        "placePct": 29,
+        "record": "1-17"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 9 last start.",
+        "Why it can win: carries 52.5kg.",
+        "Against it: stable out of form; lower-rated (MR 56)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "rating"
+      ],
+      "_strReasons": [
+        "carries 52.5kg"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "lower-rated (MR 56)"
+      ],
+      "rank": 9,
+      "pWin": 0.0054,
+      "pPlace": 0.0464,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WIZARDING WORLD",
+      "key": "WIZARDING WORLD",
+      "draw": 9,
+      "rating": 53,
+      "jockey": "Eduan Muller",
+      "trainer": "Vaughan Marshall",
+      "weight": 49,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.4,
+        "trainer": 0.535,
+        "weight": 1,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.2,
+        "trainer": 2.67,
+        "weight": 6,
+        "headToHead": 6.09,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 40,
+        "record": "0-10"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-in at the weights (49kg).",
+        "Against it: lower-rated (MR 53); well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (49kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 53)",
+        "well beaten lately"
+      ],
+      "rank": 10,
+      "pWin": 0.0023,
+      "pPlace": 0.0199,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BORN TO MASTER",
+      "key": "BORN TO MASTER",
+      "draw": 10,
+      "rating": 59,
+      "jockey": "Oswald Noach",
+      "trainer": "Lucinda Woodruff",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 31,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.24,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.377,
+        "trainer": 0.488,
+        "weight": 0.72,
+        "headToHead": 0,
+        "recencyMargin": 0.267
+      },
+      "contrib": {
+        "form": 2.25,
+        "rating": 3.84,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.13,
+        "trainer": 2.44,
+        "weight": 4.32,
+        "headToHead": 0,
+        "recencyMargin": 3.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SPANISH VERSE",
+          "BOURBON KING",
+          "FREQUENT TRAVELLER"
+        ]
+      },
+      "recentForm": [
+        "8th of 9 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 6,
+        "record": "0-16"
+      },
+      "trainerRec": {
+        "starts": 24,
+        "wins": 2,
+        "places": 9,
+        "winPct": 8,
+        "record": "2-24"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 9 last start.",
+        "Why it can win: carries 52.5kg.",
+        "Against it: patchy recent form; lightly-supported jockey booking.",
+        "Beaten by SPANISH VERSE, BOURBON KING, FREQUENT TRAVELLER in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "jockey"
+      ],
+      "_strReasons": [
+        "carries 52.5kg"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 11,
+      "pWin": 0.0003,
+      "pPlace": 0.0029,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SPANISH VERSE",
+      "rank": 1,
+      "score": 76.8,
+      "rating": 75,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Aldo Domeyer",
+      "trainer": "Candice Bass",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.86,
+        "trainer": 0.648,
+        "weight": 0.12,
+        "headToHead": 1,
+        "recencyMargin": 0.933
+      }
+    },
+    {
+      "no": null,
+      "name": "BIG DEAL",
+      "rank": 2,
+      "score": 67.2,
+      "rating": 75,
+      "draw": 1,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Greg Ennion",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.7,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.532,
+        "trainer": 0.445,
+        "weight": 0.12,
+        "headToHead": 0.621,
+        "recencyMargin": 0.9
+      }
+    },
+    {
+      "no": null,
+      "name": "BOURBON KING",
+      "rank": 3,
+      "score": 62,
+      "rating": 75,
+      "draw": 11,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Andre Nel",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.88,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.513,
+        "trainer": 0.648,
+        "weight": 0.12,
+        "headToHead": 0.663,
+        "recencyMargin": 0.704
+      }
+    },
+    {
+      "no": null,
+      "name": "ZAGREB",
+      "rank": 4,
+      "score": 61.8,
+      "rating": 78,
+      "draw": 5,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Ricky Maingard",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.6,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.521,
+        "trainer": 0.391,
+        "weight": 0,
+        "headToHead": 0.395,
+        "recencyMargin": 0.867
+      }
+    },
+    {
+      "no": null,
+      "name": "FREQUENT TRAVELLER",
+      "rank": 5,
+      "score": 50.3,
+      "rating": 72,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.375,
+        "rating": 0.76,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.424,
+        "trainer": 0.445,
+        "weight": 0.24,
+        "headToHead": 0.367,
+        "recencyMargin": 0.554
+      }
+    },
+    {
+      "no": null,
+      "name": "SEE THE SIGN",
+      "rank": 6,
+      "score": 49.8,
+      "rating": 54,
+      "draw": 3,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.625,
+        "rating": 0.04,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.445,
+        "trainer": 0.546,
+        "weight": 0.68,
+        "headToHead": 0.508,
+        "recencyMargin": 0.604
+      }
+    },
+    {
+      "no": null,
+      "name": "GEORGE REX",
+      "rank": 7,
+      "score": 48.9,
+      "rating": 65,
+      "draw": 6,
+      "weight": 55,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Paul Reeves",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.48,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.658,
+        "trainer": 0.483,
+        "weight": 0.52,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "AIN'T NO SUNSHINE",
+      "rank": 8,
+      "score": 48.5,
+      "rating": 62,
+      "draw": 2,
+      "weight": 53.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.36,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.377,
+        "trainer": 0.595,
+        "weight": 0.64,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GLENALMOND",
+      "rank": 9,
+      "score": 47.6,
+      "rating": 56,
+      "draw": 8,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.12,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.456,
+        "trainer": 0.374,
+        "weight": 0.72,
+        "headToHead": 0.508,
+        "recencyMargin": 0.667
+      }
+    },
+    {
+      "no": null,
+      "name": "WIZARDING WORLD",
+      "rank": 10,
+      "score": 42.5,
+      "rating": 53,
+      "draw": 9,
+      "weight": 49,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.4,
+        "trainer": 0.535,
+        "weight": 1,
+        "headToHead": 0.508,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BORN TO MASTER",
+      "rank": 11,
+      "score": 31,
+      "rating": 59,
+      "draw": 10,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.24,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.377,
+        "trainer": 0.488,
+        "weight": 0.72,
+        "headToHead": 0,
+        "recencyMargin": 0.267
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SPANISH VERSE",
+      "key": "SPANISH VERSE",
+      "points": 4.295,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "BOURBON KING",
+        "FREQUENT TRAVELLER",
+        "BORN TO MASTER"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "BOURBON KING",
+      "key": "BOURBON KING",
+      "points": 1.356,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "FREQUENT TRAVELLER",
+        "BORN TO MASTER"
+      ],
+      "losesTo": [
+        "SPANISH VERSE"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "BIG DEAL",
+      "key": "BIG DEAL",
+      "points": 0.986,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "ZAGREB"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "GLENALMOND",
+      "key": "GLENALMOND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "AIN'T NO SUNSHINE",
+      "key": "AINT NO SUNSHINE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SEE THE SIGN",
+      "key": "SEE THE SIGN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WIZARDING WORLD",
+      "key": "WIZARDING WORLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GEORGE REX",
+      "key": "GEORGE REX",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ZAGREB",
+      "key": "ZAGREB",
+      "points": -0.986,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "BIG DEAL"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "FREQUENT TRAVELLER",
+      "key": "FREQUENT TRAVELLER",
+      "points": -1.223,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "BORN TO MASTER"
+      ],
+      "losesTo": [
+        "SPANISH VERSE",
+        "BOURBON KING"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "BORN TO MASTER",
+      "key": "BORN TO MASTER",
+      "points": -4.428,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "SPANISH VERSE",
+        "BOURBON KING",
+        "FREQUENT TRAVELLER"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "SPANISH VERSE",
+  "places": 3
+}

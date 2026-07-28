@@ -1,0 +1,1747 @@
+{
+  "id": "2026-04-27-kenilworth-r8",
+  "date": "2026-04-27",
+  "track": "Kenilworth",
+  "race": 8,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:48.542Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "OBJET D' ART",
+      "key": "OBJET D ART",
+      "draw": 2,
+      "rating": 94,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 75.9,
+      "factors": {
+        "form": 1,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.527,
+        "trainer": 0.76,
+        "weight": 0.333,
+        "headToHead": 1,
+        "recencyMargin": 1
+      },
+      "contrib": {
+        "form": 18,
+        "rating": 8.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.75,
+        "jockey": 1.58,
+        "trainer": 3.8,
+        "weight": 2,
+        "headToHead": 12,
+        "recencyMargin": 12
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-0",
+        "wins": 2,
+        "losses": 0,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "GIVE IT LALDY",
+          "OCTOBER STORM"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Won last start by 2.50L at Kenilworth.",
+        "Won by 2.50L recently — has a telling turn of foot."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "winPct": 100,
+        "record": "1-1"
+      },
+      "jockeyRec": {
+        "starts": 20,
+        "wins": 2,
+        "places": 7,
+        "winPct": 10,
+        "placePct": 35,
+        "record": "2-20"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 6,
+        "winPct": 30,
+        "record": "3-10"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 1,
+        "places": 1,
+        "newPartnership": false,
+        "record": "1-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 2.50L at Kenilworth.",
+        "Won by 2.50L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; has beaten GIVE IT LALDY, OCTOBER STORM; hitting the line hard lately.",
+        "Against it: carries 58.5kg.",
+        "Has beaten GIVE IT LALDY, OCTOBER STORM before (H2H 2-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten GIVE IT LALDY, OCTOBER STORM",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "carries 58.5kg"
+      ],
+      "rank": 1,
+      "pWin": 0.7995,
+      "pPlace": 0.9946,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OCTOBER STORM",
+      "key": "OCTOBER STORM",
+      "draw": 12,
+      "rating": 86,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "weight": 54,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.783,
+        "trainer": 0.552,
+        "weight": 0.833,
+        "headToHead": 0.439,
+        "recencyMargin": 0.792
+      },
+      "contrib": {
+        "form": 15.75,
+        "rating": 2.91,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.25,
+        "jockey": 2.35,
+        "trainer": 2.76,
+        "weight": 5,
+        "headToHead": 5.27,
+        "recencyMargin": 9.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "GIVE IT LALDY"
+        ],
+        "losesTo": [
+          "OBJET D' ART"
+        ]
+      },
+      "recentForm": [
+        "2nd of 9 last start."
+      ],
+      "combo": {
+        "starts": 11,
+        "wins": 3,
+        "places": 7,
+        "winPct": 27,
+        "record": "3-11"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 5,
+        "places": 11,
+        "winPct": 26,
+        "placePct": 58,
+        "record": "5-19"
+      },
+      "trainerRec": {
+        "starts": 36,
+        "wins": 4,
+        "places": 16,
+        "winPct": 11,
+        "record": "4-36"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 9 last start.",
+        "Why it can win: 26%-strike jockey booked; strong recent form; carries 54kg.",
+        "Against it: drawn wide (12); lower-rated (MR 86).",
+        "Jockey Sean Veale in form (26% strike).",
+        "Has beaten GIVE IT LALDY before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "form",
+        "weight"
+      ],
+      "_concerns": [
+        "draw",
+        "rating"
+      ],
+      "_strReasons": [
+        "26%-strike jockey booked",
+        "strong recent form",
+        "carries 54kg"
+      ],
+      "_conReasons": [
+        "drawn wide (12)",
+        "lower-rated (MR 86)"
+      ],
+      "rank": 2,
+      "pWin": 0.0412,
+      "pPlace": 0.3942,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SHESGOTCLASS",
+      "key": "SHESGOTCLASS",
+      "draw": 1,
+      "rating": 89,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.318,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.452,
+        "trainer": 0.562,
+        "weight": 0.778,
+        "headToHead": 0.48,
+        "recencyMargin": 0.625
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 5.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.36,
+        "trainer": 2.81,
+        "weight": 4.67,
+        "headToHead": 5.76,
+        "recencyMargin": 7.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 5 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 1,
+        "places": 8,
+        "winPct": 5,
+        "placePct": 42,
+        "record": "1-19"
+      },
+      "trainerRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 4,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 5 last start.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form; carries 54.5kg.",
+        "Against it: lightly-supported jockey booking; lower-rated (MR 89)."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form",
+        "carries 54.5kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "lower-rated (MR 89)"
+      ],
+      "rank": 3,
+      "pWin": 0.0405,
+      "pPlace": 0.3887,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "draw": 10,
+      "rating": 95,
+      "jockey": "Callan Murray",
+      "trainer": "Candice Bass",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 57.2,
+      "factors": {
+        "form": 0.417,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.609,
+        "trainer": 0.676,
+        "weight": 0.333,
+        "headToHead": 0.703,
+        "recencyMargin": 0.8
+      },
+      "contrib": {
+        "form": 7.5,
+        "rating": 9.45,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.83,
+        "trainer": 3.38,
+        "weight": 2,
+        "headToHead": 8.44,
+        "recencyMargin": 9.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "THREE TIGERS"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 13 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 2,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 17,
+        "record": "2-12"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 7,
+        "places": 17,
+        "winPct": 18,
+        "record": "7-40"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 13 last start.",
+        "Why it can win: has beaten THREE TIGERS; hitting the line hard lately; 17%-strike jockey booked.",
+        "Against it: carries 58.5kg.",
+        "Has beaten THREE TIGERS before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "recencyMargin",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "has beaten THREE TIGERS",
+        "hitting the line hard lately",
+        "17%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "carries 58.5kg"
+      ],
+      "rank": 4,
+      "pWin": 0.0354,
+      "pPlace": 0.347,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "SCOTTISH KISS",
+      "key": "SCOTTISH KISS",
+      "draw": 3,
+      "rating": 100,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 54.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.491,
+        "trainer": 0.622,
+        "weight": 0.333,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 13.09,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.47,
+        "trainer": 3.11,
+        "weight": 2,
+        "headToHead": 5.76,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 13,
+        "wins": 1,
+        "places": 3,
+        "winPct": 8,
+        "placePct": 23,
+        "record": "1-13"
+      },
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: well-rated (MR 100); drawn 3 — a handy low draw.",
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [
+        "well-rated (MR 100)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0211,
+      "pPlace": 0.2173,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "BILLY BOWLEGS",
+      "key": "BILLY BOWLEGS",
+      "draw": 7,
+      "rating": 104,
+      "jockey": "Eduan Muller",
+      "trainer": "H J Brown",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.4,
+        "trainer": 0.443,
+        "weight": 0.111,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.2,
+        "trainer": 2.21,
+        "weight": 0.67,
+        "headToHead": 5.76,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 40,
+        "record": "0-10"
+      },
+      "trainerRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: top-rated in the field (MR 104).",
+        "Against it: lightly-supported jockey booking; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 104)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0191,
+      "pPlace": 0.1978,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIVE IT LALDY",
+      "key": "GIVE IT LALDY",
+      "draw": 4,
+      "rating": 86,
+      "jockey": "Richard Fourie",
+      "trainer": "Lucinda Woodruff",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.5,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.549,
+        "trainer": 0.5,
+        "weight": 0.778,
+        "headToHead": 0,
+        "recencyMargin": 0.75
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 2.91,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.65,
+        "trainer": 2.5,
+        "weight": 4.67,
+        "headToHead": 0,
+        "recencyMargin": 9
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-2",
+        "wins": 0,
+        "losses": 2,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "OBJET D' ART",
+          "OCTOBER STORM"
+        ]
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 27,
+        "wins": 3,
+        "places": 11,
+        "winPct": 11,
+        "placePct": 41,
+        "record": "3-27"
+      },
+      "trainerRec": {
+        "starts": 24,
+        "wins": 2,
+        "places": 9,
+        "winPct": 8,
+        "record": "2-24"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: strong recent form; drawn 4 — a handy low draw; 11%-strike jockey booked.",
+        "Against it: beaten by OBJET D' ART, OCTOBER STORM before; lower-rated (MR 86).",
+        "Beaten by OBJET D' ART, OCTOBER STORM in the past (H2H 0-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "headToHead",
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "drawn 4 — a handy low draw",
+        "11%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "beaten by OBJET D' ART, OCTOBER STORM before",
+        "lower-rated (MR 86)"
+      ],
+      "rank": 7,
+      "pWin": 0.0116,
+      "pPlace": 0.1226,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "draw": 6,
+      "rating": 97,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "weight": 61.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.682,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.683,
+        "trainer": 0.76,
+        "weight": 0,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 10.91,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.75,
+        "jockey": 2.05,
+        "trainer": 3.8,
+        "weight": 0,
+        "headToHead": 5.76,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 6,
+        "wins": 2,
+        "places": 4,
+        "winPct": 33,
+        "record": "2-6"
+      },
+      "jockeyRec": {
+        "starts": 14,
+        "wins": 3,
+        "places": 7,
+        "winPct": 21,
+        "placePct": 50,
+        "record": "3-14"
+      },
+      "trainerRec": {
+        "starts": 10,
+        "wins": 3,
+        "places": 6,
+        "winPct": 30,
+        "record": "3-10"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 21%-strike jockey booked; stable in form (30%); well-rated (MR 97).",
+        "Against it: top-weight (61.5kg); well beaten lately.",
+        "Jockey Calvin Habib in form (21% strike).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "rating"
+      ],
+      "_concerns": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "stable in form (30%)",
+        "well-rated (MR 97)"
+      ],
+      "_conReasons": [
+        "top-weight (61.5kg)",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0112,
+      "pPlace": 0.1187,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "PLEASE BE TRUE",
+      "key": "PLEASE BE TRUE",
+      "draw": 5,
+      "rating": 93,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.622,
+        "weight": 0.167,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.5,
+        "trainer": 3.11,
+        "weight": 1,
+        "headToHead": 5.76,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 41,
+        "wins": 6,
+        "places": 14,
+        "winPct": 15,
+        "record": "6-41"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: well beaten lately; patchy recent form.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "recencyMargin",
+        "form"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "well beaten lately",
+        "patchy recent form"
+      ],
+      "rank": 9,
+      "pWin": 0.0068,
+      "pPlace": 0.0728,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "draw": 9,
+      "rating": 82,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 52.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.7,
+      "factors": {
+        "form": 0.333,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.536,
+        "trainer": 0.411,
+        "weight": 1,
+        "headToHead": 0.48,
+        "recencyMargin": 0.787
+      },
+      "contrib": {
+        "form": 6,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.61,
+        "trainer": 2.06,
+        "weight": 6,
+        "headToHead": 5.76,
+        "recencyMargin": 9.45
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 7 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 29,
+        "wins": 3,
+        "places": 11,
+        "winPct": 10,
+        "placePct": 38,
+        "record": "3-29"
+      },
+      "trainerRec": {
+        "starts": 8,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 7 last start.",
+        "Why it can win: well-in at the weights (52.5kg); hitting the line hard lately.",
+        "Against it: lower-rated (MR 82); patchy recent form."
+      ],
+      "_strengths": [
+        "weight",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52.5kg)",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 82)",
+        "patchy recent form"
+      ],
+      "rank": 10,
+      "pWin": 0.0052,
+      "pPlace": 0.056,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HANDSOME PRINCE",
+      "key": "HANDSOME PRINCE",
+      "draw": 8,
+      "rating": 91,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.5,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.409,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.429,
+        "trainer": 0.374,
+        "weight": 0.333,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 6.55,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.25,
+        "jockey": 1.29,
+        "trainer": 1.87,
+        "weight": 2,
+        "headToHead": 5.76,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 12,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-12"
+      },
+      "jockeyRec": {
+        "starts": 24,
+        "wins": 1,
+        "places": 7,
+        "winPct": 4,
+        "placePct": 29,
+        "record": "1-24"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Against it: stable out of form; well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "trainer",
+        "recencyMargin"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "stable out of form",
+        "well beaten lately"
+      ],
+      "rank": 11,
+      "pWin": 0.0043,
+      "pPlace": 0.0459,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "THREE TIGERS",
+      "key": "THREE TIGERS",
+      "draw": 11,
+      "rating": 96,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.3,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.636,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.463,
+        "trainer": 0.374,
+        "weight": 0.333,
+        "headToHead": 0.256,
+        "recencyMargin": 0.712
+      },
+      "contrib": {
+        "form": 3,
+        "rating": 10.18,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.39,
+        "trainer": 1.87,
+        "weight": 2,
+        "headToHead": 3.07,
+        "recencyMargin": 8.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "CHURCHILLIAN"
+        ]
+      },
+      "recentForm": [
+        "11th of 13 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 1,
+        "places": 5,
+        "winPct": 6,
+        "placePct": 29,
+        "record": "1-17"
+      },
+      "trainerRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 3,
+        "winPct": 0,
+        "record": "0-17"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 13 last start.",
+        "Why it can win: well-rated (MR 96).",
+        "Against it: patchy recent form; stable out of form.",
+        "Beaten by CHURCHILLIAN in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 96)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 12,
+      "pWin": 0.0041,
+      "pPlace": 0.0445,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "OBJET D' ART",
+      "rank": 1,
+      "score": 75.9,
+      "rating": 94,
+      "draw": 2,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "lastFive": "1",
+      "runsKnown": 1,
+      "factors": {
+        "form": 1,
+        "rating": 0.545,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.527,
+        "trainer": 0.76,
+        "weight": 0.333,
+        "headToHead": 1,
+        "recencyMargin": 1
+      }
+    },
+    {
+      "no": null,
+      "name": "OCTOBER STORM",
+      "rank": 2,
+      "score": 58.1,
+      "rating": 86,
+      "draw": 12,
+      "weight": 54,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sean Veale",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.875,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.783,
+        "trainer": 0.552,
+        "weight": 0.833,
+        "headToHead": 0.439,
+        "recencyMargin": 0.792
+      }
+    },
+    {
+      "no": null,
+      "name": "SHESGOTCLASS",
+      "rank": 3,
+      "score": 58,
+      "rating": 89,
+      "draw": 1,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Gareth Wright",
+      "trainer": "Des McLachlan",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.318,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.452,
+        "trainer": 0.562,
+        "weight": 0.778,
+        "headToHead": 0.48,
+        "recencyMargin": 0.625
+      }
+    },
+    {
+      "no": null,
+      "name": "CHURCHILLIAN",
+      "rank": 4,
+      "score": 57.2,
+      "rating": 95,
+      "draw": 10,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Callan Murray",
+      "trainer": "Candice Bass",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.417,
+        "rating": 0.591,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.609,
+        "trainer": 0.676,
+        "weight": 0.333,
+        "headToHead": 0.703,
+        "recencyMargin": 0.8
+      }
+    },
+    {
+      "no": null,
+      "name": "SCOTTISH KISS",
+      "rank": 5,
+      "score": 54.1,
+      "rating": 100,
+      "draw": 3,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Varun Jodhee",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.818,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.491,
+        "trainer": 0.622,
+        "weight": 0.333,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "BILLY BOWLEGS",
+      "rank": 6,
+      "score": 53.5,
+      "rating": 104,
+      "draw": 7,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "H J Brown",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.4,
+        "trainer": 0.443,
+        "weight": 0.111,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GIVE IT LALDY",
+      "rank": 7,
+      "score": 50.5,
+      "rating": 86,
+      "draw": 4,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Lucinda Woodruff",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.182,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.549,
+        "trainer": 0.5,
+        "weight": 0.778,
+        "headToHead": 0,
+        "recencyMargin": 0.75
+      }
+    },
+    {
+      "no": null,
+      "name": "OLIVER",
+      "rank": 8,
+      "score": 50.3,
+      "rating": 97,
+      "draw": 6,
+      "weight": 61.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Calvin Habib",
+      "trainer": "Adam Marcus",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.682,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.683,
+        "trainer": 0.76,
+        "weight": 0,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "PLEASE BE TRUE",
+      "rank": 9,
+      "score": 47.3,
+      "rating": 93,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Tristan Godden",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.622,
+        "weight": 0.167,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "FAST TRAIN",
+      "rank": 10,
+      "score": 45.7,
+      "rating": 82,
+      "draw": 9,
+      "weight": 52.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.333,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.536,
+        "trainer": 0.411,
+        "weight": 1,
+        "headToHead": 0.48,
+        "recencyMargin": 0.787
+      }
+    },
+    {
+      "no": null,
+      "name": "HANDSOME PRINCE",
+      "rank": 11,
+      "score": 44.5,
+      "rating": 91,
+      "draw": 8,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Michelle Rix",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.409,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.429,
+        "trainer": 0.374,
+        "weight": 0.333,
+        "headToHead": 0.48,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "THREE TIGERS",
+      "rank": 12,
+      "score": 44.3,
+      "rating": 96,
+      "draw": 11,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Michelle Rix",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.636,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.463,
+        "trainer": 0.374,
+        "weight": 0.333,
+        "headToHead": 0.256,
+        "recencyMargin": 0.712
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "OBJET D' ART",
+      "key": "OBJET D ART",
+      "points": 2.45,
+      "wins": 2,
+      "losses": 0,
+      "meetings": 2,
+      "beats": [
+        "GIVE IT LALDY",
+        "OCTOBER STORM"
+      ],
+      "losesTo": [],
+      "record": "2-0",
+      "smallSample": true
+    },
+    {
+      "name": "CHURCHILLIAN",
+      "key": "CHURCHILLIAN",
+      "points": 1.052,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "THREE TIGERS"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "PLEASE BE TRUE",
+      "key": "PLEASE BE TRUE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HANDSOME PRINCE",
+      "key": "HANDSOME PRINCE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OLIVER",
+      "key": "OLIVER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SCOTTISH KISS",
+      "key": "SCOTTISH KISS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "SHESGOTCLASS",
+      "key": "SHESGOTCLASS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BILLY BOWLEGS",
+      "key": "BILLY BOWLEGS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "OCTOBER STORM",
+      "key": "OCTOBER STORM",
+      "points": -0.192,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "GIVE IT LALDY"
+      ],
+      "losesTo": [
+        "OBJET D' ART"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "THREE TIGERS",
+      "key": "THREE TIGERS",
+      "points": -1.052,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "CHURCHILLIAN"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "GIVE IT LALDY",
+      "key": "GIVE IT LALDY",
+      "points": -2.258,
+      "wins": 0,
+      "losses": 2,
+      "meetings": 2,
+      "beats": [],
+      "losesTo": [
+        "OBJET D' ART",
+        "OCTOBER STORM"
+      ],
+      "record": "0-2",
+      "smallSample": true
+    }
+  ],
+  "strongest": "OBJET D' ART",
+  "places": 3
+}

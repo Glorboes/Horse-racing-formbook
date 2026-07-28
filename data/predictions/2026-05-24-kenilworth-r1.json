@@ -1,0 +1,1298 @@
+{
+  "id": "2026-05-24-kenilworth-r1",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 1,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.600Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "AQUAE CALIDAE",
+      "key": "AQUAE CALIDAE",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 59.1,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.652,
+        "trainer": 0.588,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.792
+      },
+      "contrib": {
+        "form": 16,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.95,
+        "trainer": 2.94,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 9.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 10 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 1,
+        "places": 2,
+        "winPct": 25,
+        "record": "1-4"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 11,
+        "places": 24,
+        "winPct": 21,
+        "placePct": 46,
+        "record": "11-52"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 4,
+        "places": 7,
+        "winPct": 18,
+        "record": "4-22"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 10 last start.",
+        "Why it can win: strong recent form; 21%-strike jockey booked; hitting the line hard lately.",
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "Jockey Craig Zackey in form (21% strike)."
+      ],
+      "_strengths": [
+        "form",
+        "jockey",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "21%-strike jockey booked",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 1,
+      "pWin": 0.4506,
+      "pPlace": 0.9166,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "ANOTHER HERO",
+      "key": "ANOTHER HERO",
+      "draw": 3,
+      "rating": 85,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.4,
+      "factors": {
+        "form": 0.58,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.404,
+        "trainer": 0.402,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.51
+      },
+      "contrib": {
+        "form": 10.43,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.21,
+        "trainer": 2.01,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 6.12
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "GODRIC GRYFFINDOR"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 8 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "record": "2-16"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-44"
+      },
+      "trainerRec": {
+        "starts": 45,
+        "wins": 2,
+        "places": 13,
+        "winPct": 4,
+        "record": "2-45"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 8 last start.",
+        "Why it can win: has beaten GODRIC GRYFFINDOR; strong recent form; drawn 3 — a handy low draw.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Has beaten GODRIC GRYFFINDOR before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "has beaten GODRIC GRYFFINDOR",
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.2873,
+      "pPlace": 0.8247,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IN UNITY",
+      "key": "IN UNITY",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 50.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.441,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.21,
+        "weight": 3.6,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (58.5kg); good jockey booking.",
+        "Against it: stable out of form; outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "jockey"
+      ],
+      "_concerns": [
+        "trainer",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (58.5kg)",
+        "good jockey booking"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "outclassed by this field"
+      ],
+      "rank": 3,
+      "pWin": 0.1039,
+      "pPlace": 0.4744,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GODRIC GRYFFINDOR",
+      "key": "GODRIC GRYFFINDOR",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.8,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.568,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.675
+      },
+      "contrib": {
+        "form": 10.29,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.7,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 8.1
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "ANOTHER HERO"
+        ]
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 12,
+        "wins": 1,
+        "places": 6,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: 16%-strike jockey booked; hitting the line hard lately; strong recent form.",
+        "Against it: top-weight (60kg); beaten by ANOTHER HERO before.",
+        "Beaten by ANOTHER HERO in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "recencyMargin",
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "16%-strike jockey booked",
+        "hitting the line hard lately",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "beaten by ANOTHER HERO before"
+      ],
+      "rank": 4,
+      "pWin": 0.0491,
+      "pPlace": 0.2405,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LE SOLEIL",
+      "key": "LE SOLEIL",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.7,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.439,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.32,
+        "trainer": 2.61,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 15,
+        "wins": 3,
+        "places": 8,
+        "winPct": 20,
+        "record": "3-15"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: top-weight (60kg); outclassed by this field.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "outclassed by this field"
+      ],
+      "rank": 5,
+      "pWin": 0.0409,
+      "pPlace": 0.2021,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "LIKE DYNAMITE",
+      "key": "LIKE DYNAMITE",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.361,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.08,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 13,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-13"
+      },
+      "jockeyRec": {
+        "starts": 23,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 4,
+        "record": "0-23"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0389,
+      "pPlace": 0.1926,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GIMMEAGAMBLE",
+      "key": "GIMMEAGAMBLE",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 39.6,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.472,
+        "trainer": 0.529,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.42,
+        "trainer": 2.65,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 7 last start."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 3,
+        "places": 5,
+        "winPct": 21,
+        "record": "3-14"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 3,
+        "places": 9,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "3-33"
+      },
+      "trainerRec": {
+        "starts": 38,
+        "wins": 5,
+        "places": 9,
+        "winPct": 13,
+        "record": "5-38"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 7 last start.",
+        "Why it can win: well-in at the weights (57.5kg).",
+        "Against it: patchy recent form; well beaten lately."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (57.5kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 7,
+      "pWin": 0.0175,
+      "pPlace": 0.0885,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "TORRENT OF GOLD",
+      "key": "TORRENT OF GOLD",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 33.8,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.374,
+        "trainer": 0.529,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.12,
+        "trainer": 2.65,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "11th of 11 last start."
+      ],
+      "combo": {
+        "starts": 9,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-9"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 6,
+        "record": "0-17"
+      },
+      "trainerRec": {
+        "starts": 38,
+        "wins": 5,
+        "places": 9,
+        "winPct": 13,
+        "record": "5-38"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 11 last start.",
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: patchy recent form; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 8,
+      "pWin": 0.0066,
+      "pPlace": 0.034,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HAPPY WINTER",
+      "key": "HAPPY WINTER",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Joshwin Solomons",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 32.3,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.443,
+        "trainer": 0.602,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 0,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.33,
+        "trainer": 3.01,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 7 last start."
+      ],
+      "combo": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-4"
+      },
+      "jockeyRec": {
+        "starts": 4,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "placePct": 25,
+        "record": "0-4"
+      },
+      "trainerRec": {
+        "starts": 74,
+        "wins": 13,
+        "places": 29,
+        "winPct": 18,
+        "record": "13-74"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "7th of 7 last start.",
+        "Why it can win: stable in form (18%).",
+        "Against it: patchy recent form; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [
+        "stable in form (18%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0052,
+      "pPlace": 0.0265,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "AQUAE CALIDAE",
+      "rank": 1,
+      "score": 59.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Eric Sands",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.889,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.652,
+        "trainer": 0.588,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.792
+      }
+    },
+    {
+      "no": null,
+      "name": "ANOTHER HERO",
+      "rank": 2,
+      "score": 56.4,
+      "rating": 85,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Greg Ennion",
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.58,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.404,
+        "trainer": 0.402,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.51
+      }
+    },
+    {
+      "no": null,
+      "name": "IN UNITY",
+      "rank": 3,
+      "score": 50.3,
+      "rating": null,
+      "draw": 1,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.441,
+        "weight": 0.6,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GODRIC GRYFFINDOR",
+      "rank": 4,
+      "score": 45.8,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.571,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.568,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.675
+      }
+    },
+    {
+      "no": null,
+      "name": "LE SOLEIL",
+      "rank": 5,
+      "score": 44.7,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.439,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "LIKE DYNAMITE",
+      "rank": 6,
+      "score": 44.4,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Oswald Noach",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.361,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "GIMMEAGAMBLE",
+      "rank": 7,
+      "score": 39.6,
+      "rating": null,
+      "draw": 4,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.472,
+        "trainer": 0.529,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "TORRENT OF GOLD",
+      "rank": 8,
+      "score": 33.8,
+      "rating": null,
+      "draw": 2,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Keanen Steyn",
+      "trainer": "Piet Botha",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.374,
+        "trainer": 0.529,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": null,
+      "name": "HAPPY WINTER",
+      "rank": 9,
+      "score": 32.3,
+      "rating": null,
+      "draw": 8,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Joshwin Solomons",
+      "trainer": "Candice Bass",
+      "lastFive": "7",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.443,
+        "trainer": 0.602,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "ANOTHER HERO",
+      "key": "ANOTHER HERO",
+      "points": 1.093,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "GODRIC GRYFFINDOR"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "AQUAE CALIDAE",
+      "key": "AQUAE CALIDAE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IN UNITY",
+      "key": "IN UNITY",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LIKE DYNAMITE",
+      "key": "LIKE DYNAMITE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "LE SOLEIL",
+      "key": "LE SOLEIL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TORRENT OF GOLD",
+      "key": "TORRENT OF GOLD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GIMMEAGAMBLE",
+      "key": "GIMMEAGAMBLE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HAPPY WINTER",
+      "key": "HAPPY WINTER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GODRIC GRYFFINDOR",
+      "key": "GODRIC GRYFFINDOR",
+      "points": -1.093,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "ANOTHER HERO"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "ANOTHER HERO",
+  "places": 3
+}

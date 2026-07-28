@@ -1,0 +1,1205 @@
+{
+  "id": "2026-05-24-kenilworth-r5",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 5,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.716Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "LOVING PRAGUE (AUS)",
+      "key": "LOVING PRAGUE",
+      "draw": 2,
+      "rating": 83,
+      "jockey": "Muzi Yeni",
+      "trainer": "Andre Nel",
+      "weight": 59,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 70.4,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.424,
+        "trainer": 0.628,
+        "weight": 0.25,
+        "headToHead": 0.933,
+        "recencyMargin": 0.917
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 12.8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.27,
+        "trainer": 3.14,
+        "weight": 1.5,
+        "headToHead": 11.2,
+        "recencyMargin": 11
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "FAST TRAIN"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "record": "1-6"
+      },
+      "jockeyRec": {
+        "starts": 32,
+        "wins": 2,
+        "places": 7,
+        "winPct": 6,
+        "placePct": 22,
+        "record": "2-32"
+      },
+      "trainerRec": {
+        "starts": 40,
+        "wins": 9,
+        "places": 23,
+        "winPct": 23,
+        "record": "9-40"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1L into 3rd last start — right there.",
+        "Why it can win: hitting the line hard lately; strong recent form; well-rated (MR 83).",
+        "Against it: lightly-supported jockey booking; carries 59kg.",
+        "Has beaten FAST TRAIN before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "strong recent form",
+        "well-rated (MR 83)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "carries 59kg"
+      ],
+      "rank": 1,
+      "pWin": 0.6791,
+      "pPlace": 0.9822,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "draw": 5,
+      "rating": 79,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 60.3,
+      "factors": {
+        "form": 0.562,
+        "rating": 0.533,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.616,
+        "trainer": 0.662,
+        "weight": 0.333,
+        "headToHead": 1,
+        "recencyMargin": 0.55
+      },
+      "contrib": {
+        "form": 10.12,
+        "rating": 8.53,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.85,
+        "trainer": 3.31,
+        "weight": 2,
+        "headToHead": 12,
+        "recencyMargin": 6.6
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "KLIPTOWN"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 10 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 4,
+        "places": 5,
+        "winPct": 80,
+        "record": "4-5"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 11,
+        "places": 24,
+        "winPct": 21,
+        "placePct": 46,
+        "record": "11-52"
+      },
+      "trainerRec": {
+        "starts": 22,
+        "wins": 6,
+        "places": 10,
+        "winPct": 27,
+        "record": "6-22"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 10 last start.",
+        "Why it can win: 21%-strike jockey booked; stable in form (27%); has beaten KLIPTOWN.",
+        "Against it: lower-rated (MR 79); carries 58.5kg.",
+        "Jockey Craig Zackey in form (21% strike).",
+        "Has beaten KLIPTOWN before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "stable in form (27%)",
+        "has beaten KLIPTOWN"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 79)",
+        "carries 58.5kg"
+      ],
+      "rank": 2,
+      "pWin": 0.1262,
+      "pPlace": 0.6739,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "draw": 1,
+      "rating": 71,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 56.1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.382,
+        "trainer": 0.365,
+        "weight": 1,
+        "headToHead": 0.602,
+        "recencyMargin": 0.892
+      },
+      "contrib": {
+        "form": 12,
+        "rating": 0,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.15,
+        "trainer": 1.82,
+        "weight": 6,
+        "headToHead": 7.23,
+        "recencyMargin": 10.7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 1.30L into 3rd last start — right there."
+      ],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 34,
+        "wins": 1,
+        "places": 8,
+        "winPct": 3,
+        "placePct": 24,
+        "record": "1-34"
+      },
+      "trainerRec": {
+        "starts": 21,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-21"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.30L into 3rd last start — right there.",
+        "Why it can win: drawn 1 — a handy low draw; strong recent form; well-in at the weights (54.5kg).",
+        "Against it: lower-rated (MR 71); lightly-supported jockey booking."
+      ],
+      "_strengths": [
+        "draw",
+        "form",
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "strong recent form",
+        "well-in at the weights (54.5kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 71)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.0626,
+      "pPlace": 0.4153,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "draw": 7,
+      "rating": 82,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.6,
+      "factors": {
+        "form": 0.247,
+        "rating": 0.733,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.427,
+        "trainer": 0.383,
+        "weight": 0.333,
+        "headToHead": 0.874,
+        "recencyMargin": 0.57
+      },
+      "contrib": {
+        "form": 4.44,
+        "rating": 11.73,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.28,
+        "trainer": 1.92,
+        "weight": 2,
+        "headToHead": 10.49,
+        "recencyMargin": 6.84
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "OCTOBER STORM"
+        ],
+        "losesTo": [
+          "LOVING PRAGUE (AUS)"
+        ]
+      },
+      "recentForm": [
+        "10th of 12 last start."
+      ],
+      "combo": {
+        "starts": 8,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "record": "0-8"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 14,
+        "wins": 0,
+        "places": 5,
+        "winPct": 0,
+        "record": "0-14"
+      },
+      "partnership": {
+        "starts": 2,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-2"
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 12 last start.",
+        "Why it can win: well-rated (MR 82); has beaten OCTOBER STORM.",
+        "Against it: patchy recent form; stable out of form.",
+        "Has beaten OCTOBER STORM before (H2H 1-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "headToHead"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 82)",
+        "has beaten OCTOBER STORM"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "rank": 4,
+      "pWin": 0.0413,
+      "pPlace": 0.2865,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MOODY BLUE",
+      "key": "MOODY BLUE",
+      "draw": 6,
+      "rating": 75,
+      "jockey": "Andrew Fortune",
+      "trainer": "Mike Stewart",
+      "weight": 56.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 53.2,
+      "factors": {
+        "form": 0.541,
+        "rating": 0.267,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.571,
+        "trainer": 0.391,
+        "weight": 0.667,
+        "headToHead": 0.602,
+        "recencyMargin": 0.756
+      },
+      "contrib": {
+        "form": 9.73,
+        "rating": 4.27,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.71,
+        "trainer": 1.95,
+        "weight": 4,
+        "headToHead": 7.23,
+        "recencyMargin": 9.08
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 8 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 9,
+        "winPct": 19,
+        "placePct": 43,
+        "record": "4-21"
+      },
+      "trainerRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-12"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 8 last start.",
+        "Why it can win: 19%-strike jockey booked; carries 56.5kg; hitting the line hard lately.",
+        "Against it: lower-rated (MR 75); stable out of form.",
+        "Jockey Andrew Fortune in form (19% strike)."
+      ],
+      "_strengths": [
+        "jockey",
+        "weight",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked",
+        "carries 56.5kg",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 75)",
+        "stable out of form"
+      ],
+      "rank": 5,
+      "pWin": 0.0386,
+      "pPlace": 0.2694,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "GROOVEJET",
+      "key": "GROOVEJET",
+      "draw": 3,
+      "rating": 80,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Justin Snaith",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 52.2,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.602,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 9.6,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3,
+        "headToHead": 7.23,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw.",
+        "Against it: well beaten lately.",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "well beaten lately"
+      ],
+      "rank": 6,
+      "pWin": 0.0327,
+      "pPlace": 0.2305,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "OCTOBER STORM",
+      "key": "OCTOBER STORM",
+      "draw": 8,
+      "rating": 86,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 60.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 45.3,
+      "factors": {
+        "form": 0.375,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.541,
+        "trainer": 0.428,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.381
+      },
+      "contrib": {
+        "form": 6.75,
+        "rating": 16,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.62,
+        "trainer": 2.14,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 4.58
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "FAST TRAIN"
+        ]
+      },
+      "recentForm": [
+        "12th of 12 last start."
+      ],
+      "combo": {
+        "starts": 12,
+        "wins": 1,
+        "places": 6,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "12th of 12 last start.",
+        "Why it can win: top-rated in the field (MR 86); 16%-strike jockey booked.",
+        "Against it: top-weight (60.5kg); beaten by FAST TRAIN before.",
+        "Beaten by FAST TRAIN in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 86)",
+        "16%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60.5kg)",
+        "beaten by FAST TRAIN before"
+      ],
+      "rank": 7,
+      "pWin": 0.0104,
+      "pPlace": 0.0757,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "KLIPTOWN",
+      "key": "KLIPTOWN",
+      "draw": 4,
+      "rating": 79,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "weight": 54.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 44.5,
+      "factors": {
+        "form": 0.222,
+        "rating": 0.533,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.458,
+        "trainer": 0.571,
+        "weight": 1,
+        "headToHead": 0.205,
+        "recencyMargin": 0.304
+      },
+      "contrib": {
+        "form": 4,
+        "rating": 8.53,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.37,
+        "trainer": 2.86,
+        "weight": 6,
+        "headToHead": 2.46,
+        "recencyMargin": 3.65
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "KELP FOREST"
+        ]
+      },
+      "recentForm": [
+        "8th of 10 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 3,
+        "places": 9,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "3-33"
+      },
+      "trainerRec": {
+        "starts": 74,
+        "wins": 13,
+        "places": 29,
+        "winPct": 18,
+        "record": "13-74"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 10 last start.",
+        "Why it can win: well-in at the weights (54.5kg); stable in form (18%).",
+        "Against it: patchy recent form; well beaten lately.",
+        "Beaten by KELP FOREST in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54.5kg)",
+        "stable in form (18%)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0091,
+      "pPlace": 0.0664,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "LOVING PRAGUE (AUS)",
+      "rank": 1,
+      "score": 70.4,
+      "rating": 83,
+      "draw": 2,
+      "weight": 59,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Muzi Yeni",
+      "trainer": "Andre Nel",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0.8,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.424,
+        "trainer": 0.628,
+        "weight": 0.25,
+        "headToHead": 0.933,
+        "recencyMargin": 0.917
+      }
+    },
+    {
+      "no": null,
+      "name": "KELP FOREST",
+      "rank": 2,
+      "score": 60.3,
+      "rating": 79,
+      "draw": 5,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Adam Marcus",
+      "lastFive": "54",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.562,
+        "rating": 0.533,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.616,
+        "trainer": 0.662,
+        "weight": 0.333,
+        "headToHead": 1,
+        "recencyMargin": 0.55
+      }
+    },
+    {
+      "no": null,
+      "name": "WINTER PEARL",
+      "rank": 3,
+      "score": 56.1,
+      "rating": 71,
+      "draw": 1,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "Ricky Maingard",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.667,
+        "rating": 0,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.382,
+        "trainer": 0.365,
+        "weight": 1,
+        "headToHead": 0.602,
+        "recencyMargin": 0.892
+      }
+    },
+    {
+      "no": null,
+      "name": "FAST TRAIN",
+      "rank": 4,
+      "score": 53.6,
+      "rating": 82,
+      "draw": 7,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Patrick Kruyer",
+      "lastFive": "105",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.247,
+        "rating": 0.733,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.427,
+        "trainer": 0.383,
+        "weight": 0.333,
+        "headToHead": 0.874,
+        "recencyMargin": 0.57
+      }
+    },
+    {
+      "no": null,
+      "name": "MOODY BLUE",
+      "rank": 5,
+      "score": 53.2,
+      "rating": 75,
+      "draw": 6,
+      "weight": 56.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Mike Stewart",
+      "lastFive": "45",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.541,
+        "rating": 0.267,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.571,
+        "trainer": 0.391,
+        "weight": 0.667,
+        "headToHead": 0.602,
+        "recencyMargin": 0.756
+      }
+    },
+    {
+      "no": null,
+      "name": "GROOVEJET",
+      "rank": 6,
+      "score": 52.2,
+      "rating": 80,
+      "draw": 3,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Justin Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.6,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.5,
+        "headToHead": 0.602,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "OCTOBER STORM",
+      "rank": 7,
+      "score": 45.3,
+      "rating": 86,
+      "draw": 8,
+      "weight": 60.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "122",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.375,
+        "rating": 1,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.541,
+        "trainer": 0.428,
+        "weight": 0,
+        "headToHead": 0,
+        "recencyMargin": 0.381
+      }
+    },
+    {
+      "no": null,
+      "name": "KLIPTOWN",
+      "rank": 8,
+      "score": 44.5,
+      "rating": 79,
+      "draw": 4,
+      "weight": 54.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Candice Bass",
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.222,
+        "rating": 0.533,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.458,
+        "trainer": 0.571,
+        "weight": 1,
+        "headToHead": 0.205,
+        "recencyMargin": 0.304
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "KELP FOREST",
+      "key": "KELP FOREST",
+      "points": 1.254,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "KLIPTOWN"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "LOVING PRAGUE (AUS)",
+      "key": "LOVING PRAGUE",
+      "points": 1.044,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "FAST TRAIN"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "FAST TRAIN",
+      "key": "FAST TRAIN",
+      "points": 0.856,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "OCTOBER STORM"
+      ],
+      "losesTo": [
+        "LOVING PRAGUE (AUS)"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "WINTER PEARL",
+      "key": "WINTER PEARL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "GROOVEJET",
+      "key": "GROOVEJET",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MOODY BLUE",
+      "key": "MOODY BLUE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KLIPTOWN",
+      "key": "KLIPTOWN",
+      "points": -1.254,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "KELP FOREST"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "OCTOBER STORM",
+      "key": "OCTOBER STORM",
+      "points": -1.9,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "FAST TRAIN"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "KELP FOREST",
+  "places": 3
+}

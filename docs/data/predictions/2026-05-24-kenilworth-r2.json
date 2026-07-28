@@ -1,0 +1,1338 @@
+{
+  "id": "2026-05-24-kenilworth-r2",
+  "date": "2026-05-24",
+  "track": "Kenilworth",
+  "race": 2,
+  "time": null,
+  "distance": null,
+  "going": null,
+  "surface": null,
+  "classLabel": null,
+  "generated": "2026-07-28T20:05:50.629Z",
+  "settled": false,
+  "marketPriced": false,
+  "backfilled": true,
+  "ranked": [
+    {
+      "name": "SPINNAKER",
+      "key": "SPINNAKER",
+      "draw": 4,
+      "rating": null,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 65.9,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.439,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.996,
+        "recencyMargin": 0.833
+      },
+      "contrib": {
+        "form": 15.43,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.32,
+        "trainer": 2.61,
+        "weight": 0,
+        "headToHead": 11.95,
+        "recencyMargin": 10
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "YOU MADE ME LOOK"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "2nd of 8 last start."
+      ],
+      "combo": {
+        "starts": 15,
+        "wins": 3,
+        "places": 8,
+        "winPct": 20,
+        "record": "3-15"
+      },
+      "jockeyRec": {
+        "starts": 56,
+        "wins": 4,
+        "places": 22,
+        "winPct": 7,
+        "placePct": 39,
+        "record": "4-56"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 8 last start.",
+        "Why it can win: strong recent form; has beaten YOU MADE ME LOOK; hitting the line hard lately.",
+        "Against it: top-weight (60kg).",
+        "Has beaten YOU MADE ME LOOK before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten YOU MADE ME LOOK",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)"
+      ],
+      "rank": 1,
+      "pWin": 0.455,
+      "pPlace": 0.9458,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "draw": 9,
+      "rating": null,
+      "jockey": "Craig Zackey",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 63.9,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.652,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.936,
+        "recencyMargin": 0.933
+      },
+      "contrib": {
+        "form": 14.4,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.95,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 11.23,
+        "recencyMargin": 11.2
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "HERO'S JOURNEY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Beaten only 0.80L into 2nd last start — right there."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 52,
+        "wins": 11,
+        "places": 24,
+        "winPct": 21,
+        "placePct": 46,
+        "record": "11-52"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.80L into 2nd last start — right there.",
+        "Why it can win: 21%-strike jockey booked; hitting the line hard lately; strong recent form.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "Jockey Craig Zackey in form (21% strike).",
+        "Has beaten HERO'S JOURNEY before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "recencyMargin",
+        "form"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "21%-strike jockey booked",
+        "hitting the line hard lately",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 2,
+      "pWin": 0.326,
+      "pPlace": 0.9006,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "MADE IN CHELSEA",
+      "key": "MADE IN CHELSEA",
+      "draw": 7,
+      "rating": null,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 58.5,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.404,
+        "trainer": 0.602,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.375
+      },
+      "contrib": {
+        "form": 14.4,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.21,
+        "trainer": 3.01,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 4.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "WARRIOR OF DESTINY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 11 last start."
+      ],
+      "combo": {
+        "starts": 5,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "record": "0-5"
+      },
+      "jockeyRec": {
+        "starts": 44,
+        "wins": 2,
+        "places": 14,
+        "winPct": 5,
+        "placePct": 32,
+        "record": "2-44"
+      },
+      "trainerRec": {
+        "starts": 74,
+        "wins": 13,
+        "places": 29,
+        "winPct": 18,
+        "record": "13-74"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 11 last start.",
+        "Why it can win: stable in form (18%); has beaten WARRIOR OF DESTINY; strong recent form.",
+        "Against it: top-weight (60kg); lightly-supported jockey booking.",
+        "Has beaten WARRIOR OF DESTINY before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "trainer",
+        "headToHead",
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "jockey"
+      ],
+      "_strReasons": [
+        "stable in form (18%)",
+        "has beaten WARRIOR OF DESTINY",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "lightly-supported jockey booking"
+      ],
+      "rank": 3,
+      "pWin": 0.1326,
+      "pPlace": 0.6606,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WHAT THE FLUFF",
+      "key": "WHAT THE FLUFF",
+      "draw": 8,
+      "rating": null,
+      "jockey": "Eduan Muller",
+      "trainer": "Paul Reeves",
+      "weight": 53,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 49.8,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.374,
+        "trainer": 0.549,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.296
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.12,
+        "trainer": 2.74,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 3.55
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-1"
+      },
+      "jockeyRec": {
+        "starts": 17,
+        "wins": 0,
+        "places": 4,
+        "winPct": 0,
+        "placePct": 24,
+        "record": "0-17"
+      },
+      "trainerRec": {
+        "starts": 27,
+        "wins": 4,
+        "places": 11,
+        "winPct": 15,
+        "record": "4-27"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: well-in at the weights (53kg); stable in form (15%).",
+        "Against it: lightly-supported jockey booking; well beaten lately."
+      ],
+      "_strengths": [
+        "weight",
+        "trainer"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-in at the weights (53kg)",
+        "stable in form (15%)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "rank": 4,
+      "pWin": 0.0311,
+      "pPlace": 0.1756,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "draw": 1,
+      "rating": null,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "weight": 58.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 47,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.441,
+        "weight": 0.214,
+        "headToHead": 0.064,
+        "recencyMargin": 0.762
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.21,
+        "weight": 1.29,
+        "headToHead": 0.77,
+        "recencyMargin": 9.15
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "IT'SGOOD IT'SNICE"
+        ]
+      },
+      "recentForm": [
+        "4th of 6 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 6 last start.",
+        "Why it can win: drawn 1 — a handy low draw; hitting the line hard lately.",
+        "Against it: stable out of form; patchy recent form.",
+        "Beaten by IT'SGOOD IT'SNICE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "trainer",
+        "form"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "patchy recent form"
+      ],
+      "rank": 5,
+      "pWin": 0.0195,
+      "pPlace": 0.1114,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "CAPTAIN'S ANGEL",
+      "key": "CAPTAINS ANGEL",
+      "draw": 3,
+      "rating": null,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 46.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.568,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.7,
+        "trainer": 2.21,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": {
+        "starts": 12,
+        "wins": 1,
+        "places": 6,
+        "winPct": 8,
+        "record": "1-12"
+      },
+      "jockeyRec": {
+        "starts": 58,
+        "wins": 9,
+        "places": 29,
+        "winPct": 16,
+        "placePct": 50,
+        "record": "9-58"
+      },
+      "trainerRec": {
+        "starts": 68,
+        "wins": 5,
+        "places": 25,
+        "winPct": 7,
+        "record": "5-68"
+      },
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 3 — a handy low draw; 16%-strike jockey booked.",
+        "Against it: stable out of form; top-weight (60kg).",
+        "No form data — scored on today's racecard only."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "16%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (60kg)"
+      ],
+      "rank": 6,
+      "pWin": 0.0168,
+      "pPlace": 0.0961,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "YOU MADE ME LOOK",
+      "key": "YOU MADE ME LOOK",
+      "draw": 5,
+      "rating": null,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 42.1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.597,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.004,
+        "recencyMargin": 0.55
+      },
+      "contrib": {
+        "form": 7.71,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.79,
+        "trainer": 2.61,
+        "weight": 0,
+        "headToHead": 0.05,
+        "recencyMargin": 6.6
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SPINNAKER"
+        ]
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": {
+        "starts": 16,
+        "wins": 3,
+        "places": 6,
+        "winPct": 19,
+        "record": "3-16"
+      },
+      "jockeyRec": {
+        "starts": 21,
+        "wins": 4,
+        "places": 9,
+        "winPct": 19,
+        "placePct": 43,
+        "record": "4-21"
+      },
+      "trainerRec": {
+        "starts": 96,
+        "wins": 12,
+        "places": 36,
+        "winPct": 13,
+        "record": "12-96"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: 19%-strike jockey booked.",
+        "Against it: top-weight (60kg); beaten by SPINNAKER before.",
+        "Jockey Andrew Fortune in form (19% strike).",
+        "Beaten by SPINNAKER in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "beaten by SPINNAKER before"
+      ],
+      "rank": 7,
+      "pWin": 0.0086,
+      "pPlace": 0.0497,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "WARRIOR OF DESTINY",
+      "key": "WARRIOR OF DESTINY",
+      "draw": 2,
+      "rating": null,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "weight": 57.5,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 40.2,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.472,
+        "trainer": 0.529,
+        "weight": 0.357,
+        "headToHead": 0,
+        "recencyMargin": 0.063
+      },
+      "contrib": {
+        "form": 9,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.42,
+        "trainer": 2.65,
+        "weight": 2.14,
+        "headToHead": 0,
+        "recencyMargin": 0.75
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "MADE IN CHELSEA"
+        ]
+      },
+      "recentForm": [
+        "6th of 11 last start."
+      ],
+      "combo": {
+        "starts": 14,
+        "wins": 3,
+        "places": 5,
+        "winPct": 21,
+        "record": "3-14"
+      },
+      "jockeyRec": {
+        "starts": 33,
+        "wins": 3,
+        "places": 9,
+        "winPct": 9,
+        "placePct": 27,
+        "record": "3-33"
+      },
+      "trainerRec": {
+        "starts": 38,
+        "wins": 5,
+        "places": 9,
+        "winPct": 13,
+        "record": "5-38"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 11 last start.",
+        "Why it can win: drawn 2 — a handy low draw; stable in form (13%).",
+        "Against it: beaten by MADE IN CHELSEA before; well beaten lately.",
+        "Beaten by MADE IN CHELSEA in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "trainer"
+      ],
+      "_concerns": [
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "stable in form (13%)"
+      ],
+      "_conReasons": [
+        "beaten by MADE IN CHELSEA before",
+        "well beaten lately"
+      ],
+      "rank": 8,
+      "pWin": 0.0063,
+      "pPlace": 0.0363,
+      "pMarket": null,
+      "edge": null
+    },
+    {
+      "name": "RUN JOHNNY RUN",
+      "key": "RUN JOHNNY RUN",
+      "draw": 6,
+      "rating": null,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "weight": 60,
+      "odds": null,
+      "oddsDecimal": null,
+      "score": 37.7,
+      "factors": {
+        "form": 0.2,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.386,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.125
+      },
+      "contrib": {
+        "form": 3.6,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.16,
+        "trainer": 2.59,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 1.5
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 6 last start."
+      ],
+      "combo": {
+        "starts": 3,
+        "wins": 0,
+        "places": 1,
+        "winPct": 0,
+        "record": "0-3"
+      },
+      "jockeyRec": {
+        "starts": 34,
+        "wins": 1,
+        "places": 8,
+        "winPct": 3,
+        "placePct": 24,
+        "record": "1-34"
+      },
+      "trainerRec": {
+        "starts": 57,
+        "wins": 7,
+        "places": 20,
+        "winPct": 12,
+        "record": "7-57"
+      },
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 6 last start.",
+        "Against it: patchy recent form; top-weight (60kg)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "top-weight (60kg)"
+      ],
+      "rank": 9,
+      "pWin": 0.0041,
+      "pPlace": 0.024,
+      "pMarket": null,
+      "edge": null
+    }
+  ],
+  "comparison": [
+    {
+      "no": null,
+      "name": "SPINNAKER",
+      "rank": 1,
+      "score": 65.9,
+      "rating": null,
+      "draw": 4,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Juan Paul V'D Merwe",
+      "trainer": "Justin Snaith",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.857,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.439,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.996,
+        "recencyMargin": 0.833
+      }
+    },
+    {
+      "no": null,
+      "name": "IT'SGOOD IT'SNICE",
+      "rank": 2,
+      "score": 63.9,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Craig Zackey",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "2",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.652,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.936,
+        "recencyMargin": 0.933
+      }
+    },
+    {
+      "no": null,
+      "name": "MADE IN CHELSEA",
+      "rank": 3,
+      "score": 58.5,
+      "rating": null,
+      "draw": 7,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Corne Orffer",
+      "trainer": "Candice Bass",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.8,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.404,
+        "trainer": 0.602,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.375
+      }
+    },
+    {
+      "no": null,
+      "name": "WHAT THE FLUFF",
+      "rank": 4,
+      "score": 49.8,
+      "rating": null,
+      "draw": 8,
+      "weight": 53,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Eduan Muller",
+      "trainer": "Paul Reeves",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.374,
+        "trainer": 0.549,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.296
+      }
+    },
+    {
+      "no": null,
+      "name": "HERO'S JOURNEY",
+      "rank": 5,
+      "score": 47,
+      "rating": null,
+      "draw": 1,
+      "weight": 58.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Mickaelle Michel",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.441,
+        "weight": 0.214,
+        "headToHead": 0.064,
+        "recencyMargin": 0.762
+      }
+    },
+    {
+      "no": null,
+      "name": "CAPTAIN'S ANGEL",
+      "rank": 6,
+      "score": 46.1,
+      "rating": null,
+      "draw": 3,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Richard Fourie",
+      "trainer": "Vaughan Marshall",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.568,
+        "trainer": 0.441,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": null,
+      "name": "YOU MADE ME LOOK",
+      "rank": 7,
+      "score": 42.1,
+      "rating": null,
+      "draw": 5,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Andrew Fortune",
+      "trainer": "Justin Snaith",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.429,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.597,
+        "trainer": 0.523,
+        "weight": 0,
+        "headToHead": 0.004,
+        "recencyMargin": 0.55
+      }
+    },
+    {
+      "no": null,
+      "name": "WARRIOR OF DESTINY",
+      "rank": 8,
+      "score": 40.2,
+      "rating": null,
+      "draw": 2,
+      "weight": 57.5,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Sifisokuhle Bungane",
+      "trainer": "Piet Botha",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.5,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.472,
+        "trainer": 0.529,
+        "weight": 0.357,
+        "headToHead": 0,
+        "recencyMargin": 0.063
+      }
+    },
+    {
+      "no": null,
+      "name": "RUN JOHNNY RUN",
+      "rank": 9,
+      "score": 37.7,
+      "rating": null,
+      "draw": 6,
+      "weight": 60,
+      "odds": null,
+      "marketRank": null,
+      "marketDisagree": false,
+      "jockey": "Brevan Plaatjies",
+      "trainer": "James Crawford",
+      "lastFive": "5",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.2,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.386,
+        "trainer": 0.518,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.125
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "MADE IN CHELSEA",
+      "key": "MADE IN CHELSEA",
+      "points": 1.284,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "WARRIOR OF DESTINY"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "SPINNAKER",
+      "key": "SPINNAKER",
+      "points": 1.273,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "YOU MADE ME LOOK"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "IT'SGOOD IT'SNICE",
+      "key": "ITSGOOD ITSNICE",
+      "points": 1.119,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "HERO'S JOURNEY"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "CAPTAIN'S ANGEL",
+      "key": "CAPTAINS ANGEL",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WHAT THE FLUFF",
+      "key": "WHAT THE FLUFF",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RUN JOHNNY RUN",
+      "key": "RUN JOHNNY RUN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HERO'S JOURNEY",
+      "key": "HEROS JOURNEY",
+      "points": -1.119,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "IT'SGOOD IT'SNICE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "YOU MADE ME LOOK",
+      "key": "YOU MADE ME LOOK",
+      "points": -1.273,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "SPINNAKER"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "WARRIOR OF DESTINY",
+      "key": "WARRIOR OF DESTINY",
+      "points": -1.284,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "MADE IN CHELSEA"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "MADE IN CHELSEA",
+  "places": 3
+}
