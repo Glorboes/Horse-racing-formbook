@@ -1,0 +1,1938 @@
+{
+  "id": "2026-08-05-hollywoodbets-kenilworth-r6",
+  "date": "2026-08-05",
+  "track": "HOLLYWOODBETS KENILWORTH",
+  "race": 6,
+  "time": "16:05",
+  "distance": 1800,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Stakes",
+  "generated": "2026-08-04T10:47:05.308Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "SMART HORSE",
+      "key": "SMART HORSE",
+      "draw": 6,
+      "rating": 66,
+      "jockey": null,
+      "trainer": null,
+      "weight": 56,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 56.5,
+      "factors": {
+        "form": 0.413,
+        "rating": 0.778,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.636,
+        "headToHead": 0.546,
+        "recencyMargin": 0.634
+      },
+      "contrib": {
+        "form": 7.44,
+        "rating": 12.44,
+        "distance": 3.5,
+        "going": 4,
+        "draw": 4.85,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3.82,
+        "headToHead": 6.55,
+        "recencyMargin": 7.61
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "MIDWAY",
+          "MIDWAY"
+        ],
+        "losesTo": [
+          "MIDWAY",
+          "GOLD INDEX"
+        ]
+      },
+      "recentForm": [
+        "8th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "8th of 8 last start.",
+        "Why it can win: carries 56kg; well-rated (MR 66).",
+        "Against it: unproven at this trip; stable out of form.",
+        "Has beaten MIDWAY before (H2H 2-2 ⚠ small sample).",
+        "Model/market disagree: model rank 1 vs market rank 6 (10/1)."
+      ],
+      "_strengths": [
+        "weight",
+        "rating"
+      ],
+      "_concerns": [
+        "distance",
+        "trainer"
+      ],
+      "_strReasons": [
+        "carries 56kg",
+        "well-rated (MR 66)"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "stable out of form"
+      ],
+      "marketRank": 6,
+      "rank": 1,
+      "marketDisagree": true,
+      "pWin": 0.1247,
+      "pPlace": 0.3597,
+      "pMarket": 0.0652,
+      "edge": 0.1191
+    },
+    {
+      "name": "GOLD INDEX",
+      "key": "GOLD INDEX",
+      "draw": 13,
+      "rating": 53,
+      "jockey": "K de Melo",
+      "trainer": "R J Barrett",
+      "weight": 58,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 55.9,
+      "factors": {
+        "form": 0.48,
+        "rating": 0.296,
+        "distance": 0.536,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.864,
+        "trainer": 0.816,
+        "weight": 0.455,
+        "headToHead": 0.845,
+        "recencyMargin": 0.676
+      },
+      "contrib": {
+        "form": 8.65,
+        "rating": 4.74,
+        "distance": 5.36,
+        "going": 4,
+        "draw": 3.23,
+        "jockey": 2.59,
+        "trainer": 4.08,
+        "weight": 2.73,
+        "headToHead": 10.14,
+        "recencyMargin": 8.11
+      },
+      "knownRuns": 3,
+      "career": {
+        "starts": 41,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "5-3",
+        "wins": 5,
+        "losses": 3,
+        "meetings": 8,
+        "smallSample": false,
+        "beats": [
+          "ETOILEFILLANTE",
+          "ETOILEFILLANTE",
+          "SMART HORSE",
+          "TOTHEMOONANDBACK",
+          "DOUBLE DASH"
+        ],
+        "losesTo": [
+          "MIDWAY",
+          "TOTHEMOONANDBACK",
+          "TWICE THE MASTER"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 4,
+        "places": 7,
+        "winPct": 33,
+        "placePct": 58,
+        "record": "4-12"
+      },
+      "trainerRec": {
+        "starts": 9,
+        "wins": 3,
+        "places": 4,
+        "winPct": 33,
+        "record": "3-9"
+      },
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: 33%-strike jockey booked; stable in form (33%); has beaten ETOILEFILLANTE, SMART HORSE.",
+        "Against it: drawn wide (13).",
+        "Jockey K de Melo in form (33% strike).",
+        "Has beaten ETOILEFILLANTE, SMART HORSE, TOTHEMOONANDBACK, DOUBLE DASH before (H2H 5-3)."
+      ],
+      "_strengths": [
+        "jockey",
+        "trainer",
+        "headToHead"
+      ],
+      "_concerns": [
+        "draw"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "stable in form (33%)",
+        "has beaten ETOILEFILLANTE, SMART HORSE"
+      ],
+      "_conReasons": [
+        "drawn wide (13)"
+      ],
+      "marketRank": 2,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.1431,
+      "pPlace": 0.4023,
+      "pMarket": 0.1195,
+      "edge": 0.0472
+    },
+    {
+      "name": "KISSES",
+      "key": "KISSES",
+      "draw": 4,
+      "rating": 66,
+      "jockey": "O Noach",
+      "trainer": "S W Humby",
+      "weight": 59,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 55.2,
+      "factors": {
+        "form": 0.382,
+        "rating": 0.778,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.4,
+        "trainer": 0.5,
+        "weight": 0.364,
+        "headToHead": 0.516,
+        "recencyMargin": 0.692
+      },
+      "contrib": {
+        "form": 6.88,
+        "rating": 12.44,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.31,
+        "jockey": 1.2,
+        "trainer": 2.5,
+        "weight": 2.18,
+        "headToHead": 6.2,
+        "recencyMargin": 8.3
+      },
+      "knownRuns": 3,
+      "career": {
+        "starts": 12,
+        "wins": 1,
+        "seconds": 2,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-10"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 12 last start.",
+        "Why it can win: hitting the line hard lately; well-rated (MR 66); drawn 4 — a handy low draw.",
+        "Against it: stable out of form; lightly-supported jockey booking.",
+        "Model/market disagree: model rank 3 vs market rank 7 (10/1)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "jockey"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "well-rated (MR 66)",
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 7,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.1068,
+      "pPlace": 0.3154,
+      "pMarket": 0.0652,
+      "edge": 0.0832
+    },
+    {
+      "name": "MISS NEW YORK",
+      "key": "MISS NEW YORK",
+      "draw": 5,
+      "rating": 62,
+      "jockey": null,
+      "trainer": null,
+      "weight": 52,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 53,
+      "factors": {
+        "form": 0.226,
+        "rating": 0.63,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.516,
+        "recencyMargin": 0.624
+      },
+      "contrib": {
+        "form": 4.07,
+        "rating": 10.07,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.08,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6.2,
+        "recencyMargin": 7.49
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: well-in at the weights (52kg).",
+        "Against it: stable out of form; unproven at this trip.",
+        "Model/market disagree: model rank 4 vs market rank 10 (14/1)."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "distance"
+      ],
+      "_strReasons": [
+        "well-in at the weights (52kg)"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "unproven at this trip"
+      ],
+      "marketRank": 10,
+      "rank": 4,
+      "marketDisagree": true,
+      "pWin": 0.0753,
+      "pPlace": 0.2314,
+      "pMarket": 0.0478,
+      "edge": 0.055
+    },
+    {
+      "name": "PHANTOM MAN",
+      "key": "PHANTOM MAN",
+      "draw": 10,
+      "rating": 48,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "weight": 63,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 51.5,
+      "factors": {
+        "form": 0.542,
+        "rating": 0.111,
+        "distance": 0.675,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.623
+      },
+      "contrib": {
+        "form": 9.75,
+        "rating": 1.78,
+        "distance": 6.75,
+        "going": 4,
+        "draw": 3.92,
+        "jockey": 1.25,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 12,
+        "recencyMargin": 7.47
+      },
+      "knownRuns": 4,
+      "career": {
+        "starts": 10,
+        "wins": 1,
+        "seconds": 2,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "ETOILEFILLANTE",
+          "MASTER COINER",
+          "TOTHEMOONANDBACK"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 7 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 7 last start.",
+        "Why it can win: has beaten ETOILEFILLANTE, MASTER COINER; strong recent form; suited to this distance.",
+        "Against it: stable out of form; top-weight (63kg).",
+        "Has beaten ETOILEFILLANTE, MASTER COINER, TOTHEMOONANDBACK before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "form",
+        "distance"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "has beaten ETOILEFILLANTE, MASTER COINER",
+        "strong recent form",
+        "suited to this distance"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (63kg)"
+      ],
+      "marketRank": 3,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0998,
+      "pPlace": 0.2974,
+      "pMarket": 0.1195,
+      "edge": -0.0395
+    },
+    {
+      "name": "RUN FOR COVER",
+      "key": "RUN FOR COVER",
+      "draw": 8,
+      "rating": 72,
+      "jockey": null,
+      "trainer": null,
+      "weight": 57,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 51.4,
+      "factors": {
+        "form": 0.189,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.545,
+        "headToHead": 0.516,
+        "recencyMargin": 0.341
+      },
+      "contrib": {
+        "form": 3.4,
+        "rating": 16,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.38,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 3.27,
+        "headToHead": 6.2,
+        "recencyMargin": 4.09
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "9th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "9th of 9 last start.",
+        "Why it can win: top-rated in the field (MR 72); carries 57kg.",
+        "Against it: stable out of form; well beaten lately.",
+        "Model/market disagree: model rank 6 vs market rank 11 (25/1)."
+      ],
+      "_strengths": [
+        "rating",
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 72)",
+        "carries 57kg"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "well beaten lately"
+      ],
+      "marketRank": 11,
+      "rank": 6,
+      "marketDisagree": true,
+      "pWin": 0.0532,
+      "pPlace": 0.1677,
+      "pMarket": 0.0276,
+      "edge": 0.0512
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "draw": 3,
+      "rating": 47,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "weight": 62,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 50.1,
+      "factors": {
+        "form": 0.529,
+        "rating": 0.074,
+        "distance": 0.838,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.477,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.591,
+        "recencyMargin": 0.659
+      },
+      "contrib": {
+        "form": 9.53,
+        "rating": 1.19,
+        "distance": 8.38,
+        "going": 4,
+        "draw": 5.54,
+        "jockey": 1.43,
+        "trainer": 2.5,
+        "weight": 0.55,
+        "headToHead": 7.09,
+        "recencyMargin": 7.91
+      },
+      "knownRuns": 6,
+      "career": {
+        "starts": 7,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "TOTHEMOONANDBACK",
+          "DOUBLE DASH"
+        ],
+        "losesTo": [
+          "ETOILEFILLANTE",
+          "PHANTOM MAN"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1L into 3rd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 25,
+        "record": "1-16"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1L into 3rd last start — right there.",
+        "Why it can win: suited to this distance; strong recent form; drawn 3 — a handy low draw.",
+        "Against it: stable out of form; top-weight (62kg).",
+        "Has beaten TOTHEMOONANDBACK, DOUBLE DASH before (H2H 2-2 ⚠ small sample).",
+        "Model/market disagree: model rank 7 vs market rank 1 (4/1)."
+      ],
+      "_strengths": [
+        "distance",
+        "form",
+        "draw"
+      ],
+      "_concerns": [
+        "trainer",
+        "weight"
+      ],
+      "_strReasons": [
+        "suited to this distance",
+        "strong recent form",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "top-weight (62kg)"
+      ],
+      "marketRank": 1,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.1034,
+      "pPlace": 0.3068,
+      "pMarket": 0.1434,
+      "edge": -0.08
+    },
+    {
+      "name": "MELA STRENGTH",
+      "key": "MELA STRENGTH",
+      "draw": 9,
+      "rating": 60,
+      "jockey": null,
+      "trainer": null,
+      "weight": 58,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 47.6,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.556,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.455,
+        "headToHead": 0.516,
+        "recencyMargin": 0.725
+      },
+      "contrib": {
+        "form": 3,
+        "rating": 8.89,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.15,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.73,
+        "headToHead": 6.2,
+        "recencyMargin": 8.7
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 7 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "6th of 7 last start.",
+        "Why it can win: hitting the line hard lately.",
+        "Against it: patchy recent form; stable out of form."
+      ],
+      "_strengths": [
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "form",
+        "trainer"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "stable out of form"
+      ],
+      "marketRank": 8,
+      "rank": 8,
+      "marketDisagree": false,
+      "pWin": 0.0535,
+      "pPlace": 0.1687,
+      "pMarket": 0.0652,
+      "edge": -0.0234
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "draw": 11,
+      "rating": 46,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "weight": 59,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 46.8,
+      "factors": {
+        "form": 0.585,
+        "rating": 0.037,
+        "distance": 0.594,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.364,
+        "headToHead": 0.597,
+        "recencyMargin": 0.568
+      },
+      "contrib": {
+        "form": 10.52,
+        "rating": 0.59,
+        "distance": 5.94,
+        "going": 4,
+        "draw": 3.69,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.18,
+        "headToHead": 7.17,
+        "recencyMargin": 6.82
+      },
+      "knownRuns": 5,
+      "career": {
+        "starts": 21,
+        "wins": 3,
+        "seconds": 0,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "4-4",
+        "wins": 4,
+        "losses": 4,
+        "meetings": 8,
+        "smallSample": false,
+        "beats": [
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "TWICE THE MASTER"
+        ],
+        "losesTo": [
+          "ETOILEFILLANTE",
+          "ETOILEFILLANTE",
+          "MASTER COINER",
+          "GOLD INDEX"
+        ]
+      },
+      "recentForm": [
+        "6th of 9 last start.",
+        "Won by 3L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 9 last start.",
+        "Won by 3L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; has beaten TOTHEMOONANDBACK, TWICE THE MASTER.",
+        "Against it: stable out of form; lower-rated (MR 46).",
+        "Has beaten TOTHEMOONANDBACK, TWICE THE MASTER before (H2H 4-4)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead"
+      ],
+      "_concerns": [
+        "trainer",
+        "rating"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten TOTHEMOONANDBACK, TWICE THE MASTER"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "lower-rated (MR 46)"
+      ],
+      "marketRank": 9,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0509,
+      "pPlace": 0.1609,
+      "pMarket": 0.0652,
+      "edge": -0.0286
+    },
+    {
+      "name": "ETOILEFILLANTE",
+      "key": "ETOILEFILLANTE",
+      "draw": 1,
+      "rating": 51,
+      "jockey": "M Mjoka",
+      "trainer": "D A McLachlan",
+      "weight": 54,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 46.2,
+      "factors": {
+        "form": 0.357,
+        "rating": 0.222,
+        "distance": 0.919,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.53,
+        "trainer": 0.5,
+        "weight": 0.818,
+        "headToHead": 0.078,
+        "recencyMargin": 0.436
+      },
+      "contrib": {
+        "form": 6.43,
+        "rating": 3.56,
+        "distance": 9.19,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.59,
+        "trainer": 2.5,
+        "weight": 4.91,
+        "headToHead": 0.94,
+        "recencyMargin": 5.23
+      },
+      "knownRuns": 6,
+      "career": {
+        "starts": 36,
+        "wins": 1,
+        "seconds": 7,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "5-8",
+        "wins": 5,
+        "losses": 8,
+        "meetings": 13,
+        "smallSample": false,
+        "beats": [
+          "MASTER COINER",
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "DOUBLE DASH",
+          "DOUBLE DASH"
+        ],
+        "losesTo": [
+          "MIDWAY",
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "PHANTOM MAN",
+          "TWICE THE MASTER",
+          "GOLD INDEX",
+          "GOLD INDEX"
+        ]
+      },
+      "recentForm": [
+        "Beaten only half a length into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 1,
+        "places": 2,
+        "winPct": 10,
+        "placePct": 20,
+        "record": "1-10"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only half a length into 2nd last start — right there.",
+        "Why it can win: suited to this distance; drawn 1 — a handy low draw; carries 54kg.",
+        "Against it: stable out of form; beaten by MIDWAY, TOTHEMOONANDBACK before.",
+        "Has beaten MASTER COINER, TOTHEMOONANDBACK, DOUBLE DASH before (H2H 5-8).",
+        "Model/market disagree: model rank 10 vs market rank 4 (5/1)."
+      ],
+      "_strengths": [
+        "distance",
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "trainer",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "suited to this distance",
+        "drawn 1 — a handy low draw",
+        "carries 54kg"
+      ],
+      "_conReasons": [
+        "stable out of form",
+        "beaten by MIDWAY, TOTHEMOONANDBACK before"
+      ],
+      "marketRank": 4,
+      "rank": 10,
+      "marketDisagree": true,
+      "pWin": 0.0763,
+      "pPlace": 0.2342,
+      "pMarket": 0.1195,
+      "edge": -0.0864
+    },
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "draw": 7,
+      "rating": 69,
+      "jockey": null,
+      "trainer": null,
+      "weight": 62,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 45.6,
+      "factors": {
+        "form": 0.422,
+        "rating": 0.889,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0,
+        "recencyMargin": 0.44
+      },
+      "contrib": {
+        "form": 7.59,
+        "rating": 14.22,
+        "distance": 3.5,
+        "going": 4,
+        "draw": 4.62,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0.55,
+        "headToHead": 0,
+        "recencyMargin": 5.28
+      },
+      "knownRuns": 6,
+      "career": null,
+      "h2h": {
+        "record": "6-8",
+        "wins": 6,
+        "losses": 8,
+        "meetings": 14,
+        "smallSample": false,
+        "beats": [
+          "ETOILEFILLANTE",
+          "ETOILEFILLANTE",
+          "ETOILEFILLANTE",
+          "TWICE THE MASTER",
+          "TWICE THE MASTER",
+          "GOLD INDEX"
+        ],
+        "losesTo": [
+          "ETOILEFILLANTE",
+          "ETOILEFILLANTE",
+          "MASTER COINER",
+          "PHANTOM MAN",
+          "DOUBLE DASH",
+          "DOUBLE DASH",
+          "DOUBLE DASH",
+          "GOLD INDEX"
+        ]
+      },
+      "recentForm": [
+        "9th of 9 last start.",
+        "Won by 6L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "9th of 9 last start.",
+        "Won by 6L recently — has a telling turn of foot.",
+        "Why it can win: well-rated (MR 69).",
+        "Against it: unproven at this trip; stable out of form.",
+        "Has beaten ETOILEFILLANTE, TWICE THE MASTER, GOLD INDEX before (H2H 6-8)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "distance",
+        "trainer"
+      ],
+      "_strReasons": [
+        "well-rated (MR 69)"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "stable out of form"
+      ],
+      "marketRank": 12,
+      "rank": 11,
+      "marketDisagree": false,
+      "pWin": 0.0255,
+      "pPlace": 0.083,
+      "pMarket": 0.0211,
+      "edge": 0.0089
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "draw": 2,
+      "rating": 45,
+      "jockey": "K Matsunyane",
+      "trainer": "J Crawford",
+      "weight": 60,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 44.5,
+      "factors": {
+        "form": 0.359,
+        "rating": 0,
+        "distance": 0.629,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.587,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.617,
+        "recencyMargin": 0.574
+      },
+      "contrib": {
+        "form": 6.46,
+        "rating": 0,
+        "distance": 6.29,
+        "going": 4,
+        "draw": 5.77,
+        "jockey": 1.76,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 7.4,
+        "recencyMargin": 6.89
+      },
+      "knownRuns": 5,
+      "career": {
+        "starts": 28,
+        "wins": 3,
+        "seconds": 4,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "3-2",
+        "wins": 3,
+        "losses": 2,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "ETOILEFILLANTE",
+          "SMART HORSE",
+          "GOLD INDEX"
+        ],
+        "losesTo": [
+          "SMART HORSE",
+          "SMART HORSE"
+        ]
+      },
+      "recentForm": [
+        "5th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 8 last start.",
+        "Why it can win: drawn 2 — a handy low draw; 17%-strike jockey booked; has beaten ETOILEFILLANTE, SMART HORSE.",
+        "Against it: lower-rated (MR 45); stable out of form.",
+        "Has beaten ETOILEFILLANTE, SMART HORSE, GOLD INDEX before (H2H 3-2).",
+        "Model/market disagree: model rank 12 vs market rank 5 (5/1)."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "trainer"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw",
+        "17%-strike jockey booked",
+        "has beaten ETOILEFILLANTE, SMART HORSE"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 45)",
+        "stable out of form"
+      ],
+      "marketRank": 5,
+      "rank": 12,
+      "marketDisagree": true,
+      "pWin": 0.0722,
+      "pPlace": 0.2228,
+      "pMarket": 0.1195,
+      "edge": -0.0946
+    },
+    {
+      "name": "TWICE THE MASTER",
+      "key": "TWICE THE MASTER",
+      "draw": 12,
+      "rating": 59,
+      "jockey": "G Wright",
+      "trainer": "V H Marshall",
+      "weight": 58,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 38.5,
+      "factors": {
+        "form": 0.171,
+        "rating": 0.519,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.455,
+        "headToHead": 0.374,
+        "recencyMargin": 0.271
+      },
+      "contrib": {
+        "form": 3.09,
+        "rating": 8.3,
+        "distance": 4,
+        "going": 4,
+        "draw": 3.46,
+        "jockey": 1.17,
+        "trainer": 2.5,
+        "weight": 2.73,
+        "headToHead": 4.49,
+        "recencyMargin": 3.25
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 42,
+        "wins": 3,
+        "seconds": 6,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "2-3",
+        "wins": 2,
+        "losses": 3,
+        "meetings": 5,
+        "smallSample": false,
+        "beats": [
+          "ETOILEFILLANTE",
+          "GOLD INDEX"
+        ],
+        "losesTo": [
+          "TOTHEMOONANDBACK",
+          "TOTHEMOONANDBACK",
+          "DOUBLE DASH"
+        ]
+      },
+      "recentForm": [
+        "6th of 6 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 6 last start.",
+        "Against it: lightly-supported jockey booking; stable out of form.",
+        "Has beaten ETOILEFILLANTE, GOLD INDEX before (H2H 2-3)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "trainer"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "stable out of form"
+      ],
+      "marketRank": 13,
+      "rank": 13,
+      "marketDisagree": false,
+      "pWin": 0.0151,
+      "pPlace": 0.0498,
+      "pMarket": 0.0211,
+      "edge": -0.0119
+    }
+  ],
+  "comparison": [
+    {
+      "no": 6,
+      "name": "SMART HORSE",
+      "rank": 1,
+      "score": 56.5,
+      "rating": 66,
+      "draw": 6,
+      "weight": 56,
+      "odds": "10/1",
+      "marketRank": 6,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "6348",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.413,
+        "rating": 0.778,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.808,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.636,
+        "headToHead": 0.546,
+        "recencyMargin": 0.634
+      }
+    },
+    {
+      "no": 13,
+      "name": "GOLD INDEX",
+      "rank": 2,
+      "score": 55.9,
+      "rating": 53,
+      "draw": 13,
+      "weight": 58,
+      "odds": "5/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "K de Melo",
+      "trainer": "R J Barrett",
+      "lastFive": "516",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.48,
+        "rating": 0.296,
+        "distance": 0.536,
+        "going": 0.5,
+        "draw": 0.538,
+        "jockey": 0.864,
+        "trainer": 0.816,
+        "weight": 0.455,
+        "headToHead": 0.845,
+        "recencyMargin": 0.676
+      }
+    },
+    {
+      "no": 4,
+      "name": "KISSES",
+      "rank": 3,
+      "score": 55.2,
+      "rating": 66,
+      "draw": 4,
+      "weight": 59,
+      "odds": "10/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "O Noach",
+      "trainer": "S W Humby",
+      "lastFive": "854",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.382,
+        "rating": 0.778,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.885,
+        "jockey": 0.4,
+        "trainer": 0.5,
+        "weight": 0.364,
+        "headToHead": 0.516,
+        "recencyMargin": 0.692
+      }
+    },
+    {
+      "no": 5,
+      "name": "MISS NEW YORK",
+      "rank": 4,
+      "score": 53,
+      "rating": 62,
+      "draw": 5,
+      "weight": 52,
+      "odds": "14/1",
+      "marketRank": 10,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "6776",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.226,
+        "rating": 0.63,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.846,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.516,
+        "recencyMargin": 0.624
+      }
+    },
+    {
+      "no": 10,
+      "name": "PHANTOM MAN",
+      "rank": 5,
+      "score": 51.5,
+      "rating": 48,
+      "draw": 10,
+      "weight": 63,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "lastFive": "7514",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.542,
+        "rating": 0.111,
+        "distance": 0.675,
+        "going": 0.5,
+        "draw": 0.654,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 1,
+        "recencyMargin": 0.623
+      }
+    },
+    {
+      "no": 8,
+      "name": "RUN FOR COVER",
+      "rank": 6,
+      "score": 51.4,
+      "rating": 72,
+      "draw": 8,
+      "weight": 57,
+      "odds": "25/1",
+      "marketRank": 11,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "7989",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.189,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.731,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.545,
+        "headToHead": 0.516,
+        "recencyMargin": 0.341
+      }
+    },
+    {
+      "no": 3,
+      "name": "MASTER COINER",
+      "rank": 7,
+      "score": 50.1,
+      "rating": 47,
+      "draw": 3,
+      "weight": 62,
+      "odds": "4/1",
+      "marketRank": 1,
+      "marketDisagree": true,
+      "jockey": "C Murray",
+      "trainer": "D A McLachlan",
+      "lastFive": "61247",
+      "runsKnown": 6,
+      "factors": {
+        "form": 0.529,
+        "rating": 0.074,
+        "distance": 0.838,
+        "going": 0.5,
+        "draw": 0.923,
+        "jockey": 0.477,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.591,
+        "recencyMargin": 0.659
+      }
+    },
+    {
+      "no": 9,
+      "name": "MELA STRENGTH",
+      "rank": 8,
+      "score": 47.6,
+      "rating": 60,
+      "draw": 9,
+      "weight": 58,
+      "odds": "10/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.167,
+        "rating": 0.556,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.692,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.455,
+        "headToHead": 0.516,
+        "recencyMargin": 0.725
+      }
+    },
+    {
+      "no": 11,
+      "name": "DOUBLE DASH",
+      "rank": 9,
+      "score": 46.8,
+      "rating": 46,
+      "draw": 11,
+      "weight": 59,
+      "odds": "10/1",
+      "marketRank": 9,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "lastFive": "13796",
+      "runsKnown": 5,
+      "factors": {
+        "form": 0.585,
+        "rating": 0.037,
+        "distance": 0.594,
+        "going": 0.5,
+        "draw": 0.615,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.364,
+        "headToHead": 0.597,
+        "recencyMargin": 0.568
+      }
+    },
+    {
+      "no": 1,
+      "name": "ETOILEFILLANTE",
+      "rank": 10,
+      "score": 46.2,
+      "rating": 51,
+      "draw": 1,
+      "weight": 54,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": true,
+      "jockey": "M Mjoka",
+      "trainer": "D A McLachlan",
+      "lastFive": "628115",
+      "runsKnown": 6,
+      "factors": {
+        "form": 0.357,
+        "rating": 0.222,
+        "distance": 0.919,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.53,
+        "trainer": 0.5,
+        "weight": 0.818,
+        "headToHead": 0.078,
+        "recencyMargin": 0.436
+      }
+    },
+    {
+      "no": 7,
+      "name": "TOTHEMOONANDBACK",
+      "rank": 11,
+      "score": 45.6,
+      "rating": 69,
+      "draw": 7,
+      "weight": 62,
+      "odds": "33/1",
+      "marketRank": 12,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "51666",
+      "runsKnown": 6,
+      "factors": {
+        "form": 0.422,
+        "rating": 0.889,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.769,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0,
+        "recencyMargin": 0.44
+      }
+    },
+    {
+      "no": 2,
+      "name": "MIDWAY",
+      "rank": 12,
+      "score": 44.5,
+      "rating": 45,
+      "draw": 2,
+      "weight": 60,
+      "odds": "5/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "K Matsunyane",
+      "trainer": "J Crawford",
+      "lastFive": "57635",
+      "runsKnown": 5,
+      "factors": {
+        "form": 0.359,
+        "rating": 0,
+        "distance": 0.629,
+        "going": 0.5,
+        "draw": 0.962,
+        "jockey": 0.587,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.617,
+        "recencyMargin": 0.574
+      }
+    },
+    {
+      "no": 12,
+      "name": "TWICE THE MASTER",
+      "rank": 13,
+      "score": 38.5,
+      "rating": 59,
+      "draw": 12,
+      "weight": 58,
+      "odds": "33/1",
+      "marketRank": 13,
+      "marketDisagree": false,
+      "jockey": "G Wright",
+      "trainer": "V H Marshall",
+      "lastFive": "64",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.171,
+        "rating": 0.519,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.577,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.455,
+        "headToHead": 0.374,
+        "recencyMargin": 0.271
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "PHANTOM MAN",
+      "key": "PHANTOM MAN",
+      "points": 3.655,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "ETOILEFILLANTE",
+        "MASTER COINER",
+        "TOTHEMOONANDBACK"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "GOLD INDEX",
+      "key": "GOLD INDEX",
+      "points": 2.482,
+      "wins": 5,
+      "losses": 3,
+      "meetings": 8,
+      "beats": [
+        "ETOILEFILLANTE",
+        "ETOILEFILLANTE",
+        "SMART HORSE",
+        "TOTHEMOONANDBACK",
+        "DOUBLE DASH"
+      ],
+      "losesTo": [
+        "MIDWAY",
+        "TOTHEMOONANDBACK",
+        "TWICE THE MASTER"
+      ],
+      "record": "5-3",
+      "smallSample": false
+    },
+    {
+      "name": "MIDWAY",
+      "key": "MIDWAY",
+      "points": 0.757,
+      "wins": 3,
+      "losses": 2,
+      "meetings": 5,
+      "beats": [
+        "ETOILEFILLANTE",
+        "SMART HORSE",
+        "GOLD INDEX"
+      ],
+      "losesTo": [
+        "SMART HORSE",
+        "SMART HORSE"
+      ],
+      "record": "3-2",
+      "smallSample": false
+    },
+    {
+      "name": "DOUBLE DASH",
+      "key": "DOUBLE DASH",
+      "points": 0.61,
+      "wins": 4,
+      "losses": 4,
+      "meetings": 8,
+      "beats": [
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "TWICE THE MASTER"
+      ],
+      "losesTo": [
+        "ETOILEFILLANTE",
+        "ETOILEFILLANTE",
+        "MASTER COINER",
+        "GOLD INDEX"
+      ],
+      "record": "4-4",
+      "smallSample": false
+    },
+    {
+      "name": "MASTER COINER",
+      "key": "MASTER COINER",
+      "points": 0.565,
+      "wins": 2,
+      "losses": 2,
+      "meetings": 4,
+      "beats": [
+        "TOTHEMOONANDBACK",
+        "DOUBLE DASH"
+      ],
+      "losesTo": [
+        "ETOILEFILLANTE",
+        "PHANTOM MAN"
+      ],
+      "record": "2-2",
+      "smallSample": true
+    },
+    {
+      "name": "SMART HORSE",
+      "key": "SMART HORSE",
+      "points": 0.221,
+      "wins": 2,
+      "losses": 2,
+      "meetings": 4,
+      "beats": [
+        "MIDWAY",
+        "MIDWAY"
+      ],
+      "losesTo": [
+        "MIDWAY",
+        "GOLD INDEX"
+      ],
+      "record": "2-2",
+      "smallSample": true
+    },
+    {
+      "name": "KISSES",
+      "key": "KISSES",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MISS NEW YORK",
+      "key": "MISS NEW YORK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RUN FOR COVER",
+      "key": "RUN FOR COVER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "MELA STRENGTH",
+      "key": "MELA STRENGTH",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "TWICE THE MASTER",
+      "key": "TWICE THE MASTER",
+      "points": -1.074,
+      "wins": 2,
+      "losses": 3,
+      "meetings": 5,
+      "beats": [
+        "ETOILEFILLANTE",
+        "GOLD INDEX"
+      ],
+      "losesTo": [
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "DOUBLE DASH"
+      ],
+      "record": "2-3",
+      "smallSample": false
+    },
+    {
+      "name": "ETOILEFILLANTE",
+      "key": "ETOILEFILLANTE",
+      "points": -3.312,
+      "wins": 5,
+      "losses": 8,
+      "meetings": 13,
+      "beats": [
+        "MASTER COINER",
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "DOUBLE DASH",
+        "DOUBLE DASH"
+      ],
+      "losesTo": [
+        "MIDWAY",
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "TOTHEMOONANDBACK",
+        "PHANTOM MAN",
+        "TWICE THE MASTER",
+        "GOLD INDEX",
+        "GOLD INDEX"
+      ],
+      "record": "5-8",
+      "smallSample": false
+    },
+    {
+      "name": "TOTHEMOONANDBACK",
+      "key": "TOTHEMOONANDBACK",
+      "points": -3.904,
+      "wins": 6,
+      "losses": 8,
+      "meetings": 14,
+      "beats": [
+        "ETOILEFILLANTE",
+        "ETOILEFILLANTE",
+        "ETOILEFILLANTE",
+        "TWICE THE MASTER",
+        "TWICE THE MASTER",
+        "GOLD INDEX"
+      ],
+      "losesTo": [
+        "ETOILEFILLANTE",
+        "ETOILEFILLANTE",
+        "MASTER COINER",
+        "PHANTOM MAN",
+        "DOUBLE DASH",
+        "DOUBLE DASH",
+        "DOUBLE DASH",
+        "GOLD INDEX"
+      ],
+      "record": "6-8",
+      "smallSample": false
+    }
+  ],
+  "strongest": "PHANTOM MAN",
+  "places": 3
+}

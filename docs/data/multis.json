@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T21:09:58.246Z",
+  "generated": "2026-08-04T10:47:05.555Z",
   "days": {
     "2026-02-04": {
       "bankers": [
@@ -9549,6 +9549,487 @@
             "time": "14:00",
             "selection": "UP IN FLAMES",
             "prob": 41.9
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-08-05": {
+      "bankers": [
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "13:07",
+          "selection": "EL COHETE",
+          "pWin": 59.5,
+          "pPlace": 96.3,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "14:55",
+          "selection": "ODDS AND EVENS",
+          "pWin": 51.3,
+          "pPlace": 90.5,
+          "confidence": "strong"
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "14:20",
+          "selection": "AFRICAN WILD DOG",
+          "pWin": 50.8,
+          "pPlace": 91.3,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.1551,
+          "combinedPct": 15.5,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 59.5
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 51.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 50.8
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0777,
+          "combinedPct": 7.8,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 59.5
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 51.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 50.8
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:45",
+              "selection": "SABRE WING",
+              "prob": 50.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.03,
+          "combinedPct": 3,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 59.5
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 51.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 50.8
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:45",
+              "selection": "SABRE WING",
+              "prob": 50.1
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "15:29",
+              "selection": "EISTEDDFOD",
+              "prob": 38.7
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.7219,
+          "combinedPct": 72.2,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 96.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 91.3
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:45",
+              "selection": "SABRE WING",
+              "prob": 90.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 90.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.5812,
+          "combinedPct": 58.1,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 96.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 91.3
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:45",
+              "selection": "SABRE WING",
+              "prob": 90.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 90.5
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "15:29",
+              "selection": "EISTEDDFOD",
+              "prob": 80.5
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.4139,
+          "combinedPct": 41.4,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:07",
+              "selection": "EL COHETE",
+              "prob": 96.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:20",
+              "selection": "AFRICAN WILD DOG",
+              "prob": 91.3
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "13:45",
+              "selection": "SABRE WING",
+              "prob": 90.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "14:55",
+              "selection": "ODDS AND EVENS",
+              "prob": 90.5
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "15:29",
+              "selection": "EISTEDDFOD",
+              "prob": 80.5
+            },
+            {
+              "race": 8,
+              "track": "HOLLYWOODBETS KENILWORTH",
+              "time": "17:13",
+              "selection": "CORK BAY",
+              "prob": 71.2
+            }
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "race": 2,
+          "selection": "SABRE WING",
+          "edgePts": 71.6,
+          "pWin": 50.1
+        },
+        {
+          "race": 1,
+          "selection": "EL COHETE",
+          "edgePts": 58.5,
+          "pWin": 59.5
+        },
+        {
+          "race": 5,
+          "selection": "EISTEDDFOD",
+          "edgePts": 53.4,
+          "pWin": 38.7
+        },
+        {
+          "race": 3,
+          "selection": "AFRICAN WILD DOG",
+          "edgePts": 43.6,
+          "pWin": 50.8
+        },
+        {
+          "race": 4,
+          "selection": "ODDS AND EVENS",
+          "edgePts": 28.6,
+          "pWin": 51.3
+        },
+        {
+          "race": 7,
+          "selection": "AVIGNON",
+          "edgePts": 19,
+          "pWin": 25.1
+        }
+      ],
+      "valuePicks": [
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "13:45",
+          "name": "SABRE WING",
+          "odds": "4/1",
+          "edgePts": 71.6,
+          "marketPct": 14.3,
+          "modelPct": 85.9,
+          "winPct": 50.1,
+          "modelRank": 1
+        },
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "13:07",
+          "name": "EL COHETE",
+          "odds": "15/10",
+          "edgePts": 58.5,
+          "marketPct": 30.2,
+          "modelPct": 88.7,
+          "winPct": 59.5,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "15:29",
+          "name": "EISTEDDFOD",
+          "odds": "5/1",
+          "edgePts": 53.4,
+          "marketPct": 11.9,
+          "modelPct": 65.4,
+          "winPct": 38.7,
+          "modelRank": 1
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "14:20",
+          "name": "AFRICAN WILD DOG",
+          "odds": "16/10",
+          "edgePts": 43.6,
+          "marketPct": 29,
+          "modelPct": 72.6,
+          "winPct": 50.8,
+          "modelRank": 1
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "14:55",
+          "name": "ODDS AND EVENS",
+          "odds": "1/1",
+          "edgePts": 28.6,
+          "marketPct": 37,
+          "modelPct": 65.6,
+          "winPct": 51.3,
+          "modelRank": 1
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "16:40",
+          "name": "AVIGNON",
+          "odds": "4/1",
+          "edgePts": 19,
+          "marketPct": 15.6,
+          "modelPct": 34.6,
+          "winPct": 25.1,
+          "modelRank": 1
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "17:13",
+          "name": "GOLD DUST",
+          "odds": "25/1",
+          "edgePts": 19,
+          "marketPct": 2.8,
+          "modelPct": 21.8,
+          "winPct": 12.3,
+          "modelRank": 2
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "16:05",
+          "name": "SMART HORSE",
+          "odds": "10/1",
+          "edgePts": 11.9,
+          "marketPct": 6.5,
+          "modelPct": 18.4,
+          "winPct": 12.5,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "15:29",
+          "name": "GIN PALACE",
+          "odds": "10/1",
+          "edgePts": 10.7,
+          "marketPct": 6.5,
+          "modelPct": 17.2,
+          "winPct": 11.9,
+          "modelRank": 2
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "16:40",
+          "name": "SHIFTING PATH",
+          "odds": "5/1",
+          "edgePts": 10.6,
+          "marketPct": 13,
+          "modelPct": 23.6,
+          "winPct": 18.3,
+          "modelRank": 2
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS KENILWORTH",
+          "time": "16:05",
+          "name": "KISSES",
+          "odds": "10/1",
+          "edgePts": 8.3,
+          "marketPct": 6.5,
+          "modelPct": 14.8,
+          "winPct": 10.7,
+          "modelRank": 3
+        }
+      ],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.1551,
+        "combinedPct": 15.5,
+        "confidence": "fair",
+        "selections": [
+          {
+            "race": 1,
+            "track": "HOLLYWOODBETS KENILWORTH",
+            "time": "13:07",
+            "selection": "EL COHETE",
+            "prob": 59.5
+          },
+          {
+            "race": 4,
+            "track": "HOLLYWOODBETS KENILWORTH",
+            "time": "14:55",
+            "selection": "ODDS AND EVENS",
+            "prob": 51.3
+          },
+          {
+            "race": 3,
+            "track": "HOLLYWOODBETS KENILWORTH",
+            "time": "14:20",
+            "selection": "AFRICAN WILD DOG",
+            "prob": 50.8
           }
         ]
       },

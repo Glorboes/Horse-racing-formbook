@@ -1,0 +1,1186 @@
+{
+  "id": "2026-08-05-hollywoodbets-kenilworth-r1",
+  "date": "2026-08-05",
+  "track": "HOLLYWOODBETS KENILWORTH",
+  "race": 1,
+  "time": "13:07",
+  "distance": 1000,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Maiden Plate",
+  "generated": "2026-08-04T10:47:05.206Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "draw": 1,
+      "rating": 27,
+      "jockey": "K de Melo",
+      "trainer": "G W Ennion",
+      "weight": 55,
+      "odds": "15/10",
+      "oddsDecimal": 1.5,
+      "score": 73.1,
+      "factors": {
+        "form": 0.719,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.718,
+        "trainer": 0.5,
+        "weight": 0.833,
+        "headToHead": 1,
+        "recencyMargin": 0.466
+      },
+      "contrib": {
+        "form": 12.95,
+        "rating": 16,
+        "distance": 4,
+        "going": 4,
+        "draw": 6,
+        "jockey": 2.15,
+        "trainer": 2.5,
+        "weight": 5,
+        "headToHead": 12,
+        "recencyMargin": 5.59
+      },
+      "knownRuns": 5,
+      "career": {
+        "starts": 5,
+        "wins": 0,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "RUST NEVER SLEEPS"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 11 last start.",
+        "Consistent — placed in 3 of last 5."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 4,
+        "places": 7,
+        "winPct": 33,
+        "placePct": 58,
+        "record": "4-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 11 last start.",
+        "Consistent — placed in 3 of last 5.",
+        "Why it can win: top-rated in the field (MR 27); drawn 1 — a handy low draw; 33%-strike jockey booked.",
+        "Jockey K de Melo in form (33% strike).",
+        "Has beaten RUST NEVER SLEEPS before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [],
+      "_strReasons": [
+        "top-rated in the field (MR 27)",
+        "drawn 1 — a handy low draw",
+        "33%-strike jockey booked"
+      ],
+      "_conReasons": [],
+      "marketRank": 1,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.5945,
+      "pPlace": 0.963,
+      "pMarket": 0.3022,
+      "edge": 0.5847
+    },
+    {
+      "name": "RUST NEVER SLEEPS",
+      "key": "RUST NEVER SLEEPS",
+      "draw": 6,
+      "rating": 26,
+      "jockey": "C Murray",
+      "trainer": "V H Marshall",
+      "weight": 58,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 54.4,
+      "factors": {
+        "form": 0.643,
+        "rating": 0.917,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.446,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0,
+        "recencyMargin": 0.652
+      },
+      "contrib": {
+        "form": 11.57,
+        "rating": 14.67,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.33,
+        "jockey": 1.34,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 0,
+        "recencyMargin": 7.83
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 2,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "EL COHETE"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 1.40L into 3rd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 25,
+        "record": "1-16"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 1.40L into 3rd last start — right there.",
+        "Why it can win: hitting the line hard lately; well-rated (MR 26); strong recent form.",
+        "Against it: beaten by EL COHETE before; lightly-supported jockey booking.",
+        "Beaten by EL COHETE in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "rating",
+        "form"
+      ],
+      "_concerns": [
+        "headToHead",
+        "jockey"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "well-rated (MR 26)",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "beaten by EL COHETE before",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 3,
+      "rank": 2,
+      "marketDisagree": false,
+      "pWin": 0.0952,
+      "pPlace": 0.4912,
+      "pMarket": 0.1511,
+      "edge": -0.1118
+    },
+    {
+      "name": "BOLERO",
+      "key": "BOLERO",
+      "draw": 7,
+      "rating": 25,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "weight": 58,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 52.5,
+      "factors": {
+        "form": 0.727,
+        "rating": 0.833,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 13.09,
+        "rating": 13.33,
+        "distance": 4,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 12 last start.",
+        "Why it can win: strong recent form; well-rated (MR 25).",
+        "Against it: well beaten lately; carries 58kg."
+      ],
+      "_strengths": [
+        "form",
+        "rating"
+      ],
+      "_concerns": [
+        "recencyMargin",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "well-rated (MR 25)"
+      ],
+      "_conReasons": [
+        "well beaten lately",
+        "carries 58kg"
+      ],
+      "marketRank": 4,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.0615,
+      "pPlace": 0.3385,
+      "pMarket": 0.0944,
+      "edge": -0.0658
+    },
+    {
+      "name": "WREATH OF SNOW",
+      "key": "WREATH OF SNOW",
+      "draw": 2,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "weight": 58,
+      "odds": "15/10",
+      "oddsDecimal": 1.5,
+      "score": 48.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 2 — a handy low draw.",
+        "Against it: up in class; carries 58kg.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 2 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 58kg"
+      ],
+      "marketRank": 2,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.1586,
+      "pPlace": 0.6822,
+      "pMarket": 0.3022,
+      "edge": -0.2872
+    },
+    {
+      "name": "CARDINAL KING",
+      "key": "CARDINAL KING",
+      "draw": 4,
+      "rating": null,
+      "jockey": "O Noach",
+      "trainer": "C Bass",
+      "weight": 58,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 47.6,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.4,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.2,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 10,
+        "wins": 0,
+        "places": 0,
+        "winPct": 0,
+        "placePct": 0,
+        "record": "0-10"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; up in class.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "up in class"
+      ],
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0174,
+      "pPlace": 0.1024,
+      "pMarket": 0.0222,
+      "edge": -0.0096
+    },
+    {
+      "name": "WORKINGCLASSHERO",
+      "key": "WORKINGCLASSHERO",
+      "draw": 9,
+      "rating": null,
+      "jockey": "A Fortune",
+      "trainer": "P P Kruyer",
+      "weight": 60,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 44.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.515,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 3.33,
+        "jockey": 1.55,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "placePct": 44,
+        "record": "2-16"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: 13%-strike jockey booked.",
+        "Against it: top-weight (60kg); up in class.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "_strReasons": [
+        "13%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "up in class"
+      ],
+      "marketRank": 5,
+      "rank": 6,
+      "marketDisagree": false,
+      "pWin": 0.0379,
+      "pPlace": 0.2162,
+      "pMarket": 0.0687,
+      "edge": -0.0616
+    },
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "draw": 8,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 58,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 41,
+      "factors": {
+        "form": 0.244,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.278
+      },
+      "contrib": {
+        "form": 4.39,
+        "rating": 8,
+        "distance": 4,
+        "going": 4,
+        "draw": 3.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2,
+        "headToHead": 6,
+        "recencyMargin": 3.34
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "8th of 9 last start.",
+        "Against it: patchy recent form; up in class."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 7,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0132,
+      "pPlace": 0.078,
+      "pMarket": 0.0222,
+      "edge": -0.018
+    },
+    {
+      "name": "VISIONARY FLAME",
+      "key": "VISIONARY FLAME",
+      "draw": 3,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 55,
+      "odds": "50/1",
+      "oddsDecimal": 50,
+      "score": 40.6,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.833,
+        "headToHead": 0.5,
+        "recencyMargin": 0.029
+      },
+      "contrib": {
+        "form": 2.25,
+        "rating": 8,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.33,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 5,
+        "headToHead": 6,
+        "recencyMargin": 0.35
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "8th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "8th of 9 last start.",
+        "Why it can win: drawn 3 — a handy low draw; well-in at the weights (55kg).",
+        "Against it: patchy recent form; up in class."
+      ],
+      "_strengths": [
+        "draw",
+        "weight"
+      ],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [
+        "drawn 3 — a handy low draw",
+        "well-in at the weights (55kg)"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 9,
+      "rank": 8,
+      "marketDisagree": false,
+      "pWin": 0.0094,
+      "pPlace": 0.0556,
+      "pMarket": 0.0148,
+      "edge": -0.0109
+    },
+    {
+      "name": "IN THE AIR TONIGHT",
+      "key": "IN THE AIR TONIGHT",
+      "draw": 5,
+      "rating": 15,
+      "jockey": null,
+      "trainer": null,
+      "weight": 54,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 37.7,
+      "factors": {
+        "form": 0.265,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.232
+      },
+      "contrib": {
+        "form": 4.78,
+        "rating": 0,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.67,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6,
+        "recencyMargin": 2.78
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "7th of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "7th of 9 last start.",
+        "Why it can win: well-in at the weights (54kg).",
+        "Against it: lower-rated (MR 15); outclassed by this field."
+      ],
+      "_strengths": [
+        "weight"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (54kg)"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 15)",
+        "outclassed by this field"
+      ],
+      "marketRank": 8,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0123,
+      "pPlace": 0.0728,
+      "pMarket": 0.0222,
+      "edge": -0.0198
+    }
+  ],
+  "comparison": [
+    {
+      "no": 1,
+      "name": "EL COHETE",
+      "rank": 1,
+      "score": 73.1,
+      "rating": 27,
+      "draw": 1,
+      "weight": 55,
+      "odds": "15/10",
+      "marketRank": 1,
+      "marketDisagree": false,
+      "jockey": "K de Melo",
+      "trainer": "G W Ennion",
+      "lastFive": "43362",
+      "runsKnown": 5,
+      "factors": {
+        "form": 0.719,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.718,
+        "trainer": 0.5,
+        "weight": 0.833,
+        "headToHead": 1,
+        "recencyMargin": 0.466
+      }
+    },
+    {
+      "no": 6,
+      "name": "RUST NEVER SLEEPS",
+      "rank": 2,
+      "score": 54.4,
+      "rating": 26,
+      "draw": 6,
+      "weight": 58,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "V H Marshall",
+      "lastFive": "35",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.643,
+        "rating": 0.917,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.722,
+        "jockey": 0.446,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0,
+        "recencyMargin": 0.652
+      }
+    },
+    {
+      "no": 7,
+      "name": "BOLERO",
+      "rank": 3,
+      "score": 52.5,
+      "rating": 25,
+      "draw": 7,
+      "weight": 58,
+      "odds": "7/1",
+      "marketRank": 4,
+      "marketDisagree": false,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.727,
+        "rating": 0.833,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0
+      }
+    },
+    {
+      "no": 2,
+      "name": "WREATH OF SNOW",
+      "rank": 4,
+      "score": 48.6,
+      "rating": null,
+      "draw": 2,
+      "weight": 58,
+      "odds": "15/10",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.944,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "CARDINAL KING",
+      "rank": 5,
+      "score": 47.6,
+      "rating": null,
+      "draw": 4,
+      "weight": 58,
+      "odds": "33/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "O Noach",
+      "trainer": "C Bass",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.4,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "WORKINGCLASSHERO",
+      "rank": 6,
+      "score": 44.1,
+      "rating": null,
+      "draw": 9,
+      "weight": 60,
+      "odds": "10/1",
+      "marketRank": 5,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "P P Kruyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.556,
+        "jockey": 0.515,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.5,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "WILD STREAK",
+      "rank": 7,
+      "score": 41,
+      "rating": null,
+      "draw": 8,
+      "weight": 58,
+      "odds": "33/1",
+      "marketRank": 7,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "58",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.244,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.611,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.333,
+        "headToHead": 0.5,
+        "recencyMargin": 0.278
+      }
+    },
+    {
+      "no": 3,
+      "name": "VISIONARY FLAME",
+      "rank": 8,
+      "score": 40.6,
+      "rating": null,
+      "draw": 3,
+      "weight": 55,
+      "odds": "50/1",
+      "marketRank": 9,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "8",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.125,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.889,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.833,
+        "headToHead": 0.5,
+        "recencyMargin": 0.029
+      }
+    },
+    {
+      "no": 5,
+      "name": "IN THE AIR TONIGHT",
+      "rank": 9,
+      "score": 37.7,
+      "rating": 15,
+      "draw": 5,
+      "weight": 54,
+      "odds": "33/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "76",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.265,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.778,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.5,
+        "recencyMargin": 0.232
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "EL COHETE",
+      "key": "EL COHETE",
+      "points": 1.173,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "RUST NEVER SLEEPS"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "WREATH OF SNOW",
+      "key": "WREATH OF SNOW",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "VISIONARY FLAME",
+      "key": "VISIONARY FLAME",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "CARDINAL KING",
+      "key": "CARDINAL KING",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "IN THE AIR TONIGHT",
+      "key": "IN THE AIR TONIGHT",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BOLERO",
+      "key": "BOLERO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WILD STREAK",
+      "key": "WILD STREAK",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WORKINGCLASSHERO",
+      "key": "WORKINGCLASSHERO",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "RUST NEVER SLEEPS",
+      "key": "RUST NEVER SLEEPS",
+      "points": -1.173,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "EL COHETE"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    }
+  ],
+  "strongest": "EL COHETE",
+  "places": 3
+}

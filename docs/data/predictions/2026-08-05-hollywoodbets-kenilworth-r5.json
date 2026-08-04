@@ -1,0 +1,1679 @@
+{
+  "id": "2026-08-05-hollywoodbets-kenilworth-r5",
+  "date": "2026-08-05",
+  "track": "HOLLYWOODBETS KENILWORTH",
+  "race": 5,
+  "time": "15:29",
+  "distance": 1400,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": null,
+  "generated": "2026-08-04T10:47:05.283Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "EISTEDDFOD",
+      "key": "EISTEDDFOD",
+      "draw": 2,
+      "rating": 79,
+      "jockey": "J P v’d Merwe",
+      "trainer": "P Botha",
+      "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 73.1,
+      "factors": {
+        "form": 0.748,
+        "rating": 0.788,
+        "distance": 0.8,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 1,
+        "recencyMargin": 0.732
+      },
+      "contrib": {
+        "form": 13.46,
+        "rating": 12.61,
+        "distance": 8,
+        "going": 4,
+        "draw": 5.73,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 12,
+        "recencyMargin": 8.78
+      },
+      "knownRuns": 4,
+      "career": {
+        "starts": 12,
+        "wins": 1,
+        "seconds": 3,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "7-2",
+        "wins": 7,
+        "losses": 2,
+        "meetings": 9,
+        "smallSample": false,
+        "beats": [
+          "AMAYAH",
+          "HAMPSTEAD HEATH",
+          "HAMPSTEAD HEATH",
+          "SOUTH OF FRANCE",
+          "SUPREME FATE",
+          "JOU LEKKER DING",
+          "DREAM SEARCHER"
+        ],
+        "losesTo": [
+          "HAMPSTEAD HEATH",
+          "UNA THE UNICORN"
+        ]
+      },
+      "recentForm": [
+        "5th of 14 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 14 last start.",
+        "Why it can win: has beaten AMAYAH, HAMPSTEAD HEATH; drawn 2 — a handy low draw; strong recent form.",
+        "Against it: lightly-supported jockey booking.",
+        "Has beaten AMAYAH, HAMPSTEAD HEATH, SOUTH OF FRANCE, SUPREME FATE, JOU LEKKER DING, DREAM SEARCHER before (H2H 7-2)."
+      ],
+      "_strengths": [
+        "headToHead",
+        "draw",
+        "form"
+      ],
+      "_concerns": [
+        "jockey"
+      ],
+      "_strReasons": [
+        "has beaten AMAYAH, HAMPSTEAD HEATH",
+        "drawn 2 — a handy low draw",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 2,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.3866,
+      "pPlace": 0.8051,
+      "pMarket": 0.1194,
+      "edge": 0.5345
+    },
+    {
+      "name": "GIN PALACE",
+      "key": "GIN PALACE",
+      "draw": 3,
+      "rating": 84,
+      "jockey": null,
+      "trainer": null,
+      "weight": 57,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 65.1,
+      "factors": {
+        "form": 0.611,
+        "rating": 0.939,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.583,
+        "recencyMargin": 0.865
+      },
+      "contrib": {
+        "form": 11.01,
+        "rating": 15.03,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.45,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 6.99,
+        "recencyMargin": 10.38
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "SOUTH OF FRANCE",
+          "MONEY EXTRACTOR",
+          "UNA THE UNICORN"
+        ],
+        "losesTo": [
+          "DREAM SEARCHER"
+        ]
+      },
+      "recentForm": [
+        "6th of 11 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "6th of 11 last start.",
+        "Why it can win: hitting the line hard lately; well-rated (MR 84); drawn 3 — a handy low draw.",
+        "Against it: unproven at this trip; lightly-supported jockey booking.",
+        "Has beaten SOUTH OF FRANCE, MONEY EXTRACTOR, UNA THE UNICORN before (H2H 3-1 ⚠ small sample).",
+        "Model/market disagree: model rank 2 vs market rank 7 (10/1)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "distance",
+        "jockey"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "well-rated (MR 84)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 7,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.1187,
+      "pPlace": 0.399,
+      "pMarket": 0.0651,
+      "edge": 0.1072
+    },
+    {
+      "name": "UNA THE UNICORN",
+      "key": "UNA THE UNICORN",
+      "draw": 10,
+      "rating": 86,
+      "jockey": "G Lerena",
+      "trainer": "J S Snaith",
+      "weight": 58,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 58.7,
+      "factors": {
+        "form": 0.331,
+        "rating": 1,
+        "distance": 0.85,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.656,
+        "trainer": 0.5,
+        "weight": 0.182,
+        "headToHead": 0.508,
+        "recencyMargin": 0.558
+      },
+      "contrib": {
+        "form": 5.96,
+        "rating": 16,
+        "distance": 8.5,
+        "going": 4,
+        "draw": 3.55,
+        "jockey": 1.97,
+        "trainer": 2.5,
+        "weight": 1.09,
+        "headToHead": 6.1,
+        "recencyMargin": 6.69
+      },
+      "knownRuns": 3,
+      "career": {
+        "starts": 8,
+        "wins": 1,
+        "seconds": 1,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "3-3",
+        "wins": 3,
+        "losses": 3,
+        "meetings": 6,
+        "smallSample": false,
+        "beats": [
+          "EISTEDDFOD",
+          "AMAYAH",
+          "HAMPSTEAD HEATH"
+        ],
+        "losesTo": [
+          "GIN PALACE",
+          "JOU LEKKER DING",
+          "DREAM SEARCHER"
+        ]
+      },
+      "recentForm": [
+        "4th of 14 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 4,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "2-8"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 14 last start.",
+        "Why it can win: top-rated in the field (MR 86); 25%-strike jockey booked; suited to this distance.",
+        "Against it: patchy recent form.",
+        "Has beaten EISTEDDFOD, AMAYAH, HAMPSTEAD HEATH before (H2H 3-3)."
+      ],
+      "_strengths": [
+        "rating",
+        "jockey",
+        "distance"
+      ],
+      "_concerns": [
+        "form"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 86)",
+        "25%-strike jockey booked",
+        "suited to this distance"
+      ],
+      "_conReasons": [
+        "patchy recent form"
+      ],
+      "marketRank": 3,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.0893,
+      "pPlace": 0.3136,
+      "pMarket": 0.1194,
+      "edge": -0.0601
+    },
+    {
+      "name": "TAKE IT AS RED",
+      "key": "TAKE IT AS RED",
+      "draw": 1,
+      "rating": 73,
+      "jockey": null,
+      "trainer": null,
+      "weight": 49,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 54.3,
+      "factors": {
+        "form": 0.298,
+        "rating": 0.606,
+        "distance": 0.907,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.005,
+        "recencyMargin": 0.66
+      },
+      "contrib": {
+        "form": 5.37,
+        "rating": 9.7,
+        "distance": 9.07,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 0.06,
+        "recencyMargin": 7.92
+      },
+      "knownRuns": 7,
+      "career": null,
+      "h2h": {
+        "record": "0-4",
+        "wins": 0,
+        "losses": 4,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "HAMPSTEAD HEATH",
+          "HAMPSTEAD HEATH",
+          "SOUTH OF FRANCE",
+          "MONEY EXTRACTOR"
+        ]
+      },
+      "recentForm": [
+        "Beaten only a head into 2nd last start — right there."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Beaten only a head into 2nd last start — right there.",
+        "Why it can win: drawn 1 — a handy low draw; well-in at the weights (49kg); placed at this trip before.",
+        "Against it: patchy recent form; beaten by HAMPSTEAD HEATH, SOUTH OF FRANCE before.",
+        "Beaten by HAMPSTEAD HEATH, SOUTH OF FRANCE, MONEY EXTRACTOR in the past (H2H 0-4 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "draw",
+        "weight",
+        "distance"
+      ],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "well-in at the weights (49kg)",
+        "placed at this trip before"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by HAMPSTEAD HEATH, SOUTH OF FRANCE before"
+      ],
+      "marketRank": 4,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.0739,
+      "pPlace": 0.2651,
+      "pMarket": 0.1194,
+      "edge": -0.0909
+    },
+    {
+      "name": "MONEY EXTRACTOR",
+      "key": "MONEY EXTRACTOR",
+      "draw": 9,
+      "rating": 66,
+      "jockey": "G Wright",
+      "trainer": "D A McLachlan",
+      "weight": 53,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 51.9,
+      "factors": {
+        "form": 0.487,
+        "rating": 0.394,
+        "distance": 1,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.636,
+        "headToHead": 0.16,
+        "recencyMargin": 0.624
+      },
+      "contrib": {
+        "form": 8.77,
+        "rating": 6.3,
+        "distance": 10,
+        "going": 4,
+        "draw": 3.82,
+        "jockey": 1.17,
+        "trainer": 2.5,
+        "weight": 3.82,
+        "headToHead": 1.92,
+        "recencyMargin": 7.49
+      },
+      "knownRuns": 7,
+      "career": {
+        "starts": 21,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "TAKE IT AS RED"
+        ],
+        "losesTo": [
+          "GIN PALACE",
+          "SOUTH OF FRANCE",
+          "SOUTH OF FRANCE"
+        ]
+      },
+      "recentForm": [
+        "Won last start by a nose over 1500m at HOLLYWOODBETS DURBANVILLE.",
+        "In form — 2 wins from last 6.",
+        "Won by 4.50L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by a nose over 1500m at HOLLYWOODBETS DURBANVILLE.",
+        "In form — 2 wins from last 6.",
+        "Won by 4.50L recently — has a telling turn of foot.",
+        "Why it can win: has won at 1400m; carries 53kg.",
+        "Against it: lightly-supported jockey booking; beaten by GIN PALACE, SOUTH OF FRANCE before.",
+        "Has beaten TAKE IT AS RED before (H2H 1-3 ⚠ small sample).",
+        "Model/market disagree: model rank 5 vs market rank 9 (14/1)."
+      ],
+      "_strengths": [
+        "distance",
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "has won at 1400m",
+        "carries 53kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "beaten by GIN PALACE, SOUTH OF FRANCE before"
+      ],
+      "marketRank": 9,
+      "rank": 5,
+      "marketDisagree": true,
+      "pWin": 0.0334,
+      "pPlace": 0.126,
+      "pMarket": 0.0478,
+      "edge": -0.0287
+    },
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "draw": 11,
+      "rating": 55,
+      "jockey": null,
+      "trainer": null,
+      "weight": 60,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 51.9,
+      "factors": {
+        "form": 0.851,
+        "rating": 0.061,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.779,
+        "recencyMargin": 0.74
+      },
+      "contrib": {
+        "form": 15.32,
+        "rating": 0.97,
+        "distance": 4,
+        "going": 4,
+        "draw": 3.27,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 9.35,
+        "recencyMargin": 8.88
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "5-1",
+        "wins": 5,
+        "losses": 1,
+        "meetings": 6,
+        "smallSample": false,
+        "beats": [
+          "GIN PALACE",
+          "SOUTH OF FRANCE",
+          "SUPREME FATE",
+          "JOU LEKKER DING",
+          "UNA THE UNICORN"
+        ],
+        "losesTo": [
+          "EISTEDDFOD"
+        ]
+      },
+      "recentForm": [
+        "Beaten only 0.80L into 3rd last start — right there.",
+        "In form — 2 wins from last 4."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Beaten only 0.80L into 3rd last start — right there.",
+        "In form — 2 wins from last 4.",
+        "Why it can win: strong recent form; has beaten GIN PALACE, SOUTH OF FRANCE; hitting the line hard lately.",
+        "Against it: drawn wide (11); top-weight (60kg).",
+        "Has beaten GIN PALACE, SOUTH OF FRANCE, SUPREME FATE, JOU LEKKER DING, UNA THE UNICORN before (H2H 5-1).",
+        "Model/market disagree: model rank 6 vs market rank 10 (14/1)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "draw",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten GIN PALACE, SOUTH OF FRANCE",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "drawn wide (11)",
+        "top-weight (60kg)"
+      ],
+      "marketRank": 10,
+      "rank": 6,
+      "marketDisagree": true,
+      "pWin": 0.0334,
+      "pPlace": 0.126,
+      "pMarket": 0.0478,
+      "edge": -0.0287
+    },
+    {
+      "name": "SOUTH OF FRANCE",
+      "key": "SOUTH OF FRANCE",
+      "draw": 6,
+      "rating": 56,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "weight": 59,
+      "odds": "10/1",
+      "oddsDecimal": 10,
+      "score": 49.9,
+      "factors": {
+        "form": 0.761,
+        "rating": 0.091,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.468,
+        "recencyMargin": 0.829
+      },
+      "contrib": {
+        "form": 13.69,
+        "rating": 1.45,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.64,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0.55,
+        "headToHead": 5.61,
+        "recencyMargin": 9.95
+      },
+      "knownRuns": 4,
+      "career": {
+        "starts": 11,
+        "wins": 2,
+        "seconds": 2,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "4-3",
+        "wins": 4,
+        "losses": 3,
+        "meetings": 7,
+        "smallSample": false,
+        "beats": [
+          "TAKE IT AS RED",
+          "JOU LEKKER DING",
+          "MONEY EXTRACTOR",
+          "MONEY EXTRACTOR"
+        ],
+        "losesTo": [
+          "EISTEDDFOD",
+          "GIN PALACE",
+          "DREAM SEARCHER"
+        ]
+      },
+      "recentForm": [
+        "8th of 11 last start.",
+        "Consistent — placed in 3 of last 4."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "8th of 11 last start.",
+        "Consistent — placed in 3 of last 4.",
+        "Why it can win: strong recent form; hitting the line hard lately.",
+        "Against it: unproven at this trip; top-weight (59kg).",
+        "Has beaten TAKE IT AS RED, JOU LEKKER DING, MONEY EXTRACTOR before (H2H 4-3)."
+      ],
+      "_strengths": [
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "distance",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "top-weight (59kg)"
+      ],
+      "marketRank": 8,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0394,
+      "pPlace": 0.1475,
+      "pMarket": 0.0651,
+      "edge": -0.0514
+    },
+    {
+      "name": "SUPREME FATE",
+      "key": "SUPREME FATE",
+      "draw": 7,
+      "rating": 78,
+      "jockey": "A Fortune",
+      "trainer": "A B Fortune",
+      "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 49.5,
+      "factors": {
+        "form": 0.522,
+        "rating": 0.758,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.546,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.129,
+        "recencyMargin": 0.663
+      },
+      "contrib": {
+        "form": 9.4,
+        "rating": 12.12,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.36,
+        "jockey": 1.64,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 1.55,
+        "recencyMargin": 7.96
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 14,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "EISTEDDFOD",
+          "HAMPSTEAD HEATH",
+          "DREAM SEARCHER"
+        ]
+      },
+      "recentForm": [
+        "10th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "placePct": 44,
+        "record": "2-16"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "10th of 12 last start.",
+        "Why it can win: 13%-strike jockey booked.",
+        "Against it: top-weight (60kg); unproven at this trip.",
+        "Beaten by EISTEDDFOD, HAMPSTEAD HEATH, DREAM SEARCHER in the past (H2H 0-3 ⚠ small sample).",
+        "Model/market disagree: model rank 8 vs market rank 1 (4/1)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "distance"
+      ],
+      "_strReasons": [
+        "13%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (60kg)",
+        "unproven at this trip"
+      ],
+      "marketRank": 1,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.078,
+      "pPlace": 0.2782,
+      "pMarket": 0.1433,
+      "edge": -0.1305
+    },
+    {
+      "name": "JOU LEKKER DING",
+      "key": "JOU LEKKER DING",
+      "draw": 8,
+      "rating": 80,
+      "jockey": "C Murray",
+      "trainer": "V H Marshall",
+      "weight": 59,
+      "odds": "20/1",
+      "oddsDecimal": 20,
+      "score": 49.1,
+      "factors": {
+        "form": 0.438,
+        "rating": 0.818,
+        "distance": 0.422,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.462,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.226,
+        "recencyMargin": 0.558
+      },
+      "contrib": {
+        "form": 7.88,
+        "rating": 13.09,
+        "distance": 4.22,
+        "going": 4,
+        "draw": 4.09,
+        "jockey": 1.38,
+        "trainer": 2.5,
+        "weight": 0.55,
+        "headToHead": 2.71,
+        "recencyMargin": 6.7
+      },
+      "knownRuns": 3,
+      "career": {
+        "starts": 20,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "UNA THE UNICORN"
+        ],
+        "losesTo": [
+          "EISTEDDFOD",
+          "SOUTH OF FRANCE",
+          "DREAM SEARCHER"
+        ]
+      },
+      "recentForm": [
+        "9th of 10 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 25,
+        "record": "1-16"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "9th of 10 last start.",
+        "Why it can win: well-rated (MR 80).",
+        "Against it: lightly-supported jockey booking; top-weight (59kg).",
+        "Has beaten UNA THE UNICORN before (H2H 1-3 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "rating"
+      ],
+      "_concerns": [
+        "jockey",
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 80)"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "top-weight (59kg)"
+      ],
+      "marketRank": 11,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.023,
+      "pPlace": 0.0879,
+      "pMarket": 0.0341,
+      "edge": -0.0221
+    },
+    {
+      "name": "HAMPSTEAD HEATH",
+      "key": "HAMPSTEAD HEATH",
+      "draw": 5,
+      "rating": 53,
+      "jockey": "K de Melo",
+      "trainer": "A N Marcus",
+      "weight": 57,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 47.4,
+      "factors": {
+        "form": 0.718,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.791,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.472,
+        "recencyMargin": 0.627
+      },
+      "contrib": {
+        "form": 12.93,
+        "rating": 0,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.91,
+        "jockey": 2.37,
+        "trainer": 2.5,
+        "weight": 1.64,
+        "headToHead": 5.66,
+        "recencyMargin": 7.52
+      },
+      "knownRuns": 5,
+      "career": {
+        "starts": 27,
+        "wins": 3,
+        "seconds": 3,
+        "thirds": 5
+      },
+      "h2h": {
+        "record": "5-3",
+        "wins": 5,
+        "losses": 3,
+        "meetings": 8,
+        "smallSample": false,
+        "beats": [
+          "TAKE IT AS RED",
+          "TAKE IT AS RED",
+          "EISTEDDFOD",
+          "AMAYAH",
+          "SUPREME FATE"
+        ],
+        "losesTo": [
+          "EISTEDDFOD",
+          "EISTEDDFOD",
+          "UNA THE UNICORN"
+        ]
+      },
+      "recentForm": [
+        "13th of 14 last start.",
+        "Consistent — placed in 3 of last 5."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 4,
+        "places": 7,
+        "winPct": 33,
+        "placePct": 58,
+        "record": "4-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "13th of 14 last start.",
+        "Consistent — placed in 3 of last 5.",
+        "Why it can win: 33%-strike jockey booked; strong recent form.",
+        "Against it: lower-rated (MR 53); unproven at this trip.",
+        "Jockey K de Melo in form (33% strike).",
+        "Has beaten TAKE IT AS RED, EISTEDDFOD, AMAYAH, SUPREME FATE before (H2H 5-3).",
+        "Model/market disagree: model rank 10 vs market rank 5 (5/1)."
+      ],
+      "_strengths": [
+        "jockey",
+        "form"
+      ],
+      "_concerns": [
+        "rating",
+        "distance"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 53)",
+        "unproven at this trip"
+      ],
+      "marketRank": 5,
+      "rank": 10,
+      "marketDisagree": true,
+      "pWin": 0.0642,
+      "pPlace": 0.2331,
+      "pMarket": 0.1194,
+      "edge": -0.1104
+    },
+    {
+      "name": "AMAYAH",
+      "key": "AMAYAH",
+      "draw": 4,
+      "rating": 54,
+      "jockey": "M Yeni",
+      "trainer": "C Bass",
+      "weight": 59,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 26.6,
+      "factors": {
+        "form": 0.19,
+        "rating": 0.03,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0,
+        "recencyMargin": 0.385
+      },
+      "contrib": {
+        "form": 3.43,
+        "rating": 0.48,
+        "distance": 3.5,
+        "going": 4,
+        "draw": 5.18,
+        "jockey": 1.25,
+        "trainer": 2.5,
+        "weight": 0.55,
+        "headToHead": 0,
+        "recencyMargin": 4.62
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 7,
+        "wins": 2,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "EISTEDDFOD",
+          "HAMPSTEAD HEATH",
+          "UNA THE UNICORN"
+        ]
+      },
+      "recentForm": [
+        "14th of 14 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "14th of 14 last start.",
+        "Why it can win: drawn 4 — a handy low draw.",
+        "Against it: patchy recent form; unproven at this trip.",
+        "Beaten by EISTEDDFOD, HAMPSTEAD HEATH, UNA THE UNICORN in the past (H2H 0-3 ⚠ small sample).",
+        "Model/market disagree: model rank 11 vs market rank 6 (5/1)."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "distance"
+      ],
+      "_strReasons": [
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "unproven at this trip"
+      ],
+      "marketRank": 6,
+      "rank": 11,
+      "marketDisagree": true,
+      "pWin": 0.0598,
+      "pPlace": 0.2185,
+      "pMarket": 0.1194,
+      "edge": -0.1191
+    }
+  ],
+  "comparison": [
+    {
+      "no": 2,
+      "name": "EISTEDDFOD",
+      "rank": 1,
+      "score": 73.1,
+      "rating": 79,
+      "draw": 2,
+      "weight": 57,
+      "odds": "5/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "P Botha",
+      "lastFive": "2545",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.748,
+        "rating": 0.788,
+        "distance": 0.8,
+        "going": 0.5,
+        "draw": 0.955,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 1,
+        "recencyMargin": 0.732
+      }
+    },
+    {
+      "no": 3,
+      "name": "GIN PALACE",
+      "rank": 2,
+      "score": 65.1,
+      "rating": 84,
+      "draw": 3,
+      "weight": 57,
+      "odds": "10/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "5165",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.611,
+        "rating": 0.939,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.909,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.583,
+        "recencyMargin": 0.865
+      }
+    },
+    {
+      "no": 10,
+      "name": "UNA THE UNICORN",
+      "rank": 3,
+      "score": 58.7,
+      "rating": 86,
+      "draw": 10,
+      "weight": 58,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "G Lerena",
+      "trainer": "J S Snaith",
+      "lastFive": "794",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.331,
+        "rating": 1,
+        "distance": 0.85,
+        "going": 0.5,
+        "draw": 0.591,
+        "jockey": 0.656,
+        "trainer": 0.5,
+        "weight": 0.182,
+        "headToHead": 0.508,
+        "recencyMargin": 0.558
+      }
+    },
+    {
+      "no": 1,
+      "name": "TAKE IT AS RED",
+      "rank": 4,
+      "score": 54.3,
+      "rating": 73,
+      "draw": 1,
+      "weight": 49,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "69446",
+      "runsKnown": 7,
+      "factors": {
+        "form": 0.298,
+        "rating": 0.606,
+        "distance": 0.907,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.005,
+        "recencyMargin": 0.66
+      }
+    },
+    {
+      "no": 9,
+      "name": "MONEY EXTRACTOR",
+      "rank": 5,
+      "score": 51.9,
+      "rating": 66,
+      "draw": 9,
+      "weight": 53,
+      "odds": "14/1",
+      "marketRank": 9,
+      "marketDisagree": true,
+      "jockey": "G Wright",
+      "trainer": "D A McLachlan",
+      "lastFive": "319129",
+      "runsKnown": 7,
+      "factors": {
+        "form": 0.487,
+        "rating": 0.394,
+        "distance": 1,
+        "going": 0.5,
+        "draw": 0.636,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.636,
+        "headToHead": 0.16,
+        "recencyMargin": 0.624
+      }
+    },
+    {
+      "no": 11,
+      "name": "DREAM SEARCHER",
+      "rank": 6,
+      "score": 51.9,
+      "rating": 55,
+      "draw": 11,
+      "weight": 60,
+      "odds": "14/1",
+      "marketRank": 10,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "1138",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.851,
+        "rating": 0.061,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.545,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.779,
+        "recencyMargin": 0.74
+      }
+    },
+    {
+      "no": 6,
+      "name": "SOUTH OF FRANCE",
+      "rank": 7,
+      "score": 49.9,
+      "rating": 56,
+      "draw": 6,
+      "weight": 59,
+      "odds": "10/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "lastFive": "2281",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.761,
+        "rating": 0.091,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.773,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.468,
+        "recencyMargin": 0.829
+      }
+    },
+    {
+      "no": 7,
+      "name": "SUPREME FATE",
+      "rank": 8,
+      "score": 49.5,
+      "rating": 78,
+      "draw": 7,
+      "weight": 60,
+      "odds": "4/1",
+      "marketRank": 1,
+      "marketDisagree": true,
+      "jockey": "A Fortune",
+      "trainer": "A B Fortune",
+      "lastFive": "310",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.522,
+        "rating": 0.758,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.727,
+        "jockey": 0.546,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.129,
+        "recencyMargin": 0.663
+      }
+    },
+    {
+      "no": 8,
+      "name": "JOU LEKKER DING",
+      "rank": 9,
+      "score": 49.1,
+      "rating": 80,
+      "draw": 8,
+      "weight": 59,
+      "odds": "20/1",
+      "marketRank": 11,
+      "marketDisagree": false,
+      "jockey": "C Murray",
+      "trainer": "V H Marshall",
+      "lastFive": "919",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.438,
+        "rating": 0.818,
+        "distance": 0.422,
+        "going": 0.5,
+        "draw": 0.682,
+        "jockey": 0.462,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0.226,
+        "recencyMargin": 0.558
+      }
+    },
+    {
+      "no": 5,
+      "name": "HAMPSTEAD HEATH",
+      "rank": 10,
+      "score": 47.4,
+      "rating": 53,
+      "draw": 5,
+      "weight": 57,
+      "odds": "5/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "K de Melo",
+      "trainer": "A N Marcus",
+      "lastFive": "317313",
+      "runsKnown": 5,
+      "factors": {
+        "form": 0.718,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.818,
+        "jockey": 0.791,
+        "trainer": 0.5,
+        "weight": 0.273,
+        "headToHead": 0.472,
+        "recencyMargin": 0.627
+      }
+    },
+    {
+      "no": 4,
+      "name": "AMAYAH",
+      "rank": 11,
+      "score": 26.6,
+      "rating": 54,
+      "draw": 4,
+      "weight": 59,
+      "odds": "5/1",
+      "marketRank": 6,
+      "marketDisagree": true,
+      "jockey": "M Yeni",
+      "trainer": "C Bass",
+      "lastFive": "714",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.19,
+        "rating": 0.03,
+        "distance": 0.35,
+        "going": 0.5,
+        "draw": 0.864,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.091,
+        "headToHead": 0,
+        "recencyMargin": 0.385
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "EISTEDDFOD",
+      "key": "EISTEDDFOD",
+      "points": 6.522,
+      "wins": 7,
+      "losses": 2,
+      "meetings": 9,
+      "beats": [
+        "AMAYAH",
+        "HAMPSTEAD HEATH",
+        "HAMPSTEAD HEATH",
+        "SOUTH OF FRANCE",
+        "SUPREME FATE",
+        "JOU LEKKER DING",
+        "DREAM SEARCHER"
+      ],
+      "losesTo": [
+        "HAMPSTEAD HEATH",
+        "UNA THE UNICORN"
+      ],
+      "record": "7-2",
+      "smallSample": false
+    },
+    {
+      "name": "DREAM SEARCHER",
+      "key": "DREAM SEARCHER",
+      "points": 4.143,
+      "wins": 5,
+      "losses": 1,
+      "meetings": 6,
+      "beats": [
+        "GIN PALACE",
+        "SOUTH OF FRANCE",
+        "SUPREME FATE",
+        "JOU LEKKER DING",
+        "UNA THE UNICORN"
+      ],
+      "losesTo": [
+        "EISTEDDFOD"
+      ],
+      "record": "5-1",
+      "smallSample": false
+    },
+    {
+      "name": "GIN PALACE",
+      "key": "GIN PALACE",
+      "points": 2.035,
+      "wins": 3,
+      "losses": 1,
+      "meetings": 4,
+      "beats": [
+        "SOUTH OF FRANCE",
+        "MONEY EXTRACTOR",
+        "UNA THE UNICORN"
+      ],
+      "losesTo": [
+        "DREAM SEARCHER"
+      ],
+      "record": "3-1",
+      "smallSample": true
+    },
+    {
+      "name": "UNA THE UNICORN",
+      "key": "UNA THE UNICORN",
+      "points": 1.23,
+      "wins": 3,
+      "losses": 3,
+      "meetings": 6,
+      "beats": [
+        "EISTEDDFOD",
+        "AMAYAH",
+        "HAMPSTEAD HEATH"
+      ],
+      "losesTo": [
+        "GIN PALACE",
+        "JOU LEKKER DING",
+        "DREAM SEARCHER"
+      ],
+      "record": "3-3",
+      "smallSample": false
+    },
+    {
+      "name": "HAMPSTEAD HEATH",
+      "key": "HAMPSTEAD HEATH",
+      "points": 0.842,
+      "wins": 5,
+      "losses": 3,
+      "meetings": 8,
+      "beats": [
+        "TAKE IT AS RED",
+        "TAKE IT AS RED",
+        "EISTEDDFOD",
+        "AMAYAH",
+        "SUPREME FATE"
+      ],
+      "losesTo": [
+        "EISTEDDFOD",
+        "EISTEDDFOD",
+        "UNA THE UNICORN"
+      ],
+      "record": "5-3",
+      "smallSample": false
+    },
+    {
+      "name": "SOUTH OF FRANCE",
+      "key": "SOUTH OF FRANCE",
+      "points": 0.798,
+      "wins": 4,
+      "losses": 3,
+      "meetings": 7,
+      "beats": [
+        "TAKE IT AS RED",
+        "JOU LEKKER DING",
+        "MONEY EXTRACTOR",
+        "MONEY EXTRACTOR"
+      ],
+      "losesTo": [
+        "EISTEDDFOD",
+        "GIN PALACE",
+        "DREAM SEARCHER"
+      ],
+      "record": "4-3",
+      "smallSample": false
+    },
+    {
+      "name": "JOU LEKKER DING",
+      "key": "JOU LEKKER DING",
+      "points": -1.801,
+      "wins": 1,
+      "losses": 3,
+      "meetings": 4,
+      "beats": [
+        "UNA THE UNICORN"
+      ],
+      "losesTo": [
+        "EISTEDDFOD",
+        "SOUTH OF FRANCE",
+        "DREAM SEARCHER"
+      ],
+      "record": "1-3",
+      "smallSample": true
+    },
+    {
+      "name": "MONEY EXTRACTOR",
+      "key": "MONEY EXTRACTOR",
+      "points": -2.516,
+      "wins": 1,
+      "losses": 3,
+      "meetings": 4,
+      "beats": [
+        "TAKE IT AS RED"
+      ],
+      "losesTo": [
+        "GIN PALACE",
+        "SOUTH OF FRANCE",
+        "SOUTH OF FRANCE"
+      ],
+      "record": "1-3",
+      "smallSample": true
+    },
+    {
+      "name": "SUPREME FATE",
+      "key": "SUPREME FATE",
+      "points": -2.841,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "EISTEDDFOD",
+        "HAMPSTEAD HEATH",
+        "DREAM SEARCHER"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    },
+    {
+      "name": "TAKE IT AS RED",
+      "key": "TAKE IT AS RED",
+      "points": -4.18,
+      "wins": 0,
+      "losses": 4,
+      "meetings": 4,
+      "beats": [],
+      "losesTo": [
+        "HAMPSTEAD HEATH",
+        "HAMPSTEAD HEATH",
+        "SOUTH OF FRANCE",
+        "MONEY EXTRACTOR"
+      ],
+      "record": "0-4",
+      "smallSample": true
+    },
+    {
+      "name": "AMAYAH",
+      "key": "AMAYAH",
+      "points": -4.233,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "EISTEDDFOD",
+        "HAMPSTEAD HEATH",
+        "UNA THE UNICORN"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "EISTEDDFOD",
+  "places": 3
+}

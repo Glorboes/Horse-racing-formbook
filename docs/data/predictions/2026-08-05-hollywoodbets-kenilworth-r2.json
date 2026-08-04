@@ -1,0 +1,1640 @@
+{
+  "id": "2026-08-05-hollywoodbets-kenilworth-r2",
+  "date": "2026-08-05",
+  "track": "HOLLYWOODBETS KENILWORTH",
+  "race": 2,
+  "time": "13:45",
+  "distance": 1200,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Maiden Plate",
+  "generated": "2026-08-04T10:47:05.226Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "SABRE WING",
+      "key": "SABRE WING",
+      "draw": 2,
+      "rating": 26,
+      "jockey": "A Fortune",
+      "trainer": "G W Ennion",
+      "weight": 58,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 79.7,
+      "factors": {
+        "form": 0.833,
+        "rating": 1,
+        "distance": 0.892,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.562,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 1,
+        "recencyMargin": 0.688
+      },
+      "contrib": {
+        "form": 15,
+        "rating": 16,
+        "distance": 8.92,
+        "going": 4,
+        "draw": 5.75,
+        "jockey": 1.68,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 12,
+        "recencyMargin": 8.25
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "3-0",
+        "wins": 3,
+        "losses": 0,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "EYE OPENER",
+          "ONE STEP",
+          "ROYAL EMULATION"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 13 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 2,
+        "places": 7,
+        "winPct": 13,
+        "placePct": 44,
+        "record": "2-16"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 1,
+        "wins": 0,
+        "places": 1,
+        "newPartnership": false,
+        "record": "0-1"
+      },
+      "classMove": null,
+      "reasoning": [
+        "3rd of 13 last start.",
+        "Why it can win: strong recent form; top-rated in the field (MR 26); placed at this trip before.",
+        "Against it: carries 58kg.",
+        "Has beaten EYE OPENER, ONE STEP, ROYAL EMULATION before (H2H 3-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "rating",
+        "distance"
+      ],
+      "_concerns": [
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "top-rated in the field (MR 26)",
+        "placed at this trip before"
+      ],
+      "_conReasons": [
+        "carries 58kg"
+      ],
+      "marketRank": 2,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.5012,
+      "pPlace": 0.9074,
+      "pMarket": 0.1432,
+      "edge": 0.716
+    },
+    {
+      "name": "ROYAL EMULATION",
+      "key": "ROYAL EMULATION",
+      "draw": 11,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 58,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 63.7,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.838,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.795,
+        "recencyMargin": 0.654
+      },
+      "contrib": {
+        "form": 13.5,
+        "rating": 8,
+        "distance": 8.38,
+        "going": 4,
+        "draw": 3.5,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 9.54,
+        "recencyMargin": 7.85
+      },
+      "knownRuns": 1,
+      "career": null,
+      "h2h": {
+        "record": "2-1",
+        "wins": 2,
+        "losses": 1,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "EYE OPENER",
+          "ONE STEP"
+        ],
+        "losesTo": [
+          "SABRE WING"
+        ]
+      },
+      "recentForm": [
+        "4th of 13 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "4th of 13 last start.",
+        "Why it can win: strong recent form; suited to this distance; has beaten EYE OPENER, ONE STEP.",
+        "Against it: up in class; carries 58kg.",
+        "Has beaten EYE OPENER, ONE STEP before (H2H 2-1 ⚠ small sample).",
+        "Model/market disagree: model rank 2 vs market rank 9 (25/1)."
+      ],
+      "_strengths": [
+        "form",
+        "distance",
+        "headToHead"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "suited to this distance",
+        "has beaten EYE OPENER, ONE STEP"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 58kg"
+      ],
+      "marketRank": 9,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.0436,
+      "pPlace": 0.1937,
+      "pMarket": 0.0275,
+      "edge": 0.0322
+    },
+    {
+      "name": "ROCK THE ROAD",
+      "key": "ROCK THE ROAD",
+      "draw": 6,
+      "rating": 25,
+      "jockey": null,
+      "trainer": null,
+      "weight": 60,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 57.7,
+      "factors": {
+        "form": 0.643,
+        "rating": 0.833,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.574,
+        "recencyMargin": 0.573
+      },
+      "contrib": {
+        "form": 11.57,
+        "rating": 13.33,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.75,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 6.88,
+        "recencyMargin": 6.88
+      },
+      "knownRuns": 2,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "3rd of 9 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "3rd of 9 last start.",
+        "Why it can win: well-rated (MR 25); strong recent form; hitting the line hard lately.",
+        "Against it: unproven at this trip; top-weight (60kg)."
+      ],
+      "_strengths": [
+        "rating",
+        "form",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "distance",
+        "weight"
+      ],
+      "_strReasons": [
+        "well-rated (MR 25)",
+        "strong recent form",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "unproven at this trip",
+        "top-weight (60kg)"
+      ],
+      "marketRank": 3,
+      "rank": 3,
+      "marketDisagree": false,
+      "pWin": 0.0826,
+      "pPlace": 0.3463,
+      "pMarket": 0.1432,
+      "edge": -0.1212
+    },
+    {
+      "name": "MIND OVER YOU",
+      "key": "MIND OVER YOU",
+      "draw": 3,
+      "rating": 20,
+      "jockey": "K Matsunyane",
+      "trainer": "J Crawford",
+      "weight": 58,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 56.8,
+      "factors": {
+        "form": 0.727,
+        "rating": 0,
+        "distance": 0.823,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.575,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.735,
+        "recencyMargin": 0.688
+      },
+      "contrib": {
+        "form": 13.09,
+        "rating": 0,
+        "distance": 8.23,
+        "going": 4,
+        "draw": 5.5,
+        "jockey": 1.72,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 8.82,
+        "recencyMargin": 8.25
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "1-0",
+        "wins": 1,
+        "losses": 0,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [
+          "CLOUDY DAY"
+        ],
+        "losesTo": []
+      },
+      "recentForm": [
+        "4th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "4th of 12 last start.",
+        "Why it can win: hitting the line hard lately; strong recent form; suited to this distance.",
+        "Against it: lower-rated (MR 20); carries 58kg.",
+        "Has beaten CLOUDY DAY before (H2H 1-0 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "recencyMargin",
+        "form",
+        "distance"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "hitting the line hard lately",
+        "strong recent form",
+        "suited to this distance"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 20)",
+        "carries 58kg"
+      ],
+      "marketRank": 4,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.0691,
+      "pPlace": 0.296,
+      "pMarket": 0.1193,
+      "edge": -0.1004
+    },
+    {
+      "name": "ONE STEP",
+      "key": "ONE STEP",
+      "draw": 10,
+      "rating": null,
+      "jockey": "K de Melo",
+      "trainer": "D A McLachlan",
+      "weight": 58,
+      "odds": "14/1",
+      "oddsDecimal": 14,
+      "score": 53.7,
+      "factors": {
+        "form": 0.583,
+        "rating": 0.5,
+        "distance": 0.729,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.827,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.383
+      },
+      "contrib": {
+        "form": 10.5,
+        "rating": 8,
+        "distance": 7.29,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 2.48,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 5.99,
+        "recencyMargin": 4.6
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "1-2",
+        "wins": 1,
+        "losses": 2,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [
+          "EYE OPENER"
+        ],
+        "losesTo": [
+          "SABRE WING",
+          "ROYAL EMULATION"
+        ]
+      },
+      "recentForm": [
+        "6th of 13 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 4,
+        "places": 7,
+        "winPct": 33,
+        "placePct": 58,
+        "record": "4-12"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 13 last start.",
+        "Why it can win: 33%-strike jockey booked; suited to this distance.",
+        "Against it: up in class; carries 58kg.",
+        "Jockey K de Melo in form (33% strike).",
+        "Has beaten EYE OPENER before (H2H 1-2 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "jockey",
+        "distance"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "suited to this distance"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 58kg"
+      ],
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0295,
+      "pPlace": 0.1334,
+      "pMarket": 0.0477,
+      "edge": -0.0365
+    },
+    {
+      "name": "OVER MY SHOULDER",
+      "key": "OVER MY SHOULDER",
+      "draw": 1,
+      "rating": null,
+      "jockey": "G Lerena",
+      "trainer": "J S Snaith",
+      "weight": 58,
+      "odds": "16/10",
+      "oddsDecimal": 1.6,
+      "score": 50.9,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.678,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 6,
+        "jockey": 2.03,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 4,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "2-8"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 1 — a handy low draw; 25%-strike jockey booked.",
+        "Against it: up in class; carries 58kg.",
+        "Model/market disagree: model rank 6 vs market rank 1 (16/10).",
+        "Unraced — first career start."
+      ],
+      "_strengths": [
+        "draw",
+        "jockey"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "drawn 1 — a handy low draw",
+        "25%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "up in class",
+        "carries 58kg"
+      ],
+      "marketRank": 1,
+      "rank": 6,
+      "marketDisagree": true,
+      "pWin": 0.1412,
+      "pPlace": 0.5296,
+      "pMarket": 0.2754,
+      "edge": -0.2683
+    },
+    {
+      "name": "HURRICANE PAIGE",
+      "key": "HURRICANE PAIGE",
+      "draw": 12,
+      "rating": 24,
+      "jockey": null,
+      "trainer": null,
+      "weight": 55,
+      "odds": "20/1",
+      "oddsDecimal": 20,
+      "score": 49.7,
+      "factors": {
+        "form": 0.251,
+        "rating": 0.667,
+        "distance": 0.48,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.574,
+        "recencyMargin": 0.299
+      },
+      "contrib": {
+        "form": 4.52,
+        "rating": 10.67,
+        "distance": 4.8,
+        "going": 4,
+        "draw": 3.25,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 6.88,
+        "recencyMargin": 3.59
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 6 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "5th of 6 last start.",
+        "Why it can win: well-in at the weights (55kg); well-rated (MR 24).",
+        "Against it: drawn wide (12); patchy recent form."
+      ],
+      "_strengths": [
+        "weight",
+        "rating"
+      ],
+      "_concerns": [
+        "draw",
+        "form"
+      ],
+      "_strReasons": [
+        "well-in at the weights (55kg)",
+        "well-rated (MR 24)"
+      ],
+      "_conReasons": [
+        "drawn wide (12)",
+        "patchy recent form"
+      ],
+      "marketRank": 7,
+      "rank": 7,
+      "marketDisagree": false,
+      "pWin": 0.0199,
+      "pPlace": 0.0912,
+      "pMarket": 0.0341,
+      "edge": -0.0283
+    },
+    {
+      "name": "WINTER BLOSSOM",
+      "key": "WINTER BLOSSOM",
+      "draw": 4,
+      "rating": null,
+      "jockey": "C Murray",
+      "trainer": "L V Woodruff",
+      "weight": 58,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 49.4,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.469,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.41,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 16,
+        "wins": 1,
+        "places": 4,
+        "winPct": 6,
+        "placePct": 25,
+        "record": "1-16"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Why it can win: drawn 4 — a handy low draw.",
+        "Against it: up in class; lightly-supported jockey booking.",
+        "Model/market disagree: model rank 8 vs market rank 5 (5/1).",
+        "Unraced — first career start."
+      ],
+      "_strengths": [
+        "draw"
+      ],
+      "_concerns": [
+        "rating",
+        "jockey"
+      ],
+      "_strReasons": [
+        "drawn 4 — a handy low draw"
+      ],
+      "_conReasons": [
+        "up in class",
+        "lightly-supported jockey booking"
+      ],
+      "marketRank": 5,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.0624,
+      "pPlace": 0.27,
+      "pMarket": 0.1193,
+      "edge": -0.1138
+    },
+    {
+      "name": "QILIN",
+      "key": "QILIN",
+      "draw": 5,
+      "rating": null,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "weight": 58,
+      "odds": "20/1",
+      "oddsDecimal": 20,
+      "score": 49.3,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 5,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: up in class; carries 58kg.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "up in class",
+        "carries 58kg"
+      ],
+      "marketRank": 8,
+      "rank": 9,
+      "marketDisagree": false,
+      "pWin": 0.0198,
+      "pPlace": 0.0904,
+      "pMarket": 0.0341,
+      "edge": -0.0287
+    },
+    {
+      "name": "NAUGHTY PRINCESS",
+      "key": "NAUGHTY PRINCESS",
+      "draw": 8,
+      "rating": null,
+      "jockey": "G Wright",
+      "trainer": "D A McLachlan",
+      "weight": 58,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 48.1,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 7.2,
+        "rating": 8,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.25,
+        "jockey": 1.17,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 6.88,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 17,
+        "record": "0-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Against it: lightly-supported jockey booking; up in class.",
+        "Unraced — first career start."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "jockey",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "up in class"
+      ],
+      "marketRank": 10,
+      "rank": 10,
+      "marketDisagree": false,
+      "pWin": 0.0127,
+      "pPlace": 0.0588,
+      "pMarket": 0.0211,
+      "edge": -0.0166
+    },
+    {
+      "name": "CLOUDY DAY",
+      "key": "CLOUDY DAY",
+      "draw": 9,
+      "rating": null,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "weight": 58,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 35.8,
+      "factors": {
+        "form": 0.091,
+        "rating": 0.5,
+        "distance": 0.409,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.412,
+        "recencyMargin": 0.104
+      },
+      "contrib": {
+        "form": 1.64,
+        "rating": 8,
+        "distance": 4.09,
+        "going": 4,
+        "draw": 4,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 4.95,
+        "recencyMargin": 1.25
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 1,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-1",
+        "wins": 0,
+        "losses": 1,
+        "meetings": 1,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "MIND OVER YOU"
+        ]
+      },
+      "recentForm": [
+        "11th of 12 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "11th of 12 last start.",
+        "Against it: patchy recent form; up in class.",
+        "Beaten by MIND OVER YOU in the past (H2H 0-1 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "rating"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "up in class"
+      ],
+      "marketRank": 11,
+      "rank": 11,
+      "marketDisagree": false,
+      "pWin": 0.0108,
+      "pPlace": 0.05,
+      "pMarket": 0.0211,
+      "edge": -0.0205
+    },
+    {
+      "name": "EYE OPENER",
+      "key": "EYE OPENER",
+      "draw": 7,
+      "rating": null,
+      "jockey": "J Solomons",
+      "trainer": "D A McLachlan",
+      "weight": 58,
+      "odds": "50/1",
+      "oddsDecimal": 50,
+      "score": 29.8,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.5,
+        "distance": 0.404,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.559,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "contrib": {
+        "form": 1.5,
+        "rating": 8,
+        "distance": 4.04,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 1.68,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 0,
+        "recencyMargin": 0
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 0,
+        "wins": 0,
+        "seconds": 0,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "0-3",
+        "wins": 0,
+        "losses": 3,
+        "meetings": 3,
+        "smallSample": true,
+        "beats": [],
+        "losesTo": [
+          "SABRE WING",
+          "ONE STEP",
+          "ROYAL EMULATION"
+        ]
+      },
+      "recentForm": [
+        "12th of 13 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 1,
+        "places": 3,
+        "winPct": 14,
+        "placePct": 43,
+        "record": "1-7"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "12th of 13 last start.",
+        "Against it: patchy recent form; beaten by SABRE WING, ONE STEP before.",
+        "Beaten by SABRE WING, ONE STEP, ROYAL EMULATION in the past (H2H 0-3 ⚠ small sample)."
+      ],
+      "_strengths": [],
+      "_concerns": [
+        "form",
+        "headToHead"
+      ],
+      "_strReasons": [],
+      "_conReasons": [
+        "patchy recent form",
+        "beaten by SABRE WING, ONE STEP before"
+      ],
+      "marketRank": 12,
+      "rank": 12,
+      "marketDisagree": false,
+      "pWin": 0.0071,
+      "pPlace": 0.0331,
+      "pMarket": 0.014,
+      "edge": -0.0138
+    }
+  ],
+  "comparison": [
+    {
+      "no": 2,
+      "name": "SABRE WING",
+      "rank": 1,
+      "score": 79.7,
+      "rating": 26,
+      "draw": 2,
+      "weight": 58,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "A Fortune",
+      "trainer": "G W Ennion",
+      "lastFive": "3",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.833,
+        "rating": 1,
+        "distance": 0.892,
+        "going": 0.5,
+        "draw": 0.958,
+        "jockey": 0.562,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 1,
+        "recencyMargin": 0.688
+      }
+    },
+    {
+      "no": 11,
+      "name": "ROYAL EMULATION",
+      "rank": 2,
+      "score": 63.7,
+      "rating": null,
+      "draw": 11,
+      "weight": 58,
+      "odds": "25/1",
+      "marketRank": 9,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.75,
+        "rating": 0.5,
+        "distance": 0.838,
+        "going": 0.5,
+        "draw": 0.583,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.795,
+        "recencyMargin": 0.654
+      }
+    },
+    {
+      "no": 6,
+      "name": "ROCK THE ROAD",
+      "rank": 3,
+      "score": 57.7,
+      "rating": 25,
+      "draw": 6,
+      "weight": 60,
+      "odds": "4/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "34",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.643,
+        "rating": 0.833,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.792,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.574,
+        "recencyMargin": 0.573
+      }
+    },
+    {
+      "no": 3,
+      "name": "MIND OVER YOU",
+      "rank": 4,
+      "score": 56.8,
+      "rating": 20,
+      "draw": 3,
+      "weight": 58,
+      "odds": "5/1",
+      "marketRank": 4,
+      "marketDisagree": false,
+      "jockey": "K Matsunyane",
+      "trainer": "J Crawford",
+      "lastFive": "4",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.727,
+        "rating": 0,
+        "distance": 0.823,
+        "going": 0.5,
+        "draw": 0.917,
+        "jockey": 0.575,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.735,
+        "recencyMargin": 0.688
+      }
+    },
+    {
+      "no": 10,
+      "name": "ONE STEP",
+      "rank": 5,
+      "score": 53.7,
+      "rating": null,
+      "draw": 10,
+      "weight": 58,
+      "odds": "14/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "K de Melo",
+      "trainer": "D A McLachlan",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.583,
+        "rating": 0.5,
+        "distance": 0.729,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.827,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.5,
+        "recencyMargin": 0.383
+      }
+    },
+    {
+      "no": 1,
+      "name": "OVER MY SHOULDER",
+      "rank": 6,
+      "score": 50.9,
+      "rating": null,
+      "draw": 1,
+      "weight": 58,
+      "odds": "16/10",
+      "marketRank": 1,
+      "marketDisagree": true,
+      "jockey": "G Lerena",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.678,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 12,
+      "name": "HURRICANE PAIGE",
+      "rank": 7,
+      "score": 49.7,
+      "rating": 24,
+      "draw": 12,
+      "weight": 55,
+      "odds": "20/1",
+      "marketRank": 7,
+      "marketDisagree": false,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "61055",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.251,
+        "rating": 0.667,
+        "distance": 0.48,
+        "going": 0.5,
+        "draw": 0.542,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.574,
+        "recencyMargin": 0.299
+      }
+    },
+    {
+      "no": 4,
+      "name": "WINTER BLOSSOM",
+      "rank": 8,
+      "score": 49.4,
+      "rating": null,
+      "draw": 4,
+      "weight": 58,
+      "odds": "5/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "C Murray",
+      "trainer": "L V Woodruff",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.469,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 5,
+      "name": "QILIN",
+      "rank": 9,
+      "score": 49.3,
+      "rating": null,
+      "draw": 5,
+      "weight": 58,
+      "odds": "20/1",
+      "marketRank": 8,
+      "marketDisagree": false,
+      "jockey": "J P v’d Merwe",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.833,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 8,
+      "name": "NAUGHTY PRINCESS",
+      "rank": 10,
+      "score": 48.1,
+      "rating": null,
+      "draw": 8,
+      "weight": 58,
+      "odds": "33/1",
+      "marketRank": 10,
+      "marketDisagree": false,
+      "jockey": "G Wright",
+      "trainer": "D A McLachlan",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.4,
+        "rating": 0.5,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.708,
+        "jockey": 0.391,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.574,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 9,
+      "name": "CLOUDY DAY",
+      "rank": 11,
+      "score": 35.8,
+      "rating": null,
+      "draw": 9,
+      "weight": 58,
+      "odds": "33/1",
+      "marketRank": 11,
+      "marketDisagree": false,
+      "jockey": "A Mgudlwa",
+      "trainer": "C Bass",
+      "lastFive": "11",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.091,
+        "rating": 0.5,
+        "distance": 0.409,
+        "going": 0.5,
+        "draw": 0.667,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.412,
+        "recencyMargin": 0.104
+      }
+    },
+    {
+      "no": 7,
+      "name": "EYE OPENER",
+      "rank": 12,
+      "score": 29.8,
+      "rating": null,
+      "draw": 7,
+      "weight": 58,
+      "odds": "50/1",
+      "marketRank": 12,
+      "marketDisagree": false,
+      "jockey": "J Solomons",
+      "trainer": "D A McLachlan",
+      "lastFive": "12",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.083,
+        "rating": 0.5,
+        "distance": 0.404,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.559,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0,
+        "recencyMargin": 0
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "SABRE WING",
+      "key": "SABRE WING",
+      "points": 4.257,
+      "wins": 3,
+      "losses": 0,
+      "meetings": 3,
+      "beats": [
+        "EYE OPENER",
+        "ONE STEP",
+        "ROYAL EMULATION"
+      ],
+      "losesTo": [],
+      "record": "3-0",
+      "smallSample": true
+    },
+    {
+      "name": "ROYAL EMULATION",
+      "key": "ROYAL EMULATION",
+      "points": 2.208,
+      "wins": 2,
+      "losses": 1,
+      "meetings": 3,
+      "beats": [
+        "EYE OPENER",
+        "ONE STEP"
+      ],
+      "losesTo": [
+        "SABRE WING"
+      ],
+      "record": "2-1",
+      "smallSample": true
+    },
+    {
+      "name": "MIND OVER YOU",
+      "key": "MIND OVER YOU",
+      "points": 1.609,
+      "wins": 1,
+      "losses": 0,
+      "meetings": 1,
+      "beats": [
+        "CLOUDY DAY"
+      ],
+      "losesTo": [],
+      "record": "1-0",
+      "smallSample": true
+    },
+    {
+      "name": "OVER MY SHOULDER",
+      "key": "OVER MY SHOULDER",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "WINTER BLOSSOM",
+      "key": "WINTER BLOSSOM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "QILIN",
+      "key": "QILIN",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ROCK THE ROAD",
+      "key": "ROCK THE ROAD",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "NAUGHTY PRINCESS",
+      "key": "NAUGHTY PRINCESS",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "HURRICANE PAIGE",
+      "key": "HURRICANE PAIGE",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "ONE STEP",
+      "key": "ONE STEP",
+      "points": -0.739,
+      "wins": 1,
+      "losses": 2,
+      "meetings": 3,
+      "beats": [
+        "EYE OPENER"
+      ],
+      "losesTo": [
+        "SABRE WING",
+        "ROYAL EMULATION"
+      ],
+      "record": "1-2",
+      "smallSample": true
+    },
+    {
+      "name": "CLOUDY DAY",
+      "key": "CLOUDY DAY",
+      "points": -1.609,
+      "wins": 0,
+      "losses": 1,
+      "meetings": 1,
+      "beats": [],
+      "losesTo": [
+        "MIND OVER YOU"
+      ],
+      "record": "0-1",
+      "smallSample": true
+    },
+    {
+      "name": "EYE OPENER",
+      "key": "EYE OPENER",
+      "points": -5.726,
+      "wins": 0,
+      "losses": 3,
+      "meetings": 3,
+      "beats": [],
+      "losesTo": [
+        "SABRE WING",
+        "ONE STEP",
+        "ROYAL EMULATION"
+      ],
+      "record": "0-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "SABRE WING",
+  "places": 3
+}
