@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T10:47:05.555Z",
+  "generated": "2026-09-26T07:19:43.903Z",
   "days": {
     "2026-02-04": {
       "bankers": [
@@ -10030,6 +10030,595 @@
             "time": "14:20",
             "selection": "AFRICAN WILD DOG",
             "prob": 50.8
+          }
+        ]
+      },
+      "note": "Probabilities blend model score with market odds; place uses the Harville model. Confidence only — no stakes or payouts."
+    },
+    "2026-09-26": {
+      "bankers": [
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:37",
+          "selection": "LANDMAN",
+          "pWin": 49.7,
+          "pPlace": 89.4,
+          "confidence": "strong"
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:25",
+          "selection": "KATTEKWAADKWADRAAD",
+          "pWin": 35.4,
+          "pPlace": 78.2,
+          "confidence": "strong"
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:35",
+          "selection": "STORMWATCH",
+          "pWin": 30.3,
+          "pPlace": 74.2,
+          "confidence": "strong"
+        }
+      ],
+      "winMultis": [
+        {
+          "kind": "win",
+          "legs": 3,
+          "combined": 0.0532,
+          "combinedPct": 5.3,
+          "confidence": "speculative",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 49.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 35.4
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 4,
+          "combined": 0.0155,
+          "combinedPct": 1.5,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 49.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 35.4
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:50",
+              "selection": "FIRST BLOOM",
+              "prob": 29.1
+            }
+          ]
+        },
+        {
+          "kind": "win",
+          "legs": 5,
+          "combined": 0.0045,
+          "combinedPct": 0.5,
+          "confidence": "longshot",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 49.7
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 35.4
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 30.3
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:50",
+              "selection": "FIRST BLOOM",
+              "prob": 29.1
+            },
+            {
+              "race": 5,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:00",
+              "selection": "GENTLEMAN JOE",
+              "prob": 29.1
+            }
+          ]
+        }
+      ],
+      "placeMultis": [
+        {
+          "kind": "place",
+          "legs": 4,
+          "combined": 0.3668,
+          "combinedPct": 36.7,
+          "confidence": "strong",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 89.4
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 78.2
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 74.2
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:50",
+              "selection": "FIRST BLOOM",
+              "prob": 70.7
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 5,
+          "combined": 0.2451,
+          "combinedPct": 24.5,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 89.4
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 78.2
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 74.2
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:50",
+              "selection": "FIRST BLOOM",
+              "prob": 70.7
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:15",
+              "selection": "LEGAL DANCER",
+              "prob": 66.8
+            }
+          ]
+        },
+        {
+          "kind": "place",
+          "legs": 6,
+          "combined": 0.1383,
+          "combinedPct": 13.8,
+          "confidence": "fair",
+          "selections": [
+            {
+              "race": 1,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "12:37",
+              "selection": "LANDMAN",
+              "prob": 89.4
+            },
+            {
+              "race": 4,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "14:25",
+              "selection": "KATTEKWAADKWADRAAD",
+              "prob": 78.2
+            },
+            {
+              "race": 6,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "15:35",
+              "selection": "STORMWATCH",
+              "prob": 74.2
+            },
+            {
+              "race": 3,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:50",
+              "selection": "FIRST BLOOM",
+              "prob": 70.7
+            },
+            {
+              "race": 2,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "13:15",
+              "selection": "LEGAL DANCER",
+              "prob": 66.8
+            },
+            {
+              "race": 9,
+              "track": "HOLLYWOODBETS DURBANVILLE",
+              "time": "17:20",
+              "selection": "WILLIAM’S WOMAN",
+              "prob": 56.4
+            }
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "race": 1,
+          "selection": "LANDMAN",
+          "edgePts": 61.2,
+          "pWin": 49.7
+        },
+        {
+          "race": 5,
+          "selection": "GENTLEMAN JOE",
+          "edgePts": 33.5,
+          "pWin": 29.1
+        },
+        {
+          "race": 4,
+          "selection": "KATTEKWAADKWADRAAD",
+          "edgePts": 32.7,
+          "pWin": 35.4
+        },
+        {
+          "race": 6,
+          "selection": "STORMWATCH",
+          "edgePts": 27.8,
+          "pWin": 30.3
+        },
+        {
+          "race": 7,
+          "selection": "CHASINGTHERAINBOW",
+          "edgePts": 21.6,
+          "pWin": 19.4
+        },
+        {
+          "race": 9,
+          "selection": "WILLIAM’S WOMAN",
+          "edgePts": 16.4,
+          "pWin": 21.5
+        },
+        {
+          "race": 2,
+          "selection": "LEGAL DANCER",
+          "edgePts": 13.8,
+          "pWin": 28.1
+        },
+        {
+          "race": 8,
+          "selection": "GIRL LIKE US",
+          "edgePts": 10.3,
+          "pWin": 20.2
+        }
+      ],
+      "valuePicks": [
+        {
+          "race": 1,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "12:37",
+          "name": "LANDMAN",
+          "odds": "5/2",
+          "edgePts": 61.2,
+          "marketPct": 19.1,
+          "modelPct": 80.3,
+          "winPct": 49.7,
+          "modelRank": 1
+        },
+        {
+          "race": 3,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:50",
+          "name": "SENORITA LOLITA",
+          "odds": "16/1",
+          "edgePts": 37.1,
+          "marketPct": 4.3,
+          "modelPct": 41.5,
+          "winPct": 22.9,
+          "modelRank": 1
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:00",
+          "name": "GENTLEMAN JOE",
+          "odds": "5/1",
+          "edgePts": 33.5,
+          "marketPct": 12.3,
+          "modelPct": 45.8,
+          "winPct": 29.1,
+          "modelRank": 1
+        },
+        {
+          "race": 4,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "14:25",
+          "name": "KATTEKWAADKWADRAAD",
+          "odds": "3/1",
+          "edgePts": 32.7,
+          "marketPct": 19,
+          "modelPct": 51.7,
+          "winPct": 35.4,
+          "modelRank": 1
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:35",
+          "name": "STORMWATCH",
+          "odds": "4/1",
+          "edgePts": 27.8,
+          "marketPct": 16.4,
+          "modelPct": 44.1,
+          "winPct": 30.3,
+          "modelRank": 1
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:10",
+          "name": "O’TENIKWA",
+          "odds": "14/1",
+          "edgePts": 25,
+          "marketPct": 5.1,
+          "modelPct": 30.1,
+          "winPct": 17.6,
+          "modelRank": 1
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:35",
+          "name": "BABELICIOUS",
+          "odds": "33/1",
+          "edgePts": 22.6,
+          "marketPct": 2.4,
+          "modelPct": 25,
+          "winPct": 13.7,
+          "modelRank": 2
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:10",
+          "name": "CHASINGTHERAINBOW",
+          "odds": "8/1",
+          "edgePts": 21.6,
+          "marketPct": 8.6,
+          "modelPct": 30.1,
+          "winPct": 19.4,
+          "modelRank": 2
+        },
+        {
+          "race": 9,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "17:20",
+          "name": "WILLIAM’S WOMAN",
+          "odds": "5/1",
+          "edgePts": 16.4,
+          "marketPct": 13.3,
+          "modelPct": 29.6,
+          "winPct": 21.5,
+          "modelRank": 1
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:15",
+          "name": "LEGAL DANCER",
+          "odds": "5/2",
+          "edgePts": 13.8,
+          "marketPct": 21.2,
+          "modelPct": 35,
+          "winPct": 28.1,
+          "modelRank": 1
+        },
+        {
+          "race": 9,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "17:20",
+          "name": "WORLD OF SECRETS",
+          "odds": "10/1",
+          "edgePts": 12,
+          "marketPct": 7.2,
+          "modelPct": 19.2,
+          "winPct": 13.2,
+          "modelRank": 2
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:45",
+          "name": "GIRL LIKE US",
+          "odds": "4/1",
+          "edgePts": 10.3,
+          "marketPct": 15,
+          "modelPct": 25.3,
+          "winPct": 20.2,
+          "modelRank": 1
+        },
+        {
+          "race": 9,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "17:20",
+          "name": "COUNTRY TIME",
+          "odds": "10/1",
+          "edgePts": 9.9,
+          "marketPct": 7.2,
+          "modelPct": 17.1,
+          "winPct": 12.2,
+          "modelRank": 3
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:45",
+          "name": "SPLASH OF COLOUR",
+          "odds": "10/1",
+          "edgePts": 9,
+          "marketPct": 6.8,
+          "modelPct": 15.9,
+          "winPct": 11.4,
+          "modelRank": 2
+        },
+        {
+          "race": 8,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:45",
+          "name": "SING FOREVERMORE",
+          "odds": "14/1",
+          "edgePts": 8.9,
+          "marketPct": 5,
+          "modelPct": 13.9,
+          "winPct": 9.4,
+          "modelRank": 3
+        },
+        {
+          "race": 6,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:35",
+          "name": "FOG IN FINLAND",
+          "odds": "33/1",
+          "edgePts": 8.3,
+          "marketPct": 2.4,
+          "modelPct": 10.7,
+          "winPct": 6.6,
+          "modelRank": 3
+        },
+        {
+          "race": 7,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "16:10",
+          "name": "OUTLAW KING",
+          "odds": "20/1",
+          "edgePts": 8,
+          "marketPct": 3.7,
+          "modelPct": 11.7,
+          "winPct": 7.7,
+          "modelRank": 3
+        },
+        {
+          "race": 2,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "13:15",
+          "name": "THE AFRO WAY",
+          "odds": "50/1",
+          "edgePts": 7.5,
+          "marketPct": 1.5,
+          "modelPct": 8.9,
+          "winPct": 5.2,
+          "modelRank": 3
+        },
+        {
+          "race": 5,
+          "track": "HOLLYWOODBETS DURBANVILLE",
+          "time": "15:00",
+          "name": "WORLD FIRST",
+          "odds": "14/1",
+          "edgePts": 6.4,
+          "marketPct": 4.9,
+          "modelPct": 11.3,
+          "winPct": 8.1,
+          "modelRank": 3
+        }
+      ],
+      "best": {
+        "kind": "win",
+        "legs": 3,
+        "combined": 0.0532,
+        "combinedPct": 5.3,
+        "confidence": "speculative",
+        "selections": [
+          {
+            "race": 1,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "12:37",
+            "selection": "LANDMAN",
+            "prob": 49.7
+          },
+          {
+            "race": 4,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "14:25",
+            "selection": "KATTEKWAADKWADRAAD",
+            "prob": 35.4
+          },
+          {
+            "race": 6,
+            "track": "HOLLYWOODBETS DURBANVILLE",
+            "time": "15:35",
+            "selection": "STORMWATCH",
+            "prob": 30.3
           }
         ]
       },

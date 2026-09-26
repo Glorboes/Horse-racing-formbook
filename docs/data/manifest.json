@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-04T10:47:05.536Z",
-  "count": 244,
+  "generated": "2026-09-26T07:19:43.886Z",
+  "count": 253,
   "days": [
+    {
+      "date": "2026-09-26",
+      "races": 9,
+      "tracks": [
+        "HOLLYWOODBETS DURBANVILLE"
+      ],
+      "circuit": "Cape",
+      "settled": 0
+    },
     {
       "date": "2026-08-05",
       "races": 8,
@@ -265,6 +274,195 @@
     }
   ],
   "predictions": [
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r9.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r9",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 9,
+      "time": "17:20",
+      "distance": 1000,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 11,
+      "topPick": "WILLIAM’S WOMAN",
+      "mostLikely": {
+        "name": "WILLIAM’S WOMAN",
+        "pWin": 21.5,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r8.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r8",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 8,
+      "time": "16:45",
+      "distance": 1250,
+      "going": null,
+      "classLabel": null,
+      "runners": 10,
+      "topPick": "GIRL LIKE US",
+      "mostLikely": {
+        "name": "GIRL LIKE US",
+        "pWin": 20.2,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r7.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r7",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 7,
+      "time": "16:10",
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Grade 3",
+      "runners": 10,
+      "topPick": "O’TENIKWA",
+      "mostLikely": {
+        "name": "CHASINGTHERAINBOW",
+        "pWin": 19.4,
+        "modelRank": 2
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r6.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r6",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 6,
+      "time": "15:35",
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Grade 3",
+      "runners": 8,
+      "topPick": "STORMWATCH",
+      "mostLikely": {
+        "name": "STORMWATCH",
+        "pWin": 30.3,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r5.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r5",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 5,
+      "time": "15:00",
+      "distance": 2000,
+      "going": null,
+      "classLabel": "Listed",
+      "runners": 7,
+      "topPick": "GENTLEMAN JOE",
+      "mostLikely": {
+        "name": "GENTLEMAN JOE",
+        "pWin": 29.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r4.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r4",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 4,
+      "time": "14:25",
+      "distance": 1250,
+      "going": null,
+      "classLabel": "Stakes",
+      "runners": 9,
+      "topPick": "KATTEKWAADKWADRAAD",
+      "mostLikely": {
+        "name": "KATTEKWAADKWADRAAD",
+        "pWin": 35.4,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r3.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r3",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 3,
+      "time": "13:50",
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 11,
+      "topPick": "SENORITA LOLITA",
+      "mostLikely": {
+        "name": "FIRST BLOOM",
+        "pWin": 29.1,
+        "modelRank": 2
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r2.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r2",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 2,
+      "time": "13:15",
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 14,
+      "topPick": "LEGAL DANCER",
+      "mostLikely": {
+        "name": "LEGAL DANCER",
+        "pWin": 28.1,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
+    {
+      "file": "data/predictions/2026-09-26-hollywoodbets-durbanville-r1.json",
+      "id": "2026-09-26-hollywoodbets-durbanville-r1",
+      "date": "2026-09-26",
+      "track": "HOLLYWOODBETS DURBANVILLE",
+      "circuit": "Cape",
+      "race": 1,
+      "time": "12:37",
+      "distance": 1400,
+      "going": null,
+      "classLabel": "Maiden Plate",
+      "runners": 14,
+      "topPick": "LANDMAN",
+      "mostLikely": {
+        "name": "LANDMAN",
+        "pWin": 49.7,
+        "modelRank": 1
+      },
+      "settled": false,
+      "result": null
+    },
     {
       "file": "data/predictions/2026-08-05-hollywoodbets-kenilworth-r8.json",
       "id": "2026-08-05-hollywoodbets-kenilworth-r8",

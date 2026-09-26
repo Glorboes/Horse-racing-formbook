@@ -1,0 +1,1162 @@
+{
+  "id": "2026-09-26-hollywoodbets-durbanville-r6",
+  "date": "2026-09-26",
+  "track": "HOLLYWOODBETS DURBANVILLE",
+  "race": 6,
+  "time": "15:35",
+  "distance": 1400,
+  "going": null,
+  "surface": "Turf",
+  "classLabel": "Grade 3",
+  "generated": "2026-09-26T07:19:43.672Z",
+  "settled": false,
+  "marketPriced": true,
+  "ranked": [
+    {
+      "name": "STORMWATCH",
+      "key": "STORMWATCH",
+      "draw": 6,
+      "rating": 60,
+      "jockey": "G Lerena",
+      "trainer": "A E Sands",
+      "weight": 58,
+      "odds": "4/1",
+      "oddsDecimal": 4,
+      "score": 60.2,
+      "factors": {
+        "form": 0.882,
+        "rating": 0.04,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.589,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 1,
+        "recencyMargin": 0.925
+      },
+      "contrib": {
+        "form": 15.87,
+        "rating": 0.64,
+        "distance": 4,
+        "going": 4,
+        "draw": 4.13,
+        "jockey": 1.77,
+        "trainer": 2.5,
+        "weight": 1.8,
+        "headToHead": 12,
+        "recencyMargin": 11.1
+      },
+      "knownRuns": 4,
+      "career": {
+        "starts": 11,
+        "wins": 4,
+        "seconds": 3,
+        "thirds": 0
+      },
+      "h2h": {
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "BABELICIOUS",
+          "VIVA LA VIDA",
+          "VIVA LA VIDA"
+        ],
+        "losesTo": [
+          "VIVA LA VIDA"
+        ]
+      },
+      "recentForm": [
+        "Won last start by 7L at Kenilworth.",
+        "In form — 2 wins from last 4.",
+        "Won by 7L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 8,
+        "wins": 2,
+        "places": 4,
+        "winPct": 25,
+        "placePct": 50,
+        "record": "2-8"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "Won last start by 7L at Kenilworth.",
+        "In form — 2 wins from last 4.",
+        "Won by 7L recently — has a telling turn of foot.",
+        "Why it can win: strong recent form; has beaten BABELICIOUS, VIVA LA VIDA; hitting the line hard lately.",
+        "Against it: lower-rated (MR 60); carries 58kg.",
+        "Has beaten BABELICIOUS, VIVA LA VIDA before (H2H 3-1 ⚠ small sample)."
+      ],
+      "_strengths": [
+        "form",
+        "headToHead",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "weight"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "has beaten BABELICIOUS, VIVA LA VIDA",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 60)",
+        "carries 58kg"
+      ],
+      "marketRank": 2,
+      "rank": 1,
+      "marketDisagree": false,
+      "pWin": 0.3025,
+      "pPlace": 0.7419,
+      "pMarket": 0.1637,
+      "edge": 0.2775
+    },
+    {
+      "name": "BABELICIOUS",
+      "key": "BABELICIOUS",
+      "draw": 2,
+      "rating": 106,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "weight": 57,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 56.8,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.96,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.479,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.462,
+        "recencyMargin": 0.708
+      },
+      "contrib": {
+        "form": 5.14,
+        "rating": 15.36,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.63,
+        "jockey": 1.44,
+        "trainer": 2.5,
+        "weight": 2.4,
+        "headToHead": 5.54,
+        "recencyMargin": 8.5
+      },
+      "knownRuns": 1,
+      "career": {
+        "starts": 20,
+        "wins": 5,
+        "seconds": 3,
+        "thirds": 4
+      },
+      "h2h": {
+        "record": "1-1",
+        "wins": 1,
+        "losses": 1,
+        "meetings": 2,
+        "smallSample": true,
+        "beats": [
+          "VIVA LA VIDA"
+        ],
+        "losesTo": [
+          "STORMWATCH"
+        ]
+      },
+      "recentForm": [
+        "6th of 8 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 19,
+        "wins": 2,
+        "places": 14,
+        "winPct": 11,
+        "placePct": 74,
+        "record": "2-19"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Why it can win: well-rated (MR 106); drawn 2 — a handy low draw; hitting the line hard lately.",
+        "Against it: lightly-supported jockey booking; beaten by STORMWATCH before.",
+        "Has beaten VIVA LA VIDA before (H2H 1-1 ⚠ small sample).",
+        "Model/market disagree: model rank 2 vs market rank 7 (33/1)."
+      ],
+      "_strengths": [
+        "rating",
+        "draw",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "jockey",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-rated (MR 106)",
+        "drawn 2 — a handy low draw",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "beaten by STORMWATCH before"
+      ],
+      "marketRank": 7,
+      "rank": 2,
+      "marketDisagree": true,
+      "pWin": 0.1372,
+      "pPlace": 0.4538,
+      "pMarket": 0.0241,
+      "edge": 0.2263
+    },
+    {
+      "name": "FOG IN FINLAND",
+      "key": "FOG IN FINLAND",
+      "draw": 3,
+      "rating": null,
+      "jockey": null,
+      "trainer": null,
+      "weight": 51,
+      "odds": "33/1",
+      "oddsDecimal": 33,
+      "score": 51.7,
+      "factors": {
+        "form": 0.328,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.487,
+        "recencyMargin": 0.554
+      },
+      "contrib": {
+        "form": 5.91,
+        "rating": 8,
+        "distance": 4,
+        "going": 4,
+        "draw": 5.25,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 6,
+        "headToHead": 5.85,
+        "recencyMargin": 6.65
+      },
+      "knownRuns": 4,
+      "career": null,
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "6th of 8 last start.",
+        "Won by 6L recently — has a telling turn of foot."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "6th of 8 last start.",
+        "Won by 6L recently — has a telling turn of foot.",
+        "Why it can win: well-in at the weights (51kg); drawn 3 — a handy low draw.",
+        "Against it: lightly-supported jockey booking; outclassed by this field.",
+        "Model/market disagree: model rank 3 vs market rank 8 (33/1)."
+      ],
+      "_strengths": [
+        "weight",
+        "draw"
+      ],
+      "_concerns": [
+        "jockey",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "well-in at the weights (51kg)",
+        "drawn 3 — a handy low draw"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "outclassed by this field"
+      ],
+      "marketRank": 8,
+      "rank": 3,
+      "marketDisagree": true,
+      "pWin": 0.0655,
+      "pPlace": 0.239,
+      "pMarket": 0.0241,
+      "edge": 0.0829
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "draw": 1,
+      "rating": 108,
+      "jockey": "G van Niekerk",
+      "trainer": "J S Snaith",
+      "weight": 58,
+      "odds": "5/1",
+      "oddsDecimal": 5,
+      "score": 50.5,
+      "factors": {
+        "form": 0.117,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 0.487,
+        "recencyMargin": 0.397
+      },
+      "contrib": {
+        "form": 2.1,
+        "rating": 16,
+        "distance": 4,
+        "going": 4,
+        "draw": 6,
+        "jockey": 1.5,
+        "trainer": 2.5,
+        "weight": 1.8,
+        "headToHead": 5.85,
+        "recencyMargin": 4.77
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 9,
+        "wins": 3,
+        "seconds": 1,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 5 last start."
+      ],
+      "combo": null,
+      "jockeyRec": null,
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 5 last start.",
+        "Why it can win: top-rated in the field (MR 108); drawn 1 — a handy low draw.",
+        "Against it: patchy recent form; well beaten lately."
+      ],
+      "_strengths": [
+        "rating",
+        "draw"
+      ],
+      "_concerns": [
+        "form",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "top-rated in the field (MR 108)",
+        "drawn 1 — a handy low draw"
+      ],
+      "_conReasons": [
+        "patchy recent form",
+        "well beaten lately"
+      ],
+      "marketRank": 3,
+      "rank": 4,
+      "marketDisagree": false,
+      "pWin": 0.112,
+      "pPlace": 0.3844,
+      "pMarket": 0.1365,
+      "edge": -0.0488
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "draw": 8,
+      "rating": 93,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "weight": 54,
+      "odds": "25/1",
+      "oddsDecimal": 25,
+      "score": 47.4,
+      "factors": {
+        "form": 0.257,
+        "rating": 0.7,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.7,
+        "headToHead": 0.487,
+        "recencyMargin": 0.372
+      },
+      "contrib": {
+        "form": 4.63,
+        "rating": 11.2,
+        "distance": 4,
+        "going": 4,
+        "draw": 3.38,
+        "jockey": 1.25,
+        "trainer": 2.5,
+        "weight": 4.2,
+        "headToHead": 5.85,
+        "recencyMargin": 4.46
+      },
+      "knownRuns": 2,
+      "career": {
+        "starts": 16,
+        "wins": 3,
+        "seconds": 5,
+        "thirds": 1
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "5th of 6 last start."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 7,
+        "wins": 0,
+        "places": 2,
+        "winPct": 0,
+        "placePct": 29,
+        "record": "0-7"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "5th of 6 last start.",
+        "Why it can win: well-rated (MR 93); carries 54kg.",
+        "Against it: lightly-supported jockey booking; well beaten lately."
+      ],
+      "_strengths": [
+        "rating",
+        "weight"
+      ],
+      "_concerns": [
+        "jockey",
+        "recencyMargin"
+      ],
+      "_strReasons": [
+        "well-rated (MR 93)",
+        "carries 54kg"
+      ],
+      "_conReasons": [
+        "lightly-supported jockey booking",
+        "well beaten lately"
+      ],
+      "marketRank": 6,
+      "rank": 5,
+      "marketDisagree": false,
+      "pWin": 0.0419,
+      "pPlace": 0.1569,
+      "pMarket": 0.0315,
+      "edge": 0.0208
+    },
+    {
+      "name": "DOUBLE GRAND SLAM",
+      "key": "DOUBLE GRAND SLAM",
+      "draw": 5,
+      "rating": 66,
+      "jockey": "K de Melo",
+      "trainer": "J S Snaith",
+      "weight": 61,
+      "odds": "8/10",
+      "oddsDecimal": 0.8,
+      "score": 45.2,
+      "factors": {
+        "form": 0.676,
+        "rating": 0.16,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.682,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.487,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 12.16,
+        "rating": 2.56,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.5,
+        "jockey": 2.05,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 5.85,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 24,
+        "wins": 11,
+        "seconds": 5,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Proven winner — 11 from 24 (46%) per the card."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 12,
+        "wins": 4,
+        "places": 7,
+        "winPct": 33,
+        "placePct": 58,
+        "record": "4-12"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Proven winner — 11 from 24 (46%) per the card.",
+        "Why it can win: 33%-strike jockey booked; strong recent form.",
+        "Against it: top-weight (61kg); outclassed by this field.",
+        "Jockey K de Melo in form (33% strike).",
+        "Model/market disagree: model rank 6 vs market rank 1 (8/10)."
+      ],
+      "_strengths": [
+        "jockey",
+        "form"
+      ],
+      "_concerns": [
+        "weight",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "33%-strike jockey booked",
+        "strong recent form"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "outclassed by this field"
+      ],
+      "marketRank": 1,
+      "rank": 6,
+      "marketDisagree": true,
+      "pWin": 0.2455,
+      "pPlace": 0.6699,
+      "pMarket": 0.4548,
+      "edge": -0.4186
+    },
+    {
+      "name": "KEUKENHOF",
+      "key": "KEUKENHOF",
+      "draw": 4,
+      "rating": 62,
+      "jockey": "C Zackey",
+      "trainer": "D Kannemeyer",
+      "weight": 61,
+      "odds": "7/1",
+      "oddsDecimal": 7,
+      "score": 39.7,
+      "factors": {
+        "form": 0.449,
+        "rating": 0.08,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.578,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.487,
+        "recencyMargin": 0.4
+      },
+      "contrib": {
+        "form": 8.07,
+        "rating": 1.28,
+        "distance": 5,
+        "going": 4,
+        "draw": 4.88,
+        "jockey": 1.73,
+        "trainer": 2.5,
+        "weight": 0,
+        "headToHead": 5.85,
+        "recencyMargin": 4.8
+      },
+      "knownRuns": 0,
+      "career": {
+        "starts": 14,
+        "wins": 2,
+        "seconds": 0,
+        "thirds": 3
+      },
+      "h2h": {
+        "record": "0-0",
+        "wins": 0,
+        "losses": 0,
+        "meetings": 0,
+        "smallSample": false,
+        "beats": [],
+        "losesTo": []
+      },
+      "recentForm": [
+        "Career 14 starts, 2 wins, 5 placed (from the card)."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 26,
+        "wins": 5,
+        "places": 12,
+        "winPct": 19,
+        "placePct": 46,
+        "record": "5-26"
+      },
+      "trainerRec": null,
+      "partnership": null,
+      "classMove": null,
+      "reasoning": [
+        "Career 14 starts, 2 wins, 5 placed (from the card).",
+        "Why it can win: 19%-strike jockey booked.",
+        "Against it: top-weight (61kg); lower-rated (MR 62).",
+        "Jockey C Zackey in form (19% strike).",
+        "Model/market disagree: model rank 7 vs market rank 4 (7/1)."
+      ],
+      "_strengths": [
+        "jockey"
+      ],
+      "_concerns": [
+        "weight",
+        "rating"
+      ],
+      "_strReasons": [
+        "19%-strike jockey booked"
+      ],
+      "_conReasons": [
+        "top-weight (61kg)",
+        "lower-rated (MR 62)"
+      ],
+      "marketRank": 4,
+      "rank": 7,
+      "marketDisagree": true,
+      "pWin": 0.0584,
+      "pPlace": 0.2148,
+      "pMarket": 0.1023,
+      "edge": -0.0879
+    },
+    {
+      "name": "VIVA LA VIDA",
+      "key": "VIVA LA VIDA",
+      "draw": 7,
+      "rating": 58,
+      "jockey": "K Matsunyane",
+      "trainer": "V H Marshall",
+      "weight": 54,
+      "odds": "12/1",
+      "oddsDecimal": 12,
+      "score": 38,
+      "factors": {
+        "form": 0.524,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.525,
+        "trainer": 0.5,
+        "weight": 0.7,
+        "headToHead": 0,
+        "recencyMargin": 0.585
+      },
+      "contrib": {
+        "form": 9.43,
+        "rating": 0,
+        "distance": 4,
+        "going": 4,
+        "draw": 3.75,
+        "jockey": 1.58,
+        "trainer": 2.5,
+        "weight": 4.2,
+        "headToHead": 0,
+        "recencyMargin": 7.02
+      },
+      "knownRuns": 3,
+      "career": {
+        "starts": 9,
+        "wins": 3,
+        "seconds": 2,
+        "thirds": 2
+      },
+      "h2h": {
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "meetings": 4,
+        "smallSample": true,
+        "beats": [
+          "STORMWATCH"
+        ],
+        "losesTo": [
+          "BABELICIOUS",
+          "STORMWATCH",
+          "STORMWATCH"
+        ]
+      },
+      "recentForm": [
+        "2nd of 10 last start.",
+        "Consistent — placed in 2 of last 3."
+      ],
+      "combo": null,
+      "jockeyRec": {
+        "starts": 6,
+        "wins": 1,
+        "places": 2,
+        "winPct": 17,
+        "placePct": 33,
+        "record": "1-6"
+      },
+      "trainerRec": null,
+      "partnership": {
+        "starts": 0,
+        "wins": 0,
+        "places": 0,
+        "newPartnership": true
+      },
+      "classMove": null,
+      "reasoning": [
+        "2nd of 10 last start.",
+        "Consistent — placed in 2 of last 3.",
+        "Why it can win: strong recent form; carries 54kg; hitting the line hard lately.",
+        "Against it: lower-rated (MR 58); beaten by BABELICIOUS, STORMWATCH before.",
+        "Has beaten STORMWATCH before (H2H 1-3 ⚠ small sample).",
+        "Model/market disagree: model rank 8 vs market rank 5 (12/1)."
+      ],
+      "_strengths": [
+        "form",
+        "weight",
+        "recencyMargin"
+      ],
+      "_concerns": [
+        "rating",
+        "headToHead"
+      ],
+      "_strReasons": [
+        "strong recent form",
+        "carries 54kg",
+        "hitting the line hard lately"
+      ],
+      "_conReasons": [
+        "lower-rated (MR 58)",
+        "beaten by BABELICIOUS, STORMWATCH before"
+      ],
+      "marketRank": 5,
+      "rank": 8,
+      "marketDisagree": true,
+      "pWin": 0.0369,
+      "pPlace": 0.1392,
+      "pMarket": 0.063,
+      "edge": -0.0521
+    }
+  ],
+  "comparison": [
+    {
+      "no": 6,
+      "name": "STORMWATCH",
+      "rank": 1,
+      "score": 60.2,
+      "rating": 60,
+      "draw": 6,
+      "weight": 58,
+      "odds": "4/1",
+      "marketRank": 2,
+      "marketDisagree": false,
+      "jockey": "G Lerena",
+      "trainer": "A E Sands",
+      "lastFive": "2114",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.882,
+        "rating": 0.04,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.688,
+        "jockey": 0.589,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 1,
+        "recencyMargin": 0.925
+      }
+    },
+    {
+      "no": 2,
+      "name": "BABELICIOUS",
+      "rank": 2,
+      "score": 56.8,
+      "rating": 106,
+      "draw": 2,
+      "weight": 57,
+      "odds": "33/1",
+      "marketRank": 7,
+      "marketDisagree": true,
+      "jockey": "S Veale",
+      "trainer": "C Bass",
+      "lastFive": "6",
+      "runsKnown": 1,
+      "factors": {
+        "form": 0.286,
+        "rating": 0.96,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.938,
+        "jockey": 0.479,
+        "trainer": 0.5,
+        "weight": 0.4,
+        "headToHead": 0.462,
+        "recencyMargin": 0.708
+      }
+    },
+    {
+      "no": 3,
+      "name": "FOG IN FINLAND",
+      "rank": 3,
+      "score": 51.7,
+      "rating": null,
+      "draw": 3,
+      "weight": 51,
+      "odds": "33/1",
+      "marketRank": 8,
+      "marketDisagree": true,
+      "jockey": null,
+      "trainer": null,
+      "lastFive": "13616",
+      "runsKnown": 4,
+      "factors": {
+        "form": 0.328,
+        "rating": 0.5,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.875,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 1,
+        "headToHead": 0.487,
+        "recencyMargin": 0.554
+      }
+    },
+    {
+      "no": 1,
+      "name": "BEWARE THE BOMB",
+      "rank": 4,
+      "score": 50.5,
+      "rating": 108,
+      "draw": 1,
+      "weight": 58,
+      "odds": "5/1",
+      "marketRank": 3,
+      "marketDisagree": false,
+      "jockey": "G van Niekerk",
+      "trainer": "J S Snaith",
+      "lastFive": "59",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.117,
+        "rating": 1,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 1,
+        "jockey": 0.5,
+        "trainer": 0.5,
+        "weight": 0.3,
+        "headToHead": 0.487,
+        "recencyMargin": 0.397
+      }
+    },
+    {
+      "no": 8,
+      "name": "KAMCHATKA",
+      "rank": 5,
+      "score": 47.4,
+      "rating": 93,
+      "draw": 8,
+      "weight": 54,
+      "odds": "25/1",
+      "marketRank": 6,
+      "marketDisagree": false,
+      "jockey": "M Yeni",
+      "trainer": "W A Nel",
+      "lastFive": "55",
+      "runsKnown": 2,
+      "factors": {
+        "form": 0.257,
+        "rating": 0.7,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.563,
+        "jockey": 0.418,
+        "trainer": 0.5,
+        "weight": 0.7,
+        "headToHead": 0.487,
+        "recencyMargin": 0.372
+      }
+    },
+    {
+      "no": 5,
+      "name": "DOUBLE GRAND SLAM",
+      "rank": 6,
+      "score": 45.2,
+      "rating": 66,
+      "draw": 5,
+      "weight": 61,
+      "odds": "8/10",
+      "marketRank": 1,
+      "marketDisagree": true,
+      "jockey": "K de Melo",
+      "trainer": "J S Snaith",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.676,
+        "rating": 0.16,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.75,
+        "jockey": 0.682,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.487,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 4,
+      "name": "KEUKENHOF",
+      "rank": 7,
+      "score": 39.7,
+      "rating": 62,
+      "draw": 4,
+      "weight": 61,
+      "odds": "7/1",
+      "marketRank": 4,
+      "marketDisagree": true,
+      "jockey": "C Zackey",
+      "trainer": "D Kannemeyer",
+      "lastFive": "—",
+      "runsKnown": 0,
+      "factors": {
+        "form": 0.449,
+        "rating": 0.08,
+        "distance": 0.5,
+        "going": 0.5,
+        "draw": 0.813,
+        "jockey": 0.578,
+        "trainer": 0.5,
+        "weight": 0,
+        "headToHead": 0.487,
+        "recencyMargin": 0.4
+      }
+    },
+    {
+      "no": 7,
+      "name": "VIVA LA VIDA",
+      "rank": 8,
+      "score": 38,
+      "rating": 58,
+      "draw": 7,
+      "weight": 54,
+      "odds": "12/1",
+      "marketRank": 5,
+      "marketDisagree": true,
+      "jockey": "K Matsunyane",
+      "trainer": "V H Marshall",
+      "lastFive": "723",
+      "runsKnown": 3,
+      "factors": {
+        "form": 0.524,
+        "rating": 0,
+        "distance": 0.4,
+        "going": 0.5,
+        "draw": 0.625,
+        "jockey": 0.525,
+        "trainer": 0.5,
+        "weight": 0.7,
+        "headToHead": 0,
+        "recencyMargin": 0.585
+      }
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "STORMWATCH",
+      "key": "STORMWATCH",
+      "points": 2.418,
+      "wins": 3,
+      "losses": 1,
+      "meetings": 4,
+      "beats": [
+        "BABELICIOUS",
+        "VIVA LA VIDA",
+        "VIVA LA VIDA"
+      ],
+      "losesTo": [
+        "VIVA LA VIDA"
+      ],
+      "record": "3-1",
+      "smallSample": true
+    },
+    {
+      "name": "BEWARE THE BOMB",
+      "key": "BEWARE THE BOMB",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "FOG IN FINLAND",
+      "key": "FOG IN FINLAND",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KEUKENHOF",
+      "key": "KEUKENHOF",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "DOUBLE GRAND SLAM",
+      "key": "DOUBLE GRAND SLAM",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "KAMCHATKA",
+      "key": "KAMCHATKA",
+      "points": 0,
+      "wins": 0,
+      "losses": 0,
+      "meetings": 0,
+      "beats": [],
+      "losesTo": [],
+      "record": "0-0",
+      "smallSample": false
+    },
+    {
+      "name": "BABELICIOUS",
+      "key": "BABELICIOUS",
+      "points": -0.121,
+      "wins": 1,
+      "losses": 1,
+      "meetings": 2,
+      "beats": [
+        "VIVA LA VIDA"
+      ],
+      "losesTo": [
+        "STORMWATCH"
+      ],
+      "record": "1-1",
+      "smallSample": true
+    },
+    {
+      "name": "VIVA LA VIDA",
+      "key": "VIVA LA VIDA",
+      "points": -2.297,
+      "wins": 1,
+      "losses": 3,
+      "meetings": 4,
+      "beats": [
+        "STORMWATCH"
+      ],
+      "losesTo": [
+        "BABELICIOUS",
+        "STORMWATCH",
+        "STORMWATCH"
+      ],
+      "record": "1-3",
+      "smallSample": true
+    }
+  ],
+  "strongest": "STORMWATCH",
+  "places": 3
+}
